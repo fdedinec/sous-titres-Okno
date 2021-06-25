@@ -1,28 +1,22 @@
 # ACTE QUATRIÈME
 
-Intérieur du palais. Nuit obscure. On voit une dalle se soulever, et par cette ouverture entre Jennaro, tenant d'une main une lampe allumée, et de l'autre une épée nue.
-
-
 # SCENE PREMIÈRE
-# JENNARO.
 
-Les détours et les obstacles de ce souterrain oublié, ont bien pu ralentir mes pas, mais non les arrêter. La vie de mon frère, toujours bien-aimé, quoiqu'il me persécute, m'importait trop pour celà. Voici le seul passage par lequel le monstre puisse arriver jusqu'à la chambre nuptiale. Ici, je laisserai ma vie. Ma mort fera connaître mon innocence, puisque mes paroles ne le peuvent pas. (Éclairs.) Ces éclairs, ce feu, cette atmosphère épaisse qui pèse sur ma poitrine, annoncent sans doute l'approche de ce dragon infernal, dont le nécromant m'a menacé ! Oui, je le vois, il veut entrer dans ce palais. Oh! quel horrible aspect ! Juste ciel! protecteur des malheureux ! affermis mon bras, fortifie mon glaive et ce cœur soumis à tes volontés! — (Il dépose à terre sa lampe. Un dragon, couvert d'écailles, et vomissant des flammes, paraît dans l'obscurité, a fond du théâtre. Jennaro fond sur lui l'épée haute.) Monstre horrible ! c'est moi qui serai ta première victime! — Malheur! Ses écailles sont de porphyre et de diamant. (il redouble de coups.) Mon frère, mes forces sont impuissantes ! (Le monstre repousse Jennaro, et se dirige vers la porte.) Mon Dieu ! guide ce coup désespéré ! (il saisit son épée des deux mains et frappe. L'épée atteint la porte qui se brise. Le monstre disparait. Jennaro reste stupéfait. Le roi sort de son appartement, l'épée à la main, et recule en voyant Jennaro armé.)
-
+# JENNARO.Les détours et les obstacles de ce souterrain oublié, ont bien pu ralentir mes pas, mais non les arrêter. La vie de mon frère, toujours bien-aimé, quoiqu'il me persécute, m'importait trop pour celà. Voici le seul passage par lequel le monstre puisse arriver jusqu'à la chambre nuptiale. Ici, je laisserai ma vie. Ma mort fera connaître mon innocence, puisque mes paroles ne le peuvent pas. Ces éclairs, ce feu, cette atmosphère épaisse qui pèse sur ma poitrine, annoncent sans doute l'approche de ce dragon infernal! Oui, je le vois, il veut entrer dans ce palais. Oh! quel horrible aspect ! Juste ciel! protecteur des malheureux ! affermis mon bras, fortifie mon glaive et ce cœur soumis à tes volontés! Monstre horrible ! c'est moi qui serai ta première victime! — Malheur! Ses écailles sont de porphyre et de diamant. Mon frère, mes forces sont impuissantes ! Mon Dieu ! guide ce coup désespéré !
 
 # SCENE II
-# LE ROI,# JENNARO.
 
 # LE ROI. Ah! traître! toi, dans mon palais, la nuit, seul, l'épée à la main ? Tu brises ces portes pour ôter la vie à ton frère ?
 
-# JENNARO, attéré.
-Le monstre a disparu !
+# JENNARO
+Malheur, le monstre a disparu ! Je ne peux me justifier.
 
 # LE ROI.
-Voilà le sang, ingrat, que tu voulais verser ! Mais, ta mort peut-être.
+Voilà le sang, ingrat, que tu voulais verser !  Mais, ta mort peut-être.
 
 # JENNARO.
-Mon frère. apprends que je suis venu ici pour.
-(A part, avec désespoir.) Mais, je dois me taire. Destin cruel!
+Mon frère... Crois-moi... Je suis venu ici pour...
+Mais, je dois me taire. Destin cruel!
 
 # LE ROI.
 À moi, mes serviteurs ! à moi!
@@ -30,22 +24,22 @@ Mon frère. apprends que je suis venu ici pour.
 
 # SCENE III
 
-# LEANDRE,# TARTAGLIA, SOLDATS, LES MÊMES.
+
 
 # TARTAGLIA.
-Nous voilà, Majesté! (Apercevant Jennaro.) Oh diable! qu'est-ce que j'aperçois ?
+Nous voilà, Majesté! Oh diable! qu'est-ce que j'aperçois ?
 
 # LEANDRE.
-O ciel ! Le prince ?
+O ciel !
 
 # LE ROI.
 Est-ce ainsi que vous gardez la vie de votre roi? Désarmez ce scélérat qui voulait tuer son frère. C'est ainsi que vous laissez pénétrer des assassins jusqu'à moi?
 
 # TARTAGLIA.
-Nous ne comprenons pas.
+Je ne comprends pas, de quelle façon...
 
 # LEANDRE.
-Comment est-il entré ici ?
+Majesté, nous sommes confus, nous n'avons pas la moindre idée de la manière par laquelle il est entré...
 
 # JENNARO. Ils sont innocents. Je me suis introduit par un souterrain oublié, et excité par le péril et par mon amitié pour toi, frère, je suis venu... Oui, c'est mon amitié pour toi qui m'a mis les armes à la main, qui m'a fait briser cette porte...
 
@@ -56,28 +50,32 @@ Quelle excuse ! quel aveu de son indigne amour !
 Ne cherche pas davantage. Oui, ce fut l'amour qui me conduisit.
 
 # LE ROI.
-C'est le cri d'une conscience coupable, Désarmez-le, qu'on le mette en prison; que le conseil royal s'assemble et qu'il soit décidé de son sort !... (Le roi disparaît.)
+C'est le cri d'une conscience coupable, Désarmez-le, qu'on le mette en prison; que le conseil royal s'assemble et qu'il soit décidé de son sort !...
 
-# JENNARO, jetant son épée.
+# JENNARO.
 Ingrat ! voici mon épée, voici ma vie ! que la mort m'affranchisse de tant d'angoisses ! Un jour viendra, peut-être, où mon frère pleurera sur la pierre de mon sépulcre, sa voix appellera en vain l'innocent !
-(à part.) Sois content, cruel Norando ! que mon sang te suffise ! Que mon frère soit maintenant heureux avec Armilla !
+Sois content, cruel Norando ! que mon sang te suffise ! Que mon frère soit maintenant heureux avec Armilla !
 
-# LEANDRE, à Jennaro.
+# LEANDRE.
 Prince, comment avez-vous pu vous rendre coupable d'un tel crime ?
 
-# TARTAGLIA,
+# TARTAGLIA.
 Est-il possible, Jennaro ?
 
 # JENNARO.
-Taisez-vous. Je n'accepte pas vos reproches, Vous êtes mes juges. Vous prononcerez mon arrêt, (Il sort fièrement, suivi des gardes, Tartaglia le suit.)
+Taisez-vous. Je n'accepte pas vos reproches, Vous êtes ministres? Alors suivez les ordres du roi.
+# LEANDRE.
+Nous le ferons.
+# TARTAGLIA.
+Assurément.
 
-# ARMILLA et# SMERALDINE, entrant par deux portes opposées.
+#SCÈNE IV
 
 # SMERALDINE.
 Princesse, quel est ce tumulte ? Quel est ce bruit? Pourquoi ces flambeaux qui brillent au milieu de la nuit ? Pourquoi ces soldats et ces voix confuses ? Qu'est-il donc arrivé ?
 
 # ARMILLA.
-Oh ! laisse-moi respirer. Jennaro, caché dans ce palais, a voulu briser eette porte, tuer le roi, mon époux et son frère ! on l'a jeté en prison, Au lieu de fêtes et de joie, je n'attends plus que mort et carnage.
+Oh ! laisse-moi respirer. Jennaro, caché dans ce palais, a voulu briser cette porte, tuer le roi, mon époux! on l'a jeté en prison. Au lieu de fêtes et de joie, je n'attends plus que mort et carnage.
 
 # SMERALDINE.
 Que me dites-vous ? Où est le roi ?
@@ -97,84 +95,77 @@ Que m'as-tu caché ? parle !
 # ARMILLA.
 Moi, fuir ? Me séparer d'un époux que j'aime ? Je ne fuirai pas. Ma présence pourra peut-être réparer quelques-uns de ces maux. Je ne crains pas la mort; elle ne sera que la fin de mes tourments.
 
-Elle sort.
 
-# SMERALDINE, la suivant,
+# SMERALDINE
 Oh ! malheureuse enfant !
 
 
 
 SGÈNE V
-Le théâtre change et représente une prison.
-
-# JENNARO, enchaîné.
+# JENNARO.
 C'est seulement à vous, horribles murs, obscure prison, que l'infortuné Jennaro pourra dire qu'il meurt pour avoir voulu sauver les jours de son frère ? Quel plus misérable état que le mien! Je mourrai, mais toi, cruel Norando, qui sans doute es là près de moi, invisible et qui vois mon désespoir, dis-moi au moins si les malheurs de mon frère finiront avec ma vie!
 
 
 # SCENE VI
-Norando apparaissant à travers le mur.
-# NORANDO,# JENNARO.
-
 # NORANDO.
-Tu meurs, larron de femmes, tu meurs avec le renom d'un traître. Si tu le veux, publie ton innocence et tu deviendras statue.
+Meurs, larron de femmes, meurs avec le renom d'un traître! Si tu le veux, publie ton innocence et tu deviendras statue. Mais que tu meurs ou te transformes en marbre, tu ne sauras ce qui arrivera à ton frère et à Armille, ma fille... Ainsi veut le destin, ainsi je le veux.
 
 JENDARO.
-Ah ! cruel ! Écoute-moi !
+Ah ! cruel ! Écoute-moi...
 
 # NORANDO.
-Je ne t'écoute point. Apprends à enlever les femmes ! (Il disparaît. )
+Je ne t'écoute point. Ca t'aprendra à enlever les femmes !
 
-# JENNARO. Ciel qui m'entends, ciel juste, viens à mon secours! A toi seul je puis demander de la pitié!
+# JENNARO. 
+Ciel qui m'entends, ciel juste, viens à mon secours! A toi seul je puis demander de la pitié!
 
 
 
 # SCENE VII
-# PANTALON,# JENNARO.
 
 # PANTALON.
-Jennaro, fio mio, mes petites entrailles, je ne vous demande pas la cause de vos méfaits, je ne vous tourmente pas, je ne vous reproche rien; il n'y a pas de temps à perdre. Le conseil du roi est rassemblé ; on ne discute que sur le genre de mort qu'on vous destine. Oh Dio! cette parole de mort, quand il s'agit de vous, me fait mourir d'angoisse. Avec tout l'argent que j'avais dans ce monde, j'ai acheté les gardes; j'ai préparé une felouque à douze rames ; je remercie le ciel! Ne perdons pas de temps, décampons vite. Advienne ce que voudra la fortune. Si je sauve votre vie, je suis assez riche. Allons, fio mio, ne perdons pas de temps ; suivez-moi !
+
+
+Jennaro, je ne vous demande pas la cause de vos méfaits, je ne vous tourmente pas, je ne vous reproche rien; il n'y a pas de temps à perdre. Le conseil du roi est rassemblé ; on ne discute que sur le genre de mort qu'on vous destine. Oh Dio! cette parole de mort, quand il s'agit de vous, me fait mourir d'angoisse. Avec tout l'argent que j'avais dans ce monde, j'ai acheté les gardes; j'ai préparé une felouque à douze rames ; je remercie le ciel! Ne perdons pas de temps, décampons vite. Advienne ce que voudra la fortune. Si je sauve votre vie, je suis assez riche. Allons, fio mio, ne perdons pas de temps ; suivez-moi !
 
 # JENNARO.
 O le seul ami qui reste à ma misère, merci, je ne dois point partir, la fuite me rendrait coupable. Je suis innocent; je mourrai innocent !
 
 # PANTALON.
-Il n'est plus temps, chères entrailles, de parler d'innocence.. Vous avez commis une folie, ce que vous voulez enfin, mais...
+Une seconde, votre Altesse, nous avons peu de temps. Je ne vous dirais que quelques mots... On veut vous enterrer en pleine santé! Le Parlement a déjà prononcé votre peine de mort. Seulement, ils n'arivent pas à se décider, comment vous tuer une fois pour toutes. Donc là on mange, et se tire. J'ai déjà préparé une barque pleine de maqueraux, elle va nous amener à Venise. Il était un petit navire, il était un petit navire, qui n'avait ja, ja, jamais navigué... Je me suis arrangé avec les gardes. Comme on dit à Venise, si un problème demande de l'argent, ce n'est pas un problème, mais des dépenses. Masi bon, il faudrait d'abord reprendre des forces... Allez, une cuillère pour maman, une cuillère pour papa, une cuillère pour votre frangin Millon...   
 
 # JENNARO.
-Me croyez-vous coupable ?
+Fuir? Je vous suis profondément reconnaisant, mon seul ami dans ce malheur. Non, je n'ai pas le droit de fuir. Cette fuite servirait de preuve à ma cupabilité, alors que je suis innocent. Et je mourrais innocent.
 
 # PANTALON.
-Je vous crois innocent et tout ce qu'il vous plaira, mais qu'importe? Dans ce moment, il n'y a que la fuite pour donner du temps au temps, pour trainer l'affaire en longueur, pour vous justifier un jour et vous réconcilier avec votre frère. Une condamnation comme traître, comme meurtrier de son propre sang, comme rebelle, une mort certaine, anima mia, une mort ignominieuse, en pleine foule, sur un échafaud, par la main du bourreau, voilà ce qui vous fait coupable dans l'esprit des hommes, voilà ce qui n'admet pas de remède et ce qui laisse une tache sur votre mémoire, Ah! caro ben, donnez-moi la main et faites courage !
+Ah, ne me brosses pas les nerfs. Quoi, vous vous êtes disputés avec votre cervelle? Allons, ne vous déconcentrez pas, mangez. Une cuillère pour Armilla... 
 
 # JENNARO.
-Vous ne dites que trop vrai, mon vieil ami, la mort me fait coupable, mais aussi la fuite me déshonore. — Je ne dois ni mourir, ni fuir. — (Ni réfléchit.) Il reste un moyen !.…
+Alors, vous me pensez coupable?
 
 # PANTALON.
-Quel moyen autre que la fuite que je vous propose ?
+Ba, pensez ce que vous voulez! Vous êtes innocent, ma grand-mère est un éléphant, comme vous voulez. Et puis, quelle importance? Si vous ne vous barrez pas maintenant, on vous executera, et alors vous ne prouverez surement rien à personne. Vous resterez à jamais un hors-la-loi. Donc arrêtez vos idioties. Une cuillère pour maman, une cuillère pour papa, une cuillère pour Pantalon, qui actuellement est votre papa et maman... 
 
 # JENNARO.
-Oui, ami, il est un moyen pour ne pas fuir, pour ne pas mourir déshonoré, et qui doit faire éclater mon innocence; moyen, pour moi, pire que la mort, et dont la seule pensée me glace d'horreur.
+Oui, mon vieil ami, vous dites la vérite. La mort affirmera ma cupabilité, et ma mémoire sera déshonorée. Mais si je fuis, je resterais hors-la-loi. Je ne peux ni mourir, ni fuir. Il ne reste qu'un moyen...
 
-# PANTALON. Eh ! cher fils, ne vous perdez pas en rêves creux, ou si vous avez ce moyen que vous dites, employez-le vite, parce que la mort frappe à votre porte. Il me semble que j'entends.
+# PANTALON.
+Quel moyen? Sécher du pain? Comme on dit à Venise, c'est trop tard, tonton, de boire de la Badoit quand ton foie...
 
-# JENNARO, avec résolution.
-Allez vers le roi mon frère. Dites-lui qu'avant de mourir, je désire lui parler, que si dans ma
-conduite passée, quelque chose a pu lui laisser un bon souvenir, il ne me refuse pas la grâce de m'entendre. Alors, vous ne me conseillerez plus la fuite, et je ne mourrai pas infâme.
-Vous serez heureux en me voyant innocent.
+# JENNARO.
+Oui, mon cher ami, il reste un moyen. allez voir mon frère Millon et dites-lui que dans sa dernière heure Jennaro veut lui parler. Alors vous aussi ne m'insiterez pas à fuir. Alors je ne mourrais pas déshonoré, et vous pourrez vous réjouir de me voir innocenté. 
 
-# PANTALON, avec transport.
+# PANTALON.
 Dites-vous vrai, au moins?
 
-PENNARO.
+# JENNARO.
 Oui, allez vers mon frère. Qu'il vienne, il sera content.
 
 # PANTALON.
-Caro fio, vous me rendez le soufile, Que je vous embrasse! (il l'embrasse.) Et je cours vers votre frère. Je prierai, je pleurerai, je me jetterai à genoux. Oh! quelle joie je vais avoir! que je vous baise encore et je m'envole. (1 l'embrasse et sort en courant.)
-
+Compris! Je n'ai pas de questions! J'y cours! Tout de suite!
+ 
 # JENNARO.
 Pauvre vieux! que de pleurs tu verseras, et quelle douleur éprouvera mon frère, la cour, le royaume ! Pourtant personne ne sera plus malheureux que moi !
-
-
 
 
 # SCENE VIII
