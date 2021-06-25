@@ -16,11 +16,11 @@ Tanti auguri a te ! Tanti augure a te !
 # Tartaglia : (arrive en courant, l'interrompant et bégayant)
 Qu'est-ce vous faites ici ?
 #Brighella :
-Quoi, qu'est-ce qu'on fait ?
+ - Quoi, qu'est-ce qu'on fait ?
 # Truffaldino :
 Qu'est-ce que tu fais ?
 # Brighella:
-Je prépare le chant pour le trois centième anniversaire
+Nous préparons la célébration du trois centième anniversaire
  de notre cher ...
 # Truffaldino :
  de notre bien-aimé !
@@ -29,17 +29,17 @@ Carlo Gozzi !
 #Brighella :
  - qui nous a ramené à la vie, pour sûr !
 #Truffaldino :
- - Oui, genre, qui nous a enfin donné l'immortalité !
+ - Oui, qui nous a, genre, donné l'immortalité !
 #Tartaglia :
- Alors je suis avec vous !
+ - Alors je suis avec vous !
 #Brighella, Tartaglia, Truffaldino : (chant)
 Tanti auguri a te ! Tanti augure a te !
  Tanti auguuuuu...
 #Pantalone : (arrive en courant, l'interrompant)
 Qu'est-ce que vous faites ?
 # Brighella :
-Quoi, qu'est-ce qu'on fait ?
- Nous préparons la célébration de notre cher...
+ - Quoi, qu'est-ce qu'on fait ?
+Nous préparons la célébration de notre cher...
 #Truffaldino :
  - notre bien-aimé !
 # Tartaglia :
@@ -54,11 +54,11 @@ Et comment !
 #Truffaldino :
  - Evidemment  !
 #Tartaglia :
- - B...BB... bien sûr.
+ - B...bb... bien sûr.
 #Pantalone :
-Et c'est quoi, votre cadeau ?
+ - Et c'est quoi, votre cadeau ?
 #Truffaldino :
- Nous allons représenter, en quelque sorte en son honneur
+Nous allons représenter, en quelque sorte en son honneur
  son conte de fées comique "Le Corbeau" .
 # Brighella :
 Tragi-comique, en fait.
@@ -69,18 +69,19 @@ Excellent ! Voila une honorable assemblée !
 #Truffaldino :
 Je m'appelle Truffaldino.
 #Brighella :
-Et moi Brighella.
+ - Et moi Brighella.
 #Truffaldino :
 Tous les deux, genre, de Bergame.
 #Brighella :
-De Bergame, pour sûr.
-#Pantalone : ​​Et moi je suis Pantalone.
+ - De Bergame, pour sûr.
+#Pantalone : ​​
+Et moi je suis Pantalon.
  Venu à vous de l'héroïque ville de Venise.
 #Tartaglia :
 Moi je m'appelle Tartaglia.
  Je viens de N ... N ... N ...
 #Brighella :
- - De Nice ?
+De Nice ?
 #Truffaldino :
  - De Nairobi ?
 #Pantalone :
@@ -96,10 +97,10 @@ Le 300e anniversaire de Carlo Gozzi,
 Mais non, l'année dernière ne compte pas.
  N'avez-vous pas remarqué qu'il n'y a pas eu d'anniversaire
  l'année dernière ? Tous ont été reportés jusqu'à nouvel ordre.
-Il existe une excellente blague vénitienne à ce sujet:
- Mademoiselle, combien de printemps avez vous fêtés? 
+Il existe une excellente blague vénitienne à ce sujet :
+ Mademoiselle, combien de printemps avez vous fêtés ? 
   - Vingt cinq.
-	- Et c'était en quelle année ?
+ - Et c'était en quelle année ?
 Alors, très honorable assemblée !
 #Brighella:
  Pour sûr, à l'occasion du trois centième anniversaire
@@ -117,9 +118,10 @@ de l'inimitable Comte Carlo Gozzi !
 #Tartaglia : (avec angoisse)
  qui croyait en nous quand plus personne ne croyait en nous !
 #Pantalone :
-Nous allons maintenant vous présenter son conte comique Le Corbeau.
+Nous allons maintenant vous présenter son conte comique
+ Le Corbeau.
 #Brighella :
- Tragi-comique, en fait.
+ - Tragi-comique, en fait.
 #Truffaldino :
 Un conte de fées avec des transformations magiques,
  des morts terribles, des résurrections miraculeuses
@@ -133,7 +135,7 @@ Honorable public, ayez au moins une goutte de b... de bb...
 #Brighella :
  -  Borjomi ?
 #Tartaglia :
- bb... bienveillance !
+bb... bienveillance !
 #Pantalone :
 Oui, soyez bienveillants envers nos tout jeunes talents !
 #Truffaldino :
@@ -149,7 +151,7 @@ Alors, "Le Corbeau", un conte comique en cinq actes
 #Brighella :
  - Tragi-comique, en fait.
 #Ensemble :
-Que le spectacle commence 
+Que le spectacle commence !
 
 
 # ACTE PREMIER
@@ -168,7 +170,8 @@ Oui, Amiral !
 Et remerciez le ciel, canailles !
 # SCENE II
 # JENNARO.
-Pantalon, je me suis cru perdu dans cette horrible bourrasque.
+Pantalon, je me suis cru perdu
+ dans cette horrible tempête.
 # PANTALON.
 Comment ? Ne savez-vous pas de quel pays je suis ?
 # JENNARO.
@@ -217,7 +220,7 @@ Puis-je dire maintenant que vous êtes le frère d'un roi ?
 Oui, maintenant vous pouvez le dire.
 Mais voici la princesse que j'ai enlevée.
  Elle sort toute triste de la galère.
-Laissez-moi et faites dresser deux tentes sur cette plage,
+Laissez-moi, et faites dresser deux tentes sur cette plage,
  où l'on puisse prendre quelque repos
  et se refaire de la tempête passée.
 Expédiez bien vite un messager, par la terre,
@@ -244,12 +247,12 @@ Armilla, vous pleurez, et vos larmes sont pour moi
 # ARMILEA,
 Infâme pirate !
 # SMERALDINE.
-Méchant ! traître !
+ - Méchant ! Traître !
 # JENNARO.
 C'est vrai, je suis un infâme, un méchant, un traître.
  Mais, princesse, je vous dirai...
 # SMERALDINE.
- Que lui diras-tu, brigand ?
+ - Que lui diras-tu, brigand ?
 # JENNARO.
  - Je lui dirai... 
 # SMERALDINE.
@@ -265,8 +268,8 @@ Et tandis que l'innocente jeune fille hésitait
 diras-tu que tu osas lever l'ancre, déployer tes voiles,
  nous emmener en pleine mer, et arracher
  deux jeunes filles à leurs familles ?
-Voleur infâme ! Gibier de potence ! Digne de la corde,
- du gibet et de la hache !...
+Voleur infâme ! Gibier de potence !
+ Digne de la corde, du gibet, de la hache !...
 # JENNARO.
 Holà, esclaves,
  emmenez d'ici cette bavarde impertinente.
@@ -280,15 +283,15 @@ Non, illustre princesse, je ne souhaite que me justifier
  de paroles injurieuses.
 Je n'excuserai pas ma faute, mais je l'adoucirai
  et je parviendrai peut-être à calmer votre désespoir !
-Allez.
+ Allez.
 # SMERALDINE.
 Monstre! Scélérat ! Ô ciel, punis- le !
 Ce rapt inspire à mon coeur d'affreux pressentiments !
  Se vérifieront-ils ?
 # SCENE IV
 # ARMILLA.
-Barbare, que me diras-tu ?
- Tiens-toi loin de moi,  pirate,
+Barbare, qu'as tu à me dire ?
+ Tiens-toi loin de moi, sauvage,
  et même si tu ne crains rien au monde,
 respecte la fille de Norando, prince de Damas.
  Tremble en pensant à sa puissance,
@@ -303,7 +306,7 @@ Millon est roi de Frattombrose, et je suis son frère.
 # ARMILLA.
 Toi, frère de Millon ? Le frère d'un roi,
  sous l'habit d'un marchand, attirerait sur son navire
- d'innocentes princesses et les enlever ?
+ d'innocentes princesses pour les enlever ?
 # JENNARO.
 C'est pourtant vrai. L'affection que j'ai pour un frère,
  le cœur inflexible de votre père, une destinée adverse,
@@ -311,32 +314,33 @@ C'est pourtant vrai. L'affection que j'ai pour un frère,
 # ARMILLA.
 Et quelle est cette circonstance inouïe
  qui pousse le frère d'un roi
- à se souiller d'une actio si indigne ?
+ à se souiller d'une action si indigne ?
 # JENNARO.
 Soyez juge, Armilla.
-Le roi Millon, mon frère aîné, que j'adore,
+ Le roi Millon, mon frère aîné, que j'adore,
  s'est toujours passionné pour la chasse.
 Rien ne l'intéresse tant que les chevaux, les faucons,
  les arcs, enfin la chasse à courre.
 Il y a trois ans, un jour de malheur,
  il poursuivait dans un sombre sous-bois
  des cailles et des lièvres.
-Tout à coup, il aperçoit un chêne,
+Tout à coup, il aperçut un chêne,
  et sur ce chêne un noir corbeau.
-Il tend son arc, ajuste l'oiseau et le perce d'une flèche.
+Il tendit son arc, ajusta l'oiseau,
+ et le perça d'une flèche.
 Or, sous les rameaux de ce chêne s'élevait
  un  tombeau somptueux
  construit en un marbre d'un blanc merveilleux.
-C'est sur cette pierre immaculée que s'abattit le corbeau,
-  là qu'il mourut, teignant le marbre de son sang.
+Le corbeau s'abattit sur cette pierre immaculée,
+  et mourut là, teignant le marbre de son sang.
 Et alors, soudainement, d'une grotte voisine,
  nous vîmes surgir un Ogre...
 #L'OGRE
 Millon, Millon, je te maudis !
-Si tu ne trouves une femme
+Si tu ne te trouves une femme
  Aussi blanche que ce tombeau,
- Aussi rouge, monarque infâme,
- Que le sang pur de mon corbeau,
+ Aux lèvres rouges, monarque infâme,
+ Comme le sang de mon corbeau,
 A la chevelure aussi noire
  Que ses plumes, en sa mémoire
  Par Pluton j'en fais serment :
@@ -381,8 +385,8 @@ Relevez-vous, Jennaro.
  Si vous voulez faire de moi une reine,
  je peux  vous l'avouer,
 il m'était pénible, le cruel esclavage
- dans lequel me tenait mon terrible père
-Je vous pardonne vos torts et je vous félicite même
+ dans lequel me tenait mon terrible père...
+Je vous pardonne vos torts, je vous félicite même
  de l'exemple d'amour fraternel que vous donnez.
  C'est si rare de nos jours, Jennaro.
 # JENNARO, se relevant.
@@ -411,11 +415,12 @@ Que la volonté du ciel s'accomplisse !
  Pour l'heure je suis si heureux
  que je ne puis concevoir aucune idée triste.
 Armilla, reposez vous de la tempête sous cette tente.
-Dans quelques heures le temps sera calmé.
+ Dans quelques heures le temps sera calmé.
  Un court voyage nous conduira chez mon frère.
 # ARMILLA.
 Je me retire, non pour me reposer,
  mais pour pleurer.
+
 # SCENE V
 # PANTALON.
 Hourra !
@@ -427,7 +432,7 @@ Qu'y a-t-il, mon cher Pantalon ?
 Il y a que, pendant que vous causiez avec la princesse,
  je me suis retiré comme cela se fait à Venise,
  et je suis parti me promener.
-Soudain, arrive chasseur monté sur un cheval.
+Soudain, arrive un chasseur monté sur un cheval.
  Oh ! quel cheval!
 Je suis natif de Venises, certes,
  et je m'entends mieux en bateaux...
@@ -441,7 +446,7 @@ Petite tête, grands yeux, une petite oreille comme cela,
 # JENNARO.
 Oui ?
 # PANTALON.
-... si lui avait été une jument...
+... que si lui avait été une jument...
  j'aurais dit que c'est la meilleure ballerine de notre siècle.
 # JENNARO.
 C'est une rareté, il faut l'acheter pour mon frère.
@@ -464,7 +469,7 @@ avec sa queue, il attrape un francolin.
 Est-ce l'usage à Venise, Pantalon,
  de débiter de pareilles âneries ?
 # PANTALON.
-Que je sois foudroyé si je vous conte des bourdes!
+Que je sois foudroyé si j'exagère !
  Avec une perdrix à une patte, une caille dans l'autre,
  une poule d'eau dans le bec, ce diable d'oiseau saisit encore
  un francolin avec sa queue !
@@ -475,9 +480,9 @@ Mais il faut acheter ce cheval et ce faucon.
 # PANTALON.
 Inutile de vous déranger, ils sont déjà à moi.
 # JENNARO.
-Combien vous ont-ils coûté ?
+- Combien vous ont-ils coûté ?
 # PANTALON.
-Ce qu'il fallait. Une misère, trois clopinettes:
+Ce qu'il fallait. Une misère, trois clopinettes :
  six millions de sequins.
  À ce sujet il me revient une petite blague vénitienne.
 C'est un doge qui demande à un autre doge:
@@ -509,21 +514,21 @@ Ce faucon, à peine l'aura-t-il donné à son frère
 S'il ne le lui donne pas, s'il lui cache le fait,
  ou s'il le révèle à qui que ce soit
  par une parole ou par un geste,
-alors s'accomplira le décret inexorable:
+alors s'accomplira le décret inexorable :
  Jennaro sera changé en statue de marbre.
 # JENNARO, à lui-même avec effroi.
 Cruelle sentence ! Est-ce possible ?
 # PREMIÈRE COLOMBE.
 Infortuné Jennaro, perdu à jamais !
 # DEUXIÈME COLOMBE.
-Est-il possible que le menace un malheur encore pire ?
+Quoi, un autre malheur le menace ?
 # PREMIÈRE COLOMBE.
 Ce cheval, dès qu'il l'aura donné à son frère,
  A peine le montera-t-il que le cheval le tuera.
 S'il ne le lui donne pas ou s'il lui cache le fait,
  ou s'il le révèle à qui que ce soit
  par une parole ou par un geste
-alors s'accomplira le décret inexorable:
+alors s'accomplira le décret inexorable :
  Jennaro sera changé en statue de marbre.
 # JENNARO, à lui-même.
 Est-ce un rêve ?
@@ -539,7 +544,7 @@ Dès qu'il aura donné Armilla comme épouse au roi,
 Si Jennaro ne lui donne pas Armilla ou s'il lui cache le fait,
  ou s'il le révèle à qui que ce soit
  par une parole ou par un geste,
-alors s'accomplira le décret inexorable:
+alors s'accomplira le décret inexorable :
  Jennaro sera changé en statue de marbre.
 # JENNARO.
 Après les corbeaux, voilà que les colombes me menacent !
@@ -570,7 +575,7 @@ Non, je ne t'écoute plus.
   t'enlever Armilla par la force ?
 Mais je ne cherche que la vengeance, la destruction,
  la ruine pour ta famille, et pour Armilla qui m'a désobéi.
-Norando offensé sera vengé.
+ Norando offensé sera vengé.
 Emmène Armilla, ce cheval et ce faucon ;
  livre-les à ton frère ou tu seras changé en marbre.
 Je te laisse, misérable, dans l'abime de tes terreurs
@@ -584,9 +589,10 @@ Malheur ! Que faire ?
 Mais si j'obéis, le faucon arrachera les yeux de mon frère,
  ou le cheval le tuera, ou ce sera un monstre
  qui lui donnera la mort le soir de ses noces avec Armilla!
-Un cheval, un faucon, Armilla - trois présents épouvantables !
+Un cheval, un faucon, Armilla:
+ trois présents épouvantables !
 Ô frère bien aimé !
-Est-ce donc là le bonheur que je t'apporte
+ Est-ce donc là le bonheur que je t'apporte
  après tant souffrances, tant de fatigues et tant de pleurs !
 
 # SCENE VIII
@@ -628,10 +634,11 @@ C'est un doge qui demande à un autre doge :
 C'est quand vous voyez couler votre gondole préférée
  avec à son bord votre belle-mère préférée.
 La princesse va venir,
- et moi je vais tout préparer pour ce reste de voyage.
+ et moi je vais tout préparer pour la fin du voyage.
 Allons! Doucement, toi, avec ce cheval,
  qu'il n'aille pas se blesser.
-Eh! Bande de brutes, tas de gueux, préparez à lever l'ancre !
+Eh! Bande de brutes, tas de gueux,
+ préparez-vous à lever l'ancre !
  Hissez les voiles ! Aux rames !
 # JENNARO, A part.
 Malheureux que je suis ! Que faire ?
