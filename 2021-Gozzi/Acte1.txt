@@ -1,73 +1,155 @@
-Приветствие масок
-
-
-Бригелла: (выходит на сцену и поёт) Tanti auguri a te! Tanti auguri a te! Tanti auguuuuu…
-
-Труффальдино: (вбегает, перебивая) Что это ты тут делаешь?
-Бригелла: Как что? Готовлю поздравление к трёхстолетию нашего дорогого Карло Гоцци, который вернул нас к жизни! Чисто конкретно.
-Труффальдино: Опа! А давай вместе!
-Бригелла, Труффальдино: (поют) Tanti auguri a te! Tanti auguri a te! Tanti auguuuuu…
-Тарталья: (вбегает, перебивая и заикаясь) Что это вы тут делаете?
-Бригелла: Как что?
-Труффальдино: Ты чё в натуре?
-Бригелла: Готовлю поздравление к трёхсотлетию нашего дорогого…
-Труффальдино: Любимого!
-Бригелла, Труффальдино: Карло Гоцци!
-Бригелла: Который чисто конкретно вернул нас к жизни!
-Труффальдино: Да, типа, ваще подарил нам бессмертие!
-Тарталья: Т-т-тогда я с в-в-вами!
-Бригелла, Тарталья, Труффальдино: (поют) Tanti auguri a te! Tanti auguri a te! Tanti auguuuuu…
-Панталоне: (вбегает, перебивая) Шо это вы тут делаете?
-Бригелла: Как что? Готовим поздравление для нашего дорогого…
-Труффальдино: Любимого!
-Тарталья: Н-н-незабвенного!
-Бригелла, Тарталья, Труффальдино: Карло Гоцци!
-Панталоне: Поздравление они готовят... Ну а подарок-то у вас есть?
-Бригелла: Дык. А то!
-Труффальдино: Не вопрос!
-Тарталья: Р-р-разумеется.
-Панталоне: Ну и какой же у вас подарок?
-Труффальдино: Мы типа собираемся представить в его честь его комическую сказку «Ворон».
-Бригелла: Вообще-то трагикомическую.
-Панталоне: Всё с вами ясно… Почтеннейшая публика!
-Все вместе: Мы — старинные маски!
-Труффальдино: Меня зовут Труффальдино.
-Бригелла: А меня Бригелла.
-Труффальдино: Мы оба, типа, это, родом из Бергамо.
-Бригелла: Чисто конкретно из Бергамо.
-Панталоне: А я Панталоне. Прибыл к вам из города-героя Венеции.
-Тарталья: А меня зовут Тарталья. Я из Н… Н… Н…
-Бригелла: Из Ниццы?
-Труффальдино: Из Найроби?
-Панталоне: Из Нижнего Тагила?
-Тарталья: Из Н-н-неаполя! (рыдает)
-Панталоне: А чего ты расхныкался?
-Тарталья: Так ведь трёхсотлетие Карло Гоцци было в прошлом году! Мы его прозевали!
-Панталоне: (строго) Не прозевали, а прочихали! И вообще, ты разве не знаешь, что в прошлом году никаких дней рожденья не было? Все они были перенесены на неопределённый срок, до следующего указа. На эту тему есть отличный венецианский анекдот. «Девушка, вам сколько лет исполнилось? Двадцать пять? А в каком году?»… Итак, почтеннейшая публика!
-Бригелла: Чисто конкретно по случаю прошедшего трёхсотлетия нашего дорогого…
-Труффальдино: Любимого!
-Тарталья: Н-н-незабвенного!
-Панталоне: Неподражаемого графа Карло Гоцмана!
-Бригелла: Который вернул нас к жизни!
-Труффальдино: Который подарил нам бессмертие!
-Тарталья: (с надрывом) Который верил в нас тогда, когда в нас уже никто не верил!
-Панталоне: Мы сейчас представим вам его комическую сказку «Ворон».
-Бригелла: Вообще-то трагикомическую.
-Труффальдино: Сказку с волшебными превращениями, страшными смертями, чудесными воскрешениями и с неожиданной, ошеломляющей развязкой!
-Тарталья: Почтеннейшая публика, имейте хоть каплю с… с… с…
-Панталоне: Сиропа?
-Труффальдино: Спирта?
-Бригелла: Скипидара?
-Тарталья: Снисхождения!
-Панталоне: Да, будьте снисходительны к нашим совсем ещё юным дарованиям!
-Труффальдино: Встретьте благосклонно нашу скромную работу!
-Бригелла: Ведь ваши аплодисменты дадут нам вдохновение!
-Тарталья: Чтобы достойно отметить триста лет со д-д-дня рожденья…
-Вместе: Карло Гоцци.
-Панталоне: Итак, «Ворон», комическая сказка в пяти действиях…
-Бригелла: Вообще-то трагикомическая.
-Вместе: Представление начинается!
-
+# Приветствие масок
+# Brighella :
+Tanti auguri a te ! Tanti augure a te !
+ Tanti auguuuuu...
+#Truffaldino :
+Qu'est-ce que tu fais ici ?
+#Brighella :
+Eh quoi ?
+ Je prépare le chant pour les 300 ans
+ de notre cher Carlo Gozzi, qui nous a fait revivre, pour sûr !
+# Truffaldino :
+Allez ! Je te rejoins !
+#Brighella, Truffaldino : (chantant)
+Tanti auguri a te ! Tanti augure a te !
+ Tanti auguuuuu...
+# Tartaglia : (arrive en courant, l'interrompant et bégayant)
+Qu'est-ce vous faites ici ?
+#Brighella :
+Quoi, qu'est-ce qu'on fait ?
+# Truffaldino :
+Qu'est-ce que tu fais ?
+# Brighella:
+Je prépare le chant pour le trois centième anniversaire
+ de notre cher ...
+# Truffaldino :
+ de notre bien-aimé !
+# Brighella, Truffaldino :
+Carlo Gozzi !
+#Brighella :
+ - qui nous a ramené à la vie, pour sûr !
+#Truffaldino :
+ - Oui, genre, qui nous a enfin donné l'immortalité !
+#Tartaglia :
+ Alors je suis avec vous !
+#Brighella, Tartaglia, Truffaldino : (chant)
+Tanti auguri a te ! Tanti augure a te !
+ Tanti auguuuuu...
+#Pantalone : (arrive en courant, l'interrompant)
+Qu'est-ce que vous faites ?
+# Brighella :
+Quoi, qu'est-ce qu'on fait ?
+ Nous préparons la célébration de notre cher...
+#Truffaldino :
+ - notre bien-aimé !
+# Tartaglia :
+ - notre inoubliable !
+# Brighella, Tartaglia, Truffaldino :
+ - Carlo Gozzi !
+#Pantalone :
+Ils préparent une félicitation...
+ Et vous avez un cadeau ?
+# Brighella :
+Et comment !
+#Truffaldino :
+ - Evidemment  !
+#Tartaglia :
+ - B...BB... bien sûr.
+#Pantalone :
+Et c'est quoi, votre cadeau ?
+#Truffaldino :
+ Nous allons représenter, en quelque sorte en son honneur
+ son conte de fées comique "Le Corbeau" .
+# Brighella :
+Tragi-comique, en fait.
+#Pantalone :
+Excellent ! Voila une honorable assemblée !
+#Tous ensemble :
+- Nous sommes tous d'anciens masques !
+#Truffaldino :
+Je m'appelle Truffaldino.
+#Brighella :
+Et moi Brighella.
+#Truffaldino :
+Tous les deux, genre, de Bergame.
+#Brighella :
+De Bergame, pour sûr.
+#Pantalone : ​​Et moi je suis Pantalone.
+ Venu à vous de l'héroïque ville de Venise.
+#Tartaglia :
+Moi je m'appelle Tartaglia.
+ Je viens de N ... N ... N ...
+#Brighella :
+ - De Nice ?
+#Truffaldino :
+ - De Nairobi ?
+#Pantalone :
+ - De Nijni Novgorod ?
+#Tartaglia :
+De NN-Naples ! 
+#Pantalone :
+Pourquoi pleurniches-tu ?
+#Tartaglia :
+Le 300e anniversaire de Carlo Gozzi,
+ c'était l'année dernière ! Nous l'avons raté !
+#Pantalone : ​​(sévèrement)
+Mais non, l'année dernière ne compte pas.
+ N'avez-vous pas remarqué qu'il n'y a pas eu d'anniversaire
+ l'année dernière ? Tous ont été reportés jusqu'à nouvel ordre.
+Il existe une excellente blague vénitienne à ce sujet:
+ Mademoiselle, combien de printemps avez vous fêtés? 
+  - Vingt cinq.
+	- Et c'était en quelle année ?
+Alors, très honorable assemblée !
+#Brighella:
+ Pour sûr, à l'occasion du trois centième anniversaire
+  de notre cher ...
+#Truffaldino :
+ - de notre bien-aimé !
+#Tartaglia :
+ - de notre inoubliable !
+#Pantalone :
+de l'inimitable Comte Carlo Gozzi !
+#Brighella :
+ qui nous a ramenés à la vie !
+#Truffaldino :
+ qui nous a donné l'immortalité !
+#Tartaglia : (avec angoisse)
+ qui croyait en nous quand plus personne ne croyait en nous !
+#Pantalone :
+Nous allons maintenant vous présenter son conte comique Le Corbeau.
+#Brighella :
+ Tragi-comique, en fait.
+#Truffaldino :
+Un conte de fées avec des transformations magiques,
+ des morts terribles, des résurrections miraculeuses
+ et un dénouement inattendu et renversant !
+#Tartaglia:
+Honorable public, ayez au moins une goutte de b... de bb...
+#Pantalone :
+- bière ?
+#Truffaldino :
+ - Bourgogne ?
+#Brighella :
+ -  Borjomi ?
+#Tartaglia :
+ bb... bienveillance !
+#Pantalone :
+Oui, soyez bienveillants envers nos tout jeunes talents !
+#Truffaldino :
+ - Accueillez gracieusement notre humble travail !
+#Brighella :
+ - Vos applaudissements vont nous inspirer !
+#Tartaglia :
+ - Pour fêter dignement les t... t.... trois cents ans de
+#Ensemble :
+Carlo Gozzi.
+#Pantalone :
+Alors, "Le Corbeau", un conte comique en cinq actes
+#Brighella :
+ - Tragi-comique, en fait.
+#Ensemble :
+Que le spectacle commence 
 
 
 # ACTE PREMIER
