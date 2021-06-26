@@ -15,10 +15,10 @@ Non, je déconne. Cela, il semble que je l'ai rêvé.
 Bref, cela nous l'a rendu tout maigre, tout sec.
  Mais le pire c'est qu'il est devenu mauvais
  comme une teigne...
-Je vais vous dire quoi : déjà on dirait une  bête,
- mais s'il se met soudain à courir après les courants d'air,
- mieux vaut lui arracher les griffes, tout de suite !
- Me comprenez-vous?
+Je vais vous dire : déjà on dirait une  bête,
+ mais s'il se met soudain à courir après des courants d'air,
+ il vaudrait mieux vaut lui arracher les griffes, tout de suite !
+ Vous pigez ?
 Je ne suis pas le plus futé,
  je n'ai jamais été fichu d'apprendre des poésies,
  - j'ai été mordu par un livre enragé dans mon enfance -
@@ -44,7 +44,7 @@ C'est quelle heure, là ? Hé ho, quelqu'un a l'heure ?
 
 Oh, pile poil ! L'horloge sonne !
  Comptons. Alors... Un... Deux... Trois... Quatre... Cinq... Six...
- Oups ! Eh ben j'ai déconné ! Seulement six heures...
+ Oula ! J'ai failli déconner ! Seulement six heures...
  Du coup j'y vais.
 
 # SCENE II
@@ -63,7 +63,7 @@ Alors primo c'est à moi q'il a ordonné de le réveiller,
  et secundo, là tout de suite, il est six heures...
 #БРИГЕЛЛА. Мне как первому королевскому ловчему лучше знать, когда будить короля.
 Je suis premier chasseur du Roi,
- je sais mieux à quelle heure le réveiller.
+ je sais mieux que toi à quelle heure le réveiller.
 #ТРУФФАЛЬДИНО. (свирепея) Ты чё-о-о?! Я, я, я первый королевский ловчий. А ты второй. И ваще — сейчас шесть часов. Иди проспись, детка.
 De quoi ? C'est moi, moi, moi le premier chasseur royal.
  Tu es le numéro 2.
@@ -102,7 +102,7 @@ Dieu sait ce qu'il est devenu.
 
 # SCENE III
 # TARTAGLIA.
-O Majesté ! Majesté! une grande nouvelle!
+O Majesté ! Majesté! Une grande nouvelle!
 # LE ROI.
 Quelle nouvelle ? Un nouveau malheur !
  Parle, mon Ministre.
@@ -110,15 +110,15 @@ Quelle nouvelle ? Un nouveau malheur !
 Attendez ! attendez !
  la nouvelle est si grosse qu'elle va m'étouffer.
  Un messager vient de m'annoncer que votre frère...
- # LE ROI.
-Vous pleurez! Mon frère est mort ? hélas!
+# LE ROI.
+Vous pleurez! Mon frère est mort ? Hélas !
 # TARTAGLIA.
 Non, non, je pleure de joie.
  Il arrive avec la galère.
  Dans peu il sera ici.
 Il amène une prisonnière enlevée à  Norando,
  prince de Damas.
- Elle a les cheveux noirs, les joues vermeilles,
+ Elle a les cheveux noirs, les lèvres vermeilles,
  la peau blanche,
 comme les ailes maudites,
  comme le sang maudit,
@@ -127,80 +127,113 @@ comme les ailes maudites,
 Cher Tartaglia, cela est-il possible ?
 # TARTAGLIA.
  - La nouvelle est sûre.
-
+ Un messager l'a portée par la terre.
+Il dit que le prince est avec la galère au port de Sportella,
+ où il a pu s'abriter de l'épouvantable tempête
+ grâce au courage de l'amiral Pantalon,
+et informe Votre Majesté que, dès le temps dégagé,
+ le Roi naviguera vers Frattombrose. Il fait déjà beau.
+ Ils doivent être en vue de la ville. 
 # LE ROI.
-O ciel! ô fortune ! ô cher frère! quelles obligations je t'aurai! Tartaglia, que ma cour s'apprête à m'accompagner. Que l'on coure au port pour voir si les vigies signalent le navire. Nous irons tous le recevoir.
-
+Ô Ciel ! Ô bonheur ! Ô mon cher frère!
+ Quelle dette j'ai à présent envers toi !
+Tartaglia, que ma cour m'accompagne à l'instant.
+ Que l'on coure au port
+ s'enquérir si les vigies signalent le navire.
+ Allons tous fêter leur arrivée.
 # TARTAGLIA.
-Allons contempler cette rare beauté, ce soleil qui a tenu toute une ville en émoi pendant trois ans, et pourquoi ? parce qu'elle ressemble à un corbeau ! (Ils sortent.)
-
-
+Hé, quelle énergie !
+ Allons contempler ce soleil, cette rare beauté
+ qui a tenu toute une ville en émoi pendant trois ans,
+ et pourquoi ? Parce qu'elle ressemble à un corbeau !
 
 # SCENE IV
-Vue du port de la ville avec une tour garnie dé canons.
-# TRUFFALDIN, BRIGHELLA, et une SENTINELLE sur la tour.
-Ils sont venus sur le port par ordre de la cour pour voir si
-une galère arrive. 
+C'est une foulque.
+ - C'est une galère.
+ - C'est une oie.
+ - C'est une galère.
 
-# TRUFFALDIN aura une longue-vue avec laquelle, au lieu de regarder la mer, il regardera la salle. Il fera des lazzi sur ce qu'on voit ordinairement dans les salles de spectacle, mais avec tact et modération, et il conclura en disant qu'il n'aperçoit pas de galère. BRIGHELLA le reprendra de son erreur, il se saisira de la longue-vue, regardera du côté de la mer et annoncera qu'il voit un bâtiment au lointain.# TRUFFALDIN lui arrachera la longue-vue et dira que c'est une felouque.
-BRIGHELLA soutiendra que c'est une galère.# TRUFFALDIX dira que ce quil aperçoit est un âne, puis un éléphant, etc,, à mesure que le navire s'approchera. La sentinelle sonnera sur la tour et criera : « Une galère. »# TRUFFALDIN, après une scène bouffonne, courra au palais avec Brighella pour annoncer que la galère entre au port. (La galère saluera la forteresse par un coup de canon. La tour lui répondra. On entendra la voix de Pantalon criant à ses matelots : Eh ! de la galère ! ramez, ramez plus fort! (La galère aborde au son des trompettes et des tambours. Jennaro débarque avec Armilla et Sméraldine.) |
-
-  
+(Improvisation)
 
 # SCENE V
-# JENNARO,# ARMILLA,# SMERALDINE.
-
 # JENNARO.
-Belle Armilla, nous voici arrivés à Frattombrose, la capitale du royaume dont vous serez bientôt reine.
-
+Belle Armilla, voici Frattombrose,
+ voici la capitale du royaume dont vous serez bientôt reine.
 # SMERALDINE.
 C'est une belle et joyeuse ville.
-
 # ARMILLA.
-Sans doute; cette mer placide, ces collines verdoyantes qui l'entourent, cet air léger qu'on y respire promettent un séjour plein de charmes; mais cette sombre préoccupation que le prince Jennaro cherche à nous cacher, m'attriste le cœur et me fait songer à tout autre chose qu'à des noces royales et à une vie de bonheur.
+Sans doute; cette mer bleue,
+ les collines verdoyantes qui l'entourent,
+ cet air léger qu'on y respire
+ promettent un séjour plein de charmes.
+Je vois tout ce que m'a promis Jennaro,
+ noble prince au grand cœur. 
+Mais la sombre préoccupation qu'il cherche à nous cacher
+ bien qu'elle transparaisse dans ses mouvements,
+ et ses soupirs involontaires,
+voila qui transperce mon âme
+ et me présage bien autre chose
+ qu'un hâvre joyeux, un trône, un mariage,
+ et une vie sans nuages.
 
 # JENNARO, sortant de sa rêverie.
-Peut-être au fond de votre âme ne m'avez-vous pas pardonné ! En vous voyant loin du toit paternel, au milieu d'un peuple inconnu, malgré vous peut-être vous me maudissez ! (A part.) Oh ! cruelle sentence qui me ferme la bouche! — Mais, princesse, j'aperçois le roi mon frère qui s'avance. Remettez-vous. Que le chagrin fuie pour toujours de cette âme qui a tant souffert. (Courant vers le roi.) Mon frère, que je vous embrasse !
+Peut-être au fond de votre âme
+ ne m'avez-vous pas pardonné votre rapt, 
+ et vous voyant loin du foyer paternel,
+ au milieu d'un peuple inconnu,
+vous méfiez-vous de tout
+ ce que vous voyez et entendez...
+Oh ! cruelle sentence qui me ferme la bouche !
+Mais, Armilla, j'aperçois le roi, mon frère,
+ votre fiancé, qui s'avance.
+Je vous en prie, regardez-le,
+ et que le chagrin fuie pour toujours
+  son âme qui a tant souffert.
+Mon frère, que je vous embrasse !
 
-
-
-
-# SCENE YI
-LES MÈMES,# LE ROI,# LEANDRE,# TARTAGLIA, GARDES.
-
+# SCENE VI
 # LE ROI.
-Cher et bien-aimé Jennaro (Ils tombent dans les bras l'un de l'autre.)
-
+Mon cher frère, bien-aimé Jennaro,
+ enfin dans mes bras !
 # LEANDRE, à Tartaglia.
 Bel exemple de deux frères qui s'aiment !
-
+# Tartaglia
+Oh, mon frère Pancrazio, où es-tu, ingrat
+ qui as dévalisé ma maison et son jardin,
+ au point que pour payer le procès
+ j'ai du vendre mon dernier pantalon ! 
 # LE ROI, après avoir regardé Armilla.
-Voici la princesse ?
-
+C'est elle ?
 # JENNARO.
-Oui, la princesse de Damas. Je la remets entre vos mains.
-
+C'est elle !  Armilla, princesse de Damas.
+ Je la remets entre vos mains.
 # LE ROI.
-Quelle beauté merveilleuse ! (A part.) C'est bien son teint, ce sont bien ses cheveux. La joie rentre dans mon cœur.
-(A Jennaro.) Mon frère, embrassons-nous encore.
+Quelle beauté merveilleuse !
+C'est bien le teint, ce sont bien les cheveux
+ après lesquels j'aspirais d'une passion brûlante.
+J'ai jeté un regard sur eux,
+ et plus jamais je ne voudrai m'en séparer.
+Je sens ma poitrine s'emplir de bonheur,
+ et la douleur féroce s'apaiser dans mon cœur.
+Mon frère, embrassons-nous encore.
 
 # SMERALDINE, bas à Armilla.
 Le roi vous plaît-il ?
-
 # ARMILLA, de même.
-Il ne me déplaît pas!
-
+Il ne me déplaît pas !
 # LE ROI.
-Vous, Tartaglia, courez vite au palais pour les apprêts de la fête, et vous, Léandre, allez au temple : que les prêtres préparent l'autel pour notre mariage.
-
+Toi, Tartaglia, cours vite au palais pour préparer la fête,
+ et toi, Léandre, va au temple :
+ que les prêtres préparent l'autel pour notre mariage.
 # TARTAGLIA, à part en, se frottant les mains.
-Oh ! quel empressement. Il est guéri ! il est guéri! (Haut,) Je vais exécuter les ordres de Votre Majesté.
-
+Oh ! quel empressement.
+ Il est guéri ! il est guéri!
+Je vais exécuter les ordres de Votre Majesté.
 # LEANDRE.
 Je cours au temple.
-
 # JENNARO, agité.
-Non, arrêtez, Léandre, (Au roi.) A peine arrivée ?.. Si tôt, mon frère...
+Non, arrêtez, Léandre,
+ Pourquoi si vite ? La princesse est à peine descendue du bateau..
 
 # LE ROI.
 Qui pourrait s'opposer à mon bonheur ?
@@ -337,7 +370,8 @@ Jennaro est mon frère, mais l'amour ignore
 
 # JENNARO.
 Millon ! Mon frère ! Il part en me méprisant !
- Et je ne puis lui dire : Frère, en tranchant la tête de ce faucon
+ Et je ne puis lui dire :
+ Frère, en tranchant la tête de ce faucon
  et les jarrets de ce cheval, je t'ai sauvé la vie!
 Et si je t'avais révélé le secret fatal,
  ton Jennaro serait changé en marbre !

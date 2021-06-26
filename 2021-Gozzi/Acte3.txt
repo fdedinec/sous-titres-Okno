@@ -1,250 +1,404 @@
 # ACTE TROISIÈME
 
-Une salle du palais.
-
 # SCENE PREMIÈRE
-
-Le ROI,# ARMILLA.
-
- 
-
 # LE ROI.
-Armilla, la plus chère partie de mon cœur, Armilla, le déchirement et la ruine de mon âme, je ne puis plus.
-
+Armilla, la plus chère partie de mon cœur, 
+ Armilla, le déchirement et la ruine de mon âme, 
+ je ne puis plus.
 # ARMILLA.
-Qui vous trouble et vous afflige ?
-
+Qui vous afflige ?
 # LE ROI.
-Jennaro, mon frère vous aime. Cruelle, sa passion vous est connue et vous me la cachez. Savoir et ignorer me font également mourir.
-
+Jennaro, mon frère vous aime. 
+Cruelle, sa passion vous est connue 
+ et vous me la cachez. 
+Savoir et ignorer me font également mourir.
 # ARMILLA.
 Quelle folie vient vous assaillir?
-
 # LE ROI.
-Ingrate, ce n'est point de la folie ! Les injures que vous connaissez et les façons d'agir de mon frère vis-à-vis de moi, parlent assez clairement. Mes fidèles ministres l'ont vu parcourir le palais, triste, pensif et comme hors de lui-même ; en vain il cherche à cacher ses soupirs et ses larmes. Par pitié! allégez mon cœur d'un poids si douloureux; dites-moi tout et d'un seul coup finissez mes tourments.
-
+Ingrate, ce n'est point de la folie ! 
+Les injures que vous connaissez 
+ et les façons d'agir de mon frère vis-à-vis de moi, 
+parlent assez clairement. 
+Mes fidèles ministres l'ont vu parcourir le palais, 
+triste, pensif et comme hors de lui-même ; 
+en vain il cherche à cacher ses soupirs et ses larmes. 
+Par pitié! 
+ allégez mon cœur d'un poids si douloureux; 
+dites-moi tout et d'un seul coup finissez mes tourments.
 # ARMILLA.
-Je ne vous cacherai pas, sire, que ce que vous m'apprenez, les extravagances, les soupirs, les larmes du prince, m'inspire quelque soupçon. Mais je puis vous dévoiler l'état de mon cœur. Millon, je vous adore, et si je vous trompe que la foudre du ciel me frappe! Je suis prête à vous épouser. Je ne saurais vous donner un gage plus véridique et plus clair de mon amour. Une affection si soudaine de ma part, une aussi entière sympathie vous semblera peut-être romanesque et invraisemblable. Votre frère en est en grande partie la cause, car pendant le voyage que nous fimes, il me parla toujours de vous d'une façon si séduisante, il vous peignit sous de si aimables couleurs, vantant votre grâce, vos belles manières, votre âme pleine de sérénité, qu'avant de
-vous avoir vu je vous aimals déjà. Si c'est la générosité de Jennaro qui le condamne, voilà tout ce que je puis vous raconter de lui,
-
+Je ne vous cacherai pas, sire, 
+que ce que vous m'apprenez, 
+les extravagances, les soupirs, 
+les larmes du prince, m'inspire quelque soupçon. 
+Mais je puis vous dévoiler l'état de mon cœur. 
+Millon, je vous adore, 
+et si je vous trompe que la foudre du ciel me frappe! 
+Je suis prête à vous épouser. 
+Je ne saurais vous donner un gage plus véridique 
+ et plus clair de mon amour. 
+Une affection si soudaine de ma part, 
+une aussi entière sympathie 
+ vous semblera peut-être romanesque et invraisemblable. 
+Votre frère en est en grande partie la cause, 
+car pendant le voyage que nous fimes, 
+il me parla toujours de vous 
+ d'une façon si séduisante, 
+il vous peignit sous de si aimables couleurs, 
+vantant votre grâce, vos belles manières, 
+ votre âme pleine de sérénité, 
+qu'avant de vous avoir vu 
+ je vous aimais déjà. 
+Si c'est la générosité de Jennaro qui le condamne, 
+voilà tout ce que je puis vous raconter de lui,
 # LE ROI.
-Mais pourquoi m'offenser par ses imsultes et ses dédains ? Pourquoi ces soupirs? Pourquoi vouloir différer mon mariage ? Certes, Armilla, quelque passion soudaine et violente s'est emparée de Jennaro, et se voyant enlever l'objet qui en est la cause, il frémit sans oser révéler son secret ni à vous, ni à son frère. Mais le voici. Chère âme, au nom de l'amour que vous me témoignez, et que je ne mérite pas, au nom du lien sacré qui va nous unir et que la mort seule peut rompre, permettez qu'avant de vous conduire à l'autel, je vérifie mes doutes et que je l'écoute, caché près
-d'ici. Ne soyez pas offensée par la jalousie qui me dévore, par le désir inquiet que j'éprouve de pouvoir vous posséder et vous posséder sans contrainte,
-
+Mais pourquoi m'offenser par ses imsultes et ses dédains ? 
+Pourquoi ces soupirs? 
+Pourquoi vouloir différer mon mariage ? 
+Certes, Armilla, 
+ quelque passion soudaine et violente 
+ s'est emparée de Jennaro, 
+et se voyant enlever l'objet qui en est la cause, 
+il frémit sans oser révéler son secret 
+ ni à vous, ni à son frère. 
+Mais le voici. 
+Chère âme, au nom de l'amour que vous me témoignez, 
+ et que je ne mérite pas, 
+au nom du lien sacré qui va nous unir 
+et que la mort seule peut rompre, 
+permettez qu'avant de vous conduire à l'autel, 
+je vérifie mes doutes et que je l'écoute, 
+caché près d'ici. 
+Ne soyez pas offensée par la jalousie qui me dévore, 
+par le désir inquiet que j'éprouve de pouvoir vous posséder 
+et vous posséder sans contrainte,
 # ARMILLA.
 Contentez votre désir; je ne m'en offenserai point !
-(Le roi se cache.)
-
-
 
 # SCENE II
-
- 
-
-# JENNARO,# ARMILLA,# LE ROI caché.
-
-# JENNARO, préoccupé et sans voir Armilla.
-Jusqu'à ce moment, j'ai tout prévu, ou je crois ayoir tout prévu pour éloigner la mort de mon frère. Le mariage se prépare, et je ne trouve pas de moyen pour le protéger contre le monstre annoncé par le cruel Norando. O faiblesse Humaine ! ô terreur qui m'agite! Cause de mes tourments, je ne puis te révéler !... (il aperçoit Armilla ét tremble.) Dieu! Armilla! Si elle m'avait entendu ! L'épouvante me serre le coeur, et il me semble à chaque instant que je vais me changer en pierre.
-
-# ARMILLA. Est-ce là, Jennaro, la joie que vous cause ce mariage tant souhaité par vous? ce mariage que vous avez acheté par tant de persévérance et de fatigue ? Est-ce donc là le bonheur qui m'attendait dans ce palais ? Dites-moi la vérité, Jennaro, craighez-vous donc tant mon père ? Est-ce
-la terreur que vous inspire sa puissance qui vous fait sortir ainsi de vos véritables sentiments ?
-
-# JENNARO, à part.
+# JENNARO, 
+Jusqu'à ce moment, j'ai tout prévu, 
+ou je crois ayoir tout prévu pour éloigner la mort de mon frère. 
+Le mariage se prépare, 
+et je ne trouve pas de moyen pour le protéger contre le monstre 
+ annoncé par le cruel Norando. 
+O faiblesse Humaine ! 
+ ô terreur qui m'agite! 
+Cause de mes tourments, 
+je ne puis te révéler !
+Dieu! Armilla! 
+ Si elle m'avait entendu ! 
+L'épouvante me serre le coeur, 
+et il me semble à chaque instant 
+ que je vais me changer en pierre.
+# ARMILLA. 
+Est-ce là, Jennaro, la joie 
+ que vous cause ce mariage tant souhaité par vous? 
+ce mariage que vous avez acheté 
+ par tant de persévérance et de fatigue ? 
+Est-ce donc là le bonheur qui m'attendait dans ce palais ? 
+Dites-moi la vérité, Jennaro, 
+craighez-vous donc tant mon père ? 
+Est-ce la terreur que vous inspire sa puissance 
+qui vous fait sortir ainsi de vos véritables sentiments ?
+# JENNARO,
 Elle aura entendu mes paroles.
-(Haut.) Quelle vaine pensée est la vôtre, Armilla? que puis-je redouter ? ne sommes-nous pas ici en sûreté ?
-
+Quelle vaine pensée est la vôtre, Armilla? 
+que puis-je redouter ? 
+ne sommes-nous pas ici en sûreté ?
 # ARMILLA.
-Pourquoi donc troublez-vous ainsi mon repos et celui de votre frère; en voulant différer notre mariage ? Dites-moi la vérité. Peut-être, ah! parlez, mon imprudence a-t-elle fait naître en vous un amour passager ? Non, Jennaro, je me trompe, n'est-il pas vrai ? N'est-il pas vrai que vous ne
-voudriez pas offenser à ce point le frère que vous aimez tant ? que vous ne voudriez pas sa mort ? Vous pleurez ? Dieu! que vois-je ? Vous pleurez ?
-
+Pourquoi donc troublez-vous ainsi mon repos 
+ et celui de votre frère; 
+en voulant différer notre mariage ? 
+Dites-moi la vérité. 
+Peut-être, ah! parlez, 
+mon imprudence a-t-elle fait naître en vous un amour passager ? 
+Non, Jennaro, je me trompe, n'est-il pas vrai ? 
+N'est-il pas vrai que vous ne voudriez pas 
+ offenser à ce point le frère que vous aimez tant ? 
+que vous ne voudriez pas sa mort ? 
+Vous pleurez ? Dieu! que vois-je ? Vous pleurez ?
 # JENNARO.
-Armilla, vous vous trompez. J'aime mon frère plus que moi-même, je sais qu'en vous je devrais chérir l'épouse de mon frère... (Bas, avec douceur à Armilla.) hélas ! je ne puis ni ne dois vous en dire davantage. Seulement, par l'affection que vous portez au roi, par cette douleur qui me
-torture, s'il vous reste quelque pitié, suspendez ce mariage (Il se jette à ses genoux).
-
-# LE ROI, paraissant.
-Ah ! traître, tu n'es plus mon frère, je t'ai compris. Armilla, l'autel est prêt. Je saurai vous défendre ainsi que moi-même contre un rival d'autant plus coupable qu'il est mon frère. Malheur à lui s'il persiste dans sa faute! venez, le jour va finir et mon impatience ne peut souffrir aucun retard. Venez, Armilla !
-
- 
-
-# ARMILLA (à part).
+Armilla, vous vous trompez. 
+J'aime mon frère plus que moi-même, 
+je sais qu'en vous je devrais chérir l'épouse de mon frère... 
+hélas ! je ne puis ni ne dois vous en dire davantage. 
+Seulement, par l'affection que vous portez au roi, 
+par cette douleur qui me torture, 
+s'il vous reste quelque pitié, 
+suspendez ce mariage.
+# LE ROI
+Ah ! traître, tu n'es plus mon frère,
+ je t'ai compris. 
+Armilla, l'autel est prêt. 
+Je saurai vous défendre ainsi que moi-même 
+contre un rival d'autant plus coupable 
+ qu'il est mon frère. 
+Malheur à lui s'il persiste dans sa faute! 
+venez, le jour va finir 
+et mon impatience ne peut souffrir aucun retard. 
+Venez, Armilla !
+# ARMILLA 
 O malheureux mariage !
-
-(Le roi donne la main à Armilla. Ils sortent.) |
-
 # JENNARO.
-Ordre barbare! O misérable corbeau, maudit soit le jour où mon frère te perça de sa flèche! Me voici
-donc un objet d'horreur pour Armilla, pour le roi, pour la cour, pour le peuple tout entier ! A quoi bon mon innocence si je ne puis la prouver !
-
- 
-
- 
+Ordre barbare! 
+O misérable corbeau, 
+maudit soit le jour où mon frère te perça de sa flèche! 
+Me voici donc un objet d'horreur pour Armilla, 
+pour le roi, pour la cour, pour le peuple tout entier ! 
+A quoi bon mon innocence si je ne puis la prouver !
 
 # SCENE III
-Un pan de la tapisserie se soulève et Norando paraît,
-# NORANDO,# JENNARO.
-
-# NORANDO.
+# NORANDO
 Prouve-la donc et tu deviendras marbre.
-
-# JENNARO, épouvanté. Norando!
-Toi, dans ce palais?
-
+# JENNARO
+Norando!
+ Toi, dans ce palais?
 # NORANDO.
-Ne puis-je pas tout? Le meurtre de mon faucon, et de mon coursier, n'a fait qu'augmenter ma fureur. Tu as retardé ma vengeance, mais cette nuit, un dragon dévorera ton frère. Révèle ce secret si tu l'oses ; tu sais ce qui t'attend. Que le monde périsse, mais l'affront que tu m'as fait sera vengé !
-
+Ne puis-je pas tout? 
+Le meurtre de mon faucon, et de mon coursier, 
+ n'a fait qu'augmenter ma fureur. 
+Tu as retardé ma vengeance, 
+mais cette nuit, un dragon dévorera ton frère. 
+Révèle ce secret si tu l'oses ; 
+tu sais ce qui t'attend. 
+Que le monde périsse, mais l'affront que tu m'as fait sera vengé !
 # JENNARO.
 Il suffit !...
-
 # NORANDO.
-Je ne t'écoute pas ! {Il disparaît.)
-
-# JENNARO, désespéré.
-Implacable ennemi!... Infernal persécuteur! tu me suis-comme mon ombre; tu remplis mon âme d'épouvante et de fureur, et mon esprit de couleuvres et de serpents !
-
+Je ne t'écoute pas !
+ Cela t'apprendra d'enlever les filles.
+# JENNARO
+Implacable ennemi!... Infernal persécuteur! 
+tu me suis-comme mon ombre; 
+tu remplis mon âme d'épouvante et de fureur, 
+et mon esprit de couleuvres et de serpents !
 
 # SCENE IV
 # PANTALON,# JENNARO.
-Pantalon a le bras en écharpe.
-
 # JENNARO.
-Ah! bon et fidèle vieillard; je suis aujourd'hui certain de votre amitié. Est-ce bien vous ? On m'avait dit que dans sa chute, ce cheval vous avait blessé ? Je fus la cause de votre malheur. Ami, je vous en demande pardon.
-
+Ah! bon et fidèle vieillard; 
+je suis aujourd'hui certain de votre amitié. 
+Est-ce bien vous ? 
+On m'avait dit que dans sa chute, 
+ ce cheval vous avait blessé ? 
+Je fus la cause de votre malheur. 
+Ami, je vous en demande pardon.
 # PANTALON.
-Pardon à moi ? à votre serviteur ? à un homme qui vous adore et qui vous a bercé? à un cœur de la Zuecca ? c'est vrai, j'étais dans les mains du chirurgien; il m'a redressé cette main qui était dévissée et il m'a raccommodé la tête qui était un peu félée. Je ne pouvais plus remuer, mais les paroles, caro fio, les paroles ont plus de force que tous les cérats du monde. J'entendais dire : « Le roi est en colère; le prince l'a offensé, le roi a menacé le prince. Il en peut naître quelque tragédie, Toute la ville murmure, » Voilà les médicaments qui m'ont fait oublier la douleur et qui ont donné de la force à ce pauvre vieux qui est tout cœur et qui vient pour vous voir, pour entendre de votre bouche la cause de ces désordres et mettre sincèrement à votre service, s'il ne
-peut faire mieux, les quelques jours qui lui restent à vivre!
-
+Pardon à moi ? à votre serviteur ? 
+ à un homme qui vous adore et qui vous a bercé? 
+Laissez tomber.
+c'est vrai, j'étais dans les mains du chirurgien; 
+il m'a redressé cette main qui était dévissée 
+ et il m'a raccommodé cette jambe et cette tête. 
+Le chirurgien, dis-donc! Je lui dis: 'Docteur, je vais vivre?' 
+Il répond: 'Vous ne pouvez pas faire sans?'
+Je lui dis: 'Peut-être m'envoyer quand même en réanimation?'
+Il me dit: 'Le patient! Arrêtez votre automédication. 
+ On vous a dit "la morgue", cela veut dire la morgue.
+Et là,j'entends le communiqué de presse d'urgence: 
+« Le roi est en colère; le prince l'a offensé, 
+le roi a menacé le prince. 
+Il en peut naître quelque tragédie, Toute la ville murmure, » 
+Alors, rien à faire. J'ai dû me lever des brancards, 
+oublier la douleur et venir vous voir
+pour entendre de votre bouche la cause de ces désordres.
+Vous donner un conseil sincère et amical, 
+vous remontez le moral par un bonne blague.
+Ecoutez celle-là, par exemple: " Un vieux doge est en train de mourir..."
 # JENNARO.
-Consolez-vous, Pantalon, tout cela est vrai, mais c'est moi seul qui dois en gémir.
-
+Qu'il est touchant, le pauvre vieillard!
+Consolez-vous, Pantalon, tout cela est vrai, 
+mais c'est moi seul qui dois en gémir.
 # PANTALON.
-Cher fils, mon cher cœur. Excusez-moi si je vous parle comme si vous étiez mon égal et non comme le
-doit faire un sujet, un esclave. Dites-moi tout. D'où diable “ont nées ces subites extravagances ? ces injures à votre frère ? à votre frère que vous aimez tant ? Si vous avez à vous plaindre, si on vous a fait quelqu'affront, contez-moi ça. Si vous avez raison, tout vieux que je suis, je serai le
-premier à vous conseiller une vengeance noble et digne de vous ! Mais tortiller le cou à un faucon, couper les jambes d'un cheval quand on s'apprête à monter dessus, à la Zuecca on appellerait ça des folies indignes d'un prince tel que vous. Si vous avez quelque amitié pour moi, pour l'amour de Dieu, faites-moi votre confidence et ne me laissez pas entendre ces mauvais propos qui me percent le cœur de cent flèches.
-
+Cher fils, mon cher cœur. 
+Excusez-moi si je vous parle comme si vous étiez mon égal 
+ et non comme le doit faire un sujet, un esclave. 
+Dites-moi tout. D'où diable “ont nées ces subites extravagances ? 
+ces injures à votre frère ? à votre frère que vous aimez tant ? 
+Si vous avez à vous plaindre, si on vous a fait quelqu'affront, 
+ contez-moi ça. 
+Mais tortiller le cou à un faucon, 
+ couper les jambes d'un cheval quand on s'apprête à monter dessus, 
+c'est franchement de l'écorcherie!
+Chez nous à Venise, le derniers des charretiers ne ferait pas ça!
+Si vous avez quelque amitié pour moi, 
+faites-moi votre confidence 
+et ne me laissez pas mourir de curiosité!
 # JENNARO.
-Ami, exemple des serviteurs fidèles, honneur de votre ville, pourquoi renouvelez-vous mes chagrins en les voulant effacer ?
-
+Ami, exemple des serviteurs fidèles, 
+ honneur de votre ville, 
+Vous voulez arrêter mes souffrances mais vous les multiplier 
+en cherchant la cause première des cette cause qui vous plonge dans le chagrin.
+Oh,mon dieu! J'ai trop dit!
 # PANTALON.
-Cher fils, laissons là les paroles d'oracles; dites moi tout ; donnez-moi votre main, allons ensemble au temple, et là, au milieu de tout ce peuple qui attend la cérémonie des noces, montrez-vous de bonne humeur, sautez au cou de votre frère et faites taire toutes les mauvaises langues envieuses de la concorde et de la paix.
-
+Qu'est-ce que vous me dites là? La cause des causes... 
+Cher fils, laissons là les paroles d'oracles; 
+Calmez votre éloquence!  
+Donnez-moi votre main, allons ensemble au temple, 
+et là, au milieu de tout ce peuple 
+ qui attend la cérémonie des noces, 
+montrez-vous de bonne humeur, 
+ sautez au cou de votre frère 
+et faites taire toutes les mauvaises langues envieuses 
+ de la concorde et de la paix.
 # JENNARO.
 Il est donc vrai que mon frère est dans le temple et qu'il va se marier ?
-
 # PANTALON.
-Allons ! ce mariage vous déplaît donc bien fort ! Y aurait-il quelqu'amour sous roche ? Pourquoi non ? vous êtes jeune... quelquefois on agit malgré soi. Pourquoi ne me l'avoir pas dit quand nous étions dans la galère ? nous aurions viré de bord et nous serions allés... que sais-je ?.…. à la
-Zuecca !
-
-# JENNARO, à part.
-Chaque parole m'épouvante. II me semble voir paraître Norando. Ne pensons qu'à sauver mon frère |
-(Haut.) Pantalon, je sais que dans cette dure circonstance, tout le monde est contre moi, et que vous seul me gardez de l'affection. Je vous jure, à Dieu et à vous, que j'aime mon frère comme moi-même, que je ne chéris Armilla que comme ma belle-sœur, et que ce que j'ai fait aujourd'hui, je lai dû faire. Je n'en dis pas davantage. Je recommande à votre amitié mon honneur, ma renommée, mon innocence, et je vous laisse. (A part.) Le ciel m'inspire un moyen. Je sauverai le roi, ou je perdrai la vie.
-
+Oh-la-la! Qu'est-ce que j'entends là? Ce mariage vous déplaît donc bien fort ! 
+Y aurait-il quelqu'amour sous roche ? 
+Pourquoi non ? vous êtes jeune... "Le belle de Venise à des yeux de velour... "
+quelquefois on agit malgré soi. 
+Pourquoi ne me l'avoir pas dit quand nous étions dans la galère ? 
+nous aurions viré de bord et nous serions allés... 
+ que sais-je ?.…. à Venise!
+# JENNARO, 
+Chaque parole m'épouvante. 
+Pantalon, je sais que dans cette dure circonstance, 
+ tout le monde est contre moi, 
+et que vous seul me gardez de l'affection. 
+Je vous jure, à Dieu et à vous, 
+ que j'aime mon frère comme moi-même, 
+ que je ne chéris Armilla que comme ma belle-sœur, 
+ et que ce que j'ai fait aujourd'hui, je l'ai dû faire. 
+Je n'en dis pas davantage. 
+Je recommande à votre amitié mon honneur, ma renommée, 
+ mon innocence, et je vous laisse. 
 # PANTALON.
-Non, non, je veux vous suivre, je veux rester avec vous. Écoutez, dites-moi...
-
-# JENNARO.
-Restez, je le veux ! — Adieu !
-Il sort.
-
-# PANTALON.
-Je resterai; je ne suis qu'un serviteur, je dois obéir. Mais qu'a-t-il voulu dire avec ses secrets? Devine-le, Grillo! ; moi, je n'y comprends rien. Pourtant, je parierais tout le sang que j'ai dans les veines qu'il me dit la vérité. Je le connais, cet enfant. Je l'ai élevé; depuis le maillot, ça toujours été la sincérité même ; il n'est pas capable de dire un mensonge. Quand il cassait une tasse, quand il filoutait une pomme, il ne voulait jamais dire comme le lui enseignait ma pauvre femme : « C'est le chat, ou c'est la servante. » Il disait tout de suite, c'est moi, je vous en demande pardon, je ne le ferai plus; et comme cela depuis le premier jour qu'il a commencé à parler; et à vingt ans, il en est encore à dire une menterie. C'est moi qui ai eu l'idée d'enlever la princesse, mais il s'agissait de la vie de son frère, il le fallait bien. Mon Dieu, indique-moi le moyen de défendre une innocence que je ne puis prouver, mais dont je suis sûr ! Ce pauvre cher enfant, il n'a eu confiance qu'en moi, ils l'ont tous abandonné !
-
-
+Mais qu'est-ce que c'est que ça?
+"Je vous jure, à Dieu et à vous, 
+ que j'aime mon frère comme moi-même, 
+ que je ne chéris Armilla que comme ma belle-sœur, 
+ et que ce que j'ai fait aujourd'hui, je l'ai dû faire"!
+Devine-le, Grillo! ;  moi, je n'y comprends rien. 
+Pourtant, je parierais tout le sang que j'ai dans les veines 
+ qu'il me dit la vérité. 
+Je le connais, cet enfant.Je l'ai élevé; 
+depuis le maillot, ça toujours été la sincérité même ; 
+il n'est pas capable de dire un mensonge. 
+Quand il cassait une tasse, quand il filoutait une pomme, 
+il ne voulait jamais dire comme le lui enseignait ma pauvre femme : 
+« C'est le chat, ou c'est la servante. » 
+Il disait tout de suite, c'est moi, je vous en demande pardon, 
+ je ne le ferai plus; 
+et comme cela depuis le premier jour qu'il a commencé à parler; 
+Mon Dieu, indique-moi le moyen de défendre une innocence 
+ que je ne puis prouver, mais dont je suis sûr ! 
+Ce pauvre cher enfant, il n'a eu confiance qu'en moi, 
+ ils l'ont tous abandonné !
 
 # SCENE V
-# LEANDRE,# PANTALON.
-
-# LEANDRE, paraissant très affairé.
+# LEANDRE
 Dites, amiral, avez-vous vu le prince Jennaro ?
-
 # PANTALON.
-Pourquoi me demandez-vous cela ?
-
+Voyez-vous mon cher Léandre, chez nous à Venise on répond à la question par une question.
+Donc, dites-moi d'abord, pourquoi vous me demander cela?
 # LEANDRE.
 Parce que j'ai pour lui des commissions de la part du roi. 
-
-# PANTALON, à part.
+# PANTALON,
 Oh ! pauvre moi !
-(Haut.) Quelle commission avez:vous, cher seigneur Léandre.
-
-# LEANDRE, impatienté.
+ Quelle commission avez-vous, cher seigneur Léandre?
+# LEANDRE, 
 L'avez-vous vu, oui où non ?
-
 # PANTALON.
-Je l'ai vu; mais dites-moi, par charité, quels sont vos ordres ?
-
+Je l'ai vu; Mais c'est seulement à Venise qu'on répond par question à une question.
+A ce sujet j'ai une belle blague de Venise... Un doge... 
 # LEANDRE.
 Mais où est-il allé que je ne puis le trouver ?
-
 # PANTALON.
-Quand je connaîtrai la commission, je vous le dirai.
-
+Me cassez pas les oreilles, jeune homme. Quand je connaîtrai la commission, je vous le dirai.
 # LEANDRE.
-Je ne suis pas tenu de vous révéler les ordres du roi. Je le trouverai bien sans vous. (il sort vivement)
-
+Je ne suis pas tenu de vous révéler les ordres du roi. 
+ Je le trouverai bien sans vous.
 # PANTALON.
-Ah ! chiens ! certes, il est porteur de quelqu'ordre cruel ! Ils me le persécutent ! Ils veulent me l'enlever !
-
-
-
+Ah ! chiens ! certes, il est porteur de quelqu'ordre cruel ! 
+ Ils me le persécutent ! Ils veulent me l'enlever !
 
 # SCENE VI
-# TARTAGLIA,# PANTALON.
-
-# TARTAGLIA, entrant vivement.
-Amiral, avez-vous vu Léandre ?
-
+# TARTAGLIA,
+Amiral, comment vous portez-vous ?
 # PANTALON.
-Oui, je l'ai vu. Que lui voulez-vous ! (Avec ironie.) Vous êtes joyeux, il paraît que vous êtes allé à la noce.
-
+Je vous enterrerai tous.
+# TARTAGLIA,
+Avez-vous vu Léandre ?
+# PANTALON.
+Oui, je l'ai vu. Il avait l'air tellement joyeux 
+ comme si il s'aprêter à partir à l'enterrement de sa belle mère. 
+Vous lui emmenez de bonnes nouvelles sans doute?
 # TARTAGLIA.
 Où est-il ? dites-le vite, j'ai des ordres du roi.
-
 # PANTALON.
-Vous aussi? Ah! cher Tartaglia, si vous êtes mon ami, dites-moi quels ordres vous avez,
-
+Mon cher Tartaglia, mon adorable, mignon, merveilleux, magnifique Tartaglia!
+Chez à Venise on répond à un equestion par une question. 
+Donc, dites-moi d'abord quels ordres vous avez.
 # TARTAGLIA.
-Je n'y fais point de difficultés. Je vous conterai ça tout de suite. Léandre devait arrêter le prince dans son appartement. À moi, on m'a augmenté la dose; le roi est inquiet et cela ne lui suffit plus; 1l exige que Jennaro soit conduit immédiatement dans l'île des Pleurs et enfermé la.
-
+Je n'y fais point de difficultés. Je vous conterai ça tout de suite. 
+ Léandre devait arrêter le prince dans son appartement. 
+À moi, on m'a augmenté la dose; 
+le roi est inquiet et cela ne lui suffit plus; 
+1l exige que Jennaro soit conduit immédiatement dans l'île des Pleurs et enfermé là.
 # PANTALON.
-Dans l'ile des Pleurs! Le roi agir ainsi contre un si bon frère ? contre son sang? quelle cruauté! Povero innocente !
-
+Dans l'ile des Pleurs! Le roi agir ainsi contre un si bon frère ? contre son sang?
+ quelle cruauté! Pauvre innocent !
 # TARTAGLIA.
-Innocent ! Il lui a étranglé un faucon dans les mains, et tué un cheval sous lui. Mais vous devez vous le rappeler, vous avez eu à cause de cela un bras en écharpe et la tête rompue.
-
+Innocent ! Il lui a étranglé un faucon dans les mains, et tué un cheval sous lui. 
+Mais vous devez vous le rappeler, 
+vous avez eu à cause de cela un bras en écharpe et la tête rompue.
 # PANTALON.
-No importa gnente. Personne, excepté moi, ne sait la raison de ces choses : je la sais, je ne la sais pas, mais je sais qu'il est innocent !
-
+Moi, je vais bien, ne vous inquiètez pas!
 # TARTAGLIA.
-Mais après toutes ces impertinences, le roi l'a trouvé à genoux devant la princesse, il lui baisait les mains, il la caressait et lui disait en pleurant : « Oh! mon bien, ma vie, n'épousez pas mon frère si vous ne voulez me faire mourir. Est-ce là de l'innocence ? 
-
-# PANTALON, à part.
-Mo cordoni. Celà, certainement, est grave. (Haut.) Qu'importe, savez-vous ses secrets ?
-
+Mais après toutes ces impertinences, le roi l'a trouvé à genoux devant la princesse, 
+ il lui baisait les mains, il la caressait et lui disait en pleurant : 
+ « Oh! mon bien, ma vie, n'épousez pas mon frère si vous ne voulez me faire mourir. 
+Est-ce là de l'innocence ? 
+# PANTALON,
+Diable! Celà, certainement, est grave. Peu importe. Nous avons à ce sujet une bonne blague.
+Un doge est parti en mission pour Gêne, et autre doge vient chez sa femme...
 # TARTAGLIA.
-Ses secrets ? Ils n'ont ‘pas besoin d'explication. Le roi a senti s'accroître encore ses soupçons en ne le voyant pas à la cérémonie du temple, et il a bien raison de faire enfermer un frère qui peut machiner des complots plus sérieux, et peut-être bien vouloir l'occire, par jalousie, lui et sa
-femme quand ils seront bien tranquilles dans leur chambre à coucher. Toute la cour est scandalisée et irritée contre le prince; le peuple jette feu et flammes : à de pareils pavots on leur doit abattre la tête. Mais vous avez le crâne rompu, la: cervelle doit vous ballotter là dedans et vous tenez les discours d'un fou.
-
+Arrêtez de me distraire! Tout est clair là! 
+Le roi a bien raison de faire enfermer un frère 
+qui peut machiner des complots plus sérieux, 
+ et peut-être bien vouloir l'occire, par jalousie, lui et sa femme 
+ quand ils seront bien tranquilles dans leur chambre à coucher. 
+Toute la cour est scandalisée et irritée contre le prince; 
+ le peuple jette feu et flammes : 
+ à de pareils pavots on leur doit abattre la tête. 
+Mais vous avez le crâne rompu, la: 
+ cervelle doit vous ballotter là dedans 
+ et vous tenez les discours d'un fou.
 # PANTALON.
-Et vous, vous me paraissez un ministre sans foi, un homme au cœur noir, un de ces gens (comme dit le
-proverbe), à rendre les chiens enragés; un homme qui ne seconde les passions du roi que pour en tirer profit, qui, au lieu de jeter de l'eau, attise le feu, et qui, oubliant que le scandale et la ruine sont tombés sur ces deux frères, se fait une joie de leur malheur quand il devrait en pleurer, et avoir le cœur fendu comme je l'ai, moi, povero vecchio, qui ne retrouverai plus le repos et qui mourrai peut-être ce soir sous le poids de tant de chagrins. (Il pleure.)
-
-# TARTAGLIA. Avec toutes les impertinences que vous m'avez débitées, cher amiral, vous me faites tout de même pleurer aussi, car je sais toute l'affection que vous aviez pour le prince Jennaro. Mais la faute en est à lui et non pas à moi; et il faut exécuter les ordres de Sa Majesté.
-
-# PANTALON.
-Qui, c'est vrai, on doit obéir au roi ; moi seul, dans cette cour, quoique pauvre fils de la Zuecca de Venise, j'aurais essayé de calmer l'esprit du roi, et si je l'avais excité contre son frère, j'aurais eu l'honnêteté de me rétracter, de perdre ma place, de me faire, au besoin, mettre les fers aux pieds, plutôt que de me voir la cause de la disgrâce et de la mortification de ce garçon-là.
-
+Mon cher ministre! Je vous respecte beaucoup, 
+(je ne me souviens plus pour quelles mérites). 
+Mais vous êtes un salaud qui, au lieu de jeter de l'eau, attise le feu, 
+et qui, oubliant que le scandale et la ruine sont tombés sur ces deux frères, 
+ se fait une joie de leur malheur quand il devrait en pleurer, 
+et avoir le cœur fendu comme je l'ai, moi, pauvre vieillard.
+Vous méritez bien qu'on vous casse la tếte. 
+# TARTAGLIA. 
+Et chez nous à N... 
+# PANTALON
+A Norilsk?
+# TARTAGLIA
+A N...
+# PANTALON
+A New-York?
+# TARTAGLIA
+A N...
+# PANTALON
+A Nagassaki?
 # TARTAGLIA.
-Mais, à Naples, seigneur Pantalon, nous n'avons pas l'éducation de votre Giudecca, et nous avons coutume d'exécuter les ordres royaux avec empressement et sans tant d'héroïsme !
-
+A Naples, seigneur Pantalon, nous n'avons pas l'éducation de votre Venise, 
+et nous avons coutume d'exécuter les ordres royaux a.. a... avec empressement!
 # PANTALON.
-Exécutez-les donc; mais moi, qui suis un Zuecchino, voyez-vous, sior, je suis encore en âge de vous enseigner comment on peut laisser ses aises et sa fortune, pour aller finir ses jours en exil et en compagnie d'un pauvre malheureux abandonné de tous, mais qui sera toujours mes entrailles.
-
+A.. a.. alors ferme ta bouche et écoute-moi! Va te taire par là. 
+Et je te voie sans les deux jambes et que tu me voies qu'avec un oeil!
 
 
 # SCENE VII
-# TRUFFALDIN,# TARTAGLIA et# PANTALON.
-
-# TRUFFALDIN entrera furieux, il leur demandera s'ils savent la grande nouvelle.# PANTALON demandera si le prince est réconcilié avec son frère.# TARTAGLIA demandera si Jennaro n'a pas fait quelque nouvelle sottise.# TRUFFALDIN prendra la position d'un tragédien, et commencera d'un ton grave :
+# TRUFFALDIN PANTALON TARTAGLIA
+# TRUFFALDIN 
+Improvisation
+Il leur demandera s'ils savent la grande nouvelle
+# PANTALON demandera si le prince est réconcilié avec son frère.# TARTAGLIA demandera si Jennaro n'a pas fait quelque nouvelle sottise.# TRUFFALDIN prendra la position d'un tragédien, et commencera d'un ton grave :
 
 L'autel étincelait des flambeaux d'hyménée...
 
