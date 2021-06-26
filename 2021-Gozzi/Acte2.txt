@@ -230,34 +230,53 @@ Oh ! quel empressement.
  Il est guéri ! il est guéri!
 Je vais exécuter les ordres de Votre Majesté.
 # LEANDRE.
-Je cours au temple.
+ - Je cours au temple.
 # JENNARO, agité.
 Non, arrêtez, Léandre,
- Pourquoi si vite ? La princesse est à peine descendue du bateau..
-
+ Pourquoi si vite ?
+ La princesse descend à peine du bateau...
 # LE ROI.
-Qui pourrait s'opposer à mon bonheur ?
-(A Armilla.) Princesse, vous avez changé en joie la tristesse qui m'accablait. Mon frère vous a sans doute conté cette histoire ; mon seul chagrin c'est d'avoir été la cause de cet enlèvement que
-vous regrettez peut-être. Mais je vous supplie de m'accorder mon pardon et je vous donne la moitié de mon trône. Je vous offre un époux que vous haïssez peut-être, mais qui n'a d'autre désir que de vous plaire. S'il y peut parvenir, vous deviendrez sa femme; c'est le moment qu'il attend avec impa-
-tience. Sa vie et sa mort sont suspendues à vos lèvres. Je ne veux pas user envers vous de violence et je sais mourir.
-
+Et pourquoi traîner ?
+ Princesse, vous avez changé en joie
+ la tristesse qui m'accablait.
+Mon frère vous a sans doute raconté mon histoire.
+ Et voilà que me guérissent vos yeux, vos cheveux,
+ votre blanc visage, et de vous voir si proche.
+Mon seul chagrin est d'avoir été la cause
+ de cet enlèvement que vous avez subi.
+ Mais je vous supplie de m'accorder votre pardon
+ et je vous offre ma main et mon trône.
+Je vous offre un époux que vous haïssez peut-être,
+ mais qui souhaite ardemment se montrer digne
+ de votre grande âme.
+S'il vous semble qu'il y parviendra,
+ que les torches flamboient,
+ devenez ma femme !
+Oh moment tant attendu, moment de bonheur !
+ À présent ma vie et ma mort dépendent de vos lèvres.
+ Mais je n'userai pas envers vous de violence,
+ et s'il le faut je saurai mourir.
 # SMERALDINE, bas à Armilla.
-Il est beau, il ne vous déplait pas, il est tendre, il est gracieux, il est roi, il vous adore, pourquoi hésiteriez-vous ?
-
+Il est beau, il ne vous déplait pas,
+ il est tendre, il est gracieux, il vous adore
+ et il est roi.
+ Pourquoi hésiter ?
 # ARMILLA.
 Sire, j'accepte votre main.
-
 # LE ROI.
-O généreuse princesse ! Vous, Léandre, conduisez la reine au palais, afin qu'elle prenne quelque repos. Ensuite, vous porterez mes ordres au temple.
-
+O généreuse princesse !
+ Vous, Léandre, conduisez la reine au palais,
+ afin qu'elle prenne quelque repos.
+ Puis portez mes ordres au temple.
 # SMERALDINE, bas à Armilla.
-Allons ! soyez plus gaie ! 
-
-# ARMILLA, bas à Sémaldine. Ah! ma chère Sméraldine, mon cœur ne le veut pas, (Elle sort précédée de Léandre.)
-
-# SMERALDINE, à part. Je la plains. Si elle connaissait les prédictions. Mais, peut-être sont-ce des fables ? Ne troublons pas la noce ! (Elle sort.)
-
-
+Allons ! Soyez plus gaie ! 
+ Qu'avez-vous ?
+# ARMILLA, bas à Sémaldine.
+Ah! Sméraldine, mon cœur ne le veut pas.
+# SMERALDINE, à part.
+Je la plains. Elle ne connait pas les prédictions...
+ Mais ce sont peut-être des fables ?
+ Ne troublons pas la noce ! 
 
 # SCENE VII
 # LE ROI.
@@ -279,14 +298,14 @@ Permettez à un pauvre vieux, inutile à ses maîtres,
 # LE ROI.
 Vous, inutile ? Le roi vous tient au contraire
  pour le plus utile de tous ses courtisans.
- N'est-ce votre valeur qui a sauvé de la tempête
- mon frère et Armilla, qui est la vie de votre roi !
+ N'est-ce votre valeur qui a sauvé de la tempête mon frère 
+ et Armilla, qui est désormais la vie de votre roi !
 # PANTALON.
 Le ciel, qui vous est favorable,
  est venu au secours de mes faibles capacités.
 Que Votre Majesté remercie le courage
  et la rare affection fraternelle du Prince Gennaro,
- envers qui, puis-je le dire du fond du cœur et en toute franchise,
+ envers qui, je le dis du fond du cœur et en toute franchise,
  Votre Majesté conservera une dette éternelle.
 Comme on dit à Venise,
  on emprunte un objet étranger pour un temps,
@@ -352,7 +371,8 @@ Attendez, Majesté, laissez-moi l'honneur de vous tenir l'étrier.
 A moi ! à l'aide !
 
 Un astrologue me l'avait bien dit :
- « Contentez-vous de vos barques et tenez-vous loin des chevaux ! »
+ « Contentez-vous de vos barques
+ et tenez-vous loin des chevaux ! »
  Ouille ouille ouille, laissez-moi sortir !
 
 Gardes, messeigneurs, pour l'amour de Dieu,
