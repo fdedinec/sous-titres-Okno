@@ -431,33 +431,96 @@ Va te taire par là.
 
 # SCENE VII
 # TRUFFALDIN PANTALON TARTAGLIA
-# TRUFFALDIN 
-(Improvisation)
-#Il leur demandera s'ils savent la grande nouvelle
-# PANTALON demandera si le prince est réconcilié avec son frère.# TARTAGLIA demandera si Jennaro n'a pas fait quelque nouvelle sottise.# TRUFFALDIN prendra la position d'un tragédien, et commencera d'un ton grave :
-#L'autel étincelait des flambeaux d'hyménée...
-#Il interrompra sa tirade pour prier, en grâce, qu'on le laisse achever, parce qu'un poête lui a donné une narration en vers afin qu'il s'en fit honneur, et il espère ne pas manquer de mémoire. Il se remet en position tragique, et récite ayec emphase la narration suivante, en faisant des gestes académiques.
+# TRUFFALDIN
+# SCENE VII
+# TRUFFALDIN
+Votre attention s'il vous plaît!
+ Ici Radio Frattombrose.
+ Ecoutez les actualités de la cour.
+ Scandales, intrigues, investigations.
+Il y a discorde entre frères au palais.
+ Le roi est en colère.
+ Le prince l'insulta de cent manières.
+Ils se sont disputés.
+ Le roi menaçe la vie du prince.
+ La tragédie est imminente.
+ Toute la ville est inquiète.
+Qu'arrivera-t-il ensuite ?
+ Dans nos prochains numéros,
+ des nouvelles du palais.
+# TRUFFALDIN
+En voilà une nouvelle! C'est dingue!
+# PANTALON
+ - Le prince est réconcilié avec son frère?
+# TARTAGLIA
+ - Jennaro n'a pas fait quelque nouvelle s...s...sottise?
+# TRUFFALDIN
+Tu vois, même si je suis le premier chasseur royal...
+# BRIGHELLA
+ - C'est pas vrai!
+# TRUFFALDIN
+J'ai un aure rêve :
+ j'aimerais aussi devenir le premier tragédien royal.
+# PANTALON
+Tragédien ?
+# TARTAGLIA
+ - T.. t.. tragédien?
+# TRUFFALDIN
+Oui, et j'ai donc chargé un poète
+ d'écrire sur ce qui s'est passé au mariage royal.
+ Je vais vous les lire maintenant. Écouter!
+L'autel étincelait des flambeaux d'hyménée...
+ La victime était prête et de fleurs couronnée,
+ Le roi, d'un air gaillard, conduisait Armilla
+ Au sein du temple avec tout ce que l'art mit là.
+Le bon roi souriait au son des clarinettes
+ Des cors en mi-bémol et des fifres honnêtes :
+ Grosse caisse et cymbale, avec leur pif pan pan,
+ D'harmonie emplissaient son délicat tympan.
+De nocturnes oiseaux, soudain, un assemblage
+ Sur le temple fondit, plus pressé qu'un nuage
+ Et des chiens qui hurlaient, par centaines entrant,
+ Parmi les gens de cour, sans façon prirent rang.
+Une glace tomba; ses morceaux se changèrent
+ En un vase de sel dont les grains submergèrent
+ L'autel. Puis une buse, au front du souverain
+ Vint se percher, perdant tout respect et tout frein.
+Vous n'êtes pas au bout. Une énorme chouette
+ De la princesse osa souiller la noble tête,
+ Et sa griffe, fouillant dans son chignon épais,
+ Fit un buisson, hélas! de ce roi des toupets !
+# TARTAGLIA
+T.. t.. toupets ?
+# PANTALON
+Bref, comment tout cela a fini ?
+# TRUFFALDIN
+Tu sais, j'en ai marre de déclamer en poésie,
+ ça ne me regarde pas.
+ Je ne serai peut-être pas un tragédien.
+ Je serai juste le premier chasseur royal.
+# BRIGHELLA
+Le deuxième!
+# TRUFFALDIN
+ - Tais-toi, imposteur !
+ Bon, je vais raconter la nouvelle à notre manière,
+ de manière simple, à la manière d'un gamin...
+Bref, le prince a disparu.
+ Il a pris le m... le mm... le maquis.
+Eh puis, le roi Millon, vous voyez...
+ avec sa chérie ... mais vous comprenez.
+Enfin bref, le roi s'est retiré avec sa femme
+ dans la chambre nuptiale.
+Et il nous a ordonné, à tous les courtisans,
+ de monter la garde.
+Par conséquent,
+ en tant que premier et principal chasseur royal,
+  je vais préparer mes chiens de chasse pour la garde.
+Et si Gennaro a décidé de devenir fou,
+ il aura des ennuis!
+# BRIGHELLA
+Bon, je vais boire de la co...co...co..
+# PANTALON
+Entracte!
 
-#La victime était prête et de fleurs couronnée,
-#L'autel étincelait des flambeaux d'hyménée
-#Le roi, d'un air gaillard conduisait Armilla
-#Au sein du temple avec tout ce que l'art mit là.
-#Le bon roi souriait au son des clarinettes
-#Des cors en mi-bémol et des fifres honnêtes :
-#Grosse caisse et cymbale, avec leur pif pan pan,
-#D'harmonie emplissaient son délicat tympan.
-#De nocturnes oiseaux, soudain un assemblage
-#Sur le temple fondit plus pressé qu'un nuage
-#Et des chiens qui hurlaient, par centaines entrant,
-#Parmi les gens de cour, sans façon prirent rang. 
-#Une glace tomba; ses morceaux se changèrent
-#En un vase de sel dont les grains submergèrent
-#L'autel. Puis une buse au front du souverain
-#Vint se percher perdant tout respect et tout frein,
-#Vous n'êtes pas au bout. Une énorme chouette
-#De la princesse osa souiller Ia noble tête,
-#Et sa griffe, fouillant dans son chignon épais,
-#Fit un buisson, hélas! de ce roi des toupets!
 
-#  PANTALON, impatient, veut savoir comment tout cela a fini.# TRUFFALDIN répond qu'il est fatigué de parler en vers, qu'il craint d'ennuvyer, les vers n'étant pas dans les habitudes de son personnage. Il annonce qu'il terminera en prose. Ces funestes augures avaient épouvanté le roi et le peuple. Léandre était venu annoncer qu'il n'avait trouvé Jennaro nulle part. Le roi avait craint une rébellion de son frère. Il avait donné l'ordre de mettre les troupes sous les armes, et que toutes les personnes de sa cour fussent de garde cette nuit, et il s'était retiré, avec sa femme, dans la chambre nuptiale. —# PANTALON, désespéré de la disparition de Jennaro, pense qu'il a été se noyer, et il sort en poussant de grands cris.# TARTAGLIA, sachant qu'ik sera de garde toute la nuit, sort pour acheter du tabac afin de se tenir éveillé.# TRUFFALDIN part de son côté pour aller chercher ses chiens de chasse qu'il lâchera, cette nuit, sur Jennaro, s'il tente quelque folie.
- 
+

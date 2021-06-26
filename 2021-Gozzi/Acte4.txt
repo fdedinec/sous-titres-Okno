@@ -1,114 +1,196 @@
 # ACTE QUATRIÈME
-
 # SCENE PREMIÈRE
-
-# JENNARO.Les détours et les obstacles de ce souterrain oublié, ont bien pu ralentir mes pas, mais non les arrêter. La vie de mon frère, toujours bien-aimé, quoiqu'il me persécute, m'importait trop pour celà. Voici le seul passage par lequel le monstre puisse arriver jusqu'à la chambre nuptiale. Ici, je laisserai ma vie. Ma mort fera connaître mon innocence, puisque mes paroles ne le peuvent pas. Ces éclairs, ce feu, cette atmosphère épaisse qui pèse sur ma poitrine, annoncent sans doute l'approche de ce dragon infernal! Oui, je le vois, il veut entrer dans ce palais. Oh! quel horrible aspect ! Juste ciel! protecteur des malheureux ! affermis mon bras, fortifie mon glaive et ce cœur soumis à tes volontés! Monstre horrible ! c'est moi qui serai ta première victime! — Malheur! Ses écailles sont de porphyre et de diamant. Mon frère, mes forces sont impuissantes ! Mon Dieu ! guide ce coup désespéré !
+# JENNARO.
+Les détours et les obstacles de ce souterrain oublié
+ ont bien pu ralentir mes pas, mais non les arrêter.
+ La vie de mon frère, toujours bien-aimé,
+ quoiqu'il me persécute, m'importait trop pour celà.
+Voici le seul passage par lequel le monstre
+ puisse arriver jusqu'à la chambre nuptiale.
+ Ici, je laisserai ma vie.
+Ma mort fera connaître mon innocence,
+ puisque mes paroles ne le peuvent pas.
+Ces éclairs, ce feu,
+ cette atmosphère épaisse qui pèse sur ma poitrine,
+ annoncent sans doute l'approche de ce dragon infernal!
+Oui, je le vois, il veut entrer dans ce palais.
+ Oh! quel horrible aspect !
+ Juste ciel! Protecteur des malheureux !
+Affermis mon bras, fortifie mon glaive
+ et ce cœur soumis à tes volontés!
+Monstre horrible !
+ C'est moi qui serai ta première victime!
+Malheur! Ses écailles sont de porphyre et de diamant.
+ Mon frère, mes forces sont impuissantes !
+Mon Dieu ! guide ce coup désespéré !
 
 # SCENE II
-
-# LE ROI. Ah! traître! toi, dans mon palais, la nuit, seul, l'épée à la main ? Tu brises ces portes pour ôter la vie à ton frère ?
+# LE ROI.
+Ah! traître! Toi, dans mon palais,
+ la nuit, seul, l'épée à la main ?
+ Tu brises ces portes pour ôter la vie à ton frère ?
 
 # JENNARO
-Malheur, le monstre a disparu ! Je ne peux me justifier.
+Malheur, le monstre a disparu !
+ Je ne peux plus me justifier.
 
 # LE ROI.
-Voilà le sang, ingrat, que tu voulais verser !  Mais, ta mort peut-être.
+Je suis encore vivant !
+ Voici le sang, ingrat, que tu voulais verser !
+ Ton épée tremble encore du coup.
+ Mais c'est peut-être ta mort que tu rencontreras.
 
 # JENNARO.
 Mon frère... Crois-moi... Je suis venu ici pour...
-Mais, je dois me taire. Destin cruel!
-
+Non, je dois me taire. Destin cruel!
 # LE ROI.
-À moi, mes serviteurs ! à moi!
-
+À moi, mes serviteurs ! À moi!
 
 # SCENE III
-
-
-
 # TARTAGLIA.
-Nous voilà, Majesté! Oh diable! qu'est-ce que j'aperçois ?
-
+Nous voilà, Majesté!
+ Oh diable! qu'est-ce que j'aperçois ?
 # LEANDRE.
 O ciel !
-
 # LE ROI.
-Est-ce ainsi que vous gardez la vie de votre roi? Désarmez ce scélérat qui voulait tuer son frère. C'est ainsi que vous laissez pénétrer des assassins jusqu'à moi?
+Ministres de pacotilles, gardes imbéciles,
+ Est-ce ainsi que vous gardez la vie de votre roi ?
+Vous laissez pénétrer jusqu'à moi un assassin 
+ qui ouvre ma porte à coup d'épée
+ pour tuer son frère dans mon sommeil !
+Désarmez le prince !
 
 # TARTAGLIA.
 Je ne comprends pas, de quelle façon...
 
 # LEANDRE.
-Majesté, nous sommes confus, nous n'avons pas la moindre idée de la manière par laquelle il est entré...
-
-# JENNARO. Ils sont innocents. Je me suis introduit par un souterrain oublié, et excité par le péril et par mon amitié pour toi, frère, je suis venu... Oui, c'est mon amitié pour toi qui m'a mis les armes à la main, qui m'a fait briser cette porte...
-
-# LE ROI.
-Quelle excuse ! quel aveu de son indigne amour !
+Majesté, nous sommes confus,
+ nous n'avons pas la moindre idée de la manière
+ par laquelle il est entré...
 
 # JENNARO.
-Ne cherche pas davantage. Oui, ce fut l'amour qui me conduisit.
-
+Ils sont innocents.
+ Je me suis introduit par un souterrain oublié,
+ et excité par le péril et par mon amour pour toi,
+ frère, je suis venu...
+Oui, c'est mon amour pour toi
+ qui m'a mis les armes à la main,
+ qui m'a fait briser cette porte...
 # LE ROI.
-C'est le cri d'une conscience coupable, Désarmez-le, qu'on le mette en prison; que le conseil royal s'assemble et qu'il soit décidé de son sort !...
+Tu cherches des excuses !
+ De quel amour parles-tu !
+# JENNARO.
+Ne cherche pas davantage.
+ Oui, ce fut l'amour qui me conduisit.
+# LE ROI.
+C'est le cri d'une conscience coupable.
+ Désarmez-le, qu'on le mette en prison,
+ que le conseil royal s'assemble
+ et qu'il décide de son sort !
 
 # JENNARO.
-Ingrat ! voici mon épée, voici ma vie ! que la mort m'affranchisse de tant d'angoisses ! Un jour viendra, peut-être, où mon frère pleurera sur la pierre de mon sépulcre, sa voix appellera en vain l'innocent !
-Sois content, cruel Norando ! que mon sang te suffise ! Que mon frère soit maintenant heureux avec Armilla !
-
+Ingrat ! Voici mon épée, voici ma vie !
+ Que la mort m'affranchisse de tant d'angoisses !
+Un jour viendra, peut-être, où mon frère pleurera
+ sur la pierre de mon sépulcre,
+ sa voix appellant en vain l'innocent !
+Réjouis-toi, cruel Norando !
+ Que mon sang te suffise !
+ Mon frère sera désormais heureux avec Armilla !
 # LEANDRE.
-Prince, comment avez-vous pu vous rendre coupable d'un tel crime ?
-
+Prince, comment avez-vous pu
+ vous rendre coupable d'un tel crime ?
 # TARTAGLIA.
 Est-il possible, Jennaro ?
-
 # JENNARO.
-Taisez-vous. Je n'accepte pas vos reproches, Vous êtes ministres? Alors suivez les ordres du roi.
+Taisez-vous.
+ Je n'accepte pas vos reproches.
+ Vous êtes ministres ? Alors suivez les ordres du roi.
 # LEANDRE.
 Nous le ferons.
 # TARTAGLIA.
-Assurément.
+ - Assurément.
 
 #SCÈNE IV
-
 # SMERALDINE.
-Princesse, quel est ce tumulte ? Quel est ce bruit? Pourquoi ces flambeaux qui brillent au milieu de la nuit ? Pourquoi ces soldats et ces voix confuses ? Qu'est-il donc arrivé ?
-
+Princesse, quel est ce tumulte ?
+ Quel est ce bruit ?
+ Pourquoi ces flambeaux qui brillent au milieu de la nuit ?
+Pourquoi ces soldats et ces voix confuses ?
+ Qu'est-il donc arrivé ?
 # ARMILLA.
-Oh ! laisse-moi respirer. Jennaro, caché dans ce palais, a voulu briser cette porte, tuer le roi, mon époux! on l'a jeté en prison. Au lieu de fêtes et de joie, je n'attends plus que mort et carnage.
-
+Oh ! laisse-moi respirer.
+ Jennaro, caché dans ce palais, a voulu
+ briser cette porte, tuer le roi, mon époux !
+On l'a jeté en prison.
+ Au lieu de fêtes et de joie,
+ je n'attends plus que mort et carnage.
 # SMERALDINE.
 Que me dites-vous ? Où est le roi ?
-
 # ARMILLA,
-Je l'ai vu furieux ! il m'a regardée en soupirant, et il a pleuré, et il s'est enfermé dans sa chambre. Malgré mes larmes, il a refusé de m'ouvrir, et je n'ai pu entendre que le bruit de ses sanglots.
+Je l'ai vu furieux !
+ Il m'a regardée en soupirant,
+ il a pleuré,
+ et il s'est enfermé dans sa chambre.
+Malgré mes larmes, il a refusé de m'ouvrir,
+ et je n'ai pu entendre que le bruit de ses sanglots.
 
 # SMERALDINE.
-Princesse, fuyons d'ici, fuyons dans les montagnes. C'est le moment de vous découvrir ce que je vous ai tenu caché jusqu'à ce jour.
-
+Princesse, fuyons d'ici,
+ Réfugions nous dans les grottes des montagnes.
+C'est le moment de vous révéler
+ ce que je vous ai tenu caché jusqu'à ce jour.
 # ARMILLA.
-Que m'as-tu caché ? parle !
-
+Que m'as-tu caché ? Parle !
 # SMERALDINE.
-À votre naissance, Norando, votre père, voulut consulter les sages sur votre destinée.Ils lui répondirent que par suite de la mort d'un certain corbeau consacré à un ogre, vous seriez enlevée, et que de ce rapt naîtraient des malheurs, des massacres et la mort ; que lui-même, contraint par une fatale étoile, il deviendrait votre persécuteur. Telle est la raison, Armilla, pour laquelle votre père vous tint toujours étroitement enfermée. Mais la prévision humaine fléchit devant le sort, et l'oracle s'est enfin vérifié, Fuyons, Armilla, avant qu'il ait achevé notre perte.
+À votre naissance, Norando, votre père,
+ voulut consulter des mages sur votre destinée.
+Ils lui répondirent que,
+ par suite de la mort d'un corbeau consacré à un ogre,
+ vous seriez enlevée,
+et que de ce rapt naîtraient des malheurs,
+ des massacres et la mort ;
+que lui-même, contraint par une fatale étoile,
+ il deviendrait votre persécuteur.
+Telle est la raison, Armilla,
+ pour laquelle votre père vous tint toujours
+ étroitement enfermée.
+Mais la prévision humaine fléchit devant le sort,
+ et l'oracle s'est vérifié,
+ Fuyons, Armilla, avant qu'il ait achevé notre perte.
 
 # ARMILLA.
-Moi, fuir ? Me séparer d'un époux que j'aime ? Je ne fuirai pas. Ma présence pourra peut-être réparer quelques-uns de ces maux. Je ne crains pas la mort; elle ne sera que la fin de mes tourments.
-
+Moi, fuir ? Me séparer d'un époux que j'aime ?
+ Non, je ne fuirai pas.
+ Ma présence pourra peut-être
+ réparer quelques-uns de ces maux.
+Et du reste, la mort me gérirait de mes tourments.
+ je ne la crains pas.
 
 # SMERALDINE
 Oh ! malheureuse enfant !
 
-
-
-SGÈNE V
+#SGÈNE V
 # JENNARO.
-C'est seulement à vous, horribles murs, obscure prison, que l'infortuné Jennaro pourra dire qu'il meurt pour avoir voulu sauver les jours de son frère ? Quel plus misérable état que le mien! Je mourrai, mais toi, cruel Norando, qui sans doute es là près de moi, invisible et qui vois mon désespoir, dis-moi au moins si les malheurs de mon frère finiront avec ma vie!
-
+Est-ce seulement à vous, horribles murs, sombre prison,
+ que l'infortuné Jennaro pourra dire qu'il meurt
+ pour avoir voulu sauver les jours de son frère ?
+ Quel plus misérable état que le mien!
+Je mourrai, mais toi, cruel Norando,
+  qui sans doute es là près de moi, invisible
+	et qui vois mon désespoir, dis-moi au moins
+	si les malheurs de mon frère finiront avec ma vie !
 
 # SCENE VI
 # NORANDO.
-Meurs, larron de femmes, meurs avec le renom d'un traître! Si tu le veux, publie ton innocence et tu deviendras statue. Mais que tu meurs ou te transformes en marbre, tu ne sauras ce qui arrivera à ton frère et à Armille, ma fille... Ainsi veut le destin, ainsi je le veux.
+Meurs, voleur de femmes,
+ meurs avec le renom d'un traître!
+ Si tu le veux, publie ton innocence,
+ et tu deviendras statue.
+Mais que tu meurs ou te transformes en marbre,
+ tu ne sauras ce qu'il adviendra de ton frère
+ ni d'Armille, ma fille...
+Ainsi veut le destin, ainsi je le veux.
 
 JENDARO.
 Ah ! cruel ! Écoute-moi...
