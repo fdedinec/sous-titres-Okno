@@ -198,9 +198,20 @@ Le chirurgien, dis-donc! Je lui dis: Docteur, vais-je vivre ?
 Il me dit: Ah, ces patients ! Arrêtez votre automédication. 
  On vous a dit: à la morgue, cela veut dire: à la morgue.
 Mais là, j'entends une édition spéciale : 
- « Le roi est en colère; le prince l'a offensé, 
- le roi a menacé le prince. 
- Il en peut naître quelque tragédie, toute la ville murmure. » 
+Votre attention s'il vous plaît!
+ Ici Radio Frattombrose.
+ Ecoutez les actualités de la cour.
+ Scandales, intrigues, investigations.
+Il y a discorde entre frères au palais.
+ Le roi est en colère.
+ Le prince l'insulta de cent manières.
+Ils se sont disputés.
+ Le roi menaçe la vie du prince.
+ La tragédie est imminente.
+ Toute la ville est inquiète.
+Qu'arrivera-t-il ensuite ?
+ Dans nos prochains numéros,
+ des nouvelles du palais.
 Alors, rien à faire. J'ai dû me lever des brancards, 
  oublier la douleur et venir vous voir
  pour entendre de votre bouche la cause de ces désordres,
@@ -285,17 +296,17 @@ Va deviner ! Moi, je n'y comprends rien.
  qu'il me dit la vérité. 
 Je le connais, cet enfant. Je l'ai élevé; 
  depuis tout petit, ça toujours été la sincérité même ; 
- il n'est pas capable de dire un mensonge. 
-Quand il cassait une tasse, quand il filoutait une pomme, 
- il ne voulait jamais dire,
- comme le lui enseignait ma pauvre femme : 
- « C'est le chat », ou « c'est la servante. » 
-Il disait tout de suite, c'est moi, je vous en demande pardon, 
- je ne le ferai plus; 
-et comme cela depuis le premier jour
- qu'il a commencé à parler;  Mon Dieu,
- indique-moi le moyen de défendre une innocence 
- que je ne puis prouver, mais dont je suis sûr ! 
+# il n'est pas capable de dire un mensonge. 
+#Quand il cassait une tasse, quand il filoutait une pomme, 
+# il ne voulait jamais dire,
+# comme le lui enseignait ma pauvre femme : 
+# « C'est le chat », ou « c'est la servante. » 
+#Il disait tout de suite, c'est moi, je vous en demande pardon, 
+# je ne le ferai plus; 
+#et comme cela depuis le premier jour
+# qu'il a commencé à parler;  Mon Dieu,
+# indique-moi le moyen de défendre une innocence 
+# que je ne puis prouver, mais dont je suis sûr ! 
 Ce pauvre cher enfant,
  il n'a plus confiance qu'en moi, 
  ils l'ont tous abandonné !
@@ -329,7 +340,8 @@ Je ne suis pas tenu de vous révéler les ordres du roi.
  Je le trouverai bien sans vous.
 # PANTALON.
 Ah ! Canaille !
- Certes, il est porteur de quelqu'ordre cruel ! 
+
+Certes, il est porteur de quelqu'ordre cruel ! 
  Ils me le persécutent ! Ils veulent me l'enlever !
 
 # SCENE VI
@@ -377,7 +389,7 @@ Mais après toutes ces impertinences,
 Il lui baisait les mains, il la caressait et pleurait
  en lui disant : « Oh! mon bien, ma vie,
  n'épousez pas mon frère si vous ne voulez me faire mourir. 
-Est-ce là de l'innocence ? 
+ Est-ce là de l'innocence ? 
 # PANTALON,
 Diable! Celà, certainement, est grave.
  Peu importe. Nous avons à ce sujet une bonne blague.
@@ -399,13 +411,13 @@ Mais vous avez eu le crâne rompu,
 # PANTALON.
 Mon cher ministre! Je vous respecte beaucoup, 
  (je ne me souviens plus pour quelles mérites). 
-Mais vous êtes un salaud qui,
+Mais vous êtes un (biiip) qui,
  au lieu d'y jeter de l'eau, attise le feu, 
-et qui, oubliant que le scandale et la ruine
- sont tombés sur ces deux frères, 
- se fait une joie de leur malheur quand il devrait en pleurer, 
- et avoir le cœur fendu comme je l'ai, moi, pauvre vieillard.
-Vous méritez bien qu'on vous casse la tếte aussi. 
+#et qui, oubliant que le scandale et la ruine
+# sont tombés sur ces deux frères, 
+# se fait une joie de leur malheur quand il devrait en pleurer, 
+# et avoir le cœur fendu comme je l'ai, moi, pauvre vieillard.
+#Vous méritez bien qu'on vous casse la tếte aussi. 
 # TARTAGLIA. 
 Et chez nous à N... 
 # PANTALON
@@ -425,35 +437,18 @@ A Naples, seigneur Pantalon,
  avec emp... emp... avec empressement!
 # PANTALON.
 A... a... alors ferme ta bouche et écoute-moi!
-Va te taire par là. 
- Et je te revoie sans tes deux jambes,
+Fous le camp !. 
+ Et que je te revoie sans tes deux jambes,
  et que tu me revoies avec un seul oeil !
 
 # SCENE VII
 # TRUFFALDIN PANTALON TARTAGLIA
 # TRUFFALDIN
-# SCENE VII
-# TRUFFALDIN
-Votre attention s'il vous plaît!
- Ici Radio Frattombrose.
- Ecoutez les actualités de la cour.
- Scandales, intrigues, investigations.
-Il y a discorde entre frères au palais.
- Le roi est en colère.
- Le prince l'insulta de cent manières.
-Ils se sont disputés.
- Le roi menaçe la vie du prince.
- La tragédie est imminente.
- Toute la ville est inquiète.
-Qu'arrivera-t-il ensuite ?
- Dans nos prochains numéros,
- des nouvelles du palais.
-# TRUFFALDIN
 En voilà une nouvelle! C'est dingue!
 # PANTALON
- - Le prince est réconcilié avec son frère?
+ - Le prince est réconcilié avec son frère ?
 # TARTAGLIA
- - Jennaro n'a pas fait quelque nouvelle s...s...sottise?
+ - Jennaro n'a pas fait quelque nouvelle s...s...sottise ?
 # TRUFFALDIN
 Tu vois, même si je suis le premier chasseur royal...
 # BRIGHELLA
@@ -501,8 +496,8 @@ Tu sais, j'en ai marre de déclamer en poésie,
 # BRIGHELLA
 Le deuxième!
 # TRUFFALDIN
- - Tais-toi, imposteur !
- Bon, je vais raconter la nouvelle à notre manière,
+ - Premier ! Ta gueule, imposteur !
+Bon, je vais raconter la nouvelle à notre manière,
  de manière simple, à la manière d'un gamin...
 Bref, le prince a disparu.
  Il a pris le m... le mm... le maquis.
@@ -515,12 +510,19 @@ Et il nous a ordonné, à tous les courtisans,
 Par conséquent,
  en tant que premier et principal chasseur royal,
   je vais préparer mes chiens de chasse pour la garde.
-Et si Gennaro a décidé de devenir fou,
- il aura des ennuis!
+# Et si Gennaro a décidé de devenir fou,
+# il aura des ennuis!
 # BRIGHELLA
-Bon, je vais boire de la co...co...co..
+Bon, je vais boire du ca...ca...ca..
+Du café pour ne pas dormir de la nuit !
+
 # PANTALON
-Entracte!
+Entracte !
+
+
+
+
+
 
 
 

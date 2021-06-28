@@ -42,8 +42,8 @@ def main(filename):
     font_size=30; # 24 normal
     line_height=font_size*1.5
     myfont = pygame.font.SysFont("dejavusans", font_size, 0, 0)
-    #screen_size = 1300,900 # pour un projet 1024x768
-    screen_size = 900,700 # pour le projo Acer
+    screen_size = 1300,900 # pour un projet 1024x768
+    #screen_size = 900,700 # pour le projo Acer
     screen = pygame.display.set_mode(screen_size,0,24)
     #screen = toggle_fullscreen()
 
@@ -85,12 +85,17 @@ def main(filename):
             screen.blit(text, text_rect)
         pygame.display.update()
 
-        print("\n\nProchaine ligne:")
-        print("__________________________________________________")
-        phrase=subtitles[i+1]
-        for line in phrase:
+        print("*********************************************************")
+        for j in range(-4,6):
+          if(j==0 or j==1):
+              print("======================================================")
+          else:
+              print("--------------------------------------------------")
+          phrase=subtitles[i+j]
+          for line in phrase:
             print(line)
-        print("__________________________________________________")
+          for k in range(4-len(phrase)):
+            print()
         
 
     subtitles = parse_file()
