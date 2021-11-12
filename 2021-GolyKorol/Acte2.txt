@@ -1,171 +1,199 @@
 # LE CIREUR -
 On frappe à la porte de la salle de réception du roi,
  monsieur le cuisinier en chef.
-
 # LE CUISINIER -
 On frappe à la porte, monsieur le valet de chambre.
-
 # LE VALET DE CHAMBRE -
 On frappe ? Dites d'entrer.
-
 # -----------------------73-----------------------------------
-
 # LE CUISINIER -
 On peut.
-
 # LE CIREUR -
 Entrez.
-
 # CHRISTIAN ET HENRI -
 Bonjour, monsieur le sonneur.
  Bonjour, monsieur le cuisinier.
  Bonjour, monsieur le cireur de chaussures.
-
 # LE CIREUR -
 Bonjour, tailleurs.
-
 # CHRISTIAN -
 Ils ont répondu. Quelle histoire !
 Dites, mais, les autres messieurs - ils sont quoi, sourds et muets ?
-
 # LE CIREUR -
-Ni l'un ni l'autre, tisserands. Mais d'après l'étiquette de la cour, vous deviez d'abord vous adresser à moi. Moi, je ferai un rapport sur vous par la voie hiérarchique, quand je saurai ce que je peux pour votre service. Eh bien ? Que puis-je pour votre service ?
-# -------------------------------------------------- 74 ---------------------------------------------------------
-
+Ni l'un ni l'autre, tisserands.
+ Mais d'après l'étiquette de la cour, vous deviez d'abord vous adresser à moi.
+ Moi, je ferai un rapport sur vous par la voie hiérarchique,
+ quand je saurai ce que je peux pour votre service.
+Eh bien ? Que puis-je pour votre service ?
+# ------------------------------------------ 74 ------------------------
 # HENRI -
-Nous sommes les tisserands les plus étonnants de la terre. Votre roi, lui, c'est le plus grand dandy, le plus grand lion de la terre. Nous voulons rendre service à Sa Majesté.
-
+Nous sommes les tisserands les plus étonnants de la terre.
+Votre roi, lui, c'est le plus grand dandy, le plus grand lion de la terre.
+Nous voulons rendre service à Sa Majesté.
 # LE CIREUR -
-Aha. Monsieur le cuisinier en chef, des tailleurs étonnants désirent servir notre très-miséricordieux roi.
-
+Aha. Monsieur le cuisinier en chef, des tailleurs étonnants
+ désirent servir notre très-miséricordieux roi.
 # LE CUISINIER -
-Ah bon. Monsieur le valet de chambre, c'est des tisserands qui viennent d'arriver.
-
-LE VALET DE CHAMBRE - Ah bon. Bonjour, tisserands.
-
-CHRISTIAN ET # HENRI -
+Ah bon. Monsieur le valet de chambre, c'est des tisserands
+ qui viennent d'arriver.
+#LE VALET DE CHAMBRE -
+Ah bon. Bonjour, tisserands.
+#CHRISTIAN ET # HENRI -
 Bonjour, monsieur le valet de chambre.
-
-LE VALET DE CHAMBRE - Vous voulez servir ? D'accord. Je vous annonce directement au Premier ministre, et lui, au roi. Pour les tisserands, nous avons des formalités d'accueil express. Donc, il va vous recevoir au plus haut point très vite.
-
+# LE VALET DE CHAMBRE -
+Vous voulez servir ? D'accord.
+ Je vous annonce directement au Premier ministre, et lui, au roi.
+Pour les tisserands, nous avons des formalités d'accueil express.
+ Donc, il va vous recevoir au plus haut point très vite.
 # HENRI -
-Très vite ! Nous avons mis deux heures pour parvenir jusqu'à vous. Vous parlez d'un système !
-
-LE VALET DE CHAMBRE - Messieurs les tisserands ! Vous êtes des personnes dignes, chargées 
-# ----------------------------------------------- 75 -------------------------------------------------------------
-d'âge. Par respect pour vos cheveux blancs, je vous préviens : pas un mot sur nos traditions nationales, multiséculaires, reflets de la lumière du Créateur lui-même. Notre état est le plus noble sur cette terre! Si vous commencez à en douter, malgré votre âge, on vous ...
-
+Très vite ! Nous avons mis deux heures pour parvenir jusqu'à vous.
+ Vous parlez d'un système !
+# LE VALET DE CHAMBRE -
+Messieurs les tisserands !
+ Vous êtes des personnes dignes, chargées d'âge.
+ Par respect pour vos cheveux blancs, je vous préviens :
+pas un mot sur nos traditions nationales, multiséculaires,
+ reflets de la lumière du Créateur lui-même.
+ Notre état est le plus noble sur cette terre!
+ Si vous commencez à en douter, malgré votre âge, on vous ...
 # CHRISTIAN -
 Pas possible.
-
-LE VALET DE CHAMBRE - Si. Pour que vous ne fassiez pas d'enfants enclins à la critique. Vous êtes Aryens ?
-
+# LE VALET DE CHAMBRE -
+Si. Pour que vous ne fassiez pas d'enfants enclins à la critique.
+ Vous êtes Aryens ?
 # HENRI -
 Depuis longtemps.
-
-LE VALET DE CHAMBRE - ça fait plaisir à entendre. Asseyez-vous. N'empêche, je sonne déjà depuis une heure, et le roi ne se réveille pas. 
-
+# LE VALET DE CHAMBRE -
+Ça fait plaisir à entendre. Asseyez-vous.
+ N'empêche, je sonne déjà depuis une heure, et le roi ne se réveille pas. 
 # LE CUISINIER -
 Je vais esss-ssayer de vous aidd-dder.
-
 # CHRISTIAN -
-Dites-moi, monsieur le valet de chambre, pourquoi, malgré cette chaleur, est-ce que monsieur le cuisinier en chef a l'air de trembler de fièvre ?
+Dites-moi, monsieur le valet de chambre, pourquoi,
+ malgré cette chaleur, est-ce que monsieur le cuisinier en chef
+ a l'air de trembler de fièvre ?
+# LE VALET DE CHAMBRE -
+Monsieur le cuisinier en chef ne quitte presque jamais ses fourneaux
+ et s'habitue tellement à la chaleur que, l'année dernière,
+ par exemple, en pleine canicule de juillet, il s'est gelé le bout du nez.
 
-LE VALET DE CHAMBRE - Monsieur le cuisinier en chef ne quitte presque jamais ses fourneaux et s'habitue tellement à la chaleur que, l'année dernière, par exemple, en pleine canicule de juillet, il s'est gelé le bout du nez.
 Qu'est-ce que cest ?
-# ------------------------------------------- 76 -----------------------------------------------------
-Qu'est-ce que c'est ?
-
 # LE CUISINIER -
-Des exocets, monsieur le valet de chambre. Nous allons les mettre dans la cccchhhambre à cccouccchhher du roi, ils vont voler en sautant, et ils réveilleront SSSa MMMajesté.
-
-LE VALET DE CHAMBRE - Non.
-
+Des exocets, monsieur le valet de chambre.
+ Nous allons les mettre dans la cccchhhambre à cccouccchhher du roi,
+ ils vont voler en sautant, et ils réveilleront SSSa MMMajesté.
+# LE VALET DE CHAMBRE -
+Non.
 # LE CUISINIER -
 Mais pourquoi ? 
-
-LE VALET DE CHAMBRE - C'est non. L'exocet, on a beau dire,  pardonnez-moi..... le roi peut voir rouge..... Et vous savez bien ce que le roi pense du rouge. Enlevez !
-
-Là, c'est mieux, monsieur le cuisinier en chef. Holà ! Appelez-moi un escadron de soldats, qu'ils tirent sous les fenêtres de la chambre à coucher, par salves. Peut-être que ça peut aider.
+# LE VALET DE CHAMBRE -
+C'est non. L'exocet, on a beau dire,  pardonnez-moi.....
+  le roi peut voir rouge..... Et vous savez bien ce que le roi pense du rouge.
+	Enlevez !
+Là, c'est mieux, monsieur le cuisinier en chef. Holà !
+ Appelez-moi un escadron de soldats, qu'ils tirent sous les fenêtres
+ de la chambre à coucher, par salves. Peut-être que ça peut aider.
 
 # CHRISTIAN -
 Sa Majesté a donc toujours un sommeil si profond ?
-
-LE VALET DE CHAMBRE - Il y a cinq ans, il se réveillait très vite. Il suffisait que je toussote et le roi sautait au bas de son lit.
-
+# LE VALET DE CHAMBRE -
+Il y a cinq ans, il se réveillait très vite.
+ Il suffisait que je toussote et le roi sautait au bas de son lit.
 # HENRI -
 Oh ?
-# --------------------------------------------- 77 ---------------------------------------------------
-LE VALET DE CHAMBRE - Parole ! A ce moment-là, il avait plein de soucis. Il attaquait tout le temps ses voisins et leur faisait la guerre. 
-
+# --------------------------------------------- 77 ---------------------------
+# LE VALET DE CHAMBRE -
+Parole ! A ce moment-là, il avait plein de soucis.
+ Il attaquait tout le temps ses voisins et leur faisait la guerre. 
 # CHRISTIAN -
 Et maintenant ?
+# LE VALET DE CHAMBRE -
+Maintenant, il n'a plus de souci du tout. *
+ Ses voisins lui ont pris toutes les terres qu'ils pouvaient prendre.
+ Et donc, le roi dort et il voit en rêve la façon qu'il aurait de se venger.
 
-LE VALET DE CHAMBRE - Maintenant, il n'a plus de souci du tout. Ses voisins lui ont pris toutes les terres qu'ils pouvaient prendre. Et donc, le roi dort et il voit en rêve la façon qu'il aurait de se venger.
-
-LE PREMIER MINISTRE - Gaaarde à vous !
+# LE PREMIER MINISTRE -
+Gaaarde à vous !
 A l'entrée de la salle de réception du roi, avec dévouement - sou-ou-pirez !  
-En vous figurant, avec adoration, Sa toute-puissance, fri-ii-ssonnez !
-Eh toi, eh, vieille godasse, comment tu frissonnes ? fais gaffe en frissonnant, frissonne au caporal ! Les doigts ! Les doigts ! Là ! Je ne vois pas de frissons dans le ventre ! C'est bien. Gaaarde à vous ! A mes ordres! Dé-ébordant d'enthousiasme à l'idée d'être un soldat du roi - dan-an-sez !
-# --------------------------------------------- 78 --------------------------------------------------
-Gaarde à vous ! Sur la pointe des pieds ! Sur la pointe des pieds - en avant, arche ! Un peu plus à droite ! Un chouïa à droite ! Alignement sur le portrait du papi à Sa Majesté. A-lignement sur le nez. Sur son nez, au papi. Tout droit !
-
+ En vous figurant, avec adoration, Sa toute-puissance, fri-ii-ssonnez !
+Eh toi, eh, vieille godasse, comment tu frissonnes ?
+ fais gaffe en frissonnant, frissonne au caporal !
+ Les doigts ! Les doigts ! Là ! Je ne vois pas de frissons dans le ventre !
+C'est bien. Gaaarde à vous ! A mes ordres!
+ Dé-ébordant d'enthousiasme à l'idée d'être un soldat du roi - dan-an-sez !
+Gaarde à vous ! Sur la pointe des pieds ! Sur la pointe des pieds -
+ en avant, arche ! Un peu plus à droite ! Un chouïa à droite !
+Alignement sur le portrait du papi à Sa Majesté.
+ A-lignement sur le nez. Sur son nez, au papi. Tout droit !
 # CHRISTIAN -
 Et avec des soldats aussi bien entraînés, le roi a été battu ?
-
-LE VALET DE CHAMBRE - Eh oui !
-
+# LE VALET DE CHAMBRE -
+Eh oui !
 LE PREMIER MINISTRE - Bonjour, personnel inférieur.
-
-TOUS - Bonjour, monsieur le Premier ministre.
-
-LE PREMIER MINISTRE - Alors, tout est en ordre, valet de chambre ? Hein ? La vérité. Assène la vérité.
-
-LE VALET DE CHAMBRE - Parfaitement, Votre Excellence.
-
-LE PREMIER MINISTRE - N'empêche, le roi, il dort ! Réponds sans fard. Sincèrement.
-
-LE VALET DE CHAMBRE - Il dort, Votre Excellence.
-# --------------------------------------------- 79 ------------------------------------------------------
-LE PREMIER MINISTRE - Aha ! Dis-le tout net : ils tirent. Donc, Sa Majesté est sur le point de se lever. Tailleurs ! Comment ça se passe chez vous ? Déballez toute la vérité ! En face !
-
-LE PREMIER TAILLEUR - On fait les derniers points, monsieur le ministre.
-
-LE PREMIER MINISTRE - Fais voir. Calculez. Vous connaissez nos exigences ? Le dernier point est cousu juste avant l'habillage de Sa Majesté. Le roi met tous les jours des habits flambant neufs. Qu'il se passe une minute entre l'habillage et votre dernier point et, votre habit, grossièrement parlant, il ne le mettra plus. Vous le savez, ça ?
+#TOUS -
+Bonjour, monsieur le Premier ministre.
+# LE PREMIER MINISTRE -
+Alors, tout est en ordre, valet de chambre ?
+ Hein ? La vérité. Assène la vérité.
+# LE VALET DE CHAMBRE -
+ Parfaitement, Votre Excellence.
+# LE PREMIER MINISTRE -
+N'empêche, le roi, il dort ! Réponds sans fard. Sincèrement.
+# LE VALET DE CHAMBRE -
+Il dort, Votre Excellence.
+# --------------------------------------------- 79 --------------------------
+# LE PREMIER MINISTRE -
+Aha ! Dis-le tout net : ils tirent.
+ Donc, Sa Majesté est sur le point de se lever.
+Tailleurs ! Comment ça se passe chez vous ?
+ Déballez toute la vérité ! En face !
+# LE PREMIER TAILLEUR -
+On fait les derniers points, monsieur le ministre.
+# LE PREMIER MINISTRE -
+Fais voir. Calculez. Vous connaissez nos exigences ? Le dernier point est cousu juste avant l'habillage de Sa Majesté. Le roi met tous les jours des habits flambant neufs. Qu'il se passe une minute entre l'habillage et votre dernier point et, votre habit, grossièrement parlant, il ne le mettra plus. Vous le savez, ça ?
 
 LE PREMIER TAILLEUR - Oui, monsieur le premier ministre, nous le savons.
 
-LE PREMIER MINISTRE - Et ça flambe d'or pur ?
+# LE PREMIER MINISTRE -
+Et ça flambe d'or pur ?
 
 LE PREMIER TAILLEUR - D'or pur, monsieur le Premier ministre.
 
-LE PREMIER MINISTRE - Donnez-lui son habit tout flambant d'or. Franchement et sincèrement ! Cuisinier, la crème, grossièrement parlant, tu l'as fouettée ? Hein ? Parle, sans fanfreluches, sans équivoques ! Tu l'as fouettée, la crème, pour le chocolat de sa Majesté ?
+# LE PREMIER MINISTRE -
+Donnez-lui son habit tout flambant d'or. Franchement et sincèrement ! Cuisinier, la crème, grossièrement parlant, tu l'as fouettée ? Hein ? Parle, sans fanfreluches, sans équivoques ! Tu l'as fouettée, la crème, pour le chocolat de sa Majesté ?
 
 # LE CUISINIER -
 Ou-oui, Votre Excellence.
 
-LE PREMIER MINISTRE - Fais voir. Bon. N'empêche ...
+# LE PREMIER MINISTRE -
+Fais voir. Bon. N'empêche ...
 # --------------------------------------------- 80 ---------------------------------------------------------
-LE PREMIER MINISTRE - Valet de chambre ! Qui est-ce ? Du nerf. Parle.
+# LE PREMIER MINISTRE -
+Valet de chambre ! Qui est-ce ? Du nerf. Parle.
 
-LE VALET DE CHAMBRE - Ce sont des tisserands qui viennent prendre du service, Votre Excellence. 
+# LE VALET DE CHAMBRE -
+ Ce sont des tisserands qui viennent prendre du service, Votre Excellence. 
 
-LE PREMIER MINISTRE - Des tisserands ? Fais voir. Aha ! Bonjour, tisserands.
+# LE PREMIER MINISTRE -
+Des tisserands ? Fais voir. Aha ! Bonjour, tisserands.
 
 HENRI ET # CHRISTIAN -
 Nos respects, Votre Excellence.
 
-LE PREMIER MINISTRE - Le roi, parlant sans arrière-pensées, sans fioritures, a besoin de tisserands. La fiancée arrive aujourd'hui. Eh ! Cuisinier ! Et le petit-déjeuner de Son Altesse ? Il est prêt ? Hein ?
+# LE PREMIER MINISTRE -
+Le roi, parlant sans arrière-pensées, sans fioritures, a besoin de tisserands. La fiancée arrive aujourd'hui. Eh ! Cuisinier ! Et le petit-déjeuner de Son Altesse ? Il est prêt ? Hein ?
 
 # LE CUISINIER -
 Pppparfaitement, il est prêt !
 
-LE PREMIER MINISTRE - Et qu'est-ce que c'est ? Hein ? Fais voir !
+# LE PREMIER MINISTRE -
+Et qu'est-ce que c'est ? Hein ? Fais voir !
 
 # LE CUISINIER -
 Eh ! Apportez les petits pâtés pour son Altesse !
 
-LE PREMIER MINISTRE - Ils les apportent. Moi, pendant ce temps, je vais voir si le roi a ouvert, sans trop, pour ainsi dire, déblatérer de sornettes, les yeux.
+# LE PREMIER MINISTRE -
+Ils les apportent. Moi, pendant ce temps, je vais voir si le roi a ouvert, sans trop, pour ainsi dire, déblatérer de sornettes, les yeux.
 
 # LE CUISINIER -
 La princesse Henriette n'a rien mangé pendant trois semaines.
@@ -219,7 +247,8 @@ Mais c'est affreux ! Non ?
 # LE CUISINIER -
 Je ne vous le dis qu'à vous. Oui. C'est affreux !
 
-LE VALET DE CHAMBRE - Chut ! Je crois que le roi vient d'éternuer.
+# LE VALET DE CHAMBRE -
+Chut ! Je crois que le roi vient d'éternuer.
 
 # HENRI -
 J'ai mis le billet dans un pâté, Christian.
