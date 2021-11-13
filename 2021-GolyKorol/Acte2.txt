@@ -18,10 +18,9 @@ Bonjour, monsieur le cuisinier.
 Bonjour, monsieur le cireur de chaussures.
 # LE CIREUR -
 Bonjour, tailleurs.
-
 # CHRISTIAN -
 Ils ont répondu. Quelle histoire !
-Dites, mais, les autres messieurs - ils sont quoi, sourds et muets ?
+ Dites, mais, les autres messieurs - ils sont quoi, sourds et muets ?
 # LE CIREUR -
 Ni l'un ni l'autre, tisserands.
  Mais d'après l'étiquette de la cour, vous deviez d'abord vous adresser à moi.
@@ -31,17 +30,17 @@ Eh bien ? Que puis-je pour votre service ?
 # ------------------------------------------ 74 ------------------------
 # HENRI -
 Nous sommes les tisserands les plus étonnants de la terre.
-Votre roi, lui, c'est le plus grand dandy, le plus grand lion de la terre.
-Nous voulons rendre service à Sa Majesté.
+ Votre roi, lui, c'est le plus grand dandy, le plus grand lion de la terre.
+ Nous voulons rendre service à Sa Majesté.
 # LE CIREUR -
 Aha. Monsieur le cuisinier en chef, des tailleurs étonnants
  désirent servir notre très-miséricordieux roi.
 # LE CUISINIER -
-Ah bon. Monsieur le valet de chambre, c'est des tisserands
- qui viennent d'arriver.
+Ah bon. Monsieur le valet de chambre,
+ ce sont des tisserands qui viennent d'arriver.
 #LE VALET DE CHAMBRE -
 Ah bon. Bonjour, tisserands.
-#CHRISTIAN ET # HENRI -
+# CHRISTIAN ET HENRI -
 Bonjour, monsieur le valet de chambre.
 # LE VALET DE CHAMBRE -
 Vous voulez servir ? D'accord.
@@ -57,8 +56,8 @@ Messieurs les tisserands !
  Par respect pour vos cheveux blancs, je vous préviens :
 pas un mot sur nos traditions nationales, multiséculaires,
  reflets de la lumière du Créateur lui-même.
- Notre état est le plus noble sur cette terre!
- Si vous commencez à en douter, malgré votre âge, on vous ...
+ Notre état est le plus noble sur cette terre !
+Si vous commencez à en douter, malgré votre âge, on vous ...
 # CHRISTIAN -
 Pas possible.
 # LE VALET DE CHAMBRE -
@@ -111,7 +110,7 @@ Parole ! A ce moment-là, il avait plein de soucis.
 # CHRISTIAN -
 Et maintenant ?
 # LE VALET DE CHAMBRE -
-Maintenant, il n'a plus de souci du tout. *
+Maintenant, il n'a plus de souci du tout. 
  Ses voisins lui ont pris toutes les terres qu'ils pouvaient prendre.
  Et donc, le roi dort et il voit en rêve la façon qu'il aurait de se venger.
 
@@ -140,9 +139,10 @@ Bonjour, monsieur le Premier ministre.
 Alors, tout est en ordre, valet de chambre ?
  Hein ? La vérité. Assène la vérité.
 # LE VALET DE CHAMBRE -
- Parfaitement, Votre Excellence.
+Parfaitement, Votre Excellence.
 # LE PREMIER MINISTRE -
-N'empêche, le roi, il dort ! Réponds sans fard. Sincèrement.
+N'empêche, le roi, il dort !
+ Réponds sans fard. Sincèrement.
 # LE VALET DE CHAMBRE -
 Il dort, Votre Excellence.
 # --------------------------------------------- 79 --------------------------
@@ -154,21 +154,25 @@ Tailleurs ! Comment ça se passe chez vous ?
 # LE PREMIER TAILLEUR -
 On fait les derniers points, monsieur le ministre.
 # LE PREMIER MINISTRE -
-Fais voir. Calculez. Vous connaissez nos exigences ?
-Le dernier point est cousu juste avant l'habillage de Sa Majesté.
- Le roi met tous les jours des habits flambant neufs.
-Qu'il se passe une minute entre l'habillage et votre dernier point et,
- votre habit, grossièrement parlant, il ne le mettra plus. Vous le savez, ça ?
+Fais voir. Calculez.
+ Vous connaissez nos exigences ?
+Le dernier point doit être cousu
+ juste avant l'habillage de Sa Majesté.
+Le roi met tous les jours des habits flambant neufs.
+ Qu'il se passe une minute entre l'habillage et votre dernier point
+ et votre habit, pour parler grossièrement, il ne le mettra plus.
+ Vous le savez, ça ?
 # LE PREMIER TAILLEUR
 Oui, monsieur le premier ministre, nous le savons.
 # LE PREMIER MINISTRE -
 Et ça flambe d'or pur ?
 # LE PREMIER TAILLEUR
- D'or pur, monsieur le Premier ministre.
+ - D'or pur, monsieur le Premier ministre.
 # LE PREMIER MINISTRE -
-Donnez-lui son habit tout flambant d'or. Franchement et sincèrement !
-Cuisinier, la crème, grossièrement parlant, tu l'as fouettée ? Hein ?
- Parle, sans fanfreluches, sans équivoques !
+Donnez-lui son habit tout flambant d'or.
+ Franchement et sincèrement !
+Cuisinier, la crème, tu l'as, pour parler grossièrement, fouettée ?
+ Hein ? Parle, sans fanfreluches, sans équivoques !
  Tu l'as fouettée, la crème, pour le chocolat de sa Majesté ?
 # LE CUISINIER -
 Ou-oui, Votre Excellence.
@@ -178,13 +182,16 @@ Fais voir. Bon. N'empêche ...
 # LE PREMIER MINISTRE -
 Valet de chambre ! Qui est-ce ? Du nerf. Parle.
 # LE VALET DE CHAMBRE -
-Ce sont des tisserands qui viennent prendre du service, Votre Excellence. 
+Ce sont des tisserands
+ qui viennent prendre du service, Votre Excellence. 
 # LE PREMIER MINISTRE -
-Des tisserands ? Fais voir. Aha ! Bonjour, tisserands.
+Des tisserands ? Fais voir.
+ Aha ! Bonjour, tisserands.
 # HENRI ET CHRISTIAN -
 Nos respects, Votre Excellence.
 # LE PREMIER MINISTRE -
-Le roi, parlant sans arrière-pensées, sans fioritures, a besoin de tisserands.
+Le roi, pour parler sans arrière-pensées, sans fioritures,
+ a besoin de tisserands.
  La fiancée arrive aujourd'hui.
 Eh ! Cuisinier ! Et le petit-déjeuner de Son Altesse ?
  Il est prêt ? Hein ?
@@ -197,7 +204,8 @@ Eh ! Apportez les petits pâtés pour son Altesse !
 # LE PREMIER MINISTRE -
 Ils les apportent.
  Moi, pendant ce temps, je vais voir si le roi a ouvert,
- sans trop, pour ainsi dire, déblatérer de sornettes, les yeux.
+ sans trop, pour ainsi dire, déblatérer de sornettes,
+ les yeux.
 # LE CUISINIER -
 La princesse Henriette n'a rien mangé pendant trois semaines.
 # HENRI -
@@ -220,24 +228,29 @@ Vous êtes un génie.
 # HENRI -
  - Je n'ose.
 # LE CUISINIER -
-Si, prenez ! Vvvous êtes un connaisseur. C'est tellement rare.
+Si, prenez ! Vvvous êtes un connaisseur.
+ C'est tellement rare.
 # HENRI -
-Ah ! Je suis bouleversé ! Vous n'avez pas d'égal sur la terre entière.
+Ah ! Je suis bouleversé !
+ Vous n'avez pas d'égal sur la terre entière.
 # LE CUISINIER -
 Mais hélas, mon art mourra avec moi.
 # HENRI -
 Oh, pourquoi donc ?
 # --------------------------------- 82 -----------------------------------------------------------
 # LE CUISINIER -
-Mon livre Voilà comment faire la cuisine, Messieurs !, il est perdu.
+Mon livre "Voilà comment faire la cuisine, Messieurs !",
+ mon livre est perdu.
 # HENRI -
 Quoi ! Comment ?
 # LE CUISINIER -
-Quand la mode est venue de brûler les livres sur les places publiques.
-Pendant les trois premiers jours, ils ont brûlé les livres
- qui étaient réellement dangereux. Mais la mode n'a pas passé.
+Quand la mode est venue
+ de brûler les livres sur les places publiques,
+pendant les trois premiers jours, ils ont brûlé
+ les livres qui étaient réellement dangereux.
+ Mais la mode n'a pas passé.
 Là, ils se sont mis à brûler tous les livres, sans distinction.
- Maintenant, de livres, il n'y en a plus du tout.
+ Maintenant, il n'y a plus du tout de livres.
  On brûle de la paille.
 # HENRI -
 Mais c'est affreux ! Non ?
@@ -266,7 +279,8 @@ Vas-y, crénom de nom !
 # CHRISTIAN 
 Mais où est le roi ?
 # LE CUISINIER :
-Il dort sur cent quarante-huit matelas - c’est vous dire sa noblesse.
+Il dort sur cent quarante-huit matelas -
+ c’est vous dire sa noblesse.
  On ne peut pas le voir.  Il est juste sous le plafond.
 # -------------------------------------- 84 ---------------------------------------
 # LE PREMIER MINISTRE 
@@ -281,17 +295,17 @@ Hein, hein, qu'est-ce que c’est ? Mais pourquoi tout ça ?
  Je rêvais d’une nymphe. Quelle chiennerie ! 
 
 # LE VALET DE CHAMBRE 
-J’oserai rappeler à Sa Majesté qu’aujourd’hui doit arriver la princesse, la fiancée de Sa Majesté.
-
+J’oserai rappeler à Sa Majesté
+ qu’aujourd’hui doit arriver la princesse,
+ la fiancée de Sa Majesté.
 # LE ROI 
 Eh alors, non mais, on se moque du monde. Où est mon poignard ?
- Je vais commencer par te tuer, espèce de mauvais sujet, un point c'est tout.
- Bon, alors, il est où ? Combien de fois je te l’ai dit —
+ Je vais commencer par te tuer, espèce de mauvais sujet,
+ un point c'est tout.
+Bon, alors, il est où ? Combien de fois je te l’ai dit —
  le poignard, tu le mets directement sous mon oreiller.
-
 # LE VALET DE CHAMBRE 
 Mais il est déjà dix heures et demie, Votre Majesté.
-
 # LE ROI 
 Quoi ? Et tu ne m’as pas réveillé ! Tiens, pour ça, tête d’âne !
  Alors ! Pourquoi tu ne hurles pas ? Je ne t’ai donc pas blessé ?
@@ -303,9 +317,10 @@ Je t'ai tué, alors, si ça se trouve ?
 # LE VALET DE CHAMBRE 
 Non, Votre Majesté.
 # LE ROI 
-Pas tué non plus ? Quelle chiennerie ! Je suis malheureux.
+Pas tué non plus ? Quelle chiennerie !
+ Je suis malheureux.
  J’ai perdu toute ma précision.
- Mais qu’est-ce que c’est, c’est vrai, ça, qu’est-ce que c’est !
+Mais pourquoi, à quoi bon, c’est vrai ça, à quoi bon !
  Écarte-toi ! Tu le vois bien, je me lève !
 # LE PREMIER MINISTRE 
 Préparez-vous !
@@ -314,24 +329,29 @@ Préparez-vous !
  Trompettes !
 
 # LE ROI 
-Mais qu’est-ce que c’est ! Hein, c’est quoi ? Pourquoi tu ne dis rien ?
+Mais pourquoi tout cela ! Hein, à quoi bon ?
+ Pourquoi tu ne dis rien ?
 Il voit que son souverain s’est levé du mauvais pied,
  il reste les bras ballants.
- Ramasse le poignard.
-# -------------------------------------- 86 ---------------------------------------
-Fainéant ! Tu ne mérites même pas de mourir d’une main si noble !
+Ramasse le poignard. Fainéant !
+ Tu ne mérites même pas de mourir d’une main si noble !
  Je t’ai donné une pièce d’or, hier, en pourboire ?
 # LE VALET DE CHAMBRE 
 Affirmatif, Votre Majesté.
 # LE ROI 
-Rends-la-moi. Je suis mécontent de toi. C’est dégoûtant, même...
-Je voyais en rêve une noble, une jolie nymphe de bonne race et du sang le plus pur.
- Je me réveille - qu’est-ce que je vois ? Ce laquais répugnant !
-Comment je le disais à la nymphe ? Ensorceleuse. Encharmeresse !
+Rends-la-moi. Je suis mécontent de toi.
+ Dégoûté même...
+Je voyais en rêve une noble, une jolie nymphe
+ de bonne race et du sang le plus pur.
+Je me réveille, et qu’est-ce que je vois ?
+ Ce laquais répugnant !
+Comment je le disais à la nymphe ?
+ Ensorceleuse. Encharmeresse !
  Un amoureux de vous ne peut pas ne pas vous aimer !
  C’est bien, ce que je lui ai dit.
 Mais qu’est-ce que c’est que ça ?
- Hein, qu’est-ce que c’est ? Hein ? Pourquoi je me suis réveillé ?
+ Hein, qu’est-ce que c’est ?
+ Hein ? Pourquoi je me suis réveillé ?
  Eh, toi ! Pourquoi ?
 # LE VALET DE CHAMBRE 
 Pour mettre un habit flambant neuf, Votre Majesté.
@@ -349,34 +369,38 @@ Bonjour, Votre Majesté !
 Égaye-moi. Et vite. C’est déjà l’heure que je m’habille,
  et moi, j’ai mon ire, mais j’ai mon ire... Allez ! Commence !
 # LE BOUFFON 
-Eh bien, Votre Majesté, une histoire très drôle. Un marchand...
+Eh bien, Votre Majesté, une histoire très drôle.
+ Un marchand...
 # LE ROI 
 Son nom de famille ?
 # LE BOUFFON 
 Petersen. Un marchand, du nom de Petersen, qui sort de sa boutique,
  et, vlan, il trébuche - et il se retrouve le nez sur la chaussée !
 # LE ROI 
- - Ha-ha-ha !
+# - Ha-ha-ha !
 # LE BOUFFON 
 Et là, il y a un peintre en bâtiment qui trébuche contre le marchand,
  et, avec toute sa peinture, il arrose une grand-mère qui passait par là.
 # LE ROI 
 C’est vrai ? Ha-ha-ha !
 # LE BOUFFON 
-Et, la grand-mère, elle a pris peur, elle a marché sur la queue d’un chien.
+Et, la grand-mère, elle a pris peur,
+ elle a marché sur la queue d’un chien.
 # LE ROI 
-Ha-ha-ha ! Ah la la, mon Dieu ! Oh-oh-oh ! Sur la queue ?
+Ha-ha-ha ! Ah la la, mon Dieu !
+ Oh-oh-oh ! Sur la queue ?
 # -------------------------------------- 88 ---------------------------------------
 # LE BOUFFON 
-Sur la queue, Votre Majesté. Et, le chien, il a mordu un gros.
+Sur la queue, Votre Majesté.
+ Et, le chien, il a mordu un gros bonhomme.
 # LE ROI 
 Ho-ho-ho ! Ha-ha-ha ! Oh, assez !...
 # LE BOUFFON 
-Et, le gros...
+Et, le gros bonhomme, ...
 # LE ROI 
 Assez, assez ! Je n’en peux plus, tu vas me faire crever.
  Va-t’en, je me suis égayé. Commençons à nous habiller.
- Prends ma couronne de nuit. Donne-moi celle du matin.
+Prends ma couronne de nuit. Donne-moi celle du matin.
  Bon ! Appelle le Premier ministre.
 # LE VALET DE CHAMBRE 
 Son Excellence monsieur le Premier ministre chez Sa Majesté !
@@ -394,15 +418,17 @@ Bon, quoi de neuf, vieillard ? Hein ?
 # LE PREMIER MINISTRE 
 Votre Majesté ! Vous savez que je suis un vieillard honnête,
  un vieillard sans détour.
-Je dis sans détour la vérité droit dans les yeux, même quand elle est désagréable.
- Moi, n’est-ce pas, je suis resté là tout le temps,
+Je dis sans détour la vérité droit dans les yeux,
+ même quand elle est désagréable.
+Moi, n’est-ce pas, je suis resté là tout le temps,
  je vous ai vu, à franchement parler, vous réveiller,
- je vous ai entendu, grossièrement parlant, rire, et ainsi de suite.
-Permettez-moi de vous le dire sans détour, Votre Majesté…
+ je vous ai entendu, pour parler grossièrement, rire, et ainsi de suite.
+ Permettez-moi de vous le dire sans détour, Votre Majesté…
 # LE ROI 
 Dis, dis. Tu sais que je ne t’en veux jamais.
 # LE PREMIER MINISTRE 
-Permettez-moi de vous le dire sans détour, brutalement, comme un vieillard :
+Permettez-moi de vous le dire sans détour, brutalement,
+ comme un vieillard :
  vous êtes un grand homme, Majesté !
 # LE ROI 
 Allez, allez. À quoi bon, à quoi bon.
@@ -413,313 +439,333 @@ Non, Votre Majesté, non. Je ne pourrai pas me refaire.
 # LE ROI 
 Oh toi alors ! Oh, oh !
 # LE PREMIER MINISTRE 
-Votre Majesté, vous avez ordonné à votre savant de la cour de vous dresser,
- pardonnez l’expression, l’arbre généalogique de la princesse.
- Qu’il fasse son enquête sur ses ancêtres, brutalement parlant, patati patata.
-Pardonnez-moi, Votre Majesté, d’être sans détour - c’était une pensée stupéfiante.
+Votre Majesté, vous avez ordonné à votre savant de la cour
+ de vous dresser, pardonnez l’expression,
+ l’arbre généalogique de la princesse.
+Qu’il fasse son enquête sur ses ancêtres,
+ et pour parler brutalement, tout ça.
+Pardonnez-moi, Votre Majesté, d’être sans détour -
+ c’était une pensée stupéfiante.
 # LE ROI 
 Et quoi encore ! Pour ce que c’était !
 # LE PREMIER MINISTRE 
-Le savant de la cour, parlant sans fanfreluches, là, sans décorum,
+Le savant de la cour,
+ je le dis sans fanfreluches, là, sans décorum,
  il est là. Je l’appelle ? 
- Oh, mon roi ! Oh, le bon garçon !
-
+Oh, mon roi ! Oh, qu'il est fort !
 # LE ROI 
 Viens ici, sincère vieillard. Tiens, que je t’embrasse.
  Et n’aie jamais peur de me dire la vérité en face.
  Je ne suis pas comme les autres rois.
  J’aime la vérité, même quand elle est désagréable.
-Il est là, le savant de la cour? Tant pis !
+Il est là, le savant de la cour ? Tant pis !
  S’il te plaît ! Appelle-le, qu’il vienne.
 Je m’habille et je prends mon chocolat, et, lui, qu’il parle.
  Commande l’habillage et le chocolat, honnête vieillard.
 # LE PREMIER MINISTRE 
-À vos ordres ! Laquais ! Tailleurs !
- Cuisinier ! Le savant !
+À vos ordres !
+Laquais !
+Tailleurs !
+Cuisinier !
+Le savant !
 # -------------------------------------- 91---------------------------------------
-
 Garde à vous ! 
  Prêts ? Partez !
 
 # LE ROI 
 Bonjour, savant de la cour !
-
 # LE SAVANT 
 Bonjour, Votre Majesté.
-
 # LE ROI 
-Parlez ! Remarquez, non, attendez ! Premier ministre ! Que les courtisans écoutent aussi.
-
+Parlez ! Remarquez, non, attendez !
+ Premier ministre ! Que les courtisans écoutent aussi.
 # LE PREMIER MINISTRE 
-Messieurs les courtisans ! Sa Majesté a remarqué que vous étiez là.
-
-LES COURTISANS : Hourra au roi ! Hourra au roi ! Hourra au roi !
-
+Messieurs les courtisans !
+ Sa Majesté a remarqué que vous étiez là.
+# LES COURTISANS :
+Hourra au roi ! Hourra au roi ! Hourra au roi !
 # LE ROI 
-Et les jeunes filles aussi, elles sont là ! Les demoiselles d’honneur. Coucou ! 
-
-LA PREMIÈRE DEMOISELLE D’HONNEUR :  Coucou, Votre Majesté.
-
-# -------------------------------------- 92---------------------------------------
-
+Et les jeunes filles aussi, elles sont là !
+ Les demoiselles d’honneur. Coucou ! 
+# LA PREMIÈRE DEMOISELLE D’HONNEUR :
+Coucou, Votre Majesté.
 # LE ROI 
-Ha-ha-ha ! Bonjour, la coquine !
-
-LA PREMIÈRE DEMOISELLE D’HONNEUR : Bonjour, Votre Majesté.
-
+Ha-ha-ha ! Bonjour, l'effrontée !
+# LA PREMIÈRE DEMOISELLE D’HONNEUR :
+Bonjour, Votre Majesté.
 # LE ROI 
 De quoi avez-vous rêvé, petite coquine ?
-
-LA PREMIÈRE DEMOISELLE D’HONNEUR : De vous, Votre Majesté.
-
+# LA PREMIÈRE DEMOISELLE D’HONNEUR :
+De vous, Votre Majesté.
 # LE ROI 
 De moi ? Bravo !
-
-LA PREMIÈRE DEMOISELLE D’HONNEUR : Heureuse de mettre mon zèle au service de Votre Majesté.
-
+# LA PREMIÈRE DEMOISELLE D’HONNEUR :
+Heureuse de mettre mon zèle au service de Votre Majesté.
 # LE ROI 
 Et vous, jeunes filles, de quoi avez-vous rêvé ?
-
-LES AUTRES DEMOISELLES D’HONNEUR : De vous, Votre Majesté.
-
+# LES AUTRES DEMOISELLES D’HONNEUR :
+De vous, Votre Majesté.
 # LE ROI 
 Bravo !
-
-LES AUTRES DEMOISELLES D’HONNEUR : Heureuses de mettre notre zèle au service de Votre Majesté.
-
+#LES AUTRES DEMOISELLES D’HONNEUR :
+Heureuses de mettre notre zèle au service de Votre Majesté.
 # LE ROI 
-Parfait. Première demoiselle d’honneur ! Votre militarisation de nos belles est une réussite. Elles répondent vraiment d’un ton gaillard aujourd’hui. Je vous exprime ma bénévolence. Quel est votre grade ?
-
-# -------------------------------------- 93---------------------------------------
-
-LA PREMIÈRE DEMOISELLE D’HONNEUR : Colonel, Votre Majesté.
-
+Parfait. Première demoiselle d’honneur !
+ Votre militarisation de nos belles est une réussite.
+ Elles répondent vraiment d’un ton gaillard aujourd’hui.
+ Je vous exprime ma bénévolence. Quel est votre grade ?
+# LA PREMIÈRE DEMOISELLE D’HONNEUR :
+Colonel, Votre Majesté.
 # LE ROI 
-Je vous fais générale.
-
-LA PREMIÈRE DEMOISELLE D’HONNEUR : Merci beaucoup, Votre Majesté.
-
+Je vous fais général.
+# LA PREMIÈRE DEMOISELLE D’HONNEUR :
+Merci beaucoup, Votre Majesté.
 # LE ROI 
-Vous l’avez mérité. Voilà déjà trente ans que vous êtes ma première belle. Toutes les nuits, vous ne rêvez que de moi. Vous êtes mon canari, générale !
-
-LA PREMIÈRE DEMOISELLE D’HONNEUR : Heureuse de mettre mon zèle au service de Votre Majesté.
-
+Vous l’avez mérité.
+ Voilà déjà trente ans que vous êtes ma première belle.
+ Toutes les nuits, vous ne rêvez que de moi.
+ Vous êtes mon canari, général !
+# LA PREMIÈRE DEMOISELLE D’HONNEUR :
+Heureuse de mettre mon zèle au service de Votre Majesté.
 # LE ROI 
-Ah, mes petits bonbons. Ne vous éloignez pas, mes gentilles. Sinon, le professeur va m’assécher. Allez, savant de la cour, déballez !
+Ah, mes petites sucreries.
+ Ne vous éloignez pas, mes gentilles.
+ Sinon, le professeur va m’assécher.
+ Allez, savant de la cour, déballez !
 
 # LE SAVANT 
-Votre Majesté. Avec l’aide du professeur Larr et du maître de conférence Houss, j ’ai dressé avec une exactitude totale l’arbre généalogique de votre invitée.
-
+Votre Majesté.
+Avec l’aide du professeur Larr et du maître de conférence Houss,
+ j’ai dressé avec une exactitude totale
+ l’arbre généalogique de votre invitée.
 # LE ROI 
 Coucou ! Hi-hi- hi.
-
 # LE SAVANT 
-Commençons par le blason. On appelle blason, Votre Majesté, la représentation symbolique transmise par héritage, une représentation, oui, établie sur la base, oui, de certaines règles.
-
+Commençons par le blason.
+ On appelle blason, Votre Majesté,
+ une représentation symbolique transmise par héritage,
+ une représentation, oui, établie sur la base, oui, de certaines règles.
 # LE ROI 
 Je sais ce que c’est qu’un blason, professeur.
-
-# -------------------------------------- 94---------------------------------------
-
 # LE SAVANT 
-Depuis les temps immémoriaux on fait usage de signes symboliques, oui, de signes qu’on gravait sur des bagues.
-
+Depuis les temps immémoriaux on a fait usage de signes symboliques,
+ oui, de signes qu’on gravait sur des bagues.
 # LE ROI 
 Tu-tu !
-
 # LE SAVANT 
-Qu ’on dessinait sur les armes, les bannières, etc., oui, etc.
-
+Qu’on dessinait sur les armes, les bannières, etc.,
+ oui, etc.
 # LE ROI 
 Pitit, pitit ! Mes canaris !
-
 # LE SAVANT 
 Ces signes furent le résultat...
-
 # LE ROI 
 Suffit avec les signes, au fait... Coucou !
-
 # LE SAVANT 
-Résultat, oui, du désir de s’extraire, oui, de s’extraire de la masse. Se donner une différence frappante, visible parfois dans le feu même de la bataille. Voilà. De la bataille.
-
+Résultat, oui, du désir de s’extraire, oui,  de s’extraire de la masse.
+ Se donner une différence frappante,  visible parfois
+ dans le feu même de la bataille. Voilà. De la bataille.
 # LE ROI 
 Au fait, professeur !
-
 # LE SAVANT 
 Les blasons...
-
 # LE ROI 
 Au fait, on vous dit ! Faites court !
-
-______________________95______________________
-
-LE SAVANT. - En ce cas, Votre Majesté, je commence à blasonner.
-
+# LE SAVANT. -
+En ce cas, Votre Majesté, je commence à blasonner.
 # LE ROI. 
-Hein, tu  commences à quoi?
-
-LE SAVANT. - À blasonner!
-
+Hein, tu commences à quoi?
+# LE SAVANT. -
+À blasonner!
 # LE ROI. 
-Je te l'interdis! Qu'est-ce que c'est encore que cette saleté! Ça veut dire quoi, ce mot-là?
-
-LE SAVANT. - Mais, blasonner, Votre Majesté, ça veut dire décrire un blason!
-
+Je te l'interdis!
+ Qu'est-ce que c'est encore que cette saleté!
+ Ça veut dire quoi, ce mot-là?
+# LE SAVANT. -
+Mais, blasonner, Votre Majesté,
+ ça veut dire décrire un blason!
 # LE ROI. 
 Alors dites-le!
-
-LE SAVANT. - Je blasonne. Le blason de la princesse. Sur champ d'or semé de cœurs 
-de gueules meublés de trois cailles d'azur couronnées, sommées d'un léopard.
-
+#LE SAVANT. -
+Je blasonne. Le blason de la princesse.
+Sur champ d'or semé de cœurs de gueules
+ meublés de trois cailles d'azur couronnées,
+ sommées d'un léopard.
 # LE ROI. 
 Comment, comment? Sommées? 
-
-LE SAVANT. - Oui, Votre Majesté...Autour, une bordure de fleurs du royaume.
-
+# LE SAVANT. -
+Oui, Votre Majesté...
+ Autour, une bordure de fleurs du royaume.
 # LE ROI. 
-Bon, d'accord...Ça ne me plait pas trop, ça. Bon, mais tant pis. Dites l'arbre généalogique, mais plus court. 
-
-LE SAVANT. - À vos ordres, Votre Majesté. Quand Adam...
-
+Bon, d'accord...Ça ne me plait pas trop, ça.
+ Bon, mais tant pis.
+ Dites l'arbre généalogique, mais plus court. 
+# LE SAVANT. -
+À vos ordres, Votre Majesté.
+ Quand Adam...
 # LE ROI. 
 Quelle horreur! La princesse est juive?
-
-______________________96______________________
-
-LE SAVANT. - Voyons, Votre Majesté!
-
+# LE SAVANT. -
+Voyons, Votre Majesté!
 # LE ROI. 
 Mais, Adam, il était bien Juif?
-
-LE SAVANT. - C'est une question discutée, Votre Majesté! Selon mes sources, il était caraïte.
-
+#LE SAVANT. -
+C'est une question discutée, Votre Majesté!
+ Selon mes sources, il était caraïte.
 # LE ROI. 
-Ah, d'accord. Moi, l'essentiel, c'est que la princesse soit de sang pur. C'est très à la mode, ces derniers temps, et, moi, je suis franc...Hein, je suis un franc dandy, mes canaris?
-
-LES DEMOISELLES D'HONNEUR. - Oui, Votre Majesté, vous êtes un franc dandy.
-
-LE SAVANT. - Oui, Votre Majesté, Votre Majesté, vous avez toujours été au niveau des idées les plus modernes. Oui, les plus.
-
+Ah, d'accord.
+ Moi, l'essentiel, c'est que la princesse soit de sang pur.
+ C'est très à la mode, ces derniers temps, et, moi, je suis franc...
+ Hein, je suis un franc dandy, mes canaris?
+# LES DEMOISELLES D'HONNEUR. -
+Oui, Votre Majesté, vous êtes un franc dandy.
+# LE SAVANT. -
+Oui, Votre Majesté, Votre Majesté,
+ vous avez toujours été au niveau des idées les plus modernes.
+ Oui, les plus.
 # LE ROI. 
-N'est-ce pas, hein? Rien que mon pantalon, ce qu'il vaut! Poursuivez, professeur.
-
-LE SAVANT. - Adam...
-
+N'est-ce pas, hein?
+ Rien que mon pantalon, ce qu'il vaut!
+ Poursuivez, professeur.
+# LE SAVANT. -
+Adam...
 # LE ROI. 
-Laissons cette question chatouilleuse et passons à une époque plus tardive.
-
-LE SAVANT. - Le pharaon Ilamétic...
-
+Laissons cette question chatouilleuse
+ et passons à une époque plus tardive.
+# LE SAVANT 
+Le pharaon Ilamétic...
 # LE ROI. 
-Lui aussi, laissons-le. C'est un nom très laid. Poursuivons...
-
-LE SAVANT. - Alors, permettez-moi, Votre Majesté, de passer directement à la dynastie de Son Altesse! Le
-
-______________________97______________________
-
-fondateur de la dynastie, Georges Ier, surnommé pour ses exploits le Grand. Surnommé, oui.
- 
+Lui aussi, laissons-le.
+ C'est un nom très laid. Poursuivons...
+# LE SAVANT 
+Alors, permettez-moi, Votre Majesté,
+ de passer directement à la dynastie de Son Altesse!
+Le fondateur de la dynastie, Georges Ier,
+ surnommé pour ses exploits le Grand.
+ Surnommé, oui.
 # LE ROI. 
 Très bien.
-
-LE SAVANT. - Il a été succédé par son fils Georges II, surnommé pour ses exploits l’Ordinaire. L’Ordinaire, oui.
-
+# LE SAVANT 
+Lui a succédé son fils Georges II,
+ surnommé pour ses exploits l’Ordinaire.
+ L’Ordinaire, oui.
 # LE ROI. 
-Je suis très pressé. Faites juste la liste des ancêtres. Je comprendrai pourquoi ils ont reçu leurs surnoms. Sinon, je vous tue.
-
-LE SAVANT. - A vos ordres. Donc, alors, ensuite, ça nous fait : Guillaume Ier le Gai, Henri Ier le Bref, Georges III le Débridé, Georges IV le Mignon, Henri II le Diable l’emporte.
-
+Je suis très pressé. Faites juste la liste des ancêtres.
+ Je comprendrai pourquoi ils ont reçu leurs surnoms.
+ Sinon, je vous tue.
+# LE SAVANT 
+A vos ordres. Donc, alors, ensuite, ça nous fait :
+ Guillaume Ier le Gai, Henri Ier le Bref,
+ Georges III le Débridé, Georges IV le Mignon,
+ Henri II le Diable l’emporte.
 # LE ROI. 
 Pourquoi l’a-t-on surnommé, lui ?
-
-LE SAVANT. - Pour ses exploits, Votre Majesté. Ensuite, on aura Philippe Ier l’Anormal, Georges V l’Amusant, Georges VI le Négatif, Georges VII Pieds nus, Georges VIII Petite Nature, Georges IX la Brute, Georges X l’Asperge, Georges XI le Courageux, Georges XII l’Antipathique, Georges XIII l’Insolent, Georges XIV l’Intéressant et, enfin, le père toujours régnant de la princesse, Georges XV, surnommé, pour ses exploits, le Barbu. Surnommé, oui.
-
+# LE SAVANT 
+Pour ses exploits, Votre Majesté.
+ Ensuite, on aura Philippe Ier l’Anormal, Georges V l’Amusant,
+ Georges VI le Négatif, Georges VII Pieds nus,
+ Georges VIII Petite Nature, Georges IX la Brute,
+Georges X l’Asperge, Georges XI le Courageux,
+ Georges XII l’Antipathique, Georges XIII l’Insolent,
+ Georges XIV l’Intéressant
+et, enfin, le père toujours régnant de la princesse,
+ Georges XV, surnommé, pour ses exploits, le Barbu.
+ Surnommé, oui.
 # LE ROI. 
-Une collection d’ancêtres très riche et très diversifiée.
- 
-______________________98______________________
-
-
-LE SAVANT. - Oui, Votre Majesté. La princesse a dix-huit ancêtres, sans compter les blasons de la ligne maternelle. Elle les a, oui.
-
+Une collection d’ancêtres très riche
+ et très diversifiée.
+ # LE SAVANT 
+Oui, Votre Majesté. La princesse a dix-huit ancêtres,
+ sans compter les blasons de la ligne maternelle.
+ Elle les a, oui.
 # LE ROI. 
-Ça suffit tout à fait... Disposez ! Ah, comme il est tard ! Appelez vite le poète de la cour.
-
-LE PREMIER MINISTRE. - Le poète chez le souverain. Au pas de course !
-
+Ça suffit tout à fait... Disposez !
+ Ah, comme il est tard ! Appelez vite le poète de la cour.
+# LE PREMIER MINISTRE. -
+Le poète chez le souverain. Au pas de course !
 # LE ROI. 
 Bonjour, poète de la cour.
-
-LE POÉTE. - Bonjour, Votre Majesté.
-
+#LE POÉTE. -
+Bonjour, Votre Majesté.
 # LE ROI. 
 Vous avez préparé le discours de bienvenue ?
-
-LE POÉTE. - Oui, Votre Majesté. Mon inspiration...
-
+# LE POÉTE. -
+Oui, Votre Majesté. Mon inspiration...
 # LE ROI. 
 Et le poème pour l’arrivée de la princesse ?
-
-LE POÉTE. - Ma muse m’a aidé à trouver cinq cent huit paires de rimes des plus magnifiques, Votre Majesté.
-
+# LE POÉTE. -
+Ma muse m’a aidé à trouver
+ cinq cent huit paires de rimes des plus magnifiques,
+ Votre Majesté.
 # LE ROI. 
 Comment, vous n’allez dire que les rimes ? Et les vers, ils sont où ?
-
-LE POÉTE. - Votre Majesté ! Ma muse a tout juste eu le temps de finir le poème sur votre séparation d’avec la demoiselle d’honneur de l’aile droite...
- 
-______________________99______________________
- 
+# LE POÉTE. -
+Votre Majesté !
+ Ma muse a tout juste eu le temps de finir le poème
+ sur votre séparation d’avec la demoiselle d’honneur de l’aile droite...
 # LE ROI. 
-Votre muse retarde toujours sur les événements. Tout ce que vous savez faire avec, c’est demander une maison de campagne, ou un pavillon, ou une vache. C’est n’importe quoi ! À quoi sert, par exemple, une vache à un poète ? Mais dès qu’il s’agit d’écrire, je suis en retard, je n’ ai pas eu le temps... Vous êtes tous pareils !
-
-LE POÉTE. - Mais mon dévouement à Votre Majesté...
-
+Votre muse retarde toujours sur les événements.
+ Tout ce que vous savez faire avec, c’est demander une maison de campagne,
+ ou un pavillon, ou une vache. C’est n’importe quoi !
+ À quoi sert, par exemple, une vache à un poète ?
+Mais dès qu’il s’agit d’écrire, je suis en retard,
+ je n’ ai pas eu le temps... Vous êtes tous pareils !
+# LE POÉTE. -
+Mais mon dévouement à Votre Majesté...
 # LE ROI. 
 Je n’ai pas besoin d’un dévouement, j'ai besoin d’un poème !
-
-LE POÉTE. - Mais le discours, lui, il est prêt, Votre Majesté.
-
+# LE POÉTE. -
+Mais le discours, lui, il est prêt, Votre Majesté.
 # LE ROI. 
-Le discours... Pour ça, vous êtes tous passés maîtres ! Bon, allez, donnez déjà le discours.
-
-LE POÉTE. - Ce n’est même pas un discours, c'est une conversation. Votre Majesté parle, et la princesse répond. La copie des réponses a été transmise par coursier spécial à la princesse. Me permettrez-vous d’en faire lecture ?
-
+Le discours... Pour ça, vous êtes tous passés maîtres !
+ Bon, allez, donnez déjà le discours.
+# LE POÉTE. -
+Ce n’est même pas un discours, c'est une conversation.
+ Votre Majesté parle, et la princesse répond.
+ La copie des réponses a été transmise par coursier spécial à la princesse.
+ Me permettrez-vous d’en faire lecture ?
 # LE ROI. 
 Je permets.
-
-LE POÉTE. - Votre Majesté parle et dit : « Princesse ! Je suis heureux ! Que vous montiez sur mon trône comme
-le soleil. La lumière de votre beauté a illuminé tous les environs. » À cela, la princesse répond : « Le soleil, c’est vous, Votre Majesté. L’éclat de vos exploits à éclipsé tous vos rivaux. » Alors, vous : « Je suis heu-
- 
-______________________100______________________
- 
-reux que vous m'estimiez à ma juste valeur ! » Alors, À la princesse : « Vos qualités sont le gage de notre
-bonheur futur ! » Vous répondez : « Vous m ’avez si bien compris que je ne puis dire qu'une chose : vous êtes aussi intelligente que belle. » Alors, la princesse :
-« Je suis heureuse de plaire à Votre Majesté. » Alors, vous: «Je sens que nous nous aimons, princesse, permettez-moi de vous embrasser. »
-
+# LE POÉTE. -
+Votre Majesté parle et dit : « Princesse ! Je suis heureux !
+ Que vous montiez sur mon trône comme le soleil.
+ La lumière de votre beauté a illuminé tous les environs. »
+À cela, la princesse répond :
+ « Le soleil, c’est vous, Votre Majesté.
+  L’éclat de vos exploits à éclipsé tous vos rivaux. »
+Alors, vous : « Je suis heureux que vous m'estimiez à ma juste valeur ! »
+Alors, la princesse :
+ « Vos qualités sont le gage de notre bonheur futur ! »
+Vous répondez :
+ « Vous m ’avez si bien compris que je ne puis dire qu'une chose :
+ vous êtes aussi intelligente que belle. »
+Alors, la princesse :
+ « Je suis heureuse de plaire à Votre Majesté. »
+Alors, vous:
+ «Je sens que nous nous aimons, princesse,
+  permettez-moi de vous embrasser. »
 # LE ROI. 
 C’est très bien !
-
-LE POÉTE. - La princesse : « Je suis pleine de confusion... mais... » Là, tonnent les canons, les armées crient « hourra. » et vous embrassez la princesse.
-
+#LE POÉTE. -
+ La princesse : « Je suis pleine de confusion... mais... »
+ Là, tonnent les canons, les armées crient « hourra. »
+ et vous embrassez la princesse.
 # LE ROI. 
 Je l'embrasse ? ha-ha ! Pas mal ! Sur les lèvres ?
-
 LE POÉTE. - Absolument, Votre Majesté.
-
 # LE ROI. 
-C’est plein d’esprit. Disposez. Ha-ha! Vieillard, hein que c’est plaisant ! Oui ! Allez-allez !
-Eh ! Qui attend encore
-d 'être reçu ?
-Hein ? Parle, sincère vieillard.
-
-LE PREMIER MINISTRE. - Votre Majesté, je ne vous le cacherai pas, il y a encore des tisserands qui attendent d’être reçus.
-
+C’est plein d’esprit. Disposez.
+Ha-ha! Vieillard, hein que c’est plaisant ! Oui ! Allez-allez !
+ Eh ! Qui attend encore d'être reçu ?
+ Hein ? Parle, sincère vieillard.
+# LE PREMIER MINISTRE. -
+Votre Majesté, je ne vous le cacherai pas,
+ il y a encore des tisserands qui attendent d’être reçus.
 # LE ROI. 
-Ah ! Mais pourquoi on ne les laisse pas entrer ? Vite, qu ’ils entrent au pas de course.
- 
-______________________101______________________
- 
-LE PREMIER MINISTRE. -  Les tisserands, chez le roi - au galop !
+Ah ! Mais pourquoi on ne les laisse pas entrer ?
+ Vite, qu ’ils entrent au pas de course.
+# LE PREMIER MINISTRE. -
+Les tisserands, chez le roi - au galop !
 
 
 # LE ROI. 
@@ -1456,13 +1502,14 @@ Eh toi, le sans-gêne, comment oses-tu boire de la vodka en travaillant ?
 # CHRISTIAN 
 Quel est le crétin qui braille là-bas ?
 # LE PREMIER MINISTRE 
-Eh, mais, tu es aveugle, ou quoi ? C’est moi, le Premier ministre !
+Eh, mais, tu es aveugle, ou quoi ?
+ C’est moi, le Premier ministre !
 # CHRISTIAN 
 Pardon, Votre Excellence, je ne vous vois pas de derrière les tissus,
  et je n’ai pas reconnu votre voix.
  Mais vous, comment vous m’avez vu, ça, je ne comprends pas !
 # LE PREMIER MINISTRE 
-Euh... c’est à l’odeur. Je ne l’aime pas, cette vodka maudite.
+Euh... c’est à l’odeur. Je ne l’aime pas, cette maudite vodka.
  Je la sens à une lieue.
 # CHRISTIAN 
 Comment cela, quelle vodka ? C’est de l’eau, Votre Excellence.
@@ -1491,8 +1538,8 @@ Vous serez étonné, peut-être bien, Votre Majesté,
 Bon - bon.
 # LE PREMIER MINISTRE 
 Vous m’excuserez, mais, parfois, il vous prend l’envie
- d’être réellement direct. Il n’y a aucun tissu, Votre Majesté,
-... que vous pourriez trouver, qui ressemble à celui-ci.
+ d’être réellement direct. Il n’y a aucun tissu, Votre Majesté !
+... Aucun tissu que vous puissiez trouver pour égaler celui-ci.
  C’est à la fois riche et pictural.
 # LES COURTISANS :
  Ah, que c’est bien dit ! Riche et pictural. C’est très juste.
