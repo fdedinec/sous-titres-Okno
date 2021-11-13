@@ -490,7 +490,7 @@ Et les jeunes filles aussi, elles sont là !
 # LA PREMIÈRE DEMOISELLE D’HONNEUR :
 Coucou, Votre Majesté.
 # LE ROI 
-Ha-ha-ha ! Bonjour, l'effrontée !
+Ha-ha-ha ! Bonjour, friponne !
 # LA PREMIÈRE DEMOISELLE D’HONNEUR :
 Bonjour, Votre Majesté.
 # LE ROI 
@@ -752,7 +752,8 @@ C’est très bien !
  et vous embrassez la princesse.
 # LE ROI. 
 Je l'embrasse ? ha-ha ! Pas mal ! Sur les lèvres ?
-LE POÉTE. - Absolument, Votre Majesté.
+# LE POÉTE. -
+Absolument, Votre Majesté.
 # LE ROI. 
 C’est plein d’esprit. Disposez.
 Ha-ha! Vieillard, hein que c’est plaisant ! Oui ! Allez-allez !
@@ -766,296 +767,341 @@ Ah ! Mais pourquoi on ne les laisse pas entrer ?
  Vite, qu ’ils entrent au pas de course.
 # LE PREMIER MINISTRE. -
 Les tisserands, chez le roi - au galop !
-
-
 # LE ROI. 
-Ce qu’ils sont vieux-donc, ils ont de l’expérience. Ce qu’ils ont de l’allant - donc, ils savent travailler. Bonjour, les tisserands.
-
-HENRI. et CHRISTIAN. - Le bonjour, Votre Majesté.
-
+Ce qu’ils sont vieux - donc, expérimentés.
+ Ce qu’ils sont énergiques - donc, travailleurs.
+ Bonjour, les tisserands.
+# HENRI. et CHRISTIAN. -
+Le bonjour, Votre Majesté.
 # LE ROI. 
-Qu’est-ce que vous me direz ? Hein ? Allez ! Pourquoi vous restez sans rien dire ?
-
+Qu'avez vous à me dire ? Hein ?
+ Allez ! Pourquoi vous restez sans rien dire ?
 
 Qu’est-ce que tu dis ?
 
 Comment ?
-
-CHRISTIAN. - Pauvre roi ! Holala !
-
+# CHRISTIAN. -
+Pauvre roi ! Holala !
 # LE ROI. 
-Pourquoi vous me faites peur, imbéciles ? Qu’est-ce qui se passe ? Pourquoi je suis pauvre ?
-
-CHRISTIAN. - Un si grand roi - et habillé comment ?
-
+Pourquoi vous me faites peur, imbéciles ?
+ Qu’est-ce qui se passe ? Pourquoi "pauvre" ?
+# CHRISTIAN 
+Un si grand roi - et habillé comme cela !
 # LE ROI. 
-Comment je suis habillé ? Hein ?
-
-HENRI. - Banalement, Votre Majesté.
-
-CHRISTIAN. - Comme le premier venu !
- 
-______________________102______________________
- 
-HENRI. - Comme tous les rois voisins !
-
-CHRISTIAN. - Oh, Votre Majesté, oh !
-
+Quoi, habillé comment ? Hein ?
+# HENRI 
+Banalement, Votre Majesté.
+# CHRISTIAN 
+Comme le premier venu !
+# HENRI 
+Comme tous les rois voisins !
+# CHRISTIAN 
+Oh, Votre Majesté, oh !
 # LE ROI. 
-Mais qu’est-ce que c’est que ça ? Qu’est-ce qu’ils disent ? Mais comment c’est possible ! Ouvrez l’armoire ! Donnez-moi la cape numéro quatre mille neuf du costume à dentelles. Regardez, imbéciles. Pure faille. Sur les rebords, de la guipure tressée. En haut, des dentelles d’Alençon brodées. Et, en bas, de la Valenciennes. Ça, c’est pour mon costume de sortie en dentelles. Et vous, vous dites - le premier venu ! Remarquez, même les bottes sont ornées de dentelles de Brabant. Vous avez déjà vu quelque chose de comparable ?
-
-HENRI. - Oh que oui !
-
-CHRISTIAN. - Et pas qu’une fois !
-
+Mais qu’est-ce que c’est que ça ? Qu’est-ce qu’ils disent ?
+ Mais comment est-ce possible ! Ouvrez l’armoire !
+ Donnez-moi la cape numéro quatre mille neuf du costume à dentelles.
+Regardez, imbéciles: de la pure faille.
+ Sur les rebords, de la guipure tressée.
+ En haut, des dentelles d’Alençon brodées.
+ Et, en bas, de la Valenciennes.
+Ça, c’est pour mon costume de sortie en dentelles.
+ Et vous, vous dites - le premier venu !
+ Remarquez que même les bottes sont ornées de dentelles de Brabant.
+Avez-vous déjà vu quelque chose de comparable ?
+# HENRI 
+Oh que oui !
+# CHRISTIAN 
+Et pas qu’une fois !
 # LE ROI. 
-Mais c’est quoi, ça ! Dans ce cas-là, donnez-moi mon costume de repas. Mais pas celui-là, tête d’âne ! Le numéro huit mille quatre cent quatre-vingt-dix-huit. Regardez, vous ! Ça, c’est quoi ?
-
-HENRI. - Un pantalon.
-
+Mais qu'est-ce à dire !
+ Dans ce cas-là, donnez-moi mon costume de repas.
+ Mais pas celui-là, tête d’âne !
+ Le numéro huit mille quatre cent quatre-vingt-dix-huit.
+Regardez, vous ! Ça, c’est quoi ?
+# HENRI 
+Un pantalon.
 # LE ROI. 
 Fait en quoi ?
-
-CHRISTIAN. - Quelle question ? en gras-de-naples.
-
+# CHRISTIAN 
+Quelle question ? En gras-de-naples.
 # LE ROI. 
-Quel insolent ! Et alors, d’après toi, le gras-de-naples, c’est rien du tout ? Et la chemise ? Gros-de-Tours 100 %, et les manches - du gros-grain. Et le
- 
-______________________103______________________
- 
-col, en pou-de-soie. Et la cape, en turquoise, avec des bandes de reps. Mais admire, au moins ! Pourquoi tu te détournes ?
-
-HENRI. - On a déjà vu.
-
+Quel insolent !
+ Et alors, d’après toi, le gras-de-naples, ce n’est rien du tout ?
+Et la chemise ? Gros-de-Tours 100 %,
+ et les manches - du gros-grain. Et le col, en pou-de-soie.
+ Et la cape, en turquoise, avec des bandes de reps.
+ Mais admire, au moins ! Pourquoi tu te détournes ?
+# HENRI 
+On a déjà vu.
 # LE ROI. 
 Et les bas en drap-de-soie ?
-
-CHRISTIAN. - Ça aussi, on a vu.
-
+# CHRISTIAN 
+Ça aussi, on a vu.
 # LE ROI. 
 Mais tâte, imbécile.
-
-HENRI. -  À quoi bon... Je connais.
-
-LE ROI. -Tu connais ? Amenez le pantalon pour le bal du mariage. Ça, c’est quoi ?
-
-CHRISTIAN. - Du cover-coat.
-
+# HENRI 
+À quoi bon... Je connais.
+# LE ROI. -
+Tu connais ?
+ Amenez le pantalon pour le bal du mariage.
+ Ça, c’est quoi ?
+# CHRISTIAN 
+Du cover-coat.
 # LE ROI. 
-Oui, mais du cover-coat comment ? Est-ce qu’un seul jour tu en as vu un pareil ? Et la chemise en cheviotte à col boston ? Et la cape ? Du tricot. Tu as déjà vu ça, imbécile ?
-
-HENRI. - Oui, Votre Majesté, et n’importe quel imbécile a déjà vu.
-
-CHRISTIAN. - Mais, nous, nous pouvons faire un de ces tissus... Oho ! Que ne peut voir qu’un homme intelligent. Nous vous ferons un habit de noce jamais vu, Votre Majesté.
-
+Oui, mais du cover-coat comment ?
+ Est-ce qu’un seul jour tu en as vu un pareil ?
+ Et la chemise en cheviotte à col boston ?
+ Et la cape ? Du tricot. Tu as déjà vu ça, imbécile ?
+# HENRI 
+Oui, Votre Majesté, et n’importe quel imbécile en a déjà vu.
+# CHRISTIAN 
+Mais, nous, nous pouvons faire un de ces tissus... Oho !
+ Que ne peut voir qu’un homme intelligent.
+ Nous vous ferons un habit de noce jamais vu, Votre Majesté.
 # LE ROI. 
 Oui ! Tout le monde dit ça ! Et vous avez des recommandations ?
- 
-______________________104______________________
- 
-CHRISTIAN. - Nous avons travaillé un an chez le sultan de Turquie, il a été tellement content que ça dépasse toute description. C’est pour ça qu’il ne nous a rien écrit.
-
+# CHRISTIAN 
+Nous avons travaillé un an chez le sultan de Turquie,
+ il a été tellement content que ça dépasse toute description.
+ C’est pour ça qu’il ne nous a rien écrit.
 # LE ROI. 
 Tu parles, le sultan de Turquie !
-
-HENRI. - Le Grand Mogol des Indes nous a remerciés personnellement.
-
+# HENRI 
+Le Grand Mogol des Indes nous a remerciés personnellement.
 # LE ROI. 
-Tu parles, le Mogol des Indes ! Vous ne savez donc pas que notre nation est la plus haute du monde ? Toutes les autres, elles ne valent pas tripette, nous, on est bien. Vous n’étiez pas au courant, alors ?
-
-CHRISTIAN. - En plus, notre tissu possède une qualité merveilleuse et magique.
-
+Tu parles, le Mogol des Indes !
+ Vous ne savez donc pas que notre nation est la plus élevée du monde ?
+ Toutes les autres, elles ne valent pas tripette, c'est nous les meilleurs.
+ Vous n’étiez pas au courant, ou quoi ?
+# CHRISTIAN 
+En plus, notre tissu possède une qualité merveilleuse et magique.
 # LE ROI. 
 J’imagine... Laquelle ?
-
-CHRISTIAN. - Mais je vous l’ai déjà dit, Votre Majesté. Elle ne peut être vue que par un homme intelligent. Ce tissu est invisible aux gens qui sont inaptes à leur fonction ou qui sont des idiots finis.
-
+# CHRISTIAN 
+Mais je vous l’ai déjà dit, Votre Majesté.
+ Il ne peut être vu que par un homme intelligent.
+ Ce tissu est invisible aux gens qui sont inaptes à leur fonction
+ ou qui sont des idiots finis.
 # LE ROI. 
 Tiens donc, tiens donc. Comment ça ?
-
-CHRISTIAN. - Notre tissu est invisible aux gens qui sont inaptes à leur fonction ou qui sont bêtes.
-
+# CHRISTIAN 
+Notre tissu est invisible
+ aux gens qui sont inaptes à leur fonction
+ ou qui sont bêtes.
 # LE ROI. 
-Ha-ha-ha ! Oh-oh-oh ! Oh, je suis mort ! Ah, nom d’un chien ! Alors, ça veut dire, donc, que le
- 
-______________________105______________________
- 
-Premier ministre, s’il est inapte à sa fonction, ce tissu il ne le verra pas ?
-
-CHRISTIAN. - Non, Votre Majesté. Telle est la merveilleuse qualité de ce tissu.
-
+Ha-ha-ha ! Oh-oh-oh ! Oh, je suis mort !
+ Ah, nom d’un chien ! Alors, ça veut dire, donc, que le Premier ministre,
+ s’il est inapte à sa fonction, ce tissu, il ne le verra pas ?
+# CHRISTIAN 
+Non, Votre Majesté.
+ Telle est la merveilleuse qualité de ce tissu.
 # LE ROI. 
-Ah-ha-ha ! Vieillard, tu entends ? Hein, ministre ! À toi que je parle !
-
-LE PREMIER MINISTRE. - Votre Majesté, je ne crois pas aux miracles.
-
+Ah-ha-ha ! Vieillard, tu entends ?
+ Hein, ministre ! À toi que je parle !
+# LE PREMIER MINISTRE. -
+Votre Majesté, je ne crois pas aux miracles.
 # LE ROI. 
-Comment ? Tu ne crois pas aux miracles ? J’ai près du trône un homme qui ne croit pas aux miracles ? Mais tu es un matérialiste ! Mais je te fais enfermer dans un souterrain ! Insolent !
-
-LE PREMIER MINISTRE. - Votre Majesté ! Permettez un petit reproche au vieillard que je suis. Vous ne m’avez pas laissé finir. Je voulais dire : je ne crois pas aux miracles, dit le fou dans son cœur. C’est le fou qui n’y croit pas - nous, ce qui nous fait tenir, c’est le miracle !
-
+Comment ? Tu ne crois pas aux miracles ?
+ J’ai près du trône un homme qui ne croit pas aux miracles ?
+Mais tu es un matérialiste !
+ Mais je vais te faire enfermer dans un souterrain ! Insolent !
+# LE PREMIER MINISTRE 
+Votre Majesté ! Permettez un petit reproche au vieillard que je suis.
+ Vous ne m’avez pas laissé finir. Je voulais dire :
+ je ne crois pas aux miracles, dit le fou dans son cœur.
+C’est le fou qui n’y croit pas -
+ nous, ce qui nous fait tenir, c’est le miracle !
 # LE ROI. 
-Ah, d’accord ! Bon, là, ça va. Attendez, tisserands. Quel tissu extraordinaire ! Donc, avec, je verrai qui est bien à sa place chez moi ?
-
-CHRISTIAN. - Exactement, Votre Majesté.
-
+Ah, d’accord ! Bon, là, ça va. Attendez, tisserands.
+ Quel tissu extraordinaire !
+ Donc, avec lui, je verrai qui est bien à sa place chez moi ?
+# CHRISTIAN 
+Exactement, Votre Majesté.
 # LE ROI. 
-Et je comprendrai tout de suite qui est bête et qui est intelligent ?
- 
-______________________106______________________
- 
-CHRISTIAN. - En un clin d’œil, Votre Majesté.
-
+Et je comprendrai tout de suite qui est bête
+ et qui est intelligent ?
+# CHRISTIAN 
+En un clin d’œil, Votre Majesté.
 # LE ROI. 
-De la soie ?
-
-CHRISTIAN. - Pure soie, Votre Majesté.
-
+C'est de la soie ?
+# CHRISTIAN 
+De la pure soie, Votre Majesté.
 # LE ROI. 
-Attendez. Après la réception de la princesse, je vais vous parler encore.
-
-Qu’est-ce qui se passe là-bas ?Hein ? Va voir, vieillard !
-
-LE PREMIER MINISTRE. - C’est le ministre des tendres sentiments de Votre Majesté.
-
+Attendez-moi.
+ Après la réception de la princesse, je reviendrai vous parler.
+Qu’est-ce qui se passe là-bas ?
+ Hein ? Va voir, vieillard !
+# LE PREMIER MINISTRE 
+C’est le Ministre des Tendres Sentiments de Votre Majesté.
 # LE ROI. 
-Aha, aha, aha ! Alors, alors ! Vite, ministre des tendres sentiments ! Mais alors, quoi, vite, enfin !
-
-Les nouvelles sont bonnes ? À ton visage, je le vois qu’elles sont bonnes. Bonjour, ministre des tendres sentiments.
-
-LE MINISTRE DES TENDRES SENTIMENTS. - Bonjour, Votre Majesté.
-
+Aha, aha, aha ! Alors, alors !
+ Vite, ministre des tendres sentiments !
+ Mais alors, quoi, vite, enfin !
+Les nouvelles sont bonnes ?
+ À ton visage, je le vois qu’elles sont bonnes.
+ Bonjour, ministre des tendres sentiments.
+# LE MINISTRE DES TENDRES SENTIMENTS. -
+Bonjour, Votre Majesté.
 # LE ROI. 
 Alors, alors, mon cher. J’écoute, mon mignon.
-
-LE MINISTRE. - Votre Majesté. Hélas ! Du point de vue de la morale, la princesse est absolument irréprochable.
- 
-______________________107______________________
- 
+# LE MINISTRE  
+Votre Majesté. Hélas !
+ Du point de vue de la morale,
+ la princesse est absolument irréprochable.
 # LE ROI. 
 Hé-hé ! Pourquoi ça « hélas » ?
-
-LE MINISTRE. - La pureté du sang - hélas, Votre Majesté. La princesse n’a pas senti le petit-pois sous les vingt-quatre matelas. Plus encore, pendant tout le voyage, elle a dormi sur un seul matelas.
-
+# LE MINISTRE  
+La pureté du sang - hélas, Votre Majesté.
+ La princesse n’a pas senti le petit-pois sous les vingt-quatre matelas.
+ Plus encore, pendant tout le voyage, elle a dormi sur un seul matelas.
 # LE ROI. 
-Pourquoi est-ce que tu souris ? Tête d’âne ! Donc, le mariage ne se fera pas ! Et, moi, j’étais déjà dans l’humeur ! Mais mince alors ! Oh, quelle saleté ! Arrive ici, que je t’égorge !
-
-LE MINISTRE. - Mais, Votre Majesté, je ne m’estimais pas en droit de vous cacher cette vérité désagréable.
-
+Pourquoi est-ce que tu souris ? Tête d’âne !
+ Donc, le mariage ne se fera pas !
+ Et, moi, j’étais déjà dans l’humeur !
+Mais mince alors ! Oh, quelle saleté !
+ Viens par ici, que je t’égorge !
+# LE MINISTRE  
+Mais, Votre Majesté, je ne m’estimais pas en droit
+ de vous cacher cette vérité désagréable.
 # LE ROI. 
 Je vais t’en montrer, des vérités désagréables ! 
-
-LE MINISTRE. - Aïe ! Oh ! Je ne le ferai plus ! Pitié ! (Il se précipite hors de la salle.)
-
+# LE MINISTRE  
+Aïe ! Oh ! Je ne le ferai plus ! Pitié !
 # LE ROI. 
-Dehors, dehors, tout le monde ! Ils m’ont fait de la peine ! Ils m’ont vexé ! Je vais les tuer tous ! Je les fais mettre aux oubliettes ! Je les fais stériliser ! Dehors !
-
-Chassez-la ! Chassez la princesse immédiatement ! Peut-être qu’elle est sémite ? Je parie qu’elle est sémite ! Dehors ! Tous !
- 
-______________________108______________________
- 
-LE PREMIER MINISTRE. - Votre Majesté ! Écoutez le vieillard que je suis. Je vous parle brutalement, comme un ours. Si on la chasse parce qu’elle n’a pas, n’est-ce pas, toute la pureté du sang - ça va fâcher son père.
-
-LE ROI, tapant du pied. - M’en fiche !
-
-LE PREMIER MINISTRE. - Ça va donner une guerre.
-
+Dehors, dehors, tout le monde ! Ils m’ont fait de la peine !
+ Ils m’ont vexé ! Je vais les tuer tous !
+ Les mettre aux oubliettes ! Les stériliser ! Dehors !
+Chassez-la ! Chassez la princesse immédiatement !
+ Peut-être qu’elle est sémite ?
+ Je parie qu’elle est sémite ! Dehors ! Tous !
+# LE PREMIER MINISTRE 
+Votre Majesté ! Écoutez le vieillard que je suis.
+ Je vous parle brutalement, comme un ours.
+ Si on la chasse parce qu’elle n’a pas, n’est-ce pas,
+ toute la pureté du sang... cela va fâcher son père.
+#LE ROI
+M’en fiche !
+# LE PREMIER MINISTRE 
+Ça va donner une guerre.
 # LE ROI. 
 Et alors !
-
-LE PREMIER MINISTRE. - Vous feriez mieux de la voir, la princesse, et de déclarer doucement, délicatement : votre silhouette, n’est-ce pas, ne me plaît pas. Je vous le dis brutalement, tout net : vous vous y connaissez, n’est-ce pas, dans ces affaires. Vous plaire, c’est dur. Et, là, la princesse, tout doux, tranquille, on la renvoie chez elle. Ça y est ! Ça y est ! Ah, le roi, ah, le brave garçon ! Il a compris que j’ai raison ! Il est d’accord !
-
+# LE PREMIER MINISTRE 
+Vous feriez mieux de la voir, la princesse,
+ et de déclarer doucement, délicatement :
+ votre silhouette, n’est-ce pas, ne me plaît pas.
+Je vous le dis brutalement, tout net :
+ vous vous y connaissez, n’est-ce pas, dans ces affaires.
+ Vous plaire, c’est dur.
+Et, là, la princesse, tout doux, tranquille, on la renvoie chez elle.
+ Ça y est ! Ça y est ! Ah, le roi, ah, le brave garçon !
+ Il a compris que j’ai raison ! Il est d’accord !
 # LE ROI. 
-Je suis d’accord, vieillard. Allez, va tout préparer pour sa réception, et puis je la renvoie. Qu’on la reçoive à la cour !
-
-LE PREMIER MINISTRE. - Oh, le roi ! Oh, le génie ! (Il sort.)
-
+Je suis d’accord, vieillard.
+ Allez, va tout préparer pour sa réception, et puis je la renvoie.
+ Qu’on la reçoive à la cour !
+# LE PREMIER MINISTRE 
+Oh, le roi ! Oh, le génie !
 # LE ROI. 
-Non, mais ça, ça, c’est épouvantable ! Ils m’ont refait de la peine. Le bouffon ! Le bouffon, vite ! Parle, bouffon. Égaye-moi ! Égaye-moi !
-
- 
-______________________109______________________
- 
+Non, mais ça, ça, c’est épouvantable !
+ Ils m’ont refait de la peine.
+Le bouffon ! Le bouffon, vite !
+ Parle, bouffon. Égaye-moi ! Égaye-moi !
 # LE BOUFFON 
 Un marchand...
-
-LE ROI, avec méfiance. - Son nom de famille ?
-
+# LE ROI, avec méfiance. -
+Son nom de famille ?
 # LE BOUFFON 
-Ludwigsen. Un marchand traversait un petit pont - et, plouf, dans l’eau.
-
+Ludwigsen. Un marchand traversait un petit pont
+ - et, plouf, dans l’eau.
 # LE ROI. 
-Ha-ha-ha !
-
+# Ha-ha-ha !
 # LE BOUFFON 
-Et, sous le pont, passait une barque. Lui, pan, sur le rameur - un coup de talon.
-
+Et, sous le pont, passait une barque.
+ Lui, pan, sur le rameur - un coup de talon.
 # LE ROI. 
 Ha-ha-ha ! Sur la caboche ? Ho-ho-ho !
-
 # LE BOUFFON 
-Le rameur aussi - plouf, dans l’eau, et, là, sur la berge, il y avait une grand-mère. Il l’attrape par la robe - et, plouf, dans l’eau, pareil.
-
+Le rameur aussi - plouf, dans l’eau,
+ et, là, sur la berge, il y avait une grand-mère.
+ Il l’attrape par la robe - et, plouf, dans l’eau, pareil.
 # LE ROI. 
-Ha-ha-ha ! Je suis mort ! Oh-oh-oh ! Ha-ha-ha ! Ha-ha-ha ! Alors ?
-
+Ha-ha-ha ! Je suis mort ! Oh-oh-oh ! Ha-ha-ha ! Ha-ha-ha !
+ Alors ?
 # LE BOUFFON 
 Et elle...
-
 # LE MINISTRE DES TENDRES SENTIMENTS. -
-Oh ! Par ici  monsieur le chambel ! Oh !
-
+Oh ! Par ici  monsieur le chambellan ! Oh !
 # LE CHAMBELLAN 
-Pourquoi vous gémissez ? On vous a blessé ? Ah ! Taïaut !
+Pourquoi gémissez-vous ? On vous a blessé ?
+Ah ! Taïaut !
 # LE MINISTRE 
-Ah ! Non, On ne m’a pas blessé ! On m’a tué ! Par ici ! Amenez la chaise à porteurs avec la fiancée ici ! Oh !
+Ah ! Non, On ne m’a pas blessé ! On m’a tué !
+ Par ici ! Amenez la chaise à porteurs avec la fiancée ici ! 
 # LE CHAMBELLAN 
 Mais qu’est-ce qui s’est passé ? Ouho !
 # LE MINISTRE 
 Vous verrez !
 # LE CHAMBELLAN 
-Posez la chaise et partez en courant. N’approchez pas de la fenêtre, malotrus ! Hallali !
+Posez la chaise et partez en courant.
+ N’approchez pas de la fenêtre, malotrus !
+  Hallali !
 # LA GOUVERNANTE 
-Dites-les : sors les mains poche des. Gratte le nez pas. Tiens droit !
+Dites-les : sors les mains poche des.
+ Gratte le nez pas.
+ Tiens droit !
 # LE CHAMBELLAN :
-Ah, je n’ai pas le temps éducable.
- Va savoir, un billet trip–trape que la princesse, mienne-tienne, se reçoit ! Qu’est-ce que vous avez à écouter ? De toute façon, vous ne comprenez pas les langues étrangères. Dehors ! Vraiment, une montagne des épaules qui tombe, ein, zwei, drei. Maintenant, diese princesse d‘une main l’autre nous donnerons. Et - une duna res.
-
-# -----------------------111-----------------------------------
+Ah, je pas le temps à éducable.
+ Toi ça regarde, princesse mienne-tienne
+ y-en a recevir billet gogol-mogol !
+Qu’est-ce que vous avez à écouter ?
+ De toute façon, vous ne comprenez pas les langues étrangères.
+ Dehors !
+Vraimento, una montagne des épaules qui tombe, ein, zwei, drei.
+ Maintenant, diese princesse d‘une main l’autre nous donnerons.
+ Et - une duna res.
 # LA GOUVERNANTE 
-Kwinter, bonze, gès. Moi aussi content.
+Kwinter, baba, gès. Moi aussi content.
 # LE CHAMBELLAN :
-Votre Altesse. Préparez-vous. Je vais aller annoncer votre arrivée au roi. Votre Altesse. Vous dormez ?
+Votre Altesse, préparez-vous.
+ Je vais aller annoncer votre arrivée au roi.
+ Votre Altesse, vous dormez ?
 # LA PRINCESSE 
 Non, je songeais.
 # LE CHAMBELLAN 
-Oh, Bon, d’accord. Vous placez près palissade, là, lobi-tob.
- Et l’œil ouvrez. Je avec le roi me fille.
+Oh, Bon, d’accord.
+ Vous placez près palissade, là, lobi-tob.
+ Et l’œil ouvren Sie. Je avec le roi me file.
 # LA GOUVERNANTE 
 Und !
+
 # LA PRINCESSE :
 Ici tout m’est étranger, tout est pavé de pierres,
  il n’y a pas un seul brin d’herbe.
  Les murs vous regardent comment le loup un agneau.
-Moi, j’aurais eu peur, mais le petit mot de mon magnifique, de mon frisé,
- de mon gentil, de mon tendre, de mon bien-aimé, de mon si mignon Henri,
+Moi, j’aurais eu peur, mais le petit mot de mon magnifique,
+ de mon frisé, de mon gentil, de mon tendre, de mon bien-aimé,
+ de mon si mignon Henri,
  m’a tellement fait plaisir que je garde le sourire.
-Ah, quelle bonne odeur de noix. Ah, que c’est joli, bien tourné.
+Ah, quelle bonne odeur de noix.
+ Ah, que c’est joli, que le papier est bien huilé !
 “Nous sommes là. J’ai les cheveux blancs et la barbe blanche.
  Dis des gros mots au roi. Dis-lui qu’il est mal habillé. Henri”
 Je ne comprends rien. Ah, ce qu’il est intelligent !
- Mais où est-il ? Le voir, ne serait-ce qu’une toute petite seconde. 
+ Mais où est-il ?
+ Le voir, ne serait-ce qu’une toute petite seconde. 
 # CHANSON
 Nos vaincrons tous les obstacles, conquérant la joie,
  ma princesse, mon miracle, sous le même toit.
-
 # LA PRINCESSE 
 Oh, c’est sa voix ! Donc, il va venir tout de suite.
- Exactement comme la dernière fois–il a chanté, et il est apparu.
+ Exactement comme la dernière fois :
+ il a chanté, et il est apparu.
 C’est lui ! Les cheveux blancs, la barbe blanche.
 # LE PREMIER MINISTRE 
 Permettez, Votre Altesse, de vous le dire brutalement,
- comme un vieillard, comme un père : votre beauté me met dans tous mes états.
+ comme un vieillard, comme un père :
+ votre beauté me met dans tous mes états.
 # LA PRINCESSE 
 Alors !
 # LE PREMIER MINISTRE 
@@ -1065,16 +1111,15 @@ Pourquoi tu ne me dis pas : tire-moi par la barbe ?
 # LE PREMIER MINISTRE 
 Pourquoi faire, Votre Altesse ?
 # LA PRINCESSE 
-Toi alors ! Maintenant, tu ne me le feras plus !
-Je t’ai reconnu tout de suite !
+Toi alors ! Maintenant, tu ne me la feras plus !
+ Je t’ai reconnu tout de suite !
 # LE PREMIER MINISTRE 
 Mon Dieu !
-# -----------------------113-----------------------------------
 # LA PRINCESSE 
 Maintenant, je sais les tirer, les barbes !
 # LE PREMIER MINISTRE 
 Votre Altesse ! 
-Au secours !
+ Au secours !
 # LA GOUVERNANTE 
 Qu’est-ce qu’il lui fait, cet étranger vieux !
  La ! Pas-de-trois !
@@ -1090,17 +1135,19 @@ Buvez des gouttes, was is das.
 Je les ai envoyées se faire voir, ces saloperies.
 # LE PREMIER MINISTRE 
 Elle est complètement folle ! C’est très bien !
- Nous la renverrons très simplement. Je vais aller l‘annoncer au roi.
+ Nous la renverrons très simplement.
+ Je vais aller l‘annoncer au roi.
 Remarquez, non, il n’aime pas les mauvaises nouvelles.
  Qu’il voie lui-même.
-Votre Altesse, permettez-moi de vous le dire brutalement, comme un vieillard :
+Votre Altesse, permettez-moi de vous le dire
+ brutalement, comme un vieillard :
  vous êtes une telle friponne que ça met le cœur en fête.
-Les demoiselles d‘honneur sont amoureuses de vous, je vous jure.
-	Je peux les appeler ?
+Les demoiselles d‘honneur vont avoir le coup de foudre, je vous jure.
+ Je peux les appeler ?
 Elles vous aideront à faire votre toilette après le voyage,
  elles vous montreront ceci–cela, et, nous, pendant ce temps,
  nous préparerons tout ce qu’il faut ici pour vous recevoir.
- Mes petites filles !
+Mes petites filles !
 Permettez, princesse, de vous présenter les demoiselles d’honneur.
  Elles sont très contente de vous connaître.
 # LA PRINCESSE 
@@ -1112,20 +1159,21 @@ Première demoiselle d’honneur au rapport, Votre Altesse.
 # LA PRINCESSE 
 Quoi ?
 # LA PREMIÈRE DEMOISELLE D’HONNEUR :
-Votre Altesse ! Pendant mon tour de garde il n’y a rien eu à signaler.
-Quatre demoiselles d’honneur en service.
+Votre Altesse ! Pendant mon tour de garde, rien à signaler.
+ Quatre demoiselles d’honneur en service.
  Une au poste. Une en mission commandée.
  Deux en larmes à l’occasion du mariage annoncé.
 # LA PRINCESSE 
-Vous êtes donc un soldat, demoiselle d’honneur ?
+Vous êtes donc... un soldat, demoiselle d’honneur ?
 # LA PREMIÈRE DEMOISELLE D’HONNEUR :
-Pas du tout, Votre Altesse, je suis générale.
+Pas du tout, Votre Altesse, je suis un Général.
  Entrez dans le palais, Princesse.
  Les filles ! À mes ordres ! En avant - marche !
 # LA PRINCESSE 
 C'est affreux !
 # LE PREMIER MINISTRE 
-Eh, vous, là-bas ! Faites entrer les soldats. Je vais chercher la foule.
+Eh, vous, là-bas ! Faites entrer les soldats.
+ Je vais chercher la foule.
 # L’OFFICIER :
 Daa-ans le pressentiment de voir le roi, d'émotion lan-anguissez !
 Au pas de canard - Marche !
@@ -1134,11 +1182,12 @@ Gauche ! Droite ! Au mu-ur ! Garde-à-vous !
 Je sais que vous êtes des sujets fidèles, mais je vous le rappelle :
  dans le palais de Sa Majesté, on n'a le droit d'ouvrir la bouche
   que pour crier "Hourra" ou bien pour chanter l'hymne. Compris ?
+
 # LA FOULE :
 Compris 
 # LE PREMIER MINISTRE 
 Vous avez mal compris. Vous êtes déjà dans le palais du roi.
- Pourquoi est-ce que vous dites quelque chose d'autre à la place de "hourra" ?
+ Pourquoi dites-vous autre chose que "hourra" ?
  Hein ?
 #LA FOULE :
 Hourra.
@@ -1152,9 +1201,11 @@ Incroyable ! Non ?
  - Hourra.
 # LE PREMIER MINISTRE 
 Tenez-vous en silence, le temps que le roi paraisse.
- Chantez l'hymne et criez "hourra" tant que le roi n'aura pas dit "repos".
+ Chantez l'hymne et criez "hourra"
+ tant que le roi n'aura pas dit "repos".
  Après, taisez-vous.
-Seulement quand, sur un signe de Son Excelence, la garde criera "hourra",
+Seulement quand, sur un signe de Son Excelence,
+ la garde criera "hourra",
  là, vous criez. Compris ?
 # LA FOULE :
 Hourra.
@@ -1173,8 +1224,10 @@ Repos !
 Ree-eprenez vos esprits !
 # LE ROI 
 Bon, alors, elle est où ? Qu'est-ce que c'est que ça !
- Quelle poisse ! Moi, je veux petit-déjeuner, et, là, cette... sang-mêlée.
-Mais où est-elle ? Il faut la renvoyer le plus vite possible.
+ Quelle poisse !
+ Moi, je veux petit-déjeuner, et, là, cette... sang-mêlée.
+Mais où est-elle ?
+ Il faut la renvoyer le plus vite possible.
 # LE PREMIER MINISTRE 
 Elle arrive, Votre Majesté.
 #L’OFFICIER :
@@ -1184,11 +1237,12 @@ Caa-lmez-vous !
 # LE ROI 
 Bonjour, princesse.
 # LA PRINCESSE 
-Va te faire voir chez la tantine du diable.
+Va te faire voir chez ta grand-mère en enfer.
 # L’OFFICIER :
-#A-abrutissez-vous d'attention !
+A-abrutissez-vous d'attention !
 # LE ROI 
-Princesse. Je suis heureux de vous voir tel un soleil monter sur mon trône.
+Princesse !
+ Je suis heureux de vous voir tel un soleil monter sur mon trône.
  La lumière de votre beauté illumine tous les alentours.
 # LA PRINCESSE 
 La ferme, vieux sac à trous.
@@ -1251,7 +1305,7 @@ Et, tout ça, on ne peut pas aller contre -
  sans quoi c'est l'État  qui disparaît.
 J'aurais été très patiente si Henri avait été avec moi.
  Mais Henri a disparu, il a disparu, Henri !
-Comment faire pour le trouver quand les demoiselles d'honneur
+Comment faire pour le trouver, quand les demoiselles d'honneur
  me surveillent escadron après escadron...
 Ça été très dur de tirer la barbe de tous les barbus...
 On attrape un barbu dans le couloir, on tire -
@@ -1261,7 +1315,7 @@ Il paraît que les nouveaux tisserands sont barbus,
  et les demoiselles d'honneur, justement, défilent sur la place,
  en se préparant à la parade nuptiale.
 Les tisserands travaillent ici. J'entre et je tire ?
- Ah, comme ça fait peur ! Et si Henri n'était pas là, même là ?
+ Ah, comme ça fait peur ! Et si Henri n'était pas là non plus ?
 Et si on l'avait attrapé, et, selon, une tradition du VIIIe siècle,
  au bruit du tambour, qu'on lui eût tranché la tête sur la place !
 Non, je le sens, je le sens bien -
@@ -1288,27 +1342,31 @@ Deu-eumi-tour, marche !
 Gaarde-à-vous !
 # LE ROI 
 Ah, mes colombes. Oh, c'est elle.
- Et exactement comme je l'ai vue dans mon rêve, mais encore plus colère.
+ Et exactement comme je l'ai vue dans mon rêve,
+ juste un peu plus en colère.
 Princesse. Mon petit cœur.
  Un amoureux de vous ne peut pas ne pas vous aimer. 
 # LA PRINCESSE 
 Fichez le camp au diable.
 # LE ROI 
-Elle est complètement à bout de nerfs. Je la comprends tellement.
+Elle est complètement à bout de nerfs.
+ Je la comprends tellement.
  Moi non plus, je n'en peux plus d'impatience.
 Ça ne fait rien. La noce est pour demain.
-Et, là, maintenant, je vais voir ce tissu extraordinaire. 
+ Et, là, maintenant, je vais voir ce tissu extraordinaire. 
 # LE PREMIER MINISTRE :
 Votre Majesté, vous avanciez, comme toujours, juste.
  Par ici, par ici.
 # LE ROI 
 Mais attends, toi...
 # LE PREMIER MINISTRE 
-Les tisserands, pardonnez ma brutalité, c'est là, justement, qu'ils travaillent. 
+Les tisserands, pardonnez ma brutalité,
+ c'est là, justement, qu'ils travaillent. 
 # LE ROI 
 Je sais, je sais. Oui... Mais le tissu, il est spécial...
 Bien sûr, je n'ai pas à m'inquiéter. D'abord, je suis intelligent.
- Ensuite, je suis complètement inapte à toute autre fonction que celle de roi.
+ Ensuite, je suis complètement inapte à toute autre fonction
+  que celle de roi.
 Même pour la fonction de roi, il y a toujours quelque chose qui me manque,
  je suis toujours en colère,  je fais peur, tout simplement.
 Et, malgré tout...
