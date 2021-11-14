@@ -1416,14 +1416,22 @@ Qui est-ce que ça intéresse maintenant ?
 Je ne suis pas un imbécile, bien sûr... Mais...
  Bah, à la guerre comme à la guerre !
  Au pire, je mentirai ! Ce ne sera pas la première fois !
+
 # CHRISTIAN 
-Henri ! Henri, un peu de gaîté !  Nous avons une soie des plus fines qu'on nous a données à tisser, elle est là, dans le sac. J'en tisserai une robe merveilleuse pour ta fiancée. Et, dans ce sac, de l'or. Nous rentrerons chez nous sur les meilleurs chevaux. De la gaîté, Henri !
+Henri ! Henri, un peu de gaîté !
+ Nous avons une soie des plus fines qu'on nous a données à tisser,
+ elle est là, dans le sac.
+ J'en tisserai une robe merveilleuse pour ta fiancée.
+Et, dans ce sac, de l'or.
+ Nous rentrerons chez nous sur les meilleurs chevaux.
+ De la gaîté, Henri !
 # HENRI 
 J'en ai, de la gaîté. Si je me tais, c'est que je pense.
 # CHRISTIAN 
-#À quoi ?
+À quoi ?
 # HENRI 
-#À comment, Henriette et moi, nous nous promènerons au bord de la rivière qui sera près de notre maison.
+À  comment, Henriette et moi, nous nous promènerons
+ au bord de la rivière qui sera près de notre maison.
 # CHRISTIAN 
 Entrez.
 # LA POETE DE LA COUR :
@@ -1432,7 +1440,7 @@ Bonjour, tisserands de la cour.
 Bonjour, poète de la cour.
 # LA POETE DE LA COUR :
 Voilà, tisserands - on m'envoie pour une mission très importante.
-Je dois regarder et décrire ce tissu.
+ Je dois regarder et décrire ce tissu.
 # CHRISTIAN 
 Je vous en prie, monsieur le poète.
  Henri, qu'en penses-tu, les roses, il vaut mieux les placer
@@ -1447,17 +1455,28 @@ J'attends, tisserands !
 Quoi précisément, monsieur le poète ?
 # LE POETE DE LA COUR 
 Comment ça, quoi précisément ?
-J'attends que vous me montriez le tissu que vous avez fait pour le costume du roi. 
+ J'attends que vous me montriez le tissu que vous avez fait
+ pour le costume du roi. 
+
 Bon, ça va, ça va ! Vous entendez ?
-Pourquoi vous me faites ces yeux ? Si j'ai fait une erreur - montrez-moi mon erreur, mais ce n'est pas la peine de me faire perdre les pédales ! J'ai un travail nerveux, moi ! Il faut me préserver !
+ Pourquoi vous me faites ces yeux ?
+Si j'ai fait une erreur - montrez-moi mon erreur,
+ mais ce n'est pas la peine de me faire perdre les pédales !
+ J'ai un travail nerveux, moi ! Il faut me préserver !
 # CHRISTIAN 
 Mais nous sommes stupéfaits à l'extrême, monsieur le poète !
 # LE POETE DE LA COUR 
 Par quoi ? Parlez, tout de suite, par quoi ?
 # CHRISTIAN 
-Mais les tissus sont devant vous. Là, sur ces cadres, les soies ont été mises à sécher. Là, en monceaux, elles sont sur la table. Quelle couleur, quel dessin !
-# LA POETE DE LA COUR : Bien sûr, sur la table. Là, sur la table. Tout ce monceau. 
-Mais je vous avais ordonné de me montrer la soie. De me la montrer avec des explications : ce qui ira pour la chemise, ce qui ira pour la cape, le gilet. 
+Mais les tissus sont devant vous.
+ Là, sur ces cadres, les soies ont été mises à sécher.
+ Là, en monceaux, elles sont sur la table.
+ Quelles couleurs, quels dessins !
+# LA POETE DE LA COUR :
+Bien sûr, sur la table. Là, sur la table. Tout ce monceau. 
+Mais je vous avais ordonné de me montrer la soie.
+ De me la montrer avec des explications :
+ ce qui ira pour la chemise, ce qui ira pour la cape, le gilet. 
 # CHRISTIAN 
 Je vous en prie, monsieur le poète.
  Sur ce cadre, vous voyez de la soie de trois sortes.
@@ -1491,11 +1510,13 @@ Tout le monde tremble littéralement du désir de se convaincre
  de la bêtise de son prochain.
 Le ministre des tendres sentiments doit arriver tout de suite.
  Au revoir, tisserands. 
-CHRISTIAN ET HENRI : Au revoir, poète de la cour.
+#CHRISTIAN ET HENRI :
+Au revoir, poète de la cour.
 # HENRI 
 Bon, maintenant l'affaire est lancée, Christian.
 # CHRISTIAN 
-Maintenant, je vais faire sauter le ministre des tendres sentiments, Henri.
+Maintenant, je vais faire sauter
+ le ministre des tendres sentiments, Henri.
 # HENRI 
 Comment ça, sauter ?
 # CHRISTIAN 
@@ -1556,7 +1577,8 @@ Eh, les tisserands ! Vous n’avez pas rangé par terre.
 # HENRI 
 À vos ordres, Votre Excellence.
 # LE PREMIER MINISTRE 
-Eh toi, le sans-gêne, comment oses-tu boire de la vodka en travaillant ?
+Eh toi, le sans-gêne,
+ comment oses-tu boire de la vodka en travaillant ?
 # CHRISTIAN 
 Quel est le crétin qui braille là-bas ?
 # LE PREMIER MINISTRE 
@@ -1570,7 +1592,8 @@ Pardon, Votre Excellence, je ne vous vois pas de derrière les tissus,
 Euh... c’est à l’odeur. Je ne l’aime pas, cette maudite vodka.
  Je la sens à une lieue.
 # CHRISTIAN 
-Comment cela, quelle vodka ? C’est de l’eau, Votre Excellence.
+Comment cela, quelle vodka ?
+ C’est de l’eau, Votre Excellence.
 # LE PREMIER MINISTRE 
 Arrête de me mettre sous le nez ta sale gourde !
  Garde-à-vous ! Le roi arrive !
@@ -1600,42 +1623,48 @@ Vous m’excuserez, mais, parfois, il vous prend l’envie
 ... Aucun tissu que vous puissiez trouver pour égaler celui-ci.
  C’est à la fois riche et pictural.
 # LES COURTISANS :
- Ah, que c’est bien dit ! Riche et pictural. C’est très juste.
+Ah, que c’est bien dit ! Riche et pictural. C’est très juste.
 # LE ROI 
-Oui, bravo les tisserands. Je vois, vous avez... enfin... tout est plus ou moins prêt ?...
+Oui, bravo les tisserands. Je vois, vous avez...
+ enfin... tout est plus ou moins prêt ?...
 # CHRISTIAN 
- Oui, Votre Majesté. J’espère que Votre Majesté ne nous condamnera pas pour la couleur de ces roses ?
+Oui, Votre Majesté.
+ J’espère que Votre Majesté ne nous condamnera pas
+ pour la couleur de ces roses ?
 # LE ROI 
 Non, je ne condamnerai pas. Si, non, je ne condamnerai pas.
 # CHRISTIAN 
-Nous avons décidé que, des roses rouges, tout le monde en voyait assez dans les rosiers.
-
-# -----------------------134-----------------------------------
-
+Nous avons décidé que, des roses rouges,
+ tout le monde en voyait assez dans les rosiers.
 # LE ROI 
 On en voit dans les rosiers. Oui. Parfait, parfait.
 # CHRISTIAN 
 Voilà pourquoi, sur la soie, nous les avons faites vio... , vio... .
-LES COURTISANS : Violettes, comme c’est spirituel ! Comme c’est original - violettes ! C’est noble et somptueux.
+# LES COURTISANS :
+Violettes, comme c’est spirituel !
+ Comme c’est original - violettes ! C’est noble et somptueux.
 # CHRISTIAN 
 Violemment argentées, messieurs les courtisans.
 # LE MINISTRE 
 Bravo, bravo ! 
 # LE ROI 
-Je voulais juste vous remercier de les avoir faites argentées, c’est la couleur que je préfère. Littéralement, juste à l’instant. Je vous exprime ma gratitude royale.
+Je voulais juste vous remercier de les avoir faites argentées,
+ c’est la couleur que je préfère.
+ Littéralement, juste à l’instant. Je vous exprime ma gratitude royale.
 # CHRISTIAN 
-Et comment trouvez-vous, Votre Majesté, la façon de cette chemise - n’est-ce pas trop audacieux ?
+Et comment trouvez-vous, Votre Majesté,
+ la façon de cette chemise - n’est-ce pas trop audacieux ?
 # LE ROI 
-Non, pas trop. Non. Assez parlé, passons à l’essayage. J’ai encore beaucoup de choses à faire aujourd’hui.
+Non, pas trop. Non. Assez parlé, passons à l’essayage.
+ J’ai encore beaucoup de choses à faire aujourd’hui.
 # CHRISTIAN 
-Je demanderai à monsieur le ministre des tendres sentiments de tenir la chemise du roi.
-
-# -----------------------135-----------------------------------
-
+Je demanderai à monsieur le ministre des tendres sentiments
+ de tenir la chemise du roi.
 # LE MINISTRE 
 Je ne sais pas si j’en suis digne.
 # LE ROI 
-Mais si. Oui. Allez. Passez-moi cette belle chemise... Désha- billez-moi, Premier ministre. 
+Mais si. Oui. Allez. Passez-moi cette belle chemise...
+ Déshabillez-moi, Premier ministre. 
 # CHRISTIAN 
 Ah !
 # LE MINISTRE 
@@ -1649,55 +1678,78 @@ Comme un objet du culte... Pourquoi ?
 # LE MINISTRE 
 J'admirais trop le dessin. 
 # CHRISTIAN 
-Monsieur le Premier ministre sera assez bon pour tenir le pantalon du roi ?
+Monsieur le Premier ministre sera assez bon
+ pour tenir le pantalon du roi ?
 # LE PREMIER MINISTRE 
-Je sors du bureau, l’ami, j’ai les doigts pleins d’encre. Prenez, baron !
-PREMIER COURTISAN : J’ai oublié mes lunettes, Votre Excellence ! Mais, tenez, le marquis...
-DEUXIÈME COURTISAN : Je suis trop ému, j’ai les mains qui tremblent. Mais, tenez, le comte...
- 
-# -----------------------136-----------------------------------
-
-TROISIÈME COURTISAN : Chez nous, dans notre famille, ça porte malheur de tenir dans ses mains le pantalon du roi...
+Je sors du bureau, l’ami, j’ai les doigts pleins d’encre.
+ Prenez, baron !
+# PREMIER COURTISAN :
+J’ai oublié mes lunettes, Votre Excellence !
+ Mais, tenez, le marquis...
+# DEUXIÈME COURTISAN :
+Je suis trop ému, j’ai les mains qui tremblent.
+ Mais, tenez, le comte...
+# TROISIÈME COURTISAN :
+Chez nous, dans notre famille, ça porte malheur
+  de tenir dans ses mains le pantalon du roi...
 # LE ROI 
- Qu’est-ce qui se passe avec vous ? Habillez- moi vite. Je suis pressé.
+Qu’est-ce qui se passe avec vous ?
+ Habillez- moi vite. Je suis pressé.
 # CHRISTIAN 
-À vos ordres, Votre Majesté. Henri, arrive. La gambette, Votre Majesté. Un poil à gauche ! Un poil à droite ! Je crains que messieurs les courtisans n’aient été plus experts pour vous vêtir. Nous, nous tremblons devant un si grand roi. Voilà, le pantalon est enfilé. Monsieur le ministre des tendres sentiments, la chemise. Pardon, vous la présentez de dos. Ah ! vous venez de la faire tomber ! Henri, la cape. Voilà. Le charme de ce tissu, c’est sa légèreté. On ne le sent absolument pas sur les épaules. Le linge sera prêt pour le matin.
+À vos ordres, Votre Majesté. Henri, arrive.
+ La gambette, Votre Majesté. Un poil à gauche ! Un poil à droite !
+Je crains que messieurs les courtisans
+ n’eussent été plus experts pour vous vêtir.
+ Nous, nous tremblons devant un si grand roi.
+Voilà, le pantalon est enfilé.
+ Monsieur le ministre des tendres sentiments, la chemise.
+Pardon, vous la présentez de dos.
+Ah ! vous venez de la faire tomber !
+Henri, la cape. Voilà.
+ Le charme de ce tissu, c’est sa légèreté.
+ On ne le sent absolument pas sur les épaules.
+Le linge sera prêt pour le matin.
 # LE ROI 
- Ça serre aux épaules. La cape est un peu longue. Mais, dans l'ensemble, le costume me va.
+Ça serre aux épaules. La cape est un peu longue.
+  Mais, dans l'ensemble, le costume me va.
 # LE PREMIER MINISTRE 
-Votre Majesté, pardonnez ma brutalité. En général, vous êtes bel homme, mais, dans ce costume-là, vous l’êtes deux fois plus.
+Votre Majesté, pardonnez ma brutalité.
+ En général, vous êtes bel homme, mais, dans ce costume-là,
+  vous l’êtes deux fois plus.
 # LE ROI 
 Tiens ? Bon, enlevez.
 Merci, les tisserands. C’est bien. 
-
-# -----------------------137-----------------------------------
-
-LES COURTISANS : Formidable, les tisserands. Bravo ! C’est splendide et c’est noble ! C’est riche et pictural ! Bon, maintenant, nous ne vous laisserons plus repartir. Vous allez tous nous tailler nos costumes !
+# LES COURTISANS :
+Formidable, les tisserands. Bravo !
+ C’est splendide et c’est noble !
+  C’est riche et pictural !
+Bon, maintenant, nous ne vous laisserons plus repartir.
+ Vous allez tous nous tailler nos costumes !
 # LE ROI 
 Demandez-moi ce que vous voulez. Je suis content.
 # CHRISTIAN 
-Permettez-nous de vous accompagner, Votre Majesté, pendant la parade nuptiale. Ce sera notre meilleure récompense.
+Permettez-nous de vous accompagner, Votre Majesté,
+ pendant la parade nuptiale. Ce sera notre meilleure récompense.
 # LE ROI 
 Je permets. 
-HENRI ET CHRISTIAN :
-Courtiseurs et intrigants, 
-Nous vous rendrons moins fringants. 
+# HENRI ET CHRISTIAN :
+Courtisants et intrigants, 
+ Nous vous rendrons moins fringants. 
 Vous tremblez pour vos carrières, 
-Donc vos cœurs ne sont pas clairs — 
-Nous, nous n’avons peur de rien.
+ Donc vos cœurs ne sont pas clairs — 
+ Nous, nous n’avons peur de rien.
 Nous avons tissé, tissé,
-Un tissu plus dur qu’acier, 
+ Un tissu plus dur qu’acier, 
 Un tissu qui cassera 
-Les vieux porcs et les vieux rats. 
-Nous, nous n’avons peur de rien.
+ Les vieux porcs et les vieux rats. 
+ Nous, nous n’avons peur de rien.
 Si nous avons la victoire, 
-Nous en tirerons la gloire.
+ Nous en tirerons la gloire.
 Si jamais c’est la défaite, 
-On nous coupera la tête.
-Non, nous n’avons peur de rien.
+ On nous coupera la tête.
+ Non, nous n’avons peur de rien.
 
-# -----------------------138-----------------------------------
-
+# TODO
 # LE PREMIER MINISTRE 
 Pourquoi je me suis mis Premier ministre ? Il n’y avait donc pas d’autres postes ? Je le sens - l’affaire d’aujourd’hui est mal partie. Les imbéciles vont voir le roi nu. C’est affreux ! C’est affreux ! Tout notre système national, toutes les traditions tiennent sur des imbéciles inébranlables. Que se passera-t-il s’ils bronchent en voyant leur souverain dénudé ? Les bases se mettront à chanceler, les murs trembleront, le feu consumera le pays ! Non, ce n’est pas possible de laisser sortir le roi tout nu. Le faste - voilà le grand soutien du trône ! J’avais un ami, un colonel de la garde. Il a pris sa retraite, il s ’ est présenté chez moi sans uniforme. Et d’un seul coup, qu’est-ce que je vois, ce n’était pas un colonel, c’était un imbécile ! Affreux ! Avec l’éclat de l’uniforme, ce qui avait disparu, c’était le prestige - le charme qui avait disparu. Non ! Je vais voir le souverain, et je le lui dis tout net : ce n’est pas possible de sortir ! Non ! Pas possible !
 # LE ROI 
