@@ -1,4 +1,5 @@
-## Le Roi Nu, d'Evgueni Schwarz. Acte II
+## Le Roi Nu, d'Evgueni Schwarz (Евгений Шварц).
+# Acte II
 # Texte français dérivé de la traduction d'André Markowicz
 # avec quelques coupes pour le spectacle d'Okno
 # et quelques modifications stylistiques à la marge
@@ -35,7 +36,7 @@ Eh bien ? Que puis-je pour votre service ?
 # ------------------------------------------ 74 ------------------------
 # HENRI -
 Nous sommes les tisserands les plus étonnants de la terre.
- Votre roi, lui, c'est le plus grand dandy, le plus grand lion de la terre.
+ Votre roi, lui, c'est le plus grand dandy, le plus élégant de la terre.
  Nous voulons rendre service à Sa Majesté.
 # LE CIREUR -
 Aha. Monsieur le cuisinier en chef, des tailleurs étonnants
@@ -86,20 +87,21 @@ Monsieur le cuisinier en chef ne quitte presque jamais ses fourneaux
 
 Qu'est-ce que cest ?
 # LE CUISINIER -
-Des exocets, monsieur le valet de chambre.
+Des rougets, monsieur le valet de chambre.
  Nous allons les mettre dans la cccchhhambre à cccouccchhher du roi,
- ils vont voler en sautant, et ils réveilleront SSSa MMMajesté.
+ ils vont clapoter, et ils réveilleront SSSa MMMajesté.
 # LE VALET DE CHAMBRE -
 Non.
 # LE CUISINIER -
-Mais pourquoi ? 
+ - Mais pourquoi ? 
 # LE VALET DE CHAMBRE -
-C'est non. L'exocet, on a beau dire,  pardonnez-moi.....
-  le roi peut voir rouge..... Et vous savez bien ce que le roi pense du rouge.
-	Enlevez !
-Là, c'est mieux, monsieur le cuisinier en chef. Holà !
- Appelez-moi un escadron de soldats, qu'ils tirent sous les fenêtres
- de la chambre à coucher, par salves. Peut-être que ça peut aider.
+C'est non. Du rouget, on a beau dire,  pardonnez-moi.....
+  le roi peut voir rouge.....
+	Et vous savez bien ce que le roi pense du rouge. Enlevez !
+Là, c'est mieux, monsieur le cuisinier en chef.
+Holà !  Appelez-moi un escadron de soldats,
+ qu'ils tirent sous les fenêtres  de la chambre à coucher,
+ par salves. Peut-être que ça peut aider.
 
 # CHRISTIAN -
 Sa Majesté a donc toujours un sommeil si profond ?
@@ -222,7 +224,7 @@ Mais maintenant, elle ne fait plus rien que manger.
 A la bonne heure ! Ah ! quels jolis petits pâtés !
  Des cours, dans le monde, j'en ai vu beaucoup,
  mais je n'ai jamais rien vu de comparable ! Quel arôme.
- Comme ils sont dorés.  Quelle douceur !
+ Comme ils sont dorés.  Quel moelleux !
 # LE CUISINIER -
 Oo-oui. Ils sont tellement doux
  qu'on en a un petit creux rien qu'en les regardant.
@@ -615,7 +617,7 @@ Voyons, Votre Majesté!
 # LE ROI. 
 Mais, Adam, il était bien Juif?
 #LE SAVANT. -
-C'est une question discutée, Votre Majesté!
+C'est une question controversée, Votre Majesté!
  Selon mes sources, il était caraïte.
 # LE ROI. 
 Ah, d'accord.
