@@ -26,7 +26,8 @@ Bonjour, monsieur le cireur de chaussures.
 Bonjour, tailleurs.
 # CHRISTIAN -
 Ils ont répondu. Quelle histoire !
- Dites, mais, les autres messieurs - ils sont quoi, sourds et muets ?
+ Dites, mais, les autres messieurs -
+ ils sont quoi, sourds ou bien muets ?
 # LE CIREUR -
 Ni l'un ni l'autre, tisserands.
  Mais d'après l'étiquette de la cour, vous deviez d'abord vous adresser à moi.
@@ -50,7 +51,8 @@ Ah bon. Bonjour, tisserands.
 Bonjour, monsieur le valet de chambre.
 # LE VALET DE CHAMBRE -
 Vous voulez servir ? D'accord.
- Je vous annonce directement au Premier ministre, et lui, au roi.
+ Je vous annonce directement au Premier ministre,
+ et lui, au roi.
 Pour les tisserands, nous avons des formalités d'accueil express.
  Donc, il va vous recevoir au plus haut point très vite.
 # HENRI -
@@ -72,8 +74,10 @@ Si. Pour que vous ne fassiez pas d'enfants enclins à la critique.
 # HENRI -
 Depuis longtemps.
 # LE VALET DE CHAMBRE -
-Ça fait plaisir à entendre. Asseyez-vous.
- N'empêche, je sonne déjà depuis une heure, et le roi ne se réveille pas. 
+Ça fait plaisir à entendre.
+#Asseyez-vous.
+ N'empêche, je sonne déjà depuis une heure,
+ et le roi ne se réveille pas. 
 # LE CUISINIER -
 Je vais esss-ssayer de vous aidd-dder.
 # CHRISTIAN -
@@ -87,15 +91,15 @@ Monsieur le cuisinier en chef ne quitte presque jamais ses fourneaux
 
 Qu'est-ce que cest ?
 # LE CUISINIER -
-Des rougets, monsieur le valet de chambre.
+Des écrevisses, monsieur le valet de chambre.
  Nous allons les mettre dans la cccchhhambre à cccouccchhher du roi,
- ils vont clapoter, et ils réveilleront SSSa MMMajesté.
+ elles vont claquer des pinces, et réveilleront SSSa MMMajesté.
 # LE VALET DE CHAMBRE -
 Non.
 # LE CUISINIER -
  - Mais pourquoi ? 
 # LE VALET DE CHAMBRE -
-C'est non. Du rouget, on a beau dire,  pardonnez-moi.....
+Des écrevisses, on a beau dire,  pardonnez-moi.....
   le roi peut voir rouge.....
 	Et vous savez bien ce que le roi pense du rouge. Enlevez !
 Là, c'est mieux, monsieur le cuisinier en chef.
@@ -134,6 +138,7 @@ Gaarde à vous ! Sur la pointe des pieds ! Sur la pointe des pieds -
  en avant, marche ! Un peu plus à droite ! Un chouïa à droite !
 Alignement sur le portrait du papi à Sa Majesté.
  A-lignement sur le nez. Sur son nez, au papi. Tout droit !
+# TODO Coupe avant!
 # CHRISTIAN -
 Et avec des soldats aussi bien entraînés, le roi a été battu ?
 # LE VALET DE CHAMBRE -
@@ -146,7 +151,7 @@ Bonjour, monsieur le Premier ministre.
 Alors, tout est en ordre, valet de chambre ?
  Hein ? La vérité. Assène la vérité.
 # LE VALET DE CHAMBRE -
-Parfaitement, Votre Excellence.
+ - Parfaitement, Votre Excellence.
 # LE PREMIER MINISTRE -
 N'empêche, le roi, il dort !
  Réponds sans fard. Sincèrement.
@@ -252,8 +257,8 @@ Mon livre "Voilà comment faire la cuisine, Messieurs !",
 Quoi ! Comment ?
 # LE CUISINIER -
 Quand la mode est venue
- de brûler les livres sur les places publiques,
-pendant les trois premiers jours, ils ont brûlé
+ de brûler les livres sur les places publiques.
+Pendant les trois premiers jours, ils ont brûlé
  les livres qui étaient réellement dangereux.
  Mais la mode n'a pas passé.
 Là, ils se sont mis à brûler tous les livres, sans distinction.
@@ -268,41 +273,39 @@ Chut ! Je crois que le roi vient d'éternuer.
 # HENRI -
 J'ai mis le billet dans un pâté, Christian.
 # CHRISTIAN -
-C'est bon, Henri. Ne t'inquiète pas.
+ - C'est bon, Henri. Ne t'inquiète pas.
 # -------------------------------------- 83 ---------------------------------------
 # HENRI 
 J’ai peur qu’il reste un peu huileux.
 # CHRISTIAN 
-Henri, calme-toi ! On en écrira un deuxième.
+ - Henri, calme-toi ! On en écrira un deuxième.
 # LE PREMIER MINISTRE 
 Le souverain a ouvert un œil !
-Prééé-parez-vous ! Appelez les valets de chambre !
-Où sont les demoiselles d’honneur ? Eh, les trompettes !
+ Prééé-parez-vous ! Appelez les valets de chambre !
+ Où sont les demoiselles d’honneur ? Eh, les trompettes !
 # LE PREMIER MINISTRE 
 Tout est prêt ? Je veux la vérité.
-# LE VALET DE CHAMBRE : Affirmatif !
+# LE VALET DE CHAMBRE :
+ - Affirmatif !
 # LE PREMIER MINISTRE 
-Vas-y, crénom de nom !
+ - Vas-y, crénom de nom !
 # CHRISTIAN 
 Mais où est le roi ?
 # LE CUISINIER :
-Il dort sur cent quarante-huit matelas -
+ - Il dort sur cent quarante-huit matelas -
  c’est vous dire sa noblesse.
  On ne peut pas le voir.  Il est juste sous le plafond.
-# -------------------------------------- 84 ---------------------------------------
 # LE PREMIER MINISTRE 
 Moins fort. Préparez-vous ! Il se retourne.
  Il s’est frotté le sourcil.
  Il fait une moue. Il s’assoit. Trompettes !
  
 Hourra au roi ! Hourra au roi ! Hourra au roi !
-
 Hein, hein, qu'est-ce que c’est ? Mais pourquoi tout ça ?
  Pourquoi vous m’avez réveillé ?
  Je rêvais d’une nymphe. Quelle chiennerie ! 
-
 # LE VALET DE CHAMBRE 
-J’oserai rappeler à Sa Majesté
+Oserai-je rappeler à Sa Majesté
  qu’aujourd’hui doit arriver la princesse,
  la fiancée de Sa Majesté.
 # LE ROI 
@@ -315,14 +318,13 @@ Bon, alors, il est où ? Combien de fois je te l’ai dit —
 Mais il est déjà dix heures et demie, Votre Majesté.
 # LE ROI 
 Quoi ? Et tu ne m’as pas réveillé ! Tiens, pour ça, tête d’âne !
- Alors ! Pourquoi tu ne hurles pas ? Je ne t’ai donc pas blessé ?
-# -------------------------------------- 85 ---------------------------------------
+Alors ! Pourquoi tu ne hurles pas ? Je ne t’ai donc pas blessé ?
 # LE VALET DE CHAMBRE 
-Non, Votre Majesté.
+ Non, Votre Majesté.
 # LE ROI 
-Je t'ai tué, alors, si ça se trouve ?
+ - Je t'ai tué, alors, si ça se trouve ?
 # LE VALET DE CHAMBRE 
-Non, Votre Majesté.
+ - Non, Votre Majesté.
 # LE ROI 
 Pas tué non plus ? Quelle chiennerie !
  Je suis malheureux.
@@ -340,7 +342,8 @@ Mais pourquoi tout cela ! Hein, à quoi bon ?
  Pourquoi tu ne dis rien ?
 Il voit que son souverain s’est levé du mauvais pied,
  il reste les bras ballants.
-Ramasse le poignard. Fainéant !
+ Ramasse le poignard.
+Fainéant !
  Tu ne mérites même pas de mourir d’une main si noble !
  Je t’ai donné une pièce d’or, hier, en pourboire ?
 # LE VALET DE CHAMBRE 
@@ -371,7 +374,7 @@ Le bouffon de Sa Majesté !
 # LE ROI 
 Bonjour, bouffon !
 # LE BOUFFON 
-Bonjour, Votre Majesté !
+ - Bonjour, Votre Majesté !
 # LE ROI 
 Égaye-moi. Et vite. C’est déjà l’heure que je m’habille,
  et moi, j’ai mon ire, mais j’ai mon ire... Allez ! Commence !
@@ -379,7 +382,7 @@ Bonjour, Votre Majesté !
 Eh bien, Votre Majesté, une histoire très drôle.
  Un marchand...
 # LE ROI 
-Son nom de famille ?
+ - Son nom de famille ?
 # LE BOUFFON 
 Petersen. Un marchand, du nom de Petersen, qui sort de sa boutique,
  et, vlan, il trébuche - et il se retrouve le nez sur la chaussée !
@@ -391,7 +394,7 @@ Et là, il y a un peintre en bâtiment qui trébuche contre le marchand,
 # LE ROI 
 C’est vrai ? Ha-ha-ha !
 # LE BOUFFON 
-Et, la grand-mère, elle a pris peur,
+ - Et, la grand-mère, elle a pris peur,
  elle a marché sur la queue d’un chien.
 # LE ROI 
 Ha-ha-ha ! Ah la la, mon Dieu !
@@ -401,26 +404,28 @@ Ha-ha-ha ! Ah la la, mon Dieu !
 Sur la queue, Votre Majesté.
  Et, le chien, il a mordu un gros bonhomme.
 # LE ROI 
-Ho-ho-ho ! Ha-ha-ha ! Oh, assez !...
+ - Ho-ho-ho ! Ha-ha-ha ! Oh, assez !...
 # LE BOUFFON 
-Et, le gros bonhomme, ...
+Alors le gros bonhomme, ...
 # LE ROI 
-Assez, assez ! Je n’en peux plus, tu vas me faire crever.
- Va-t’en, je me suis égayé. Commençons à nous habiller.
-Prends ma couronne de nuit. Donne-moi celle du matin.
+ - Assez, assez ! Je n’en peux plus, tu vas me faire crever.
+ Va-t’en, je suis égayé.
+ Commençons à nous habiller.
+Prends ma couronne de nuit.
+ Donne-moi celle du matin.
  Bon ! Appelle le Premier ministre.
 # LE VALET DE CHAMBRE 
 Son Excellence monsieur le Premier ministre chez Sa Majesté !
 # LE ROI 
 Bonjour, Premier ministre !
 # LE PREMIER MINISTRE 
-Bonjour, Votre Majesté !
+ - Bonjour, Votre Majesté !
 # LE ROI 
-Qu’est-ce que tu me diras, vieillard ?... ha- ha-ha !
+Qu’est-ce que tu en penses, vieillard ?... ha-ha-ha !
  Le bouffon que j’ai ! La grand-mère par la queue ! Ha-ha-ha !
-Ce que j’aime en lui, c’est l’humour pur.
+Ce que j’aime en lui, c’est que c'est de l’humour pur.
  Sans la moindre, je ne sais pas, allusion, sans pique...
- Le marchand qui mord le gros ! Ha-ha- ha !
+ Le marchand qui mord le gros ! Ha-ha-ha !
 Bon, quoi de neuf, vieillard ? Hein ?
 # LE PREMIER MINISTRE 
 Votre Majesté ! Vous savez que je suis un vieillard honnête,
@@ -471,14 +476,11 @@ Je m’habille et je prends mon chocolat, et, lui, qu’il parle.
  Commande l’habillage et le chocolat, honnête vieillard.
 # LE PREMIER MINISTRE 
 À vos ordres !
-Laquais !
-Tailleurs !
-Cuisinier !
-Le savant !
+ Laquais ! Tailleurs !
+ Cuisinier ! Le savant !
 # -------------------------------------- 91---------------------------------------
 Garde à vous ! 
  Prêts ? Partez !
-
 # LE ROI 
 Bonjour, savant de la cour !
 # LE SAVANT 
@@ -497,13 +499,13 @@ Et les jeunes filles aussi, elles sont là !
 # LA PREMIÈRE DEMOISELLE D’HONNEUR :
 Coucou, Votre Majesté.
 # LE ROI 
-Ha-ha-ha ! Bonjour, friponne !
+ - Ha-ha-ha ! Bonjour, friponne !
 # LA PREMIÈRE DEMOISELLE D’HONNEUR :
-Bonjour, Votre Majesté.
+ - Bonjour, Votre Majesté.
 # LE ROI 
 De quoi avez-vous rêvé, petite coquine ?
 # LA PREMIÈRE DEMOISELLE D’HONNEUR :
-De vous, Votre Majesté.
+ - De vous, Votre Majesté.
 # LE ROI 
 De moi ? Bravo !
 # LA PREMIÈRE DEMOISELLE D’HONNEUR :
@@ -558,7 +560,7 @@ Je sais ce que c’est qu’un blason, professeur.
 Depuis les temps immémoriaux on a fait usage de signes symboliques,
  oui, de signes qu’on gravait sur des bagues.
 # LE ROI 
-Tu-tu !
+ - Tu-tu !
 # LE SAVANT 
 Qu’on dessinait sur les armes, les bannières, etc.,
  oui, etc.
@@ -567,7 +569,7 @@ Pitit, pitit ! Mes canaris !
 # LE SAVANT 
 Ces signes furent le résultat...
 # LE ROI 
-Suffit avec les signes, au fait... Coucou !
+ - Suffit avec les signes, au fait... Coucou !
 # LE SAVANT 
 Résultat, oui, du désir de s’extraire, oui,  de s’extraire de la masse.
  Se donner une différence frappante,  visible parfois
@@ -575,15 +577,15 @@ Résultat, oui, du désir de s’extraire, oui,  de s’extraire de la masse.
 # LE ROI 
 Au fait, professeur !
 # LE SAVANT 
-Les blasons...
+ - Les blasons...
 # LE ROI 
-Au fait, on vous dit ! Faites court !
+ - Au fait, on vous dit ! Faites court !
 # LE SAVANT. -
 En ce cas, Votre Majesté, je commence à blasonner.
 # LE ROI. 
-Hein, tu commences à quoi?
+ - Hein, tu commences à quoi?
 # LE SAVANT. -
-À blasonner!
+ - À blasonner!
 # LE ROI. 
 Je te l'interdis!
  Qu'est-ce que c'est encore que cette saleté!
@@ -601,7 +603,7 @@ Sur champ d'or semé de cœurs de gueules
 # LE ROI. 
 Comment, comment? Sommées? 
 # LE SAVANT. -
-Oui, Votre Majesté...
+ - Oui, Votre Majesté...
  Autour, une bordure de fleurs du royaume.
 # LE ROI. 
 Bon, d'accord...Ça ne me plait pas trop, ça.
@@ -613,9 +615,9 @@ Bon, d'accord...Ça ne me plait pas trop, ça.
 # LE ROI. 
 Quelle horreur! La princesse est juive?
 # LE SAVANT. -
-Voyons, Votre Majesté!
+ - Voyons, Votre Majesté!
 # LE ROI. 
-Mais, Adam, il était bien Juif?
+ - Mais, Adam, il était bien Juif?
 #LE SAVANT. -
 C'est une question controversée, Votre Majesté!
  Selon mes sources, il était caraïte.
@@ -629,7 +631,7 @@ Oui, Votre Majesté, vous êtes un franc dandy.
 # LE SAVANT. -
 Oui, Votre Majesté, Votre Majesté,
  vous avez toujours été au niveau des idées les plus modernes.
- Oui, les plus.
+ Oui, les plus modernes.
 # LE ROI. 
 N'est-ce pas, hein?
  Rien que mon pantalon, ce qu'il vaut!
@@ -637,7 +639,7 @@ N'est-ce pas, hein?
 # LE SAVANT. -
 Adam...
 # LE ROI. 
-Laissons cette question chatouilleuse
+ - Laissons cette question chatouilleuse
  et passons à une époque plus tardive.
 # LE SAVANT 
 Le pharaon Ilamétic...
@@ -664,12 +666,12 @@ Je suis très pressé. Faites juste la liste des ancêtres.
 A vos ordres. Donc, alors, ensuite, ça nous fait :
  Guillaume Ier le Gai, Henri Ier le Bref,
  Georges III le Débridé, Georges IV le Mignon,
- Henri II le Diable l’emporte.
+Henri II le Diable l’emporte, ...
 # LE ROI. 
-Pourquoi l’a-t-on surnommé, lui ?
+ - Pourquoi l’a-t-on surnommé, lui ?
 # LE SAVANT 
-Pour ses exploits, Votre Majesté.
- Ensuite, on aura Philippe Ier l’Anormal, Georges V l’Amusant,
+ - Pour ses exploits, Votre Majesté.
+Ensuite, on aura Philippe Ier l’Anormal, Georges V l’Amusant,
  Georges VI le Négatif, Georges VII Pieds nus,
  Georges VIII Petite Nature, Georges IX la Brute,
 Georges X l’Asperge, Georges XI le Courageux,
@@ -681,25 +683,27 @@ et, enfin, le père toujours régnant de la princesse,
 # LE ROI. 
 Une collection d’ancêtres très riche
  et très diversifiée.
- # LE SAVANT 
+# LE SAVANT 
 Oui, Votre Majesté. La princesse a dix-huit ancêtres,
  sans compter les blasons de la ligne maternelle.
  Elle les a, oui.
 # LE ROI. 
 Ça suffit tout à fait... Disposez !
- Ah, comme il est tard ! Appelez vite le poète de la cour.
+ Ah, comme il est tard !
+ Appelez vite le poète de la cour.
 # LE PREMIER MINISTRE. -
-Le poète chez le souverain. Au pas de course !
+Le poète, chez le souverain !
+ Au pas de course !
 # LE ROI. 
 Bonjour, poète de la cour.
 #LE POÉTE. -
-Bonjour, Votre Majesté.
+ - Bonjour, Votre Majesté.
 # LE ROI. 
 Vous avez préparé le discours de bienvenue ?
 # LE POÉTE. -
-Oui, Votre Majesté. Mon inspiration...
+ - Oui, Votre Majesté. Mon inspiration...
 # LE ROI. 
-Et le poème pour l’arrivée de la princesse ?
+ - Et le poème pour l’arrivée de la princesse ?
 # LE POÉTE. -
 Ma muse m’a aidé à trouver
  cinq cent huit paires de rimes des plus magnifiques,
@@ -720,7 +724,7 @@ Mais dès qu’il s’agit d’écrire, je suis en retard,
 # LE POÉTE. -
 Mais mon dévouement à Votre Majesté...
 # LE ROI. 
-Je n’ai pas besoin d’un dévouement, j'ai besoin d’un poème !
+ - Je n’ai pas besoin d’un dévouement, j'ai besoin d’un poème !
 # LE POÉTE. -
 Mais le discours, lui, il est prêt, Votre Majesté.
 # LE ROI. 
@@ -740,7 +744,8 @@ Votre Majesté parle et dit : « Princesse ! Je suis heureux !
 À cela, la princesse répond :
  « Le soleil, c’est vous, Votre Majesté.
   L’éclat de vos exploits à éclipsé tous vos rivaux. »
-Alors, vous : « Je suis heureux que vous m'estimiez à ma juste valeur ! »
+Alors, vous :
+ « Je suis heureux que vous m'estimiez à ma juste valeur ! »
 Alors, la princesse :
  « Vos qualités sont le gage de notre bonheur futur ! »
 Vous répondez :
@@ -758,12 +763,13 @@ C’est très bien !
  Là, tonnent les canons, les armées crient « hourra. »
  et vous embrassez la princesse.
 # LE ROI. 
-Je l'embrasse ? ha-ha ! Pas mal ! Sur les lèvres ?
+Je l'embrasse ? ha-ha ! Pas mal !
+ Sur les lèvres ?
 # LE POÉTE. -
-Absolument, Votre Majesté.
+ - Absolument, Votre Majesté.
 # LE ROI. 
 C’est plein d’esprit. Disposez.
-Ha-ha! Vieillard, hein que c’est plaisant ! Oui ! Allez-allez !
+ Ha-ha! Vieillard, hein que c’est plaisant ! Oui ! Allez-allez !
  Eh ! Qui attend encore d'être reçu ?
  Hein ? Parle, sincère vieillard.
 # LE PREMIER MINISTRE. -
@@ -771,7 +777,7 @@ Votre Majesté, je ne vous le cacherai pas,
  il y a encore des tisserands qui attendent d’être reçus.
 # LE ROI. 
 Ah ! Mais pourquoi on ne les laisse pas entrer ?
- Vite, qu ’ils entrent au pas de course.
+ Vite, qu’ils entrent au pas de course.
 # LE PREMIER MINISTRE. -
 Les tisserands, chez le roi - au galop !
 # LE ROI. 
@@ -793,17 +799,17 @@ Pauvre roi ! Holala !
 Pourquoi vous me faites peur, imbéciles ?
  Qu’est-ce qui se passe ? Pourquoi "pauvre" ?
 # CHRISTIAN 
-Un si grand roi - et habillé comme cela !
+ - Un si grand roi - et habillé comme cela !
 # LE ROI. 
 Quoi, habillé comment ? Hein ?
 # HENRI 
-Banalement, Votre Majesté.
+ - Banalement, Votre Majesté.
 # CHRISTIAN 
-Comme le premier venu !
+ - Comme le premier venu !
 # HENRI 
 Comme tous les rois voisins !
 # CHRISTIAN 
-Oh, Votre Majesté, oh !
+ - Oh, Votre Majesté, oh !
 # LE ROI. 
 Mais qu’est-ce que c’est que ça ? Qu’est-ce qu’ils disent ?
  Mais comment est-ce possible ! Ouvrez l’armoire !
@@ -867,7 +873,8 @@ Mais, nous, nous pouvons faire un de ces tissus... Oho !
  Que ne peut voir qu’un homme intelligent.
  Nous vous ferons un habit de noce jamais vu, Votre Majesté.
 # LE ROI. 
-Oui ! Tout le monde dit ça ! Et vous avez des recommandations ?
+Oui ! Tout le monde dit ça !
+ Et vous avez des recommandations ?
 # CHRISTIAN 
 Nous avons travaillé un an chez le sultan de Turquie,
  il a été tellement content que ça dépasse toute description.
@@ -884,7 +891,7 @@ Tu parles, le Mogol des Indes !
 # CHRISTIAN 
 En plus, notre tissu possède une qualité merveilleuse et magique.
 # LE ROI. 
-J’imagine... Laquelle ?
+Ben voyons... Laquelle ?
 # CHRISTIAN 
 Mais je vous l’ai déjà dit, Votre Majesté.
  Il ne peut être vu que par un homme intelligent.
@@ -918,7 +925,7 @@ Votre Majesté ! Permettez un petit reproche au vieillard que je suis.
  Vous ne m’avez pas laissé finir. Je voulais dire :
  je ne crois pas aux miracles, dit le fou dans son cœur.
 C’est le fou qui n’y croit pas -
- nous, ce qui nous fait tenir, c’est le miracle !
+ nous, ce n'est que par miracle que nous tenons !
 # LE ROI. 
 Ah, d’accord ! Bon, là, ça va. Attendez, tisserands.
  Quel tissu extraordinaire !
@@ -933,7 +940,7 @@ En un clin d’œil, Votre Majesté.
 # LE ROI. 
 C'est de la soie ?
 # CHRISTIAN 
-De la pure soie, Votre Majesté.
+ De la pure soie, Votre Majesté.
 # LE ROI. 
 Attendez-moi.
  Après la réception de la princesse, je reviendrai vous parler.
@@ -951,7 +958,7 @@ Les nouvelles sont bonnes ?
 # LE MINISTRE DES TENDRES SENTIMENTS. -
 Bonjour, Votre Majesté.
 # LE ROI. 
-Alors, alors, mon cher. J’écoute, mon mignon.
+ - Alors, alors, mon cher. J’écoute, mon mignon.
 # LE MINISTRE  
 Votre Majesté. Hélas !
  Du point de vue de la morale,
@@ -959,7 +966,7 @@ Votre Majesté. Hélas !
 # LE ROI. 
 Hé-hé ! Pourquoi ça « hélas » ?
 # LE MINISTRE  
-La pureté du sang - hélas, Votre Majesté.
+Hélas en ce qui concerne la pureté du sang, Votre Majesté.
  La princesse n’a pas senti le petit-pois sous les vingt-quatre matelas.
  Plus encore, pendant tout le voyage, elle a dormi sur un seul matelas.
 # LE ROI. 
@@ -990,9 +997,9 @@ Votre Majesté ! Écoutez le vieillard que je suis.
 #LE ROI
 M’en fiche !
 # LE PREMIER MINISTRE 
-Ça va donner une guerre.
+ - Ça va donner une guerre.
 # LE ROI. 
-Et alors !
+ - Et alors !
 # LE PREMIER MINISTRE 
 Vous feriez mieux de la voir, la princesse,
  et de déclarer doucement, délicatement :
@@ -1017,7 +1024,7 @@ Le bouffon ! Le bouffon, vite !
 # LE BOUFFON 
 Un marchand...
 # LE ROI, avec méfiance. -
-Son nom de famille ?
+ - Son nom de famille ?
 # LE BOUFFON 
 Ludwigsen. Un marchand traversait un petit pont
  - et, plouf, dans l’eau.
@@ -1033,26 +1040,27 @@ Le rameur aussi - plouf, dans l’eau,
  et, là, sur la berge, il y avait une grand-mère.
  Il l’attrape par la robe - et, plouf, dans l’eau, pareil.
 # LE ROI. 
-Ha-ha-ha ! Je suis mort ! Oh-oh-oh ! Ha-ha-ha ! Ha-ha-ha !
+Ha-ha-ha ! Je suis mort !
+ Oh-oh-oh ! Ha-ha-ha ! Ha-ha-ha !
  Alors ?
 # LE BOUFFON 
-Et elle...
+ - Et elle...
 # LE MINISTRE DES TENDRES SENTIMENTS. -
-Oh ! Par ici  monsieur le chambellan ! Oh !
+- Oh ! Par ici  monsieur le chambellan ! Oh !
 # LE CHAMBELLAN 
 Pourquoi gémissez-vous ? On vous a blessé ?
-Ah ! Taïaut !
+ Ah ! Taïaut !
 # LE MINISTRE 
 Ah ! Non, On ne m’a pas blessé ! On m’a tué !
  Par ici ! Amenez la chaise à porteurs avec la fiancée ici ! 
 # LE CHAMBELLAN 
 Mais qu’est-ce qui s’est passé ? Ouho !
 # LE MINISTRE 
-Vous verrez !
+ - Vous verrez !
 # LE CHAMBELLAN 
 Posez la chaise et partez en courant.
  N’approchez pas de la fenêtre, malotrus !
-  Hallali !
+ Hallali !
 # LA GOUVERNANTE 
 Dites-les : sors les mains poche des.
  Gratte le nez pas.
@@ -1074,7 +1082,7 @@ Votre Altesse, préparez-vous.
  Je vais aller annoncer votre arrivée au roi.
  Votre Altesse, vous dormez ?
 # LA PRINCESSE 
-Non, je songeais.
+ - Non, je songeais.
 # LE CHAMBELLAN 
 Oh, Bon, d’accord.
  Vous placez près palissade, là, lobi-tob.
@@ -1090,21 +1098,22 @@ Moi, j’aurais eu peur, mais le petit mot de mon magnifique,
  de mon frisé, de mon gentil, de mon tendre, de mon bien-aimé,
  de mon si mignon Henri,
  m’a tellement fait plaisir que je garde le sourire.
-Ah, quelle bonne odeur de noix.
- Ah, que c’est joli, que le papier est bien huilé !
+Ah, quelle bonne odeur de noix, que c’est joli,
+ que le papier est bien huilé !
 “Nous sommes là. J’ai les cheveux blancs et la barbe blanche.
  Dis des gros mots au roi. Dis-lui qu’il est mal habillé. Henri”
 Je ne comprends rien. Ah, ce qu’il est intelligent !
  Mais où est-il ?
  Le voir, ne serait-ce qu’une toute petite seconde. 
 # CHANSON
-Nos vaincrons tous les obstacles, conquérant la joie,
- ma princesse, mon miracle, sous le même toit.
+#Nos vaincrons tous les obstacles, conquérant la joie,
+# ma princesse, mon miracle, sous le même toit.
 # LA PRINCESSE 
-Oh, c’est sa voix ! Donc, il va venir tout de suite.
- Exactement comme la dernière fois :
- il a chanté, et il est apparu.
-C’est lui ! Les cheveux blancs, la barbe blanche.
+#Oh, c’est sa voix ! Donc, il va venir tout de suite.
+# Exactement comme la dernière fois :
+# il a chanté, et il est apparu.
+#C’est lui ! Les cheveux blancs, la barbe blanche.
+
 # LE PREMIER MINISTRE 
 Permettez, Votre Altesse, de vous le dire brutalement,
  comme un vieillard, comme un père :
@@ -1112,16 +1121,16 @@ Permettez, Votre Altesse, de vous le dire brutalement,
 # LA PRINCESSE 
 Alors !
 # LE PREMIER MINISTRE 
-Oui, Votre Altesse.
+ - Oui, Votre Altesse.
 # LA PRINCESSE 
-Pourquoi tu ne me dis pas : tire-moi par la barbe ?
+ - Pourquoi tu ne me dis pas : tire-moi par la barbe ?
 # LE PREMIER MINISTRE 
 Pourquoi faire, Votre Altesse ?
 # LA PRINCESSE 
 Toi alors ! Maintenant, tu ne me la feras plus !
  Je t’ai reconnu tout de suite !
 # LE PREMIER MINISTRE 
-Mon Dieu !
+ - Mon Dieu !
 # LA PRINCESSE 
 Maintenant, je sais les tirer, les barbes !
 # LE PREMIER MINISTRE 
@@ -1131,11 +1140,11 @@ Votre Altesse !
 Qu’est-ce qu’il lui fait, cet étranger vieux !
  La ! Pas-de-trois !
 # LE PREMIER MINISTRE 
-Mais je...  premier ministre de Sa Majesté.
+ - Mais je...  premier ministre de Sa Majesté.
 # LA GOUVERNANTE 
 Pourquoi, princesse, vous le bitte-dritte ?
 # LA PRINCESSE 
-Mais que le diable en broche le patafiole !
+ - Mais que le diable en broche le patafiole !
 # LA GOUVERNANTE 
 Buvez des gouttes, was is das.
 # LA PRINCESSE 
@@ -1164,7 +1173,7 @@ Moi aussi, je suis très contente. Je me sens si seule ici,
 # LA PREMIÈRE DEMOISELLE D’HONNEUR :
 Première demoiselle d’honneur au rapport, Votre Altesse.
 # LA PRINCESSE 
-Quoi ?
+ - Quoi ?
 # LA PREMIÈRE DEMOISELLE D’HONNEUR :
 Votre Altesse ! Pendant mon tour de garde, rien à signaler.
  Quatre demoiselles d’honneur en service.
@@ -1623,7 +1632,7 @@ Votre Majesté, cette fois, je vous dirai une vérité tellement pure,
 Vous serez étonné, peut-être bien, Votre Majesté,
  peut-être que je vous laisserai stupéfait, mais je la dirai !
 # LE ROI 
-Bon - bon.
+ - Bon. Bon.
 # LE PREMIER MINISTRE 
 Vous m’excuserez, mais, parfois, il vous prend l’envie
  d’être réellement direct.
@@ -1648,15 +1657,17 @@ Non, je ne condamnerai pas.
 Nous avons décidé que, des roses rouges,
  tout le monde en voyait assez dans les rosiers.
 # LE ROI 
-On en voit dans les rosiers. Oui. Parfait, parfait.
+ - On en voit dans les rosiers. Oui. Parfait, parfait.
 # CHRISTIAN 
-Voilà pourquoi, sur la soie, nous les avons faites vio... , vio... .
+Voilà pourquoi, sur la soie,
+ nous les avons faites vio... ,
+ vio...
 # LES COURTISANS :
 Violettes, comme c’est spirituel !
  - Comme c’est original ! 
  - Violettes ! C’est noble et somptueux.
 # CHRISTIAN 
-Violemment argentées, messieurs les courtisans.
+... violemment argentées, messieurs les courtisans.
 # LE MINISTRE 
 Bravo, bravo ! 
 # LE ROI 
@@ -1673,7 +1684,7 @@ Non, pas trop. Non. Assez parlé, passons à l’essayage.
 Je demanderai à monsieur le ministre des tendres sentiments
  de tenir la chemise du roi.
 # LE MINISTRE 
-Je ne sais pas si j’en suis digne.
+ - Je ne sais pas si j’en suis digne.
 # LE ROI 
 Mais si. Oui. Allez. Passez-moi cette belle chemise...
  Déshabillez-moi, Premier Ministre. 
@@ -1682,13 +1693,13 @@ Ah !
 # LE MINISTRE 
  - Qu’est- ce qui se passe ?
 # CHRISTIAN 
-Comment tenez-vous cette chemise, monsieur le ministre ?
+ - Comment tenez-vous cette chemise, monsieur le ministre ?
 # LE MINISTRE 
 Comme un objet du culte... Pourquoi ?
 # CHRISTIAN 
  - Vous la tenez à l’envers ! 
 # LE MINISTRE 
-J'admirais trop le dessin. 
+ - J'admirais trop le dessin. 
 # CHRISTIAN 
 Monsieur le Premier ministre sera assez bon
  pour tenir le pantalon du roi ?
@@ -1709,7 +1720,8 @@ Eh alors, qu’est-ce qu'on attend ?
  Habillez-moi vite. Je suis pressé.
 # CHRISTIAN 
 À vos ordres, Votre Majesté. Henri, arrive.
- La gambette, Votre Majesté. Un poil à gauche ! Un poil à droite !
+ La gambette, Votre Majesté.
+ Un poil à gauche ! Un poil à droite !
 Je crains que messieurs les courtisans
  n’eussent été plus experts pour vous vêtir.
  Nous, nous tremblons devant un si grand roi.
@@ -1720,7 +1732,7 @@ Pardon, vous la présentez de dos.
 Henri, la cape. Voilà.
  Le charme de ce tissu, c’est sa légèreté.
  On ne le sent absolument pas sur les épaules.
-Le linge sera prêt pour le matin.
+ Le linge sera prêt pour le matin.
 # LE ROI 
 Ça serre aux épaules. La cape est un peu longue.
   Mais, dans l'ensemble, le costume me va.
@@ -1745,23 +1757,24 @@ Permettez-nous de vous accompagner, Votre Majesté,
  pendant la parade nuptiale.
  Ce sera notre meilleure récompense.
 # LE ROI 
-Je permets. 
-# HENRI ET CHRISTIAN :
-Courtisants et intrigants, 
- Nous vous rendrons moins fringants. 
-Vous tremblez pour vos carrières, 
- Donc vos cœurs ne sont pas clairs — 
- Nous, nous n’avons peur de rien.
-Nous avons tissé, tissé,
- Un tissu plus dur qu’acier, 
-Un tissu qui cassera 
- Les vieux porcs et les vieux rats. 
- Nous, nous n’avons peur de rien.
-Si nous avons la victoire, 
- Nous en tirerons la gloire.
-Si jamais c’est la défaite, 
- On nous coupera la tête.
- Non, nous n’avons peur de rien.
+ - Je permets. 
+
+#HENRI ET CHRISTIAN :
+#Courtisants et intrigants, 
+# Nous vous rendrons moins fringants. 
+#Vous tremblez pour vos carrières, 
+# Donc vos cœurs ne sont pas clairs — 
+# Nous, nous n’avons peur de rien.
+#Nous avons tissé, tissé,
+# Un tissu plus dur qu’acier, 
+#Un tissu qui cassera 
+# Les vieux porcs et les vieux rats. 
+# Nous, nous n’avons peur de rien.
+#Si nous avons la victoire, 
+# Nous en tirerons la gloire.
+#Si jamais c’est la défaite, 
+# On nous coupera la tête.
+# Non, nous n’avons peur de rien.
 
 # LE PREMIER MINISTRE 
 Qu'est-ce qui m'a pris de devenir Premier ministre ?
@@ -1794,7 +1807,7 @@ Il me va, ce caleçon ?
 # LE PREMIER MINISTRE 
  - À vous le dire de front, c’est une splendeur.        
 # LE ROI 
-Merci. Dispose.
+ - rMerci. Dispose.
 # LE PREMIER MINISTRE 
 Non ! Je ne peux pas ! Je ne peux rien dire, la langue qui s’engourdit !
  J’ai perdu l’habitude, en trente ans de service.
@@ -1825,7 +1838,7 @@ Ah ! Le voilà, le porte-monnaie, dans la doublure !
 # UN MONSIEUR GLABRE :
 Et si le roi père était en retard ?
 # UN MONSIEUR BARBU :
-Vous n’avez donc pas entendu le canon ?
+ - Vous n’avez donc pas entendu le canon ?
  Le roi père est déjà là.
 Lui et la princesse-fiancée entreront sur la place depuis le port.
  Le roi père est venu en bateau.
@@ -1836,15 +1849,16 @@ Et pas sur mer ?
  - Sur mer, c’est moins vexant.
 # LE BOULANGER ET SA FEMME :
 Permettez, messieurs-dames, permettez !
- Vous, vous êtes juste des badauds, nous, c’est pour une chose sérieuse !
+ Vous, vous êtes juste des badauds,
+ nous, nous avons une raison sérieuse !
 # DES VOIX :
-Tout le monde a des choses sérieuses !
+Tout le monde a une raison sérieuse !
 # LE BOULANGER
-Non, pas du tout !
+Ah mais non !
  Ça fait quinze ans qu’on se crêpe le chignon, ma femme et moi.
 Elle, elle me dit que je suis un imbécile,
  et, moi, je lui dis que, l’imbécile, c’est elle.
-Aujourd’hui, notre querelle sera tranchée par l’habit du roi.
+ Aujourd’hui, notre querelle sera tranchée par l’habit du roi.
  Laissez passer !
 #DES VOIX :
 Jamais de la vie !

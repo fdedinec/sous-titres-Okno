@@ -90,7 +90,8 @@ La princesse arrive.
 Si elle arrive, c’est que tu lui plais.
  Souviens-toi de toutes les jeunes filles que tu as aimées,
  et ça s’est toujours passé au mieux.
- Et elle, quoi, c’est peut-être une princesse, mais c’est aussi une jeune fille.
+Et elle, quoi, c’est peut-être une princesse,
+ mais c’est aussi une jeune fille.
 # HENRI. 
 Surtout, tellement toute blanche.
  Attends, faut que je boive un coup.
@@ -108,7 +109,8 @@ Ne me gronde pas, elle approche.
 # CHRISTIAN. 
  – Et avec sa suite!
 # HENRI. 
- – Je ne vois personne en dehors d’elle ! Ah, ce qu’elle est mignonne!
+Je ne vois personne en dehors d’elle !
+ Ah, ce qu’elle est mignonne!
 # Entrent la princesse et les dames de compagnie. La princesse s’approche du porcher. Les dames se tiennent à l’écart.
 # LA PRINCESSE. 
 Bonjour, porcher.
@@ -282,7 +284,7 @@ Et ce n’est pas encore tout : cet engin merveilleux et joyeux,
 #LES DAMES DE COMPAGNIE, en chœur. –
 Un quoi ?
 # CHRISTIAN. 
-Un nez. Et quel nez, o magnifique princesse et nobles dames !
+Un nez. Et quel nez, ô magnifique princesse et nobles dames !
  Sous ce grossier cuir d’âne se cache, telle une tendre fleur,
  le nez le plus fin, le plus sensible de la terre.
 Il suffit de le diriger, de n’importe quelle distance,
@@ -294,166 +296,280 @@ Et, séance tenante, d’une voix des plus distinctes,
 O nobles auditrices ! Par quoi commencerons-nous ?
  Par la chanson, par les danses, ou par les repas ?
 
-LA PREMIÈRE DAME DE COMPAGNIE. – Princesse, par quoi souhaiterez-vous que l’on commence? Ah ! J’écoutais tellement que n’avais pas remarqué ! Princesse ! Princesse ! Princesse! C’est vous que je parle.
-
-LA PRINCESSE, d’une voix langoureuse. – à moi? Ah, oui, oui. Dites ce que vous voulez.
-
-LA PREMIÈRE DAME DE COMPAGNIE. – Que faites-vous, princesse ? Vous permettez qu’il vous son bras autour de la taille. C’est indécent !
-
------------------------------------------28------------------------------------
-
+# LA PREMIÈRE DAME DE COMPAGNIE. –
+Princesse, par quoi souhaiterez-vous que l’on commence?
+ Ah ! J’écoutais tellement que n’avais pas remarqué !
+ Princesse ! Princesse ! Princesse! C’est vous que je parle.
+#LA PRINCESSE, d’une voix langoureuse. –
+À moi? Ah, oui, oui.
+ Dites ce que vous voulez.
+#LA PREMIÈRE DAME DE COMPAGNIE. –
+Que faites-vous, princesse ?
+ Vous permettez qu’il vous passe le bras autour de la taille.
+ C’est indécent !
 # LA PRINCESSE. 
-– Qu’est-ce qu’il y a d’indécent là-dedans? S’il m’avait passé le bras autour... 
-
-LA PREMIÈRE DAME DE COMPAGNIE. – Je vous en supplie, taisez-vous. Vous êtes tellement naïve que vous pouvez dire des choses absolument épouvantable!
- 
+Qu’est-ce qu’il y a d’indécent là-dedans?
+ S’il m’avait passé le bras autour... 
+#LA PREMIÈRE DAME DE COMPAGNIE. –
+Je vous en supplie, taisez-vous.
+ Vous êtes tellement naïve que vous pouvez dire des choses
+ absolument épouvantable !
+# LA PRINCESSE.
+Alors laissez-moi tranquille. Allez écouter le chaudron ! 
+#LA PREMIÈRE DAME DE COMPAGNIE. –
+Mais nous ne savons pas par quoi commencer:
+ par la chanson, par les danses ou les repas ?
 # LA PRINCESSE. 
-– Alors laissez-moi tranquille. Allez écouter le chaudron! 
-
-LA PREMIÈRE DAME DE COMPAGNIE. – Mais nous ne savons pas par quoi commencer: par la chanson, par les danses ou les repas?
-
-# LA PRINCESSE. 
-– Qu’est-ce que tu en penses, Henri?
-
+Qu’est-ce que tu en penses, Henri ?
 # HENRI. 
-– Ah, ma petite mignonne... 
-
+Ah, ma petite mignonne... 
 # LA PRINCESSE. 
-– Il dit que ça lui est égal.
-
-LA PREMIÈRE DAME DE COMPAGNIE. – Mais c’est à vous que je pose la question, princesse. 
-
+ - Il dit que ça lui est égal.
+# LA PREMIÈRE DAME DE COMPAGNIE. –
+Mais c’est à vous que je pose la question, princesse. 
 # LA PRINCESSE. 
-– Je vous ai déjà dit que ça nous était égal. Bon, commencez par les repas.
-
-LES DAMES DE COMPAGNIE, applaudissant. – Les repas, les repas, les repas!
- 
+Je vous ai déjà dit que ça nous était égal.
+ Bon, commencez par les repas.
+#LES DAMES DE COMPAGNIE, applaudissant.
+ – Les repas, les repas, les repas!
 # CHRISTIAN. 
-– A vos ordres, nobles dames. Nous posons le chaudron sur le flanc gauche, ce qui met en action le nez. Vous entendez comme il renifle?
+A vos ordres, nobles dames.
+ Nous posons le chaudron sur le flanc gauche, ce qui met en action le nez.
+ Vous entendez comme il renifle?
+# On entend un reniflement puissant.
+Il fait des essais de nez.
+# On entend un enternuement assourdissant.
+ Il éternue... donc, il va se mettre à parler.
+ Silence.
+#Le nez, nasillard. –
+Je suis dans la cuisine de la duchesse.
+# Les dames de compagnie, applaudissant.  -
+Ah, comme cest interessant !
+#La premiere dame de compagnie. –
+Mais... 
+#Les dames de compagnie. –
+ - Ne derangez pas!
+#Le nez. –
+Sur le rechaud de la duchesse, on ne cuit rien du tout,
+ on ne fait que rechauffer.
+#Les dames de compagnie. –
+Pourquoi?
+#Le nez. –
+Hier, au diner du roi, elle sest fourré dans les manches
+ neuf sandwichs au caviar, douze sandwichs au saucisson,
+ cinq côtes de de porc, un lapin, une brochette a la royale,
+ un poulet a la sauce blanche, dix-huit petits pâtés divers,
+une sauce tartare aux câpres et aux olives,
+ un filet de boeuf a la Godard, une sauce fumée,
+ un sorbet aux fruits confits, un parfait au café
+et un petit crouton de pain.
+#La premiere dame de compagnie. –
+Tu mens, nez malappris!
+#le Nez -
+Je n'ai aucune raison de mentir.
+ Je suis un instrument de précision. 
+#La DAMES DE COMPAGNIE -
+Bravo, bravo,
+ comme c'est intéressant,
+ encore, encore! 
+#LE NEZ. -
+Je suis dans la cuisine de la comtesse. 
+#LA DEUXIÈME DAME DE COMPAGNIE,-
+Mais...
+#Les DAMES DE COMPAGNIE,-
+ - Ne dérangez pas.
+#Le NEZ.-
+Le réchaud de la comtesse, il est tellement froid, atchoum,
+ que j'ai peur de m'enrhumer! Atchoum! 
+#Les DAMES DE COMPAGNIE,-
+Mais pourquoi ?
+# Le NEZ.-
+Le réchaud de la comtesse n'a pas été allumé depuis un mois.
+#  LES DAMES DE COMPAGNIE,-
+Mais pourquoi ?
+# LE NEZ. -
+Ça fait un mois qu'elle se fait inviter.
+ Elle est économe.
+# LA DEUXIEME DAME DE COMPAGNIE. -
+Tu mens, nez malappris!
+# LE NEZ.-
+Pourquoi je mentirais ? Une machine ne ment pas.
+ Je suis chez la baronne, là, il fait bon.
+ Le four brûle à plein, la baronne a un cuisinier magnifique.
+Il fait des repas pour les invités.
+ Il fait des boulettes de poulet avec de la viande de cheval.
+Maintenant, je me rends chez la marquise,
+ ensuite chez la générale,
+ ensuite chez la présidente...
+# LES dames de compagnie, elles crient en chocur. -
+Assez, assez, tu es fatigué.
+# LE Nez-
+Je ne suis pas fatigué.
+# LES DAMES DE COMPAGNIE. -
+ - Si, tu es fatigué.
+# CHRISTIAN, refournant le chaudron. -
+J'espère que vous  êtes enthousiasmées,
+ nobles dames ?
+# Les dames de compagnie se taisent.
+Sinon... je remets le nez en mouvement. 
+# Les DAMES DE COMPAGNIE.-
+ - Nous sommes contentes, nous sommes ravies,
+ merci, bravo, pas la peine ! 
+# CHRISTIAN,-
+Je vois que c'est vrai que vous êtes gaies et contentes.
+ Et comme vous êtes gaies et contentes, il ne vous reste plus qu'à danser.
+ Vous allez entendre maintenant l'une des cent quarante danses
+ qui sont cachées dans le chaudron.
+# LA PREMIERE DAME DE COMPAGNIE,-
+J'espère que c'est une danse sans...
+ sans... paroles?
+# CHRISTIAN. -
+Oh oui, duchesse, c'est une danse absolument sans danger.
+ Et donc, je retourne le chaudron sur le flanc droit
+ et... vous entendez ?
+#En faisant tinter ses grelots. le chaudron commence à jouer. Henri danse avec la princesse, Christian avec la ducesse, la comtesse avec la baronne. Les autres dames de compagnie font une ronde autour d'eux. La danse s'achève. 
 
------------------------------------------29------------------------------------
-
-
-On entend un reniflement puissant.
-Il fait des essays de nez.
-On entend un enternuement assourdissant.
-Il eternue –dons, il va se mettre a parler. Silence.
-Le nez, nasillard. – Je suis dans la cuisine de la duchesse.
-Les dames de compagnie, applaudissant.  - Ah, comme cest interessant!
-La premiere dame de compagnie. – Mais... 
-Les dames de compagnie. – Ne derangez pas!
-Le nez. – Sur le rechaud de la duchesse, on ne cuit rien du tout, on ne fait que rechauffer.
-Les dames de compagnie. – pourquoi?
-Le nez. – Hier, au diner du roi, elle sest fourre dans les menches neuf sendwichs au caviar,douze sandwichs au saicisson, cinq cotes de de porc, un lapin, une brochette a la royale, un poulet a la sauce blanche, dix-huit petits pates divers, une sauce tartare aux capres et aux olives, un filet de boeuf a la Godard, une sause fume, un sorbet aux fruits confits, un parfait au café et un petit crouton de pain.
-La premiere dame de compagnie. – Tu mens, nez mal-appris!
-Стр. 30
-le Nez - Je n'ai aucune raison de mentir. Je suis un instrument de précision. 
-La DAMES DE COMPAGNIE - Bravo, bravo, commee'eet intéressant, encore, encore! 
-LE NEZ. - Je suis dans la cuisine de la comtesse. 
-LA DEUXIÈME DAME DE COMPAGNIE,- Mais.. 
-Les DAMES DE COMPAGNIE,-Ne dérangez pas.
-Le NEZ.-Le réchaud de la comtesse, il est tellement froid, atchoum, que j'ai peur de m'enrhumer! Atchoum! 
-Les DAMES DE COMPAGNIE,- Mais pourquoi ?
- Le NEZ.-Le réchaud de la comtesse n'a pas été allumé depuis un mois.
-  LES DAMES DE COMPAGNIE,- Mais pourquoi ?
- LE NEZ. - Çafait un mois qu elle se fait inviter. Elle est économe.
- LA DEUXIEME DAME DE COMPAGNIE. -Tu mens, nez ma- lappris!
- LE NEZ.- Pourquoi je mentirais ? Une machine ne ment pas. Je suis chez la baronne, Là, il fait bon. Le four brüle à plein, La baronne à un cuisinier magnifique. I Tait des repas pour les invités. Il fait des bouletes de
--31--
-poulet avec de la viande de cheval. Maintenant, je me rends chez la marquise, ensuite chez la générale, ensuite chez la présidente...
- LES dames de compagnie, elles crient en chocur. - Assez, assez, ti es fatigué.
- LE Nez- Je ne surs pas fatigué.
- LES DAMES DE COMPAGNIE. - Si, tu es fatigué, tu es fai. J'espère que vous
- CHRISTIAN, refournant le chaudron. - êtes dans l'enthousiasme, nobles dames ?
- Les dames de compagnie se taisent.
- Sinon- je remets le nez en mouvement. 
- Les DAMES DE COMPAGNIE.- Nous sommes contentes, nous sommes contentes, merci, bravo, pas la peine! 
- CHRISTIAN,-Je vois que c'est vrai que vous êtes gaies et contentes, Et comme vous êtes gaies et contentes, il ne vous reste plus qu'à danser. Vous allez entendre maintenant l'une des cent quarante danses qui sont cachées dans le chaudron.
- LA PREMIERE DAME DE COMPAGNIE,-J'espère que c'est une danse sans... sans... paroles?
- CHRISTIAN. -Oh oui, duchesse, c'est une danse abso- lument sans danger. Et done, je retourne le chaudron sur le flanc droit et-vous entendez?
- -32-
-En faisant tinter ses grelots. le chaudron commence à jouer. Henri danse avec la princesse, Christian avec la ducesse, la comtesse avec la baronne. Les autres dames de compagnie font une ronde autour d'eux. La danse s'achève. 
-Les DAMES DE COMPAGNIE.-Encore, encore, quelle jolie danse! 
-CHRISTIAN – Bon, Henri, à toi ! Voilà ton prétexte. La Princesse. - Oui, s'il te plaît, Henri, remonte en-core le chaudron ! Je ne savais pas moi-même que j'aimais tellement danser.
- CHRISTIAN, – Votre Altesse, ce chaudron a une particu- larité terrible.
- LA PRINCESSE. - Laquelle ?
- CHRISTIAN, - Malgré son âme musicale, il ne fait rien pour rien. La première fois, ila joué par reconnaissance de ce que vous soyez descendue de votre château royal dans notre humble clairière. Si vous voulez qu'il joue encore...
- LA PRINCESSE. -Il faut que je revienne. Mais comment faire ? Pour ça, il faut que je reparte, et je n'ai tellement pas envie de repartir!
- HENRI, - Non, non, ne pars pas, attends, eh, c'est encore trop tôt, tu viens juste d'arriver!
--33-
-La Princesse. - Mais, sinon, il jouera pas, et j'ai tellem envie de redanser avec toi! Qu'est-ce qu'il faut faire ? Dis-moi ! Je suis d'accord.
- HENRI. - Il faut... que tu... (dans un débit précipité) me donnes dix baisers.
-  LES DAMES DE COMPAGNIE,-Oh!
- LA PRINCESSE.-Dix ?
- HENRI. - Parce que je suis très amoureux de toi. Pour quoi tu me fais ce regard bizarre ? Bon, pas dix, cina.
- LA PRINCESSE. - Cinq ? Non !
- HENRI.-Situ savais à quel point ça me ferait plaisir, tu ne chipoterais pas... Bon, donne-moi ne serait-ce que trois baisersS,
- LA PRINCESSE,- Trois ? Non ! Je ne suis pas d'accord.
- LA PREMIERE DAME DE COMPAGNIE, - Vous avez absolu mẹnt raison, Votre Altesse.
- LA PRINCESSE. - Dix, cinq, trois. À qui tu parles ? Tu oublies que je suis fille de roi ! Quatre-vingts-vlan!  
- L DAMES DE COMPAGNIE,-Oh!
- HENKI. - Quoi, quatre-vingts ?
- LA PRINCESSE,- Donne-moi quatre-vingts baisers ! Je suis une princesse !
- -34-
-LA DAME COMPAONIE,-Oh!
- LA PREMIÈRE DAME DE COMPAGNIE.- Votre Altesse, qu est-ce que vous faites ? Il a  l'intention de vous embrasser sur les lèvres ! C'est indécent!
- LA PRINCESSE.Qu'est-ce qu'il y a d'indécent ? C'est les lèvres, ce n'est pas.
- LA PREMERE DAME DE COMPAGNIE, - Je vous en supplie, taivez-vous ! Vous étes tellement innocente que vous pouvez dire des choses absolument épouvantables.
- LA PRINCESSE, - Mais fichez-moi la paix !
- HENKL - Plus vite ! Plus vite!
- LA PRINCESSE, S'il te plait, Henri, je suis prête.
- LA PREMIERE DAME DE COMPAGNIE, - Je vous supplie, princesse, de ne pas le faire. Si vous avez tellement envie de danser, qu'il me donne, à moi, ne serait-ce que cent baisers...
- LA PRINCESSE,- Vous ? Mais, ça, ce serait indécent pour de vrai ! Lui, il ne vous a rien demandé. C'eat vous-même qui proposez à un homme qu'il vous embrasse.
- LA PREMIÈRE DAME DE COMPAGNIE, - Mais vous aussi...
- LA PRINCESSE.-Absolument pas, c'est lui qui m'a forcée ! Je vous comprends - cent fois. Bien sûr, il est tellement
- -35-
-mignon, frisé, sa bouche, elle est tellemens plaisante... Elle a un peu raison, Henri, tu vas m'em brasser cent fois. Et, s'il vous plaît, duchesse, ne discutez pas, sans quoi je vous fais jeter dans une oubliette. 
-La première dame de compagnie. - Mais le roi peut vous voir de la fenêtre de son château !
-La Princesse.- Mettez-vous autour de moi ! Vous entendez ! Mettez-vous tout autour ! Cachez-vous avec vos robes. Vite! Comment est-ce possible, de déranger les gens qui ont l'intention de s'embrasser ! Arrivée ici, Henri !
-La Première dame de compagnie. - Mais qui est-ce qui comptera. Votre Altesse La Princesse.- Ça n'a pas d'importance ! Si on se trompe, on recommence.
-La Première dame de compagnie. - Comptez, mesdames. 
-Henri et la Princesse s'embrassent.
-Les DAMES DE Compagnie. - Un...
-Le baiser se prolonge.
-La Première dame de compagnie. - Mais, Votre Altesse, pour un premier baiser, je crois que ça suffit !
--36-
-Le baiser se prolonge.
+#Les DAMES DE COMPAGNIE.-
+Encore, encore, quelle jolie danse! 
+#CHRISTIAN –
+Bon, Henri, à toi ! Voilà ton prétexte.
+#La Princesse. -
+Oui, s'il te plaît, Henri, remonte encore le chaudron !
+ Je ne savais pas moi-même que j'aimais tellement danser.
+# CHRISTIAN, –
+Votre Altesse, ce chaudron a une particularité terrible.
+# LA PRINCESSE. -
+Laquelle ?
+# CHRISTIAN, -
+Malgré son âme musicale, il ne fait rien pour rien.
+ La première fois, il a joué par reconnaissance
+ de ce que vous soyez descendue de votre château royal
+ dans notre humble clairière. Si vous voulez qu'il joue encore...
+# LA PRINCESSE. -
+Il faut que je revienne. Mais comment faire ?
+ Pour ça, il faut que je reparte,
+ et je n'ai tellement pas envie de repartir !
+# HENRI, -
+Non, non, ne pars pas, attends,
+ eh, c'est encore trop tôt,
+ tu viens juste d'arriver!
+# La Princesse. -
+Mais, sinon, il ne jouera pas,
+ et j'ai tellement envie de redanser avec toi !
+ Qu'est-ce qu'il faut faire ? Dis-moi ! Je suis d'accord.
+# HENRI. -
+Il faut... que tu...
+ me donnes dix baisers.
+#  LES DAMES DE COMPAGNIE,-Oh!
+# LA PRINCESSE.-
+ - Dix ?
+# HENRI. -
+Parce que je suis très amoureux de toi.
+ Pourquoi tu me fais ce regard bizarre ?
+ Bon, pas dix, cinq.
+# LA PRINCESSE. -
+Cinq ? Non !
+# HENRI.-
+Si tu savais à quel point ça me ferait plaisir,
+ tu ne chipoterais pas...
+ Bon, donne-moi ne serait-ce que trois baisers.
+# LA PRINCESSE,-
+Trois ? Non ! Je ne suis pas d'accord.
+# LA PREMIERE DAME DE COMPAGNIE, -
+Vous avez absolumẹnt raison, Votre Altesse.
+# LA PRINCESSE. -
+Dix, cinq, trois. Mais à qui tu parles ?
+ Tu oublies que je suis fille de roi !
+ Quatre-vingts ! Au moins !  
+# L DAMES DE COMPAGNIE,-Oh!
+# HENKI. -
+Quoi, quatre-vingts ?
+# LA PRINCESSE,-
+Donne-moi quatre-vingts baisers !
+ Je suis une princesse !
+#LA DAME COMPAONIE,-Oh!
+# LA PREMIÈRE DAME DE COMPAGNIE.-
+Votre Altesse, qu'est-ce que vous faites ?
+ Il a  l'intention de vous embrasser sur les lèvres !
+ C'est indécent !
+# LA PRINCESSE.
+Qu'est-ce qu'il y a d'indécent ?
+ C'est les lèvres, ce n'est pas...
+# LA PREMERE DAME DE COMPAGNIE, -
+Je vous en supplie, taisez-vous !
+ Vous étes tellement innocente que vous pouvez dire
+ des choses absolument épouvantables.
+# LA PRINCESSE, -
+Mais fichez-moi la paix !
+# HENKL -
+Plus vite ! Plus vite!
+# LA PRINCESSE,
+Quand tu voudras, Henri, je suis prête.
+# LA PREMIERE DAME DE COMPAGNIE, -
+Je vous supplie, princesse, de ne pas le faire.
+ Si vous avez tellement envie de danser, qu'il me donne, à moi,
+ ne serait-ce que cent baisers...
+# LA PRINCESSE,-
+Vous ? Mais, ça, ce serait indécent pour de vrai !
+ Lui, il ne vous a rien demandé.
+ C'est vous-même qui proposez à un homme qu'il vous embrasse.
+# LA PREMIÈRE DAME DE COMPAGNIE, -
+Mais vous aussi...
+# LA PRINCESSE.-
+Absolument pas, c'est lui qui m'a forcée !
+ Je vous comprends ... cent fois !
+ Bien sûr, il est tellement mignon, frisé,
+ sa bouche est tellemens plaisante...
+Elle a un peu raison, Henri, tu vas m'em brasser cent fois.
+ Et, s'il vous plaît, duchesse, ne discutez pas,
+ sans quoi je vous fais jeter dans une oubliette. 
+# La première dame de compagnie. -
+Mais le roi peut vous voir de la fenêtre de son château !
+#La Princesse.- Mettez-vous autour de moi ! Vous entendez ! Mettez-vous tout autour ! Cachez-vous avec vos robes. Vite! Comment est-ce possible, de déranger les gens qui ont l'intention de s'embrasser ! Arrivée ici, Henri !
+#La Première dame de compagnie. - Mais qui est-ce qui comptera. Votre Altesse La Princesse.- Ça n'a pas d'importance ! Si on se trompe, on recommence.
+#La Première dame de compagnie. - Comptez, mesdames. 
+#Henri et la Princesse s'embrassent.
+#Les DAMES DE Compagnie. - Un...
+#Le baiser se prolonge.
+#La Première dame de compagnie. - Mais, Votre Altesse, pour un premier baiser, je crois que ça suffit !
+#-36-
+#Le baiser se prolonge.
 À ce train-là, on y sera encore demain.
-Le baiser se prolonge.
-Christian.- Ne le dérangez pas, madame, de toute façon, il  n'entend rien, je le connais.
-Le première dame de compagnie. - Mais s'est affre!
-Le roi jaillit de dernière les buissons. Il a sa couronné et son manteau d'hermine.
-Le roi !
-Le roi.- Qui a des allumettes, donnez-moi des allumettes !
-Confusion générale. Henri et la Princesse restent tête basse.
-Les DAMES DE Compagnie. - Votre Majesté!
-Le roi. - Silence ! Vous avez des allumettes !
-Christian. - Votre Majesté...
-Le roi. - Silence ! Vous des allumettes ?
-Christian. - oui, Votre Maj...
-Le roi.- Silence ! Passez-les-moi.
-Christian. - Mais pourquoi faire, Votre Majesté ?
--37-
-La roi. -Silence!
- Christian. -  Vous me dites pas, je vous en donne pas, Votre...
- le roi. - Silence ! Les allumettes, il me les faut pour allumer le bûcher sur lequel je vais brûler les dames de compagnie. j'ai déjà fait ma reserve de petit bois les buissons.
- Christian. -Je vous en prie, Votre Majesté, voici les allumettes. les dames de compagnie s'évanouissent. 
- LE ROL -Queile horreur ! Ma fille qui embrasse un porcher!  Pourquoi tu as fait ça ?
- La PRENCESSE -J'ai eu envie. La roi-De l'embrasser, tu a eu envie?
-  LA PRINCESSE - Oui. Le Roi-Non mais! Des demain, je te marie avec le roi d'a cote.
-   LA PrenCESS Janais!
- LE roi - On te demande ton avis?
- Le prencess.-Je lui arracherai tous les poils de sa barbe!
- -38-
- Le ROI. - Il n'a рas de barbe.
-  LA PRINCESSE.-Je lui arrachегai tous les cheveux ! LE ROI. - II est chauve.
- LA PRINCESSE. -Je lui casserai toutes ses dents!
- LE ROI. - Il n'a pas de dents. II a des dents artificielles.
- LA PRINCESSE. - Et c'est à cette épave édentée que tu me maries!
- LE ROI. - Ce n'est pas avec les dents qu'on sе marie, с'est avec I'homme. Eh oh, les dames! (Dans un cri assourdissant.) Debout !
+#Le baiser se prolonge.
+#Christian.- Ne le dérangez pas, madame, de toute façon, il  n'entend rien, je le connais.
+#Le première dame de compagnie. - Mais s'est affre!
+#Le roi jaillit de dernière les buissons. Il a sa couronné et son manteau d'hermine.
+#Le roi !
+#Le roi.- Qui a des allumettes, donnez-moi des allumettes !
+#Confusion générale. Henri et la Princesse restent tête basse.
+#Les DAMES DE Compagnie. - Votre Majesté!
+#Le roi. - Silence ! Vous avez des allumettes !
+#Christian. - Votre Majesté...
+#Le roi. - Silence ! Vous des allumettes ?
+#Christian. - oui, Votre Maj...
+#Le roi.- Silence ! Passez-les-moi.
+#Christian. - Mais pourquoi faire, Votre Majesté ?
+#-37-
+#La roi. -Silence!
+# Christian. -  Vous me dites pas, je vous en donne pas, Votre...
+# le roi. - Silence ! Les allumettes, il me les faut pour allumer le bûcher sur lequel je vais brûler les dames de compagnie. j'ai déjà fait ma reserve de petit bois les buissons.
+# Christian. -Je vous en prie, Votre Majesté, voici les allumettes. les dames de compagnie s'évanouissent. 
+# LE ROL -Queile horreur ! Ma fille qui embrasse un porcher!  Pourquoi tu as fait ça ?
+# La PRENCESSE -J'ai eu envie. La roi-De l'embrasser, tu a eu envie?
+#  LA PRINCESSE - Oui. Le Roi-Non mais! Des demain, je te marie avec le roi d'a cote.
+#   LA PrenCESS Janais!
+# LE roi - On te demande ton avis?
+# Le prencess.-Je lui arracherai tous les poils de sa barbe!
+# -38-
+# Le ROI. - Il n'a рas de barbe.
+#  LA PRINCESSE.-Je lui arrachегai tous les cheveux ! LE ROI. - II est chauve.
+# LA PRINCESSE. -Je lui casserai toutes ses dents!
+# LE ROI. - Il n'a pas de dents. II a des dents artificielles.
+# LA PRINCESSE. - Et c'est à cette épave édentée que tu me maries!
+# LE ROI. - Ce n'est pas avec les dents qu'on sе marie, с'est avec I'homme. Eh oh, les dames! (Dans un cri assourdissant.) Debout !
   Les dames se lèvent.
- Bien! Très bien ! Juste parce que j'ai été mis en retard, j'ai mis du temps à trouver une éрingle à nourrice pour agrafer mon manteau d'hermine, vous, vous en profitez pour faire une orgie! Non, je serais trop bon si je me contentais de vous brûler sur le bûcher ! D'abord, je vous brûle, et ensuite je vous tranche la tête, et, аргès, alors, je vous pends, toutes autant que vous êtes, sur la grand-route.
-  Les dames pleurent.
+# Bien! Très bien ! Juste parce que j'ai été mis en retard, j'ai mis du temps à trouver une éрingle à nourrice pour agrafer mon manteau d'hermine, vous, vous en profitez pour faire une orgie! Non, je serais trop bon si je me contentais de vous brûler sur le bûcher ! D'abord, je vous brûle, et ensuite je vous tranche la tête, et, аргès, alors, je vous pends, toutes autant que vous êtes, sur la grand-route.
+#  Les dames pleurent.
    Аrrétez vos grandes eaux! Non, je serais encore trop bon! J'ai trouve: je ne vous brêle pas et је пе vous pends pas. Je vous laisse vivantes, et, toute la vie, je vous gronde, je vous gronde, je vous chicane, јe vous chicane. Aha ! Et vlan !
 
  ------------------------------39------------------------------------
@@ -461,462 +577,851 @@ Et, en plus, priviées de salaire !
 
 Débout ! Et toi, porcher, avec ton ami, je vous bannis du royaume. Tu n'y est trop pour rien. C'est vrai que la princesse est tellement mignonne, que c'est dur de ne pas tomber amoureux. Où est le chaudron ? Le chaudron, je me le prends.
 
-LE CHAUDRON : Je vais par le monde en fête, je suis plein de feu, depuis que j'ai vu Henriette, on est amoureux. Notre amour est plus immense que le bois profonds, quoi qu'on dise, quoi qu'on pense, nous nous marierons. Nous vaincrons tous les obstacles, conquérant la joie. Ma princesse, mon miracle, sous le même toit. Je vais par le monde en fête, je suis plein de feu, depuis que j'ai vu Herniette, on est amoureux. 
+#LE CHAUDRON : Je vais par le monde en fête, je suis plein de feu, depuis que j'ai vu Henriette, on est amoureux. Notre amour est plus immense que le bois profonds, quoi qu'on dise, quoi qu'on pense, nous nous marierons. Nous vaincrons tous les obstacles, conquérant la joie. Ma princesse, mon miracle, sous le même toit. Je vais par le monde en fête, je suis plein de feu, depuis que j'ai vu Herniette, je suis amoureux. 
 
-LE ROI : C'est le chaudron qui chante ?
+#LE ROI : C'est le chaudron qui chante ?
 
-HENRI : Oui, Votre Majesté.
------------------------------------------40------------------------------------
-LE ROI : Il chante bien, mais les paroles sont révoltantes. Il affirme que, toi, malgré tous les obstacles, tu vas te marier avec la princesse.
+#HENRI : Oui, Votre Majesté.
+#-----------------------------------------40------------------------------------
+#LE ROI : Il chante bien, mais les paroles sont révoltantes. Il affirme que, toi, malgré tous les obstacles, tu vas te marier avec la princesse.
 
-HENRI : Oui, de toute façon, je vais me marier avec la princesse, Votre Majesté.
+#HENRI : Oui, de toute façon, je vais me marier avec la princesse, Votre Majesté.
 
-LA PRINCESSE : Il a raison, il a raison !
+#LA PRINCESSE : Il a raison, il a raison !
 
-LE ROI : Emmenez-là.
+#LE ROI : Emmenez-là.
 
-LA PRINCESSE : Au revoir, Henri. Je t'aime.
+#LA PRINCESSE : Au revoir, Henri. Je t'aime.
 
-HENRI : Ne t'en fais pas, princesse, je t'épouserai.
+#HENRI : Ne t'en fais pas, princesse, je t'épouserai.
 
-LA PRINCESSE :  Oui, s'il te plaît, Henri, fais-moi cette faveur. Au revoir, au revoir !
+#LA PRINCESSE :  Oui, s'il te plaît, Henri, fais-moi cette faveur. Au revoir, au revoir !
 
-HENRI : Au revoir, au revoir !
+#HENRI : Au revoir, au revoir !
 
-LE ROI : Henri !
+#LE ROI : Henri !
 
-HENRI : Au revoir, au revoir !
+#HENRI : Au revoir, au revoir !
 
-LE ROI : Eh, toi, écoute !
+#LE ROI : Eh, toi, écoute !
 
-HENRI : Au revoir, au revoir !
+#HENRI : Au revoir, au revoir !
 
-LE ROI : C'est à toi que je parle. Ton chaudron, il ne chante qu'une seule chanson ?
+#LE ROI : C'est à toi que je parle. Ton chaudron, il ne chante qu'une seule chanson ?
 -----------------------------------------41------------------------------------
 
-HENRI : Oui, rien qu'une seule.
+# HENRI :
+ Oui, rien qu'une seule.
 
 LE ROI : Et une chanson dans ce genre-là, il n'en a pas ? C'est mal parti, ton affaire - du balai.
 
-HENRI : De chanson de genre-là, il n'en a pas, et il ne peut pas en avoir.
+# HENRI :
+ De chanson de genre-là, il n'en a pas, et il ne peut pas en avoir.
 
 LE ROI : Ne me mets pas en colère, toi - tu m'as vu, quand je deviens terrible ?
 
-HENRI : Je vous ai vu.
+# HENRI :
+ Je vous ai vu.
 
 LE ROI : Tu as tremblé ?
 
-HENRI : Non.
+# HENRI :
+ Non.
 
 LE ROI : Tiens donc.
 
-HENRI : Adieu, Majesté.
+# HENRI :
+ Adieu, Majesté.
 
 LE ROI : Où tu vas ?
 
-HENRI : Chez le roi d'à côté. Il est idiot, je vais le rouler dans la farine, en deux temps trois mouvements. Je suis le plus audacieux du monde. J'ai embrassé ta fille, et, maintenant, je n'ai plus peur de rien ! Adieu !
-
+# HENRI :
+ Chez le roi d'à côté. Il est idiot, je vais le rouler dans la farine, en deux temps trois mouvements. Je suis le plus audacieux du monde. J'ai embrassé ta fille, et, maintenant, je n'ai plus peur de rien ! Adieu !
 LE ROI : Attends, il faut que je recompte les cochons. Un, deux, trois, quinze, vingt...  Bon, ça va, vas-t-en. 
-
-HENRI : Adieu, Majesté. On y va, Christian. 
------------------------------------------42------------------------------------
+#HENRI :
+Adieu, Majesté. On y va, Christian. 
 Notre amour est plus immense que le bois profonds, quoi qu'on dise, quoi qu'on pense, nous nous marierons. 
 
 LE ROI : Je le sens, ça va faire du grabuge. Bon, mais, moi non plus, je ne suis pas tombé de la dernière pluie. Je vais faire venir pour ma fille une gouvernante étrangère, méchante comme un chien. C'est elle qui l'accompagnera. Et je lui enverrai aussi un chambellan. Et pour les dames de compagnie, c'est non. Je me les laisse. Non mais, ça marche et ça chante ! Marchez, marchez, pour ce que ça marchera !
+TODO Avant
+#LE MINISTRE DES TENDRES SENTUMENTS :
+Je suis le ministre des tendres sentiments de Sa Majesté le roi.
+ En ce moment, j'ai une masse de travail -
+  mon roi se marie à la princesse d'à côté.
+Je suis ici, d'abord pour organiser la réception de la princesse
+ avec toute la solennité requise.
+ Puis, ensuite et enfin, pour résoudre deux problèmes épineux.
+Le fait est qu'une idée épouvantable a traversé l'esprit
+ de mon très miséricordieux maître. Gendarmes !
+#LES GENDARMES :
+Que désire Votre Excellence ?
+#LE MINISTRE :
+Attention que les murs n'aient pas d'oreilles.
+ Je vais parler d'affaires secrètes d'une importance nationale.
 
-LE MINISTRE DES TENDRES SENTUMENTS : Je suis le ministre des tendres sentiments de Sa Majesté le roi. En ce moment, j'ai une masse de travail - mon roi se marie à la princesse d'à côté. Je suis arrivé ici, d'abord pour organiser la réception de la princesse avec toute la solennité requise. Puis, ensuite et enfin, pour résoudre deux problèmes épineux. Le fait est qu'une idée épouvantable a traversé l'esprit de mon très miséricordieux maître. Gendarmes !
------------------------------------------43------------------------------------
-LES GENDARMES : Que désire Votre Excellence ?
+#LES GENDARMES :
+À vos ordres, Votre Excellence !
 
-LE MINISTRE : Attention que les murs n'aient pas d'oreilles. Je vais parler d'affaires secrètes d'une importance nationale.
+#LE MINSITRE :
+Et donc, mon maître, mardi dernier, en déjeunant, une pensée affreuse lui est venue. Il mangeait justement du saucisson - et, d'un seul coup, il s'est figé avec un morceau de nourriture entre les dents. Nous, nous sommes jetés vers lui, en nous exclamant : "Votre Majesté ! Qu'est-ce qui vous prend !"  Mais, lui, il ne faisait que gémir d'une voix sourde, sans desserrer les dents : "Quelle pensée affreuse ! C'est affreux ! Affreux !" Le médecin de la cour a ramené le roi à la vie, et nous avons appris ce qui précisément avait eu l'honneur d'émotionner Sa Majesté.  Cette pensée est réellement affreuse. Gendarmes !
+#LES GENDARMES : Que désire Votre Excellence ?
+#LE MINISTRE : Bouchez-vous les oreilles.
+#LES GENDARMES :
+À vos ordres, Votre Excellence !
+#LE MNISTRE :
+Le roi avait pensé : et si, d'un coup, la maman de Son Altesse,
+ la maman de la fiancée promise du roi,
+ avait été dans son temps délurée !
+Si, d'un coup, la princesse n'était pas la fille du roi,
+ mais une fille d'origine inconnue ?
+Voilà le premier problème que je dois résoudre.
+ Le deuxième est le suivant.
+Sa Majesté se baignait, était joyeux,
+ daignait pousser des petits rires et dire des mots plaisants.
+Et, d'un seul coup, le roi, s'exclamant :
+ "Quelle pensée affreuse !",
+ s'est mis à se noyer en ayant pied.
+Voilà ce que le roi avait pensé :
+ et si, d'un coup, la princesse, avant les fiançailles,
+ elle aussi, avait été délurée, si elle avait eu des aventures et...
+et, enfin, bref, vous comprenez !
+Nous avons sauvé le roi, et, là, encore dans l'eau,
+ il m'a donné les ordres nécessaires.
+Je suis venu ici pour découvrir toute la vérité
+ sur l'origine et la conduite de la princesse
+ et, je le jure sur mon honneur de chevalier,
+ je découvrirai tous les dessous de Son Altesse.
+Gendarmes ! Gendarmes !
+ Vous êtes sourds, ou quoi ? Gendarmes !
+Ah oui ! Je leur avais donné l'ordre de se boucher les oreilles.
+ Ce que c'est que la discipline !
+Le roi a envoyé dans tous les villages
+ sur le chemin de la princesse
+ les meilleurs gendarmes du royaume.
+Ils apprennent à la population les accueils enthousiastes.
+ La fleur des braves gars. Gendarmes ! 
+#LES GENDARMES :
+Que désire Votre Excellence ?
+# LE MINISTRE :
+Allez voir si la princesse n'arrive pas.
+# LES GENDARMES :
 
-LES GENDARMES : À vos ordres, Votre Excellence !
+À vos ordres, Votre Excellence !
 
-LE MINSITRE : Et donc, mon maître, mardi dernier, en déjeunant, une pensée affreuse lui est venue. Il mangeait justement du saucisson - et, d'un seul coup, il s'est figé avec un morceau de nourriture entre les dents. Nous, nous sommes jetés vers lui, en nous exclamant : "Votre Majesté ! Qu'est-ce qui vous prend !"  Mais, lui, il ne faisait que gémir d'une voix sourde, sans desserrer les dents : "Quelle pensée affreuse ! C'est affreux ! Affreux !" Le médecin de la cour a ramené le roi à la vie, et nous avons appris ce qui précisément avait eu l'honneur d'émotionner Sa Majesté.  Cette pensée est réellement affreuse. Gendarmes !
+# LE MINISTRE :
+Ils sont durs, les problèmes que j'ai, hein, c'est vrai ?
+ Mais je sais parfaitement comment les résoudre.
+Il me suffira d'un petit-pois 
+ et de douze bouteilles de bon vin.
+ Je suis un homme très habile.
 
-LES GENDARMES : Que désire Votre Excellence ?
+#Alors ?
+#LES GENDARMES :
+#Votre Excellence. Loin, très loin,
+# là où le ciel, on dirait, se fond avec la terre,
+# on voit tourbillonner au-dessus de la colline
+# une grande colonne de poussière.
+#Dedans,  il y a tantôt un éclat de hallebarde,
+# tantôt une tête de cheval, tantôt un blason d'or.
+# C'est la princesse qui arrive, Votre Excellence.
+#LE MINISTRE :
+#Allons vérifier si tout est prêt pour l'accueillir.
+#CRIS :
+#Elle arrive ! Elle arrive !
+#LE MINISTRE :
+Bourgmestre ! Ne vous agitez pas comme ça. Arrivez.
+#LE BOURGMESTRE :
+Moi ? Oui. Le v'la. Quoi ? Non !
+#LE MINISTRE :
+Préparez douze bouteilles du vin le plus fort.
+#LE BOURGMESTRE :
+Quoi ? Des bouteilles ? Pourquoi ?
+#LE MINISTRE :
+Il faut.
+#LE BOURGMESTRE :
+Aha... Compris... Pour accueillir la princesse ?
+#LE MINISTRE :
+Oui.
+#LE BOURGMESTRE :
+Elle boit ?
+#LE MINISTRE :
+Vous êtes fou !
+ Nous aurons besoin des bouteilles pour le dîner
+ que vous allez donner aux compagnons de voyage de la princesse.
+#LE BOURGMESTRE :
+Ah, pour les compagnons de voyage.
+ C'est mieux... Oui-oui... Non-non.
+#LE MINISTRE :
+À part. Qu'il est bête !
+ J'adore les gens bêtes, ils sont tellement amusants.
+ Préparez les bouteilles, préparez les porcelets,
+ préparez les cuissots d'ours.
+#LE MAIRE :
+Ah bon. Non... C'est-à-dire oui.
+ Eh, vous, prenez les clés de la cave !
+ Donnez-moi les clés du grenier !
+#LE MINISTRE :
+Musiciens !
+#LE CHEF D'ORCHESTRE :
+Présents, Votre Excellence !
+LE MINISTRE :
+Tout est un ordre, chez vous ?
+LE CHEF D'ORCHESTRE :
+Le premier violon, Votre Excellence, il s'est bâfré de raisin
+ et s'est endormi au soleil.
+Le jus de raisin, Votre Excellence, a fermenté
+ dans le bedon du premier violon et s'est changé en vin.
+Nous, on le réveille, on le réveille,
+ et, lui, il rue et s'obstine à dormir.
+LE MINISTRE :
+Monstrueux ! Que faire ?
+LE CHEF D'ORCHESTRE :
+Tout est arrangé, Votre Excellence.
+ Le deuxième violon prendra le premier,
+ et la contrebasse prendra le deuxième.
+Nous avons attaché le violon à une perche,
+ la contrebasse le prendra comme une contrebasse,
+ et tout sera plus que merveilleux.
+# LE MINISTRE :
+Et qui jouera de la contrebasse ?
+LE CHEF D'ORCHESTRE :
+Ah, c'est affreux ! Ça, je n'y ai même pas pensé !
+# LE MINISTRE :
+Placez la contrebasse au milieu.
+ Que tous ceux qui auront une main libre la prennent et jouent dessus.
+LE CHEF D'ORCHESTRE :
+À vos ordres, Votre Excellence !
+# LE MINISTRE :
 
-LE MINISTRE : Bouchez-vous les oreilles.
+Ah, ce que je suis intelligent,
+ ce que je suis habile,
+ ce que je suis inventif !
+# LES GENDARMES :
 
-LES GENDARMES : À vos ordres, Votre Excellence !
------------------------------------------44------------------------------------
+Votre Excellence, la carrosse de la princesse
+ vient de faire son entrée dans le village. 
+# LE MINISTRE :
 
-LE MNISTRE : Le roi avait pensé : et si, d'un coup, la maman de Son Altesse, la maman de la fiancée promise du roi, avait été dans son temps délurée ! Si, d'un coup, la princesse n'était pas la fille du roi, mais une fille d'origine inconnue ?  Voilà le premier problème que je dois résoudre. Le deuxième est le suivant. Sa Majesté se baignait, était joyeux, daignait pousser des petits rires et dire des mots plaisants. Et, d'un seul coup, le roi, s'exclamant : "Quelle pensée affreuse !", s'est mis à se noyer en ayant pied. Voilà ce que le roi avait pensé : et si, d'un coup, la princesse, avant les fiançailles, elle aussi,, avait été délurée, si elle avait eu des aventures et... et, enfin, bref, vous comprenez ! Nous avons sauvé le roi, et, là, encore dans l'eau, il m'a donné les ordres nécessaires. Je suis venu ici pour découvrir toute la vérité sur l'origine et la conduite de la princesse et - je le jure sur mon honneur de chevalier - je découvrirai tous les dessous de Son Altesse. Gendarmes ! Gendarmes ! Vous êtes sourds, ou quoi ? Gendarmes ! Ah oui ! Je leur avais donné l'ordre de se boucher les oreilles. Ce que c'est que la discipline ! Le roi a envoyé dans tous les villages sur le chemin de la princesse les meilleurs gendarmes du royaume. Ils apprennent à la population les accueils enthousiastes. La fleur des braves gars. Gendarmes ! 
+Attention ! Orchestre ! Bourgmestre !
+ Les jeunes filles ! Le peuple !
+Les gendarmes ! Attention que, vos gars,
+ ils les lancent haut, les chapeaux ! 
+# LES GENDARMES :
 
-LES GENDARMES : Que désire Votre Excellence ?
+Hourra !
+# LE MINISTRE :
 
-LE MINISTRE : Allez voir si la princesse n'arrive pas.
+Votre Altesse...
+ L'émotion qu'éveille votre arrivée dans ce modeste village
+ n'est rien comparée à ce qui se produit
+ dans le cœur de notre maître enamouré. Mais, malgré tout...
+# LA PRINCESSE :
 
-LES GENDARMES : À vos ordres, Votre Excellence !
------------------------------------------45------------------------------------
-LE MINISTRE : Ils sont durs, les problèmes que j'ai, Hein, c'est vrai ? Mais je sais parfaitement comment les résoudre. J'aurai l'aide d'un petit-pois et de douze bouteilles de bon vin. Je suis un homme très habile. Alors ?
+Assez... Chambellan ! Où sont mes mouchoirs ?
+LE CHEMBELLAN :
+Oh ! Ouh ! Oho-ho! Tout de suite, Votre Altesse,
+ je me reprends en main et  je demande à la gouvernante.
+ Mmmmeu. Où de notre princesse les mouchoirs se trouver sont ?
+LA GOUVERNANTE :
+Les mouchoirs se trouver sont dans la valise,
+ gotentotenponten-tatertanteatenter.
+# LE CHAMBELLAN :
 
-LES GENDARMES : Votre Excellence. Loin, très loin, là où le ciel, on dirait, se fond avec la terre, on voit tourbillonner au-dessus de la colline une grande colonne de poussière. Dedans,  il y a tantôt un éclat de hallebarde, tantôt une tête de cheval, tantôt un blason d'or. C'est la princesse qui arrive, Votre Excellence.
+Oder. Les mouchoirs sont dans la valise, princesse.
+# LA PRINCESSE :
 
-LE MINISTRE : Allons vérifier si tout est prêt pour l'accueillir.
+Prenez-les. Vous voyez bien que j'ai les larmes aux yeux.
+ Prenez les mouchoirs. Et apportez-les.
+Et qu'on me prépare mon lit. Il va faire bientôt nuit.
+ Et je suis affreusement fatiguée.
+La poussière, la chaleur, les dos d'ânes !
+ Vite, vite, dormir !
+Dans mon rêve, je reverrai mon gentil Henri.
+J'en ai tellement assez de ces singes 
+ avec lesquels je n'ai absolument rien de commun.
+# LE MINISTRE :
 
-CRIS : Elle arrive ! Elle arrive !
+Comment, la princesse ne dînera donc pas ?
+# LE CHAMBELLAN :
 
-LE MINISTRE : Bourgmestre ! Ne vous agitez pas comme ça. Arrivez.
+Oh, ouh, oho-ho! Non !
+ Voilà déjà trois semaines qu'elle ne mange rien.
+ Elle est tellement émotionnée par le mariage à venir.
+LA GOUVERNANTE :
+Sortez vos mains poches de vos !
+Quelle indécence c'est être-êtant ! Entweder !
 
-LE BOURGMESTRE : Moi ? Oui. Le v'la. Quoi ? Non !
------------------------------------------46------------------------------------
-LE MINISTRE : Préparez douze bouteilles du vin le plus fort.
+# LE MINISTRE :
+ Que me veut cette dame ?
 
-LE BOURGMESTRE : Quoi ? Des bouteilles ? Pourquoi ?
+# LE CHAMBELLAN :
+ O-o-o-ou ! Prenez-vous dans vos mains, quvaque. Il votre élève n'est pas. Pardon, vous parlez les langues étrangères ?
 
-LE MINISTRE : Il faut.
-
-LE BOURGMESTRE : Aha... Compris... Pour accueillir la princesse ?
-
-LE MINISTRE : Oui.
-
-LE BOURGMESTRE : Elle boit ?
-
-LE MINISTRE : Vous êtes fou ! Nous aurons besoin des bouteilles pour le dîner que vous allez donner aux compagnons de voyage de la princesse.
-
-LE BOURGMESTRE : Ah, pour les compagnons de voyage. C'est mieux... Oui-oui... Non-non.
-
-LE MINISTRE : À part. Qu'il est bête ! J'adore les gens bêtes, ils sont tellement amusants. Préparez les bouteilles, préparez les porcelets, préparez les cuissots d'ours.
-
-LE MAIRE : Ah bon. Non... C'est-à-dire oui. Eh, vous, prenez les clés de la cave ! Donnez-moi les clés du grenier !
-
-LE MINISTRE : Musiciens !
-
-LE CHEF D'ORCHESTRE : Présents, Votre Excellence !
------------------------------------------47------------------------------------
-LE MINISTRE : Tout est un ordre, chez vous ?
-
-LE CHEF D'ORCHESTRE : Le premier violon, Votre Excellence, il s'est bâfré de raisin et s'est endormi au soleil. Le jus de raisin, Votre Excellence, a fermenté dans le bedon du premier violon et s'est changé en vin. Nous, on le réveille, on le réveille, et, lui, il rue et s'obstine à dormir.
-
-LE MINISTRE : Monstrueux ! Que faire ?
-
-LE CHEF D'ORCHESTRE : Tout est arrangé, Votre Excellence. Le deuxième violon prendra le premier, et la contrebasse prendra le deuxième. Nous avons attaché le violon à une perche, la contrebasse le prendra comme une contrebasse, et tout sera plus que merveilleux.
-
-LE MINISTRE :  Et qui jouera de la contrebasse ?
-
-LE CHEF D'ORCHESTRE : Ah, c'est affreux ! Ça, je n'y avais même pas pensé !
-
-LE MINISTRE : Placez la contrebasse au milieu. Que tous ceux qui auront une main libre la prennent et jouent dessus.
-
-LE CHEF D'ORCHESTRE : À vos ordres, Votre Excellence !
-
-LE MINISTRE : Ah, ce que je suis intelligent, ce que je suis habile, ce que je suis inventif !
------------------------------------------48------------------------------------
-LES GENDARMES :  Votre Excellence, la carrosse de la princesse vient de faire son entrée dans le village. 
-
-LE MINISTRE : Attention ! Orchestre ! Bourgmestre ! Les jeunes filles ! Le peuple ! Les gendarmes ! Attention que, vos gars, ils les lancent haut, les chapeaux ! 
-
-LES GENDARMES : Hourra !
-
-LE MINISTRE : Votre Altesse... L'émotion qu'éveille votre arrivée dans ce modeste village n'est rien comparée à ce qui se produit dans le cœur de notre maître enamouré. Mais, malgré tout...
-
-LA PRINCESSE : Assez... Chambellan ! Où sont mes mouchoirs ?
-
-LE CHEMBELLAN : Oh ! Ouh ! Oho-ho! Tout de suite, Votre Altesse, je me reprends en main et  je demande à la gouvernante. Mmmmeu. Où de notre princesse les mouchoirs se trouver sont ?
-
-LA GOUVERNANTE : Les mouchoirs se trouver sont  dans la valise, gotentotenponten-tatertanteatenter.
-
-LE CHAMBELLAN : Oder. Les mouchoirs sont dans la valise, princesse.
------------------------------------------49------------------------------------
-LA PRINCESSE : Prenez-les. Vous voyez bien que j'ai les larmes aux yeux. Prenez les mouchoirs. Et apportez-les.
-Et qu'on me prépare mon lit. Il va faire bientôt nuit. Et je suis affreusement fatiguée. La poussière, la chaleur, les dos d'ânes ! Vite, vite, dormir ! Dans mon rêve, je reverrai mon gentil Henri. J'en ai tellement assez de ces signes avec lesquels je n'ai absolument rien de commun.
-
-LE MINISTRE : Comment, la princesse ne dînera donc pas ?
-
-LE CHAMBELLAN : Oh, ouh, oho-ho! Non ! Voilà déjà trois semaines qu'elle ne mange rien. Elle est tellement émotionnée par le mariage à venir.
-
-LA GOUVERNANTE : Sortez vos mains poches de vos ! Quelle indécence c'est être-êtant ! Entweder !
-
-LE MINISTRE : Que me veut cette dame ?
-
-LE CHAMBELLAN : O-o-o-ou ! Prenez-vous dans vos mains, quvaque. Il votre élève n'est pas. Pardon, vous parlez les langues étrangères ?
-
-LE MINISTRE : Non, depuis que Sa Majesté a déclaré que notre nation était la plus noble du monde, nous
+# LE MINISTRE :
+ Non, depuis que Sa Majesté a déclaré que notre nation était la plus noble du monde, nous
 -----------------------------------------50------------------------------------
 avons reçu l'ordred'oublier purement et simplement les langues étrangères.
 
-LE CHAMBELLAN : Cett dame est une gouvernante étrangère, la plus méchante du monde. Toute sa vie elle a élever des enfants désobéissant, et c’est pour ça qu’elle s’est beaucoup aigrie. Maintenant, elle se jette sur tous les gens qu’elle croise et elle les éduque.
-LA GOUVERNANTE : Ne vous pas grattez. Ne !
-LE CHAMBELLAN : Vouvoyer ? Ouoou ! Elle m’interdit de me gratter, et, moi, je ne me gratte pas du tout, j‘arrangé juste mes manchettes.
-LE MINISTRE : Qu’avez-vous, monsieur le chambellan, vous êtes enrhumé ?
-LE CHAMBELLAN : Non. Simplement, ça fait déjà une semaine que je n’ai pas chassé. Je suis tout rempli de pensées sanguinaires. Taïaut ! Le roi sait que, sans la chasse, je deviens un fauve, et c’est moi qui l’envoie escorter la princesse. Hallali ! Madame la gouvernante, dirigez vos jambes vers. La princesse depuis longtemps sans surveillance trouve se.
-LA GOUVERNANTE : Nous désirons aller. Il faut respirer le nez par ! Méchant garnement tu es, ams–tram, quatre postes !
+# LE CHAMBELLAN :
 
------------------------------------------51-----------------------------
-LE MINISTRE : C’est extrêmement bizarre ! Pourquoi le roi père a-t-il envoyé des gens tellement farouches accompagner la princesse ? Il y a anguille sous roche. Mais je saurai tout ! Tout ! 12 bouteilles de vin fort feront tout déballer à cette garde farouche. Tout ! Ah, ce que je suis intelligent, habille, inventif, réfléchi ! Il me suffira de deux heures pour que, tout le passé de la princesse, je l’aie, là, dans le creux de ma main.
+Cett dame est une gouvernante étrangère, la plus méchante du monde.
+ Toute sa vie elle a élever des enfants désobéissant,
+ et c’est pour ça qu’elle s’est beaucoup aigrie.
+Maintenant, elle se jette sur tous les gens qu’elle croise
+ et elle les éduque.
+LA GOUVERNANTE :
+ Ne vous pas grattez. Ne !
+# LE CHAMBELLAN :
+ Vouvoyer ? Ouoou !
+ Elle m’interdit de me gratter, et, moi, je ne me gratte pas du tout, j‘arrangé juste mes manchettes.
+# LE MINISTRE :
+ Qu’avez-vous, monsieur le chambellan, vous êtes enrhumé ?
+# LE CHAMBELLAN :
 
-Aha ! Maintenant, nous allons nous occuper du petit pois. Cher beauté, deux mots.
+Non. Simplement, ça fait déjà une semaine que je n’ai pas chassé.
+ Je suis tout rempli de pensées sanguinaires. Taïaut !
+Le roi sait que, sans la chasse, je deviens un fauve,
+ et c’est moi qu'il envoie escorter la princesse.
+Hallali !
+Madame la gouvernante, dirigez vos jambes vers.
+ La princesse depuis longtemps sans surveillance trouve se.
+LA GOUVERNANTE :
+Nous désirons aller.
+ Il faut respirer le nez par !
+ Méchant garnement tu es, ams–tram, quatre postes !
+# LE MINISTRE :
 
+C’est extrêmement bizarre !
+Pourquoi le roi père a-t-il envoyé des gens tellement farouches
+ accompagner la princesse ? Il y a anguille sous roche.
+Mais je saurai tout ! Tout !
+ 12 bouteilles de vin fort feront tout déballer
+ à cette garde farouche. Tout !
+Ah, ce que je suis intelligent, habille, inventif, réfléchi !
+ Il me suffira de deux heures pour avoir là, dans le creux de ma main
+ tout le passé de la princesse.
+Aha ! Maintenant, nous allons nous occuper du petit pois.
+ Cher beauté, deux mots.
 Chère joliette, deux mots.
+Quelle grossièreté, quel manque de délicatesse dans ces jeunes filles.
+ Mais comment faire avec les petits-pois, que le diable m’emporte !
+ Gendarmes !
+# LES GENDARMES :
 
-Quelle grossièreté, quel manque de délicatesse dans ces jeunes filles. Mais comment faire avec les petits-pois, que le diable m’emporte ! Gendarmes !
+Que désire Votre Excellence ?
+# LE MINISTRE :
 
-LES GENDARMES : Que désire Votre Excellence ?
-LE MINISTRE : Le bourgmestre.
+Le bourgmestre.
+# LES GENDARMES :
 
------------------------------------------52-----------------------------
+À vos ordres, votre Excellence !
+# LE MINISTRE :
 
-LES GENDARMES : À vos ordres, votre Excellence !
-LE MINISTRE : il va falloir mettre cet imbécile dans le secret. C’est mon dernier recours.
+Il va falloir mettre cet imbécile dans le secret.
+ C’est mon dernier recours.
 Gendarme, placez-vous à côté et veuillez à ce qu’on nous espionne pas. Je vais parler au bourgmestre d’affaires secrètes d’une importance nationale.
-LES GENDARMES : À vos ordres, votre Excellence !
-LE MINISTRE : Bourgmestre. Vos jeunes filles... 
-LE BOURGMESTRE : Aha, je comprends. Oui. Vous aussi ?
-LE MINISTRE : Quoi ?
-LE BOURGMESTRE : Nos jeunes filles...  Vous vous frottez les reins. Aha. Oui. 
-LE MINISTRE : Qu’est-ce que vous racontez ?
-LE BOURGMESTRE : Vous avez embêté les jeunes filles, elle vous ont caressé les reins. Oui. Moi aussi, c’est pareil. Célibataire aussi.
-LE MINISTRE : Attendez !
-LE BOURGMESTRE : Non. Eles aiment, si, si. Mais les jeunes. Rigolotes, les jeunes filles. Moi, je les aime... 
+# LES GENDARMES :
 
------------------------------------------53-----------------------------
-houla-la...  Et elles, non. Moi, non...  Vous non plus. Je ne peux rien pour vous.
-LE MINISTRE : assez ! Ce n’est pas pour cela que je vous ai convoqué. Vos jeunes filles ne m’ont pas compris. Je voulais leur confier une affaire secrète d’importance national. Il faudra que, cette affaire, je vous le confie à vous.
-LE BOURGMESTRE : Tiens donc. Bon–bon. Oui–oui.
-LE MINISTRE : Vous devrez vous introduire dans la chambre à coucher de la princesse.
-LE BOURGMESTRE : Ah tiens...  Ça alors...  Plaisant...  Mais non...  Je suis honnête.
-LE MINISTRE : vous ne m’avez pas compris. Vous devrez vous y introduire pour une seconde, après que les jeunes filles auront préparé pour la nuit les matelas de Son Altesse. Et, sous les 24 matelats, sur le sommier du lit, poser ce tout petit-pois. Voilà tout.
-LE BOURGMESTRE : Pourquoi faire ?
-LE MINISTRE : Ça ne vous regarde pas ! Prenez ce petit-pois et allez-y. 
-LE BOURGMESTRE : J’irai pas. Non...  Plutôt mourrir. 
-LE MINISTRE : Pourquoi ça ?
-LE BOURGMESTRE :  Parce que c’est une affaire pas Claire. Je suis honnête. Oui-oui. Non–non. Tiens, je vais
+À vos ordres, votre Excellence !
+# LE MINISTRE :
 
------------------------------------------54-----------------------------
-tomber malade - vous ne pourrez pas m’obliger ! Non-non ! Oui-oui.
-LE MINISTRE : Ah, mon dieu, quel imbécile ! Bon, je vais tous vous dire. Mais souvenez-vous que c’est une affaire secrète d’importance national. Le roi m’a ordonné d’inquêter pour savoir si réellement la princesse est d‘origine noble. D’un coup qu‘elle ne soit pas la fille d’un roi !
-LE BOURGMESTRE : C’est sa fille. Elle ressemble beaucoup à son père. Si-si.
-LE MINISTRE : Ça ne veut rien dire. Vous ne pouvez pas imaginer à quel point les femmes sont rusées. La réponse exacte ne peut être donnée que par ce petit-pois. Les gens d’une ascendance royale réelle se distinguent par une peau d’une sensibilité et d’une douceur incroyables. La princesse, si elle est une princesse véritable, sentira ce petit-pois à travers tous les 24 matelas. Elle ne dormira pas de la nuit et, demain, et elle s’en plaindra. Si elle dort, ça veut dire que ça va mal. Vous avez compris ? Allez-y ! 
-LE BOURGMESTRE : Tiens donc...  Bon–bon...  Moi aussi, ça m’intéresse...  Elle ressemble tellement à son père - et, d’un seul coup...  C’est vrai que, le père, il est barbu...  Mais cette bouche...  Ce nez... 
-LE MINISTRE : Allez !
-LE BOURGMESTRE : Ces yeux.
+Bourgmestre. Vos jeunes filles... 
+# LE BOURGMESTRE :
 
------------------------------------------55-----------------------------
+Aha, je comprends. Oui. Vous aussi ?
+# LE MINISTRE :
 
-LE MINISTRE : Allez, on vous dit !
-LE BOURGMESTRE : Ce front.
-LE MINISTRE : Mais ne perdez pas de temps, espèce de bûche !
-LE BOURGMESTRE : j’y vais, j’y vais ! Sa silhouette, d’ailleurs, en général, elle ressemble beaucoup à son père. Hi, hi, hi !
-LE MINISTRE : Dieu soit loué !
-LE BOURGMESTRE : et ses joues.
-LE MINISTRE : je vous étripe !
-LE BOURGMESTRE : j’y vais, j’y vais.
-LE MINISTRE : Bon, maintenant, je vais l’éclaircir, la question des origines ! Il ne reste plus qu’à appeler le chambellan et la gouvernante, les saouler et leur tirer les vers du nez sur les dessous de la conduite de la princesse.
+ - Quoi ?
+# LE BOURGMESTRE :
+
+Nos jeunes filles...
+ Vous vous frottez les reins.
+ Aha. Oui. 
+# LE MINISTRE :
+
+Qu’est-ce que vous racontez ?
+# LE BOURGMESTRE :
+
+Vous avez embêté les jeunes filles,
+ elle vous ont caressé les reins.
+ Oui. Moi aussi, c’est pareil. Célibataire aussi.
+# LE MINISTRE :
+
+Attendez !
+# LE BOURGMESTRE :
+
+Non. Eles aiment, si, si. Mais les jeunes.
+ Rigolotes, les jeunes filles. Moi, je les aime... 
+ houla-la...  Et elles, non. Moi, non...
+ Vous non plus. Je ne peux rien pour vous.
+# LE MINISTRE :
+
+Assez ! Ce n’est pas pour cela que je vous ai convoqué.
+ Vos jeunes filles ne m’ont pas compris.
+Je voulais leur confier une affaire secrète d’importance nationale.
+ Il faudra que, cette affaire, je vous le confie à vous.
+# LE BOURGMESTRE :
+
+Tiens donc. Bon–bon. Oui–oui.
+# LE MINISTRE :
+Vous devrez vous introduire dans la chambre à coucher de la princesse.
+# LE BOURGMESTRE :
+
+Ah tiens...  Ça alors...  Plaisant...  Mais non...  Je suis honnête.
+# LE MINISTRE :
+vous ne m’avez pas compris.
+ Vous devrez vous y introduire pour une seconde,
+ après que les jeunes filles auront préparé pour la nuit
+ les matelas de Son Altesse.
+Et, sous les 24 matelats, sur le sommier du lit,
+ poser ce tout petit-pois. Voilà tout.
+# LE BOURGMESTRE :
+ Pourquoi faire ?
+# LE MINISTRE :
+ Ça ne vous regarde pas ! Prenez ce petit-pois et allez-y. 
+# LE BOURGMESTRE :
+ J’irai pas. Non...  Plutôt mourir. 
+# LE MINISTRE :
+ Pourquoi ça ?
+# LE BOURGMESTRE :
+  Parce que c’est une affaire pas claire. Je suis honnête.
+	Oui-oui. Non–non. Tiens, je vais tomber malade -
+	vous ne pourrez pas m’obliger ! Non-non ! Oui-oui.
+# LE MINISTRE :
+Ah, mon dieu, quel imbécile ! Bon, je vais tous vous dire.
+ Mais souvenez-vous que c’est une affaire secrète d’importance nationale.
+ Le roi m’a ordonné d’inquêter pour savoir si, réellement,
+ la princesse est d‘origine noble.
+Il ne manquerait plus qu‘elle ne soit pas la fille d’un roi !
+# LE BOURGMESTRE :
+C’est sa fille.
+ Elle ressemble beaucoup à son père.
+ Si-si.
+# LE MINISTRE :
+ Ça ne veut rien dire. Vous ne pouvez pas imaginer à quel point les femmes sont rusées. La réponse exacte ne peut être donnée que par ce petit-pois. Les gens d’une ascendance royale réelle se distinguent par une peau d’une sensibilité et d’une douceur incroyables. La princesse, si elle est une princesse véritable, sentira ce petit-pois à travers tous les 24 matelas. Elle ne dormira pas de la nuit et, demain, et elle s’en plaindra. Si elle dort, ça veut dire que ça va mal. Vous avez compris ? Allez-y ! 
+# LE BOURGMESTRE :
+Tiens donc...  Bon–bon...  Moi aussi, ça m’intéresse...
+ Elle ressemble tellement à son père - et, d’un seul coup...
+ C’est vrai que, le père, il est barbu...
+ Mais cette bouche...  Ce nez... 
+# LE MINISTRE :
+Allez !
+# LE BOURGMESTRE :
+ - Ces yeux.
+# LE MINISTRE :
+ - Allez, on vous dit !
+# LE BOURGMESTRE :
+ - Ce front.
+# LE MINISTRE :
+Mais ne perdez pas de temps, espèce de bûche !
+# LE BOURGMESTRE :
+J’y vais, j’y vais !
+ Sa silhouette, d’ailleurs, en général,
+ elle ressemble beaucoup à son père. Hi, hi, hi !
+# LE MINISTRE :
+Dieu soit loué !
+# LE BOURGMESTRE :
+... et ses joues.
+# LE MINISTRE :
+ - je vous étripe !
+# LE BOURGMESTRE :
+- j’y vais, j’y vais.
+# LE MINISTRE :
+ Bon, maintenant, je vais l’éclaircir, la question des origines ! Il ne reste plus qu’à appeler le chambellan et la gouvernante, les saouler et leur tirer les vers du nez sur les dessous de la conduite de la princesse.
 Monsieur le chambellan, je vois aux mouvements de vos mains que vous avez essayé de converser avec ces jeunes filles.
-LE CHAMBELLAN : J’ai chassé un petit peu... 
+# LE CHAMBELLAN :
 
------------------------------------------56-----------------------------
+J’ai chassé un petit peu... 
 Elles ruent est elles encornent comme des biques sauvages. Les idiotes !
-LE MINISTRE : Monsieur le chambellan, quand une femme vous afflige, le vin vos console.
-LE CHAMBELLAN : pas du tout. Mois, Quand je bois, je commence tout de suite à désirer les femmes.
-LE MINISTRE : Ben, ce n’est pas grave ! Buvons, chambellan ! C’est bientôt le mariage ! Ici, et il y a un vin excellent, un vin qui réjouit l’hôte. Passons la nuit à boire ! D’accord ?
-LE CHAMBELLAN : Oh, ce que j’aurais envie ! Hallali ! Mais non, je ne peux pas ! J’ai fait un serrement au roi : sitôt que la princesse se met au lit–moi, tout de suite, je me couche devant sa porte et je surveille, sans fermer l’œil. Moi, je suis à la porte, la gouvernante au bas du lit–on la surveille, comme ça, toute la nuit. On dort après, dans le carrosse. Taïaut !
-LE MINISTRE : C’est très bizarre ! Il faut le saouler, coûte à coûte. Monsieur le chambellan... 
-LE BOURMESTRE : Oh, au secours, elle me bouffrait ! Oh, au secours, elle me tuerait !
-LE CHAMBELLAN : Que s’est-il passé, entweder-oder, aber ?
+# LE MINISTRE :
+ Monsieur le chambellan, quand une femme vous afflige, le vin vos console.
+# LE CHAMBELLAN :
+ pas du tout. Mois, Quand je bois, je commence tout de suite à désirer les femmes.
+# LE MINISTRE :
+Ben, ce n’est pas grave ! Buvons, chambellan !
+ C’est bientôt le mariage !
+ Ici, et il y a un vin excellent, un vin qui réjouit l’hôte.
+ Passons la nuit à boire ! D’accord ?
+# LE CHAMBELLAN :
 
------------------------------------------57-----------------------------
+Oh, ce que j’aurais envie ! Hallali ! Mais non, je ne peux pas !
+J’ai fait un serment au roi :
+ sitôt que la princesse se met au lit, moi, tout de suite,
+  je me couche devant sa porte et je surveille, sans fermer l’œil.
+Moi, je suis à la porte, la gouvernante au bas du lit...
+ on la surveille, comme ça, toute la nuit.
+ On dort après, dans le carrosse. Taïaut !
+# LE MINISTRE :
+C’est très bizarre ! Il faut le saouler, coûte à coûte.
+ Monsieur le chambellan... 
+LE BOURMESTRE :
+Oh, au secours, elle me bouffrait !
+ Oh, au secours, elle me tuerait !
+# LE CHAMBELLAN :
 
-LA GOUVERNANTE : Cette vieille mourde-bourde dans la chambre à coucher princesse entré a été ! Et moi, le crâne lui arracher je veux, gotentotenpotentatertanteratenanteter !
-LE CHAMBELLAN : Ce malotru c’est introduit dans la chambre à coucher de la princesse. Taïaut !
-LE MINISTRE : Attendez. Je vais tout vous expliquer. Approchez, bourgmestre ! Vous l’avez mis, le petit-pois ?
-LE BOURGMESTRE : Oh, oui...  Oui...  Elle pince.
-LE MINISTRE : Qui ?
-LE BOURGMESTRE : La gouvernante. Le petit pois je l’ai mis...  Voilà...  Je la regarde, la princesse...  Je m’étonne, comme elle ressemble à son père...  Ce nez, cette bouche...  D’un coup...  Elle me saute dessus...  Elle...  La gouvernante.
-LE MINISTRE : Allez. J’ai le fin mot de l’histoire. Le bourgmestre voulais seulement savoir s’il ne pouvait pas aider la princesse en quoi que ce soit. Le bourgmestre propose de racheter sa faute par 12 bouteilles de vin fort.
-LE CHAMBELLAN : Hallali !
-LE MINISTRE : Écoutez, chambellan ! Laissez tomber, quoi ! C’est vrai, ça ! La frontière, vous l’avez passé ! Le roi père ne saura jamais rien. Allez, faisons la
+Que s’est-il passé, entweder-oder, aber ?
+LA GOUVERNANTE :
+Cette vieille mourde-bourde dans la chambre
+ à coucher princesse entré a été !
+ Et moi, le crâne lui arracher je veux,
+ gotentotenpotentatertanteratenanteter !
+# LE CHAMBELLAN :
 
------------------------------------------58-----------------------------
-bringue ! Et appelons aussi la gouvernante. Ici, là, sur la petite table, parole d’honneur, je vous jure, je le jure sur mon honneur ! Et, moi, en haut, j’envoie ces deux beaux gaillards de gendarmes. Les chiens les plus fidèles, les plus aguerris de tout le royaume. Il ne ne laisseront passer personne chez la princesse, ni dans un sens ni dans l’autre. Hein, Chambellan ? Hallali ?
+Ce malotru c’est introduit dans la chambre à coucher de la princesse.
+ Taïaut !
+# LE MINISTRE :
+ Attendez. Je vais tout vous expliquer. Approchez, bourgmestre ! Vous l’avez mis, le petit-pois ?
+# LE BOURGMESTRE :
+ Oh, oui...  Oui...  Elle pince.
+# LE MINISTRE :
+ Qui ?
+# LE BOURGMESTRE :
+ La gouvernante. Le petit pois je l’ai mis...  Voilà...  Je la regarde, la princesse...  Je m’étonne, comme elle ressemble à son père...  Ce nez, cette bouche...  D’un coup...  Elle me saute dessus...  Elle...  La gouvernante.
+# LE MINISTRE :
+Allez. J’ai le fin mot de l’histoire.
+ Le bourgmestre voulais seulement savoir s’il ne pouvait pas
+ aider la princesse en quoi que ce soit.
+ Le bourgmestre propose de racheter sa faute par 12 bouteilles de vin fort.
+# LE CHAMBELLAN :
 
-LE CHAMBELLAN : On propose sur la petite table schnaps trinken. Deux gendarmes en haut envoyer il fera. Les gendarmes, genre, chien, humpty-dumpty doberman-boberman. Plus méchant que nous. Unà douna res ?
-LA GOUVERNANTE : Escalier seul être ?
-LE CHAMBELLAN : Seul.
-LA GOUVERNANTE : Kwinter, gobez, gès.
-LE CHAMBELLAN : Bon, d’accord, buvons ! Envoyez les gendarmes.
-LE MINISTRE : Gendarmes ! Filez en haut, mettez-vous devant la porte de la princesse et montez la garde. Au galop !
-LES GENDARMES : À vos ordres, Votre Excellence !
-LE MINISTRE : bourgmestre ! Apporte le vent, les cuissots d’ours, les saucissons. Tout de suite ! Je les saurai, tous les dessous ! Ce que
+Hallali !
+# LE MINISTRE :
+Écoutez, chambellan ! Laissez tomber, quoi !
+ C’est vrai, ça ! La frontière, vous l’avez passé !
+ Le roi père ne saura jamais rien. Allez, faisons la bringue !
+Et appelons aussi la gouvernante.
+ Ici, là, sur la petite table, parole d’honneur, je vous jure,
+ je le jure sur mon honneur !
+Et, moi, en haut, j’envoie ces deux beaux gaillards de gendarmes.
+ Les chiens les plus fidèles, les plus aguerris de tout le royaume.
+Il ne ne laisseront passer personne chez la princesse,
+ ni dans un sens ni dans l’autre.
+ Hein, Chambellan ? Hallali ?
+# LE CHAMBELLAN :
 
------------------------------------------59-----------------------------
-Je suis intelligent ! Ce que je suis habile ! Ce que je suis bien, comme gars !
+On propose sur la petite table schnaps trinken.
+ Deux gendarmes en haut envoyer il fera.
+ Les gendarmes, genre, chien, humpty-dumpty doberman-boberman.
+ Plus méchant que nous. Unà douna res ?
+LA GOUVERNANTE :
+Escalier seul être ?
+# LE CHAMBELLAN :
 
-LA PRINCESSE : 
-Notre amour est plus immense que le bois profond, 
-quoi qu‘on dise, quoi qu’on pense, nous nous marierons.
+- Seul.
+LA GOUVERNANTE :
+Kwinter, gobez, gès.
+# LE CHAMBELLAN :
 
-Bon, et alors ? Tous les soirs, je m’endormais si bien avec cette petite chanson. Je la chante - et tout s’apaise tout de suite. Je me mets à croire tout de suite que c’est vrai qu‘Henri ne me laissera pas à ce roi vieux et gros. Et le sommeil arrive. Et, dans mon rêve, Henri. Et voilà qu’aujourd’hui, ça ne marche pas du tout. Il y a quelque chose, comme ça, qui me rentre dans le corps à travers les 24 matelas et qui m’empêche de dormir. Soit c’est une plume qui il y a dans le duvet, soit sur les planches du lit, une écharde. Je parie que je suis couverte de bleus. Ah, ce que je suis une princesse malheureuse ! J’ai regardé par la fenêtre, il y a des jeunes filles qui se promènent avec leurs amis, et, moi, je suis là, je me perds pour rien ! Aujourd’hui, j’ai noté dans ma petite note ce qu’il fallait que je demande à Henri quand je le verrai dans mon rêve. Parce que j’oublie tout le temps. La voilà, la petite note...  1) a-t-il aimé d’autres jeunes filles avant de m’avoir rencontrée ? 2) quand a-t-il remarqué qu’il était amoureux de moi ? 3) quand a-t-il remarqué que, moi, j’étais amoureuse de lui ?
+ - Bon, d’accord, buvons ! Envoyez les gendarmes.
+# LE MINISTRE :
+ Gendarmes ! Filez en haut,
+ mettez-vous devant la porte de la princesse
+ et montez la garde. Au galop !
+# LES GENDARMES :
 
------------------------------------------60-----------------------------
+À vos ordres, Votre Excellence !
+# LE MINISTRE :
+Bourgmestre ! Apporte les bouteilles, les cuissots, les saucissons.
+ Tout de suite ! Je les saurai, tous les dessous !
+Ce que je suis intelligent ! Ce que je suis habile !
+ Bravo mon gars !
 
-J’ai réfléchi à ça pendant tout le voyage. Parce que nous n’avons réussi à nous embrasser qu’une seule fois - et on nous a séparés ! Nous n’avons même pas pu parler. Du coup, nous devons parler en rêve. Et moi qui ne peux pas dormir. Il y a quelque chose qui roule sous les matelas. Je suis affreusement malheureuse ! Je vais essayer de chanter encore une fois.
+# LA PRINCESSE :
+ 
+Notre amour est plus immense
+ que le bois profond, 
+ quoi qu‘on dise, quoi qu’on pense,
+ nous nous marierons.
+Bon, et alors ? Tous les soirs, je m’endormais si bien
+ avec cette petite chanson.
+ Je la chante - et tout s’apaise tout de suite.
+Je me mets à croire tout de suite
+ que c’est vrai qu‘Henri ne me laissera pas à ce roi vieux et gros.
+ Et le sommeil arrive. Et, dans mon rêve, Henri.
+Et voilà qu’aujourd’hui, ça ne marche pas du tout.
+ Il y a quelque chose, comme ça, qui me rentre dans le corps
+  à travers les 24 matelas et qui m’empêche de dormir.
+Soit c’est une plume qui il y a dans le duvet,
+ soit sur les planches du lit, une écharde.
+Je parie que je suis couverte de bleus.
+Ah, ce que je suis une princesse malheureuse !
+ J’ai regardé par la fenêtre,
+ il y a des jeunes filles qui se promènent avec leurs amis,
+ et, moi, je suis là, je me perds pour rien !
+Aujourd’hui, j’ai noté dans ma petite note
+ ce qu’il fallait que je demande à Henri
+ quand je le verrai dans mon rêve.
+ Parce que j’oublie tout le temps. La voilà, la petite note...
+1) a-t-il aimé d’autres jeunes filles avant de m’avoir rencontrée ?
+ 2) quand a-t-il remarqué qu’il était amoureux de moi ?
+ 3) quand a-t-il remarqué que, moi, j’étais amoureuse de lui ?
+J’ai réfléchi à ça pendant tout le voyage.
+ Parce que nous n’avons réussi à nous embrasser qu’une seule fois,
+ et on nous a séparés ! Nous n’avons même pas pu parler.
+Du coup, nous devons parler en rêve. Et moi qui ne peux pas dormir.
+ Il y a quelque chose qui roule sous les matelas.
+ Je suis affreusement malheureuse !
+ Je vais essayer de chanter encore une fois.
+Je vais par le monde en fête,
+ je suis plein de feu.
+ Depuis que j’ai vu Henriette,
+ je suis amoureux.
+# LA PRINCESSE :
 
-Je vais par le monde en fête, je suis plein de feu.
+Qu’est-ce que c’est ?
+Peut-être que je rêve déjà ?
+LE DUO :
+Notre amour est plus immense
+ que le bois profond, 
+ quoi qu‘on dise, quoi qu’on pense,
+ nous nous marierons.
+# LA PRINCESSE :
 
-Depuis que j’ai vu Henriette, on est amoureux.
+Ah, comme c’est intéressant !
+ C’est étrange, ça fait peur, et c’est si agréable !
+LE DUO :
+Nous vaincrons tous les obstacles,
+ conquérant la joie,
+ ma princesse, mon miracle,
+ sous le même toit.
+# LA PRINCESSE :
 
-LA PRINCESSE :  Qu’est-ce que c’est ? Peut-être que je rêve déjà ?
+Je vais descendre et voir.
+ Je m’enroule dans ma couverture et je regarde.
+LE DUO :
+Je vais par le monde en fête,
+ je suis plein de feu.
+ Depuis que j’ai vu Henriette,
+ je suis amoureux.
+# LA PRINCESSE :
+Où sont mes chaussons ? Les voilà !
+ Est-ce que, derrière la porte ... 
+ Qui êtes-vous ?
+# LES GENDARMES :
+Nous sommes deux gendarmes de Sa Majesté le roi. 
+# LA PRINCESSE :
+Que faites-vous ici ?
+# LES GENDARMES :
+ - Nous montons la garde pour Votre Altesse.
+# LA PRINCESSE :
+ Mais qui vient de chanter ?
+# LES GENDARMES :
+C’est un homme qui a juré contre vents et marées
+  de se marier avec Votre Altesse.
+Il vous a aimée pour toujours
+ parce que vous êtes tellement tout mignonne,
+ tellement gentille, tellement douce.
+Il ne geint pas, il ne pleure pas, il ne perd pas de temps. 
+ Il vire et vole autour de vous
+ pour vous sauver d’un fiancé maudit.
+Il a chanté pour vous rappeler à lui,
+ et c’est son ami qui reprenait sa chanson. 
+# LA PRINCESSE :
+Mais où est-il ?
+ Pourquoi ne répondez-vous pas ?
+ Où est Henri ? Pourquoi avez-vous l’air si tristes ?
+ Peut-être vous êtes venus pour me tuer ?
+# LES GENDARMES :
+ Tirez-nous la barbe.
+# LA PRINCESSE :
+ - La barbe ?
+# LES GENDARMES :
+ - Oui.
+# LA PRINCESSE :
+Pour quoi faire ?
+# LES GENDARMES :
+ - N’ayez pas peur, tirez !
+# LA PRINCESSE :
+ - Mais je ne vous connais pas !
+# LES GENDARMES :
+Henri vous demande de nous tirer la barbe.
+# LA PRINCESSE :
+ - Là, je veux bien !
+# LES GENDARMES :
+Plus fort !
+# LA PRINCESSE :
+Henri ! Mais je ne suis pas habillée...
+# CHRISTIAN :
 
-LE DUO : Notre amour est plus immense que le bois profond, 
-quoi qu‘on dise, quoi qu’on pense, nous nous marierons.
+Ce n’est pas grave, princesse,
+ de toute façon, vous serez bientôt sa femme.
+# LA PRINCESSE :
+Ce n’est par parce que c’est indécent,
+ mais je ne sais pas si je suis jolie !
+# HENRI :
 
-LA PRINCESSE : Ah, comme c’est intéressant ! C’est étrange, ça fait peur, et c’est si agréable !
+Henriette ! Je mourrais plutôt que de te laisser,
+ tellement tu es belle.
+N’aie pas peur - nous sommes sur tes pas tout le temps.
+ Hier, on a saoulé les gendarmes, on les a ligotés, cachés,
+ et nous voilà.
+Souviens-toi : nous n’avons qu’une idée en tête,
+ nous n’avons qu’un seul but - te libérer et t’emmener avec  nous.
+Si nous échouons une fois - nous essaierons une deuxième.
+ Si nous échouons une deuxième - nous essaierons une troisième.
+On n’obtient jamais rien du premier coup.
+Pour que ça marche, il faut essayer aujourd’hui,
+ et demain, et après-demain. Tu es prête ?
+# LA PRINCESSE :
+Oui. Mais dis-moi, s‘il te plaît, Henri,
+  tu as aimé d’autres jeunes filles avant moi ?
+# HENRI :
 
-LE DUO : Nous vaincrons tous les obstacles, conquérant la joie,
-ma princesse, mon miracle, sous le même toit.
+Je les ai toutes détestées !
+# CHRISTIAN :
 
------------------------------------------61-------------------------------
+Pauvre princesse - comme elle a maigri !
+# LA PRINCESSE :
+Et, dis-moi, s’il te plaît, Henri... 
+# CHRISTIAN :
 
-LA PRINCESSE : Je vais descendre et voir. Je m’enroule dans ma couverture et je regarde.
+Plus tard, pauvre princesse, vous parlerez plus tard.
+Maintenant, écoutez-nous. 
+# HENRI :
 
-LE DUO : Je vais par le monde en fête, je suis plein de feu.
-Depuis que j’ai vu Henriette, on est amoureux.
-
-LA PRINCESSE : Où sont mes chaussons ? Les voilà ! Est-ce que, derrière la porte ... .
-
-Qui êtes-vous ?
-
-LES GENDARMES : Nous sommes deux gendarmes de Sa Majesté le roi. 
-
-LA PRINCESSE : Que faites-vous ici ?
-
-LES GENDARMES : Nous montons la garde pour Votre Altesse.
-
-LA PRINCESSE : Mais qui vient de chanter ?
-
-LES GENDARMES : C’est un homme qui a juré contre vents et marées de se marier avec Votre Altesse. Il vous a aimée pour toujours parce que vous êtes tellement tout mignonne, tellement gentille, tellement douce. Il ne geint pas, il ne pleure pas, il ne perd pas de temps. 
-
------------------------------------------62---------------------------------
-Il vire et vole autour de vous pour vous sauver d’un fiancé maudit. Il a chanté pour vous rappeler à lui, et c’est son ami qui reprenait sa chanson. 
-
-LA PRINCESSE : Mais où est-il ?
-
-Pourquoi ne répondez-vous pas ? Où est Henri ? Pourquoi avez-vous l’air si tristes ? Peut-être vous êtes venus pour me tuer ?
-
-LES GENDARMES : Tirez-nous la barbe.
-
-LA PRINCESSE : La barbe ?
-
-LES GENDARMES : Oui.
-
-LA PRINCESSE : Pour quoi faire ?
-
-LES GENDARMES : N’ayez pas peur, tirez !
-
-LA PRINCESSE : Mais je ne vous connais pas !
-
-LES GENDARMES : Henri vous demande de nous tirer la barbe.
-
-LA PRINCESSE : Là, je veux bien !
-
-LES GENDARMES : Plus fort !
-
------------------------------------------63----------------------------------
-
-LA PRINCESSE : Henri. mais je suis en chemise...
-
-CHRISTIAN : Ce n’est pas grave, princesse, de toute façon, vous serez bientôt sa femme.
-
-LA PRINCESSE : Ce n’est par parce que c’est indécent, mais je ne sais pas si je suis jolie !
-
-HENRI : Henriette ! Je mourrais plutôt que de te laisser, tellement tu es belle. N’aie pas peur - nous te suivons à la trace tout le temps. Hier, on a saoulé les gendarmes, on les a ligotés, cachés, et nous voilà.
-Souviens-toi : nous n’avons qu’une idée en tête, nous n’avons qu’un seul but - te libérer et t’emmener avec  nous. Si nous échouons une fois - nous essaierons une deuxième. Si nous échouons une deuxième - nous essaierons une troisième. On n’obtient jamais rien du premier coup. Pour que ça marche, il faut essayer aujourd’hui, et demain, et après-demain. Tu es prête ?
-
-LA PRINCESSE : Oui. Mais dis-moi, s‘il te plaît, Henri, tu as aimé d’autres jeunes filles avant moi ?
-
-HENRI : Je les ai toutes détestées !
-
-CHRISTIAN : Pauvre princesse - comme elle a maigri !
-
-LA PRINCESSE : Et, dis-moi, s’il te plaît, Henri... 
-
-CHRISTIAN : Plus tard, pauvre princesse, vous parlerez plus tard. Maintenant, écoutez-nous. 
-
------------------------------------------64-----------------------------------
-HENRI : Nous essaierons de nous échapper avec toi aujourd’hui.
-LA PRINCESSE : Merci, Henri.
+Nous essayons de nous échapper avec toi aujourd’hui.
+# LA PRINCESSE :
+ Merci, Henri.
 HEHRI : Mais nous pouvons ne pas réussir.
-LA PRINCESSE : Rien ne se donne du premier coup, mon cher Henri.
-HENRI : Prends ce papier.
-LA PRINCESSE : C’est toi qui l’as écrit ? Que le diable te patafiole. La ferme, vieux sac à trous. Qu’est-ce que c’est, Henri ?
-HENRI : Si l´évasion échoue, tu dois l’apprendre par coeur et le dire à ton fiancé de roi. Toute seule, tu ne connais pas beaucoup de gros mots. Apprends-les, et envoie-les lui bien comme il faut.
-LA PRINCESSE : Avec plaisir, Henri. Fiche-moi le camp et que le diable t’embroche. C’est très bien !
-HENRI : Il y a un petit-pois sous tes matelas. C’est lui qui t’empêchait de dormir. Demain, dis que tu as très bien dormi cette nuit. À ce moment-là, le roi te refusera. Tu comprends ?
-LA PRINCESSE : Je ne comprends rien, mais je le dirai. Comme 
+# LA PRINCESSE :
+ Rien ne se donne du premier coup, mon cher Henri.
+# HENRI :
+ Prends ce papier.
+# LA PRINCESSE :
+ C’est toi qui l’as écrit ? Que le diable te patafiole. La ferme, vieux sac à trous. Qu’est-ce que c’est, Henri ?
+# HENRI :
+ Si l´évasion échoue, tu dois l’apprendre par coeur et le dire à ton fiancé de roi. Toute seule, tu ne connais pas beaucoup de gros mots. Apprends-les, et envoie-les lui bien comme il faut.
+# LA PRINCESSE :
+ Avec plaisir, Henri. Fiche-moi le camp et que le diable t’embroche. C’est très bien !
+# HENRI :
+ Il y a un petit-pois sous tes matelas. C’est lui qui t’empêchait de dormir. Demain, dis que tu as très bien dormi cette nuit. À ce moment-là, le roi te refusera. Tu comprends ?
+# LA PRINCESSE :
+ Je ne comprends rien, mais je le dirai. Comme 
 tu es intelligent, Henri !
 -----------------------------------------65---------------------------------
-HENRI : S’il ne te refuse pas, de toute façon, ne te décourage pas. Nous serons toujours près de toi. 
-LA PRINCESSE : Bien, Henri. Je dormirai sur le petit-pois, s’il faut. Combien as-tu de matelas chez toi ? 
-HENRI : Un seul.
+# HENRI :
+ S’il ne te refuse pas, de toute façon, ne te décourage pas. Nous serons toujours près de toi. 
+# LA PRINCESSE :
+ Bien, Henri. Je dormirai sur le petit-pois, s’il faut. Combien as-tu de matelas chez toi ? 
+# HENRI :
+ Un seul.
 LA PRINCESE : J’apprendrai à dormir sur un seul matelas. Et toi, où est-ce que tu dormiras, mon gentil mignon ? Remarque, nous... .
-CHRISTIAN : Je vous en supplie, taisez-vous, princesse ! Vous êtes tellement innocente que vous pouvez dire des choses absolument épouvantables !
-HENRI : Habille-toi, princesse, et allons-y. Ils sont tous ivres morts en bas. Nous allons nous sauver. 
-CHRISTIAN : Et si nous échouons - le petit-pois nous aidera.
-HENRI : Et s’il nous aide pas, de toute façon, nous serons près de toi, et, ne serait-ce qu’à l’église, nous te sauverons. Viens, ma pauvre chérie !
+# CHRISTIAN :
+ Je vous en supplie, taisez-vous, princesse ! Vous êtes tellement innocente que vous pouvez dire des choses absolument épouvantables !
+# HENRI :
+ Habille-toi, princesse, et allons-y. Ils sont tous ivres morts en bas. Nous allons nous sauver. 
+# CHRISTIAN :
+ Et si nous échouons - le petit-pois nous aidera.
+# HENRI :
+ Et s’il nous aide pas, de toute façon, nous serons près de toi, et, ne serait-ce qu’à l’église, nous te sauverons. Viens, ma pauvre chérie !
 LA PRINCESE : Dites, mes chers petits amis. Vous ne serez pas fâchés si je vous demande quelque chose ?
-HENRI : Bien sûr que non, demande ! Je ferai tout pour toi.
+# HENRI :
+ Bien sûr que non, demande ! Je ferai tout pour toi.
 LA PRINCESE : Bon, alors, même si ça nous retarde un peu, sois gentil - embrasse-moi.
 -----------------------------------------66---------------------------------
-LE MINISTRE : Je suis habile, tu entends, chambellan ? Je suis tellement intelligent ! Le roi m’a donné l’ordre : renseigne-toi en douce si la princesse n’a pas eu d’aventures...  Vous comprenez ? Tra-la-la !  Apprends-le, il me dit, délicatement ! Un autre, il aurait fait quoi ? Un autre, il se serait perdu ! Moi, j’ai trouvé ! Moi, je te saoule, tu me laban...  tu me bolan...  tu me balances ! Tout ! Je suis intelligent ?
-LE CHAMBELLAN : Taïaut !
-LE MINISTRE : Eh oui ! Allez, parle ! De toute façon, tu pourras rien me cacher. Non ! Boule...  Abal...  Abalance...  Balance. Qu’est-ce que tu peux me dire de la princesse ?
-LE CHAMBELLAN : On l’a chassée à courre !
-LE MINISTRE :  Pourquoi ?
-LE CHAMBELLAN : Parce qu’elle a une belle queue. Hallali !
-LE MINISTRE : Une queue ? Elle a une queue ?
-LE CHAMBELLAN : Bah oui. Taïaut !
------------------------------------------67---------------------------------
-LE MINISTRE : Pourquoi une queue ?
-LE CHAMBELLAN : C’est sa race. Hallali !
-LE MINISTRE : Toute la race ? Et, son père... . Il a une queue ?
-LE CHAMBELLAN : Évidemment. Son père aussi.
-LE MINISTRE : Donc, vous avez un roi à queue ?
-LE CHAMBELLAN : Mais non ! Nous, notre roi, il a pas de queue. Mais son père à elle, il a une queue.
-LE MINISTRE : Donc, c’est pas son père, le roi ?
-LE CHAMBELLAN : Bah, bien sûr que non !
-LE MINISTRE : Hourra ! Tu mlabal.. tumlabal...  Et qui c’est, son père ?
-LE CHAMBELLAN : Goupil. Taïaut !
-LE MINISTRE : Qui ?
-LE CHAMBELLAN : Goupil. Le père de la renarde, c’est le goupil.
-LE MINISTRE :  Le père de quelle renarde ?
-LE CHAMBELLAN : Mais de celle qu’on parle... 
+# LE MINISTRE :
+ Je suis habile, tu entends, chambellan ? Je suis tellement intelligent ! Le roi m’a donné l’ordre : renseigne-toi en douce si la princesse n’a pas eu d’aventures...  Vous comprenez ? Tra-la-la !  Apprends-le, il me dit, délicatement ! Un autre, il aurait fait quoi ? Un autre, il se serait perdu ! Moi, j’ai trouvé ! Moi, je te saoule, tu me laban...  tu me bolan...  tu me balances ! Tout ! Je suis intelligent ?
+# LE CHAMBELLAN :
+ Taïaut !
+# LE MINISTRE :
+ Eh oui ! Allez, parle ! De toute façon, tu pourras rien me cacher. Non ! Boule...  Abal...  Abalance...  Balance. Qu’est-ce que tu peux me dire de la princesse ?
+# LE CHAMBELLAN :
+ On l’a chassée à courre !
+# LE MINISTRE :
+  Pourquoi ?
+# LE CHAMBELLAN :
+ Parce qu’elle a une belle queue. Hallali !
+# LE MINISTRE :
+ Une queue ? Elle a une queue ?
+# LE CHAMBELLAN :
+ Bah oui. Taïaut !
+# LE MINISTRE :
+ Pourquoi une queue ?
+# LE CHAMBELLAN :
+ C’est sa race. Hallali !
+# LE MINISTRE :
+ Toute la race ? Et, son père... . Il a une queue ?
+# LE CHAMBELLAN :
+ Évidemment. Son père aussi.
+# LE MINISTRE :
+ Donc, vous avez un roi à queue ?
+# LE CHAMBELLAN :
+Mais non ! Nous, notre roi, il a pas de queue.
+ Mais son père à elle, il a une queue.
+# LE MINISTRE :
+Donc, c’est pas son père, le roi ?
+# LE CHAMBELLAN :
+Bah, bien sûr que non !
+# LE MINISTRE :
+Hourra ! Tu mlabal.. tumlabal...  Et qui c’est, son père ?
+# LE CHAMBELLAN :
+Goupil. Taïaut !
+# LE MINISTRE :
+Qui ?
+# LE CHAMBELLAN :
+Goupil. Le père de la renarde, c’est le goupil.
+# LE MINISTRE :
+Le père de quelle renarde ?
+# LE CHAMBELLAN :
+Mais de celle qu’on parle... 
+LA GOUVERNANTE :
+Si tu savoir pouvais le bonbon,
+ comment avec le porcher embrasser mutuellement elle s’est !
+ Ôte de table tes coudes ! Cligne des yeux pas !
+# LE CHAMBELLAN :
+ Taïaut !
+LA GOUVERNANTE :
+Tu crétin être-êtant !
+# LE MINISTRE :
+ Qu’est-ce qu’ils disent ?
+# LE CHAMBELLAN :
+ Hallali !
+# LE MINISTRE :
+Les cochons ! C’est pas de la camard... . pas de la camarderie.
+ Je vais vous cogner. Bourgmestre ! Bourgmestre ! Encore du vin.
+LA GOUVERNANTE :
+Ce crétin stupide dort ! Oh, bien-heureux !
+ Il se allonge et se dort. Et moi je dors me pas.
+ Je dors me pas combien nuits. Unter-munder.
+# LE CHAMBELLAN :
+Halla. Le cerf ! Le cerf !
+# LE BOURGMESTRE :
+Voilà. Encore du vin. Oui-oui. Ministre !
+ Il dort. Chambellan ! Il dort ! Madame la gouvernante !
+ Elle dort. Je m’assois. Oui-oui. Ils vont se réveiller, non ? Non-non. 
 
------------------------------------------68---------------------------------
+Où vous allez ? C’est. Ah...  Les gendarmes...
+ Ils se sont rasés... . Bizarre...  Arrière !
+# HENRI :
+ Je te tue.
+# LE BOURGMESTRE :
+ Et moi, je crie...  Je suis courageux. 
+# CHRISTIAN :
+ Prends de l’argent et laisse-nous partir.
+# LE BOURGMESTRE :
+ Ah, non ! Je suis honnête. Je siffle !
+# LA PRINCESSE :
+Laissez-moi faire. Bourgmestre, prends pitié de moi, s’il te plaît.
+ Je suis peut-être une princesse, mais je suis une jeune fille !
+Si tu me trahis, on m’emmènera me marier de force
+ avec un vieillard que je ne connais pas. 
+Est-ce que c’est bien ? Votre roi, il est capricieux.
+ Et moi, je suis tellement sans défense.
+Est-ce que je pourrai survivre, prisonnière ?
+ Mais je vais mourir tout de suite !
+# LE BOURGMESTRE :
+Oh, sauvez-vous vite ! Oh, sinon vous allez mourir !
+ Sauvez-vous ! Oh !
 
-LA GOUVERNANTE : Si tu savoir pouvais le bonbon, comment avec le porcher embrasser mutuellement elle s’est ! Ôte de table tes coudes ! Cligne des yeux pas !
-LE CHAMBELLAN : Taïaut !
-LA GOUVERNANTE : Tu crétin être-êtant !
-LE MINISTRE : Qu’est-ce qu’ils disent ?
-LE CHAMBELLAN : Hallali !
-LE MINISTRE : Les cochons ! C’est pas de la camard... . pas de la camarderie. Je vais vous cogner. Bourgmestre ! Bourgmestre ! Encore du vin.
-LA GOUVERNANTE : Ce crétin stupide dort ! Oh, bien-heureux ! Il se allonge et se dort. Et moi je dors me pas. Je dors me pas tant de nuits. Unter-munder.
-LE CHAMBELLAN : Halla. Le cerf ! Le cerf !
-LE BOURGMESTRE : Voilà. Encore du vin. Oui-oui. Ministre ! Il dort. Chambellan ! Il dort ! Madame la gouvernante ! Elle dort. Je m’assois. Oui-oui. Ils vont se réveiller, non ? Non-non. 
+Notre amour est plus immense
+ que le bois profond, 
+ quoi qu‘on dise, quoi qu’on pense,
+ nous nous marierons.
 
------------------------------------------69---------------------------------
-Où vous allez ? C’est. Ah...  Les gendarmes...  Ils se sont rasés... . Bizarre...  Arrière !
-
-HENRI : Je te tue.
-LE BOURGMESTRE : Et moi, je crie...  Je suis courageux. 
-CHRISTIAN : Prends de l’argent et laisse-nous partir.
-LE BOURGMESTRE : Ah, non ! Je suis honnête. Je siffle !
-LA PRINCESSE : Laissez-moi faire. Bourgmestre, prends pitié de moi, s’il te plaît. Je suis peut-être une princesse, mais je suis une jeune fille !
-Si tu me trahis, on m’emmènera me marier de force avec un vieillard que je ne connais pas. 
-Est-ce que c’est bien ? Votre roi, il est capricieux. Et moi, je suis tellement sans défense.
-Est-ce que je pourrai survivre, prisonnière ? Mais je vais mourir tout de suite !
-
-LE BOURGMESTRE : Oh, sauvez-vous vite ! Oh, sinon vous allez mourir ! Sauvez-vous ! Oh !
-
------------------------------------------70---------------------------------
-
-Notre amour est plus immense que le bois profond, 
-quoi qu‘on dise, quoi qu’on pense, nous nous marierons.
-
-LE CHAMBELLAN : Ils ont filé. C’est plus facile de pister cent cerfs que d’amener sans encombre une fille de roi à son fiancé ! Et, l’autre, il ronfle : dors-dors, reprends des forces. Tu vas t’amuser, encore, avec notre douce demoiselle. Taïaut.
-
------------------------------------------71---------------------------------
-
+# LE CHAMBELLAN :
+Ils ont filé. C’est plus facile de pister cent cerfs
+ que d’amener sans encombre une fille de roi à son fiancé !
+Et, l’autre, il ronfle : dors-dors, reprends des forces.
+ Tu vas t’amuser, encore, avec notre douce demoiselle. Taïaut.
 
 Entracte
