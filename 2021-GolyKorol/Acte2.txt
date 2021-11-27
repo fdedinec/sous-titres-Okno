@@ -485,10 +485,10 @@ Bonjour, savant de la cour !
 Bonjour, Votre Majesté.
 # LE ROI 
 Parlez ! Remarquez, non, attendez !
- Premier ministre ! Que les courtisans écoutent aussi.
+# Premier ministre ! Que les courtisans écoutent aussi.
 # LE PREMIER MINISTRE 
-Messieurs les courtisans !
- Sa Majesté a remarqué que vous étiez là.
+#Messieurs les courtisans !
+# Sa Majesté a remarqué que vous étiez là.
 # LES COURTISANS :
 Hourra au roi ! Hourra au roi ! Hourra au roi !
 # LE ROI 

@@ -1373,16 +1373,14 @@ Henri vous demande de nous tirer la barbe.
 # LES GENDARMES :
 Plus fort !
 # LA PRINCESSE :
-Henri ! Mais je ne suis pas habillée...
+ - Henri ! Mais je ne suis pas habillée...
 # CHRISTIAN :
-
 Ce n’est pas grave, princesse,
  de toute façon, vous serez bientôt sa femme.
 # LA PRINCESSE :
 Ce n’est par parce que c’est indécent,
  mais je ne sais pas si je suis jolie !
 # HENRI :
-
 Henriette ! Je mourrais plutôt que de te laisser,
  tellement tu es belle.
 N’aie pas peur - nous sommes sur tes pas tout le temps.
@@ -1399,122 +1397,156 @@ Pour que ça marche, il faut essayer aujourd’hui,
 Oui. Mais dis-moi, s‘il te plaît, Henri,
   tu as aimé d’autres jeunes filles avant moi ?
 # HENRI :
-
 Je les ai toutes détestées !
 # CHRISTIAN :
-
-Pauvre princesse - comme elle a maigri !
+ - Pauvre princesse - comme elle a maigri !
 # LA PRINCESSE :
 Et, dis-moi, s’il te plaît, Henri... 
 # CHRISTIAN :
-
-Plus tard, pauvre princesse, vous parlerez plus tard.
-Maintenant, écoutez-nous. 
+ - Plus tard, pauvre princesse, vous parlerez plus tard.
+ Maintenant, écoutez-nous. 
 # HENRI :
-
 Nous essayons de nous échapper avec toi aujourd’hui.
 # LA PRINCESSE :
- Merci, Henri.
-HEHRI : Mais nous pouvons ne pas réussir.
+ - Merci, Henri.
+# HEHRI :
+Mais nous pouvons ne pas réussir.
 # LA PRINCESSE :
- Rien ne se donne du premier coup, mon cher Henri.
+ - Rien ne se donne du premier coup, mon cher Henri.
 # HENRI :
- Prends ce papier.
+ - Prends ce papier.
 # LA PRINCESSE :
- C’est toi qui l’as écrit ? Que le diable te patafiole. La ferme, vieux sac à trous. Qu’est-ce que c’est, Henri ?
+C’est toi qui l’as écrit ?
+ Que le diable te patafiole.
+ La ferme, vieux sac à trous.
+ Qu’est-ce que c’est, Henri ?
 # HENRI :
- Si l´évasion échoue, tu dois l’apprendre par coeur et le dire à ton fiancé de roi. Toute seule, tu ne connais pas beaucoup de gros mots. Apprends-les, et envoie-les lui bien comme il faut.
+Si l´évasion échoue, tu dois l’apprendre par coeur
+ et le dire à ton fiancé de roi.
+ Toute seule, tu ne connais pas beaucoup de gros mots.
+ Apprends-les, et envoie-les lui bien comme il faut.
 # LA PRINCESSE :
- Avec plaisir, Henri. Fiche-moi le camp et que le diable t’embroche. C’est très bien !
+Avec plaisir, Henri.
+ Fiche-moi le camp et que le diable t’embroche.
+ C’est très bien !
 # HENRI :
- Il y a un petit-pois sous tes matelas. C’est lui qui t’empêchait de dormir. Demain, dis que tu as très bien dormi cette nuit. À ce moment-là, le roi te refusera. Tu comprends ?
+Il y a un petit-pois sous tes matelas.
+ C’est lui qui t’empêchait de dormir.
+ Demain, dis que tu as très bien dormi cette nuit.
+ À ce moment-là, le roi te refusera. Tu comprends ?
 # LA PRINCESSE :
- Je ne comprends rien, mais je le dirai. Comme 
-tu es intelligent, Henri !
------------------------------------------65---------------------------------
+Je ne comprends rien, mais je le dirai.
+ Comme tu es intelligent, Henri !
 # HENRI :
- S’il ne te refuse pas, de toute façon, ne te décourage pas. Nous serons toujours près de toi. 
+S’il ne te refuse pas, de toute façon, ne te décourage pas.
+ Nous serons toujours près de toi. 
 # LA PRINCESSE :
- Bien, Henri. Je dormirai sur le petit-pois, s’il faut. Combien as-tu de matelas chez toi ? 
+Bien, Henri. Je dormirai sur le petit-pois, s’il faut.
+ Combien as-tu de matelas chez toi ? 
 # HENRI :
- Un seul.
-LA PRINCESE : J’apprendrai à dormir sur un seul matelas. Et toi, où est-ce que tu dormiras, mon gentil mignon ? Remarque, nous... .
+ - Un seul.
+# LA PRINCESE :
+J’apprendrai à dormir sur un seul matelas.
+ Et toi, où est-ce que tu dormiras, mon gentil mignon ?
+ Remarque, nous... .
 # CHRISTIAN :
- Je vous en supplie, taisez-vous, princesse ! Vous êtes tellement innocente que vous pouvez dire des choses absolument épouvantables !
+Je vous en supplie, taisez-vous, princesse !
+ Vous êtes tellement innocente
+ que vous pouvez dire des choses absolument épouvantables !
 # HENRI :
- Habille-toi, princesse, et allons-y. Ils sont tous ivres morts en bas. Nous allons nous sauver. 
+Habille-toi, princesse, et allons-y.
+ Ils sont tous ivres morts en bas.
+ Nous allons nous sauver. 
 # CHRISTIAN :
- Et si nous échouons - le petit-pois nous aidera.
+ - Et si nous échouons - le petit-pois nous aidera.
 # HENRI :
- Et s’il nous aide pas, de toute façon, nous serons près de toi, et, ne serait-ce qu’à l’église, nous te sauverons. Viens, ma pauvre chérie !
-LA PRINCESE : Dites, mes chers petits amis. Vous ne serez pas fâchés si je vous demande quelque chose ?
+Et s’il nous aide pas, de toute façon,  nous serons près de toi,
+ et, même si ce n'est qu'à l’église, nous te sauverons.
+ Viens, ma pauvre chérie !
+# LA PRINCESE :
+Dites, mes chers petits amis...
+ Vous ne serez pas fâchés si je vous demande quelque chose ?
 # HENRI :
- Bien sûr que non, demande ! Je ferai tout pour toi.
-LA PRINCESE : Bon, alors, même si ça nous retarde un peu, sois gentil - embrasse-moi.
------------------------------------------66---------------------------------
+ - Bien sûr que non, demande ! Je ferai tout pour toi.
+#LA PRINCESE :
+Bon, alors, même si ça nous retarde un peu, sois gentil,
+ embrasse-moi.
+ 
 # LE MINISTRE :
- Je suis habile, tu entends, chambellan ? Je suis tellement intelligent ! Le roi m’a donné l’ordre : renseigne-toi en douce si la princesse n’a pas eu d’aventures...  Vous comprenez ? Tra-la-la !  Apprends-le, il me dit, délicatement ! Un autre, il aurait fait quoi ? Un autre, il se serait perdu ! Moi, j’ai trouvé ! Moi, je te saoule, tu me laban...  tu me bolan...  tu me balances ! Tout ! Je suis intelligent ?
+Je suis habile, tu entends, chambellan ?
+ Je suis tellement intelligent !
+Le roi m’a donné l’ordre : renseigne-toi en douce
+ si la princesse n’a pas eu d’aventures...
+ Vous comprenez ? Tra-la-la !
+Apprends-le, il me dit, délicatement !
+ Un autre, il aurait fait quoi ? Un autre, il aurait déconné !
+Moi, j’ai trouvé ! Moi, je te saoule,
+ et tu me laban...  tu me bolan...  tu me balances tout !
+ Je suis pas intelligent, hein ?
 # LE CHAMBELLAN :
- Taïaut !
+Taïaut !
 # LE MINISTRE :
- Eh oui ! Allez, parle ! De toute façon, tu pourras rien me cacher. Non ! Boule...  Abal...  Abalance...  Balance. Qu’est-ce que tu peux me dire de la princesse ?
+Eh oui ! Allez, parle !
+ De toute façon, tu pourras rien me cacher.
+ Non ! Boule...  Abal...  Abalance...  Balance.
+ Qu’est-ce que tu peux me dire de la princesse ?
 # LE CHAMBELLAN :
- On l’a chassée à courre !
+On l’a chassée à courre !
 # LE MINISTRE :
-  Pourquoi ?
+ - Pourquoi ?
 # LE CHAMBELLAN :
- Parce qu’elle a une belle queue. Hallali !
+ - Parce qu’elle a une belle queue. Hallali !
 # LE MINISTRE :
- Une queue ? Elle a une queue ?
+Une queue ? Elle a une queue ?
 # LE CHAMBELLAN :
- Bah oui. Taïaut !
+ - Bah oui. Taïaut !
 # LE MINISTRE :
- Pourquoi une queue ?
+ - Pourquoi une queue ?
 # LE CHAMBELLAN :
- C’est sa race. Hallali !
+ - C’est sa race. Hallali !
 # LE MINISTRE :
- Toute la race ? Et, son père... . Il a une queue ?
+Toute la race ? Et son père... Il a une queue ?
 # LE CHAMBELLAN :
- Évidemment. Son père aussi.
+ - Évidemment. Son père aussi.
 # LE MINISTRE :
- Donc, vous avez un roi à queue ?
+ - Donc, vous avez un roi à queue ?
 # LE CHAMBELLAN :
 Mais non ! Nous, notre roi, il a pas de queue.
  Mais son père à elle, il a une queue.
 # LE MINISTRE :
 Donc, c’est pas son père, le roi ?
 # LE CHAMBELLAN :
-Bah, bien sûr que non !
+ - Bah, bien sûr que non !
 # LE MINISTRE :
-Hourra ! Tu mlabal.. tumlabal...  Et qui c’est, son père ?
+ - Hourra ! Tu mlabal.. tumlabal...  Et qui c’est, son père ?
 # LE CHAMBELLAN :
 Goupil. Taïaut !
 # LE MINISTRE :
-Qui ?
+ - Qui ?
 # LE CHAMBELLAN :
-Goupil. Le père de la renarde, c’est le goupil.
+ - Goupil. Le père de la renarde, c’est le goupil.
 # LE MINISTRE :
 Le père de quelle renarde ?
 # LE CHAMBELLAN :
-Mais de celle qu’on parle... 
+ - Mais de celle qu’on parle... 
 LA GOUVERNANTE :
 Si tu savoir pouvais le bonbon,
  comment avec le porcher embrasser mutuellement elle s’est !
  Ôte de table tes coudes ! Cligne des yeux pas !
 # LE CHAMBELLAN :
- Taïaut !
+ - Taïaut !
 LA GOUVERNANTE :
 Tu crétin être-êtant !
 # LE MINISTRE :
- Qu’est-ce qu’ils disent ?
+ - Qu’est-ce qu’ils disent ?
 # LE CHAMBELLAN :
- Hallali !
+ - Hallali !
 # LE MINISTRE :
 Les cochons ! C’est pas de la camard... . pas de la camarderie.
  Je vais vous cogner. Bourgmestre ! Bourgmestre ! Encore du vin.
 LA GOUVERNANTE :
-Ce crétin stupide dort ! Oh, bien-heureux !
- Il se allonge et se dort. Et moi je dors me pas.
+Ce crétin stupide dormir ! Oh, bien-heureux lui !
+ Il se allongir et se dort. Et moi je dors me pas.
  Je dors me pas combien nuits. Unter-munder.
 # LE CHAMBELLAN :
 Halla. Le cerf ! Le cerf !
@@ -1526,32 +1558,32 @@ Voilà. Encore du vin. Oui-oui. Ministre !
 Où vous allez ? C’est. Ah...  Les gendarmes...
  Ils se sont rasés... . Bizarre...  Arrière !
 # HENRI :
- Je te tue.
+Je te tue.
 # LE BOURGMESTRE :
- Et moi, je crie...  Je suis courageux. 
+ - Et moi, je crie...  Je suis courageux. 
 # CHRISTIAN :
- Prends de l’argent et laisse-nous partir.
+Prends de l’argent et laisse-nous partir.
 # LE BOURGMESTRE :
- Ah, non ! Je suis honnête. Je siffle !
+ - Ah, non ! Je suis honnête. Je siffle !
 # LA PRINCESSE :
 Laissez-moi faire. Bourgmestre, prends pitié de moi, s’il te plaît.
  Je suis peut-être une princesse, mais je suis une jeune fille !
-Si tu me trahis, on m’emmènera me marier de force
+ Si tu me trahis, on m’emmènera me marier de force
  avec un vieillard que je ne connais pas. 
 Est-ce que c’est bien ? Votre roi, il est capricieux.
  Et moi, je suis tellement sans défense.
-Est-ce que je pourrai survivre, prisonnière ?
+ Est-ce que je pourrai survivre, prisonnière ?
  Mais je vais mourir tout de suite !
 # LE BOURGMESTRE :
 Oh, sauvez-vous vite ! Oh, sinon vous allez mourir !
  Sauvez-vous ! Oh !
-
+ 
 Notre amour est plus immense
  que le bois profond, 
  quoi qu‘on dise, quoi qu’on pense,
  nous nous marierons.
-
 # LE CHAMBELLAN :
+
 Ils ont filé. C’est plus facile de pister cent cerfs
  que d’amener sans encombre une fille de roi à son fiancé !
 Et, l’autre, il ronfle : dors-dors, reprends des forces.
