@@ -960,7 +960,6 @@ Dans mon rêve, je reverrai mon gentil Henri.
  J'en ai tellement assez de ces singes 
  avec lesquels je n'ai absolument rien de commun.
 # LE MINISTRE :
-
 Comment, la princesse ne dînera donc pas ?
 # LE CHAMBELLAN :
 
@@ -969,31 +968,30 @@ Oh, ouh, oho-ho! Non !
  Elle est tellement émotionnée par le mariage à venir.
 LA GOUVERNANTE :
 Sortez vos mains poches de vos !
-Quelle indécence c'est être-êtant ! Entweder !
-
+ Quelle indécence c'est être-êtant ! Entweder !
 # LE MINISTRE :
- Que me veut cette dame ?
-
+Que me veut cette dame ?
 # LE CHAMBELLAN :
- O-o-o-ou ! Prenez-vous dans vos mains, quvaque. Il votre élève n'est pas. Pardon, vous parlez les langues étrangères ?
-
+ O-o-o-ou ! Prenez-vous dans vos mains, quvaque.
+ Il votre élève n'est pas.
+ Pardon, vous parlez les langues étrangères ?
 # LE MINISTRE :
- Non, depuis que Sa Majesté a déclaré que notre nation était la plus noble du monde, nous
------------------------------------------50------------------------------------
-avons reçu l'ordred'oublier purement et simplement les langues étrangères.
-
+Non, depuis que Sa Majesté a déclaré que notre nation
+ était la plus noble du monde, nous avons reçu l'ordre
+ d'oublier purement et simplement les langues étrangères.
 # LE CHAMBELLAN :
-
 Cett dame est une gouvernante étrangère, la plus méchante du monde.
  Toute sa vie elle a élever des enfants désobéissant,
  et c’est pour ça qu’elle s’est beaucoup aigrie.
 Maintenant, elle se jette sur tous les gens qu’elle croise
  et elle les éduque.
 LA GOUVERNANTE :
- Ne vous pas grattez. Ne !
+Ne vous pas grattez. Ne !
 # LE CHAMBELLAN :
- Vouvoyer ? Ouoou !
- Elle m’interdit de me gratter, et, moi, je ne me gratte pas du tout, j‘arrangé juste mes manchettes.
+Vouvoyer ? Ouoou !
+ Elle m’interdit de me gratter,
+ et, moi, je ne me gratte pas du tout,
+ j‘arrangé juste mes manchettes.
 # LE MINISTRE :
  Qu’avez-vous, monsieur le chambellan, vous êtes enrhumé ?
 # LE CHAMBELLAN :
@@ -1118,7 +1116,16 @@ C’est sa fille.
  Elle ressemble beaucoup à son père.
  Si-si.
 # LE MINISTRE :
- Ça ne veut rien dire. Vous ne pouvez pas imaginer à quel point les femmes sont rusées. La réponse exacte ne peut être donnée que par ce petit-pois. Les gens d’une ascendance royale réelle se distinguent par une peau d’une sensibilité et d’une douceur incroyables. La princesse, si elle est une princesse véritable, sentira ce petit-pois à travers tous les 24 matelas. Elle ne dormira pas de la nuit et, demain, et elle s’en plaindra. Si elle dort, ça veut dire que ça va mal. Vous avez compris ? Allez-y ! 
+ Ça ne veut rien dire.
+ Vous ne pouvez pas imaginer à quel point les femmes sont rusées.
+ La réponse exacte ne peut être donnée que par ce petit-pois.
+Les gens d’une ascendance royale réelle se distinguent
+ par une peau d’une sensibilité et d’une douceur incroyables.
+ La princesse, si elle est une princesse véritable,
+ sentira ce petit-pois à travers tous les 24 matelas.
+Elle ne dormira pas de la nuit et, demain, et elle s’en plaindra.
+ Si elle dort, ça veut dire que ça va mal.
+ Vous avez compris ? Allez-y ! 
 # LE BOURGMESTRE :
 Tiens donc...  Bon–bon...  Moi aussi, ça m’intéresse...
  Elle ressemble tellement à son père - et, d’un seul coup...
@@ -1135,39 +1142,44 @@ Allez !
 # LE MINISTRE :
 Mais ne perdez pas de temps, espèce de bûche !
 # LE BOURGMESTRE :
-J’y vais, j’y vais !
- Sa silhouette, d’ailleurs, en général,
+ - J’y vais, j’y vais !
+Sa silhouette, d’ailleurs, en général,
  elle ressemble beaucoup à son père. Hi, hi, hi !
 # LE MINISTRE :
 Dieu soit loué !
 # LE BOURGMESTRE :
-... et ses joues.
+ ... et ses joues.
 # LE MINISTRE :
  - je vous étripe !
 # LE BOURGMESTRE :
-- j’y vais, j’y vais.
+ - j’y vais, j’y vais.
 # LE MINISTRE :
- Bon, maintenant, je vais l’éclaircir, la question des origines ! Il ne reste plus qu’à appeler le chambellan et la gouvernante, les saouler et leur tirer les vers du nez sur les dessous de la conduite de la princesse.
-Monsieur le chambellan, je vois aux mouvements de vos mains que vous avez essayé de converser avec ces jeunes filles.
+Bon, maintenant, je vais l’éclaircir, la question des origines !
+ Il ne reste plus qu’à appeler le chambellan et la gouvernante,
+ les saouler et leur tirer les vers du nez
+ sur les dessous de la conduite de la princesse.
+Monsieur le chambellan, je vois aux mouvements de vos mains
+ que vous avez essayé de converser avec ces jeunes filles.
 # LE CHAMBELLAN :
-
 J’ai chassé un petit peu... 
-Elles ruent est elles encornent comme des biques sauvages. Les idiotes !
+ Elles ruent et jouent des cornes comme des biques sauvages.
+ Les idiotes !
 # LE MINISTRE :
- Monsieur le chambellan, quand une femme vous afflige, le vin vos console.
+Monsieur le chambellan,
+ quand une femme vous afflige, le vin vos console.
 # LE CHAMBELLAN :
- pas du tout. Mois, Quand je bois, je commence tout de suite à désirer les femmes.
+Pas du tout. Moi, quand je bois,
+ je commence tout de suite à désirer les femmes.
 # LE MINISTRE :
 Ben, ce n’est pas grave ! Buvons, chambellan !
  C’est bientôt le mariage !
  Ici, et il y a un vin excellent, un vin qui réjouit l’hôte.
  Passons la nuit à boire ! D’accord ?
 # LE CHAMBELLAN :
-
 Oh, ce que j’aurais envie ! Hallali ! Mais non, je ne peux pas !
-J’ai fait un serment au roi :
+ J’ai fait un serment au roi :
  sitôt que la princesse se met au lit, moi, tout de suite,
-  je me couche devant sa porte et je surveille, sans fermer l’œil.
+ je me couche devant sa porte et je surveille, sans fermer l’œil.
 Moi, je suis à la porte, la gouvernante au bas du lit...
  on la surveille, comme ça, toute la nuit.
  On dort après, dans le carrosse. Taïaut !
@@ -1175,39 +1187,42 @@ Moi, je suis à la porte, la gouvernante au bas du lit...
 C’est très bizarre ! Il faut le saouler, coûte à coûte.
  Monsieur le chambellan... 
 LE BOURMESTRE :
-Oh, au secours, elle me bouffrait !
- Oh, au secours, elle me tuerait !
+Oh, au secours, elle me veut me bouffer !
+ Oh, au secours, elle va me tuer !
 # LE CHAMBELLAN :
-
-Que s’est-il passé, entweder-oder, aber ?
+ - Que s’est-il passé, entweder-oder, aber ?
 LA GOUVERNANTE :
-Cette vieille mourde-bourde dans la chambre
- à coucher princesse entré a été !
- Et moi, le crâne lui arracher je veux,
+Cette vieille mourde-bourde dans la chambre-coucher princessen
+  entré a été !
+ Et moi, le crâne lui arracher je will,
  gotentotenpotentatertanteratenanteter !
 # LE CHAMBELLAN :
-
 Ce malotru c’est introduit dans la chambre à coucher de la princesse.
  Taïaut !
 # LE MINISTRE :
- Attendez. Je vais tout vous expliquer. Approchez, bourgmestre ! Vous l’avez mis, le petit-pois ?
+Attendez. Je vais tout vous expliquer.
+ Approchez, bourgmestre ! Vous l’avez mis, le petit-pois ?
 # LE BOURGMESTRE :
- Oh, oui...  Oui...  Elle pince.
+Oh, oui...  Oui...  Elle pince.
 # LE MINISTRE :
- Qui ?
+ - Qui ?
 # LE BOURGMESTRE :
- La gouvernante. Le petit pois je l’ai mis...  Voilà...  Je la regarde, la princesse...  Je m’étonne, comme elle ressemble à son père...  Ce nez, cette bouche...  D’un coup...  Elle me saute dessus...  Elle...  La gouvernante.
+ - La gouvernante.
+Le petit pois je l’ai mis... Voilà...
+ Je la regarde, la princesse... Je m’étonne,
+ comme elle ressemble à son père... Ce nez, cette bouche...
+ D’un coup...  Elle me saute dessus... Elle... La gouvernante.
 # LE MINISTRE :
 Allez. J’ai le fin mot de l’histoire.
- Le bourgmestre voulais seulement savoir s’il ne pouvait pas
+ Le bourgmestre voulait seulement savoir s’il ne pouvait pas
  aider la princesse en quoi que ce soit.
- Le bourgmestre propose de racheter sa faute par 12 bouteilles de vin fort.
+Le bourgmestre propose de racheter sa faute
+ par 12 bouteilles de vin fort.
 # LE CHAMBELLAN :
-
-Hallali !
+ - Hallali !
 # LE MINISTRE :
 Écoutez, chambellan ! Laissez tomber, quoi !
- C’est vrai, ça ! La frontière, vous l’avez passé !
+ C’est vrai, ça ! La frontière, vous l’avez passée !
  Le roi père ne saura jamais rien. Allez, faisons la bringue !
 Et appelons aussi la gouvernante.
  Ici, là, sur la petite table, parole d’honneur, je vous jure,
@@ -1218,7 +1233,6 @@ Il ne ne laisseront passer personne chez la princesse,
  ni dans un sens ni dans l’autre.
  Hein, Chambellan ? Hallali ?
 # LE CHAMBELLAN :
-
 On propose sur la petite table schnaps trinken.
  Deux gendarmes en haut envoyer il fera.
  Les gendarmes, genre, chien, humpty-dumpty doberman-boberman.
@@ -1226,10 +1240,9 @@ On propose sur la petite table schnaps trinken.
 LA GOUVERNANTE :
 Escalier seul être ?
 # LE CHAMBELLAN :
-
-- Seul.
+ - Seul.
 LA GOUVERNANTE :
-Kwinter, gobez, gès.
+ - Kwinter, gobez, gès.
 # LE CHAMBELLAN :
 
  - Bon, d’accord, buvons ! Envoyez les gendarmes.

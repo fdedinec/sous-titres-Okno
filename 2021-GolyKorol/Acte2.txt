@@ -102,10 +102,10 @@ Non.
 Des écrevisses, on a beau dire,  pardonnez-moi.....
   le roi peut voir rouge.....
 	Et vous savez bien ce que le roi pense du rouge. Enlevez !
-Là, c'est mieux, monsieur le cuisinier en chef.
-Holà !  Appelez-moi un escadron de soldats,
- qu'ils tirent sous les fenêtres  de la chambre à coucher,
- par salves. Peut-être que ça peut aider.
+#Là, c'est mieux, monsieur le cuisinier en chef.
+#Holà !  Appelez-moi un escadron de soldats,
+# qu'ils tirent sous les fenêtres  de la chambre à coucher,
+# par salves. Peut-être que ça peut aider.
 
 # CHRISTIAN -
 Sa Majesté a donc toujours un sommeil si profond ?
@@ -127,26 +127,27 @@ Maintenant, il n'a plus de souci du tout.
 
 # LE PREMIER MINISTRE -
 Gaaarde à vous !
-A l'entrée de la salle de réception du roi, avec dévouement - sou-ou-pirez !  
- En vous figurant, avec adoration, Sa toute-puissance, fri-ii-ssonnez !
-Eh toi, eh, vieille godasse, comment tu frissonnes ?
- fais gaffe en frissonnant, frissonne au caporal !
- Les doigts ! Les doigts ! Là ! Je ne vois pas de frissons dans le ventre !
-C'est bien. Gaaarde à vous ! A mes ordres!
- Dé-ébordant d'enthousiasme à l'idée d'être un soldat du roi - dan-an-sez !
-Gaarde à vous ! Sur la pointe des pieds ! Sur la pointe des pieds -
- en avant, marche ! Un peu plus à droite ! Un chouïa à droite !
+# A l'entrée de la salle de réception du roi, avec dévouement - sou-ou-pirez !  
+# En vous figurant, avec adoration, Sa toute-puissance, fri-ii-ssonnez !
+# Eh toi, eh, vieille godasse, comment tu frissonnes ?
+# fais gaffe en frissonnant, frissonne au caporal !
+# Les doigts ! Les doigts ! Là ! Je ne vois pas de frissons dans le ventre !
+#C'est bien. Gaaarde à vous ! A mes ordres!
+# Dé-ébordant d'enthousiasme à l'idée d'être un soldat du roi - dan-an-sez !
+#Gaarde à vous ! Sur la pointe des pieds ! Sur la pointe des pieds -
+# en avant, marche ! Un peu plus à droite ! Un chouïa à droite !
 Alignement sur le portrait du papi à Sa Majesté.
- A-lignement sur le nez. Sur son nez, au papi. Tout droit !
-# TODO Coupe avant!
+  A-lignement sur le nez. Sur son nez, au papi.
+	Tout droit !
 # CHRISTIAN -
-Et avec des soldats aussi bien entraînés, le roi a été battu ?
+Et avec des soldats aussi bien entraînés,
+ le roi a été battu ?
 # LE VALET DE CHAMBRE -
-Eh oui !
+ - Eh oui !
 # LE PREMIER MINISTRE -
 Bonjour, personnel inférieur.
 #TOUS -
-Bonjour, monsieur le Premier ministre.
+ - Bonjour, monsieur le Premier ministre.
 # LE PREMIER MINISTRE -
 Alors, tout est en ordre, valet de chambre ?
  Hein ? La vérité. Assène la vérité.
@@ -157,32 +158,31 @@ N'empêche, le roi, il dort !
  Réponds sans fard. Sincèrement.
 # LE VALET DE CHAMBRE -
 Il dort, Votre Excellence.
-# --------------------------------------------- 79 --------------------------
 # LE PREMIER MINISTRE -
 Aha ! Dis-le tout net : ils tirent.
  Donc, Sa Majesté est sur le point de se lever.
-Tailleurs ! Comment ça se passe chez vous ?
- Déballez toute la vérité ! En face !
+#Tailleurs ! Comment ça se passe chez vous ?
+# Déballez toute la vérité ! En face !
 # LE PREMIER TAILLEUR -
-On fait les derniers points, monsieur le ministre.
+#On fait les derniers points, monsieur le ministre.
 # LE PREMIER MINISTRE -
-Fais voir. Calculez.
- Vous connaissez nos exigences ?
-Le dernier point doit être cousu
- juste avant l'habillage de Sa Majesté.
-Le roi met tous les jours des habits flambant neufs.
- Qu'il se passe une minute entre l'habillage et votre dernier point
- et votre habit, pour parler grossièrement, il ne le mettra plus.
- Vous le savez, ça ?
-# LE PREMIER TAILLEUR
-Oui, monsieur le premier ministre, nous le savons.
-# LE PREMIER MINISTRE -
-Et ça flambe d'or pur ?
-# LE PREMIER TAILLEUR
- - D'or pur, monsieur le Premier ministre.
-# LE PREMIER MINISTRE -
-Donnez-lui son habit tout flambant d'or.
- Franchement et sincèrement !
+#Fais voir. Calculez.
+# Vous connaissez nos exigences ?
+#Le dernier point doit être cousu
+# juste avant l'habillage de Sa Majesté.
+#Le roi met tous les jours des habits flambant neufs.
+# Qu'il se passe une minute entre l'habillage et votre dernier point
+# et votre habit, pour parler grossièrement, il ne le mettra plus.
+# Vous le savez, ça ?
+## LE PREMIER TAILLEUR
+#Oui, monsieur le premier ministre, nous le savons.
+## LE PREMIER MINISTRE -
+#Et ça flambe d'or pur ?
+## LE PREMIER TAILLEUR
+# - D'or pur, monsieur le Premier ministre.
+## LE PREMIER MINISTRE -
+#Donnez-lui son habit tout flambant d'or.
+# Franchement et sincèrement !
 Cuisinier, la crème, tu l'as, pour parler grossièrement, fouettée ?
  Hein ? Parle, sans fanfreluches, sans équivoques !
  Tu l'as fouettée, la crème, pour le chocolat de sa Majesté ?
@@ -190,7 +190,6 @@ Cuisinier, la crème, tu l'as, pour parler grossièrement, fouettée ?
 Ou-oui, Votre Excellence.
 # LE PREMIER MINISTRE -
 Fais voir. Bon. N'empêche ...
-# --------------------------------------------- 80 ----------------------------------
 # LE PREMIER MINISTRE -
 Valet de chambre ! Qui est-ce ? Du nerf. Parle.
 # LE VALET DE CHAMBRE -
@@ -210,13 +209,12 @@ Eh ! Cuisinier ! Et le petit-déjeuner de Son Altesse ?
 # LE CUISINIER -
 Pppparfaitement, il est prêt !
 # LE PREMIER MINISTRE -
-Et qu'est-ce que c'est ? Hein ? Fais voir !
+ - Et qu'est-ce que c'est ? Hein ? Fais voir !
 # LE CUISINIER -
-Eh ! Apportez les petits pâtés pour son Altesse !
+#Eh ! Apportez les petits pâtés pour son Altesse !
 # LE PREMIER MINISTRE -
-Ils les apportent.
- Moi, pendant ce temps, je vais voir si le roi a ouvert,
- sans trop, pour ainsi dire, déblatérer de sornettes,
+Ils les apportent. Moi, pendant ce temps, je vais voir  si le roi
+ a ouvert, sans trop, pour ainsi dire, déblatérer de sornettes,
  les yeux.
 # LE CUISINIER -
 La princesse Henriette n'a rien mangé pendant trois semaines.
@@ -709,7 +707,8 @@ Ma muse m’a aidé à trouver
  cinq cent huit paires de rimes des plus magnifiques,
  Votre Majesté.
 # LE ROI. 
-Comment, vous n’allez dire que les rimes ? Et les vers, ils sont où ?
+Comment, vous n’allez dire que les rimes ?
+ Et les vers, ils sont où ?
 # LE POÉTE. -
 Votre Majesté !
  Ma muse a tout juste eu le temps de finir le poème
@@ -759,7 +758,7 @@ Alors, vous:
 # LE ROI. 
 C’est très bien !
 #LE POÉTE. -
- La princesse : « Je suis pleine de confusion... mais... »
+La princesse : « Je suis pleine de confusion... mais... »
  Là, tonnent les canons, les armées crient « hourra. »
  et vous embrassez la princesse.
 # LE ROI. 
@@ -823,9 +822,9 @@ Regardez, imbéciles: de la pure faille.
  Remarquez que même les bottes sont ornées de dentelles de Brabant.
 Avez-vous déjà vu quelque chose de comparable ?
 # HENRI 
-Oh que oui !
+ - Oh que oui !
 # CHRISTIAN 
-Et pas qu’une fois !
+ - Et pas qu’une fois !
 # LE ROI. 
 Mais qu'est-ce à dire !
  Dans ce cas-là, donnez-moi mon costume de repas.
@@ -833,11 +832,11 @@ Mais qu'est-ce à dire !
  Le numéro huit mille quatre cent quatre-vingt-dix-huit.
 Regardez, vous ! Ça, c’est quoi ?
 # HENRI 
-Un pantalon.
+ - Un pantalon.
 # LE ROI. 
-Fait en quoi ?
+ - Fait en quoi ?
 # CHRISTIAN 
-Quelle question ? En gras-de-naples.
+ - Quelle question ? En gras-de-naples.
 # LE ROI. 
 Quel insolent !
  Et alors, d’après toi, le gras-de-naples, ce n’est rien du tout ?
@@ -846,13 +845,13 @@ Et la chemise ? Gros-de-Tours 100 %,
  Et la cape, en turquoise, avec des bandes de reps.
  Mais admire, au moins ! Pourquoi tu te détournes ?
 # HENRI 
-On a déjà vu.
+On en a déjà vu.
 # LE ROI. 
-Et les bas en drap-de-soie ?
+ - Et les bas en drap-de-soie ?
 # CHRISTIAN 
-Ça aussi, on a vu.
+ - Ça aussi, on a vu.
 # LE ROI. 
-Mais tâte, imbécile.
+ - Mais tâte, imbécile.
 # HENRI 
 À quoi bon... Je connais.
 # LE ROI. -
@@ -867,7 +866,8 @@ Oui, mais du cover-coat comment ?
  Et la chemise en cheviotte à col boston ?
  Et la cape ? Du tricot. Tu as déjà vu ça, imbécile ?
 # HENRI 
-Oui, Votre Majesté, et n’importe quel imbécile en a déjà vu.
+Oui, Votre Majesté,
+ et n’importe quel imbécile en a déjà vu.
 # CHRISTIAN 
 Mais, nous, nous pouvons faire un de ces tissus... Oho !
  Que ne peut voir qu’un homme intelligent.
@@ -882,12 +882,13 @@ Nous avons travaillé un an chez le sultan de Turquie,
 # LE ROI. 
 Tu parles, le sultan de Turquie !
 # HENRI 
-Le Grand Mogol des Indes nous a remerciés personnellement.
+Le Grand Mogol des Indes
+ nous a remerciés personnellement.
 # LE ROI. 
 Tu parles, le Mogol des Indes !
  Vous ne savez donc pas que notre nation est la plus élevée du monde ?
  Toutes les autres, elles ne valent pas tripette, c'est nous les meilleurs.
- Vous n’étiez pas au courant, ou quoi ?
+ Vous n'êtes pas au courant, ou quoi ?
 # CHRISTIAN 
 En plus, notre tissu possède une qualité merveilleuse et magique.
 # LE ROI. 
@@ -912,7 +913,7 @@ Non, Votre Majesté.
  Telle est la merveilleuse qualité de ce tissu.
 # LE ROI. 
 Ah-ha-ha ! Vieillard, tu entends ?
- Hein, ministre ! À toi que je parle !
+ Hein, ministre ! C'est à toi que je parle !
 # LE PREMIER MINISTRE. -
 Votre Majesté, je ne crois pas aux miracles.
 # LE ROI. 
@@ -923,8 +924,8 @@ Mais tu es un matérialiste !
 # LE PREMIER MINISTRE 
 Votre Majesté ! Permettez un petit reproche au vieillard que je suis.
  Vous ne m’avez pas laissé finir. Je voulais dire :
- je ne crois pas aux miracles, dit le fou dans son cœur.
-C’est le fou qui n’y croit pas -
+"Je ne crois pas aux miracles", dit le fou dans son cœur.
+ C’est le fou qui n’y croit pas -
  nous, ce n'est que par miracle que nous tenons !
 # LE ROI. 
 Ah, d’accord ! Bon, là, ça va. Attendez, tisserands.
@@ -936,7 +937,7 @@ Exactement, Votre Majesté.
 Et je comprendrai tout de suite qui est bête
  et qui est intelligent ?
 # CHRISTIAN 
-En un clin d’œil, Votre Majesté.
+ - En un clin d’œil, Votre Majesté.
 # LE ROI. 
 C'est de la soie ?
 # CHRISTIAN 
@@ -1026,7 +1027,8 @@ Un marchand...
 # LE ROI, avec méfiance. -
  - Son nom de famille ?
 # LE BOUFFON 
-Ludwigsen. Un marchand traversait un petit pont
+Ludwigsen.
+ Un marchand traversait un petit pont
  - et, plouf, dans l’eau.
 # LE ROI. 
 # Ha-ha-ha !
@@ -1215,18 +1217,19 @@ Incroyable ! Non ?
 # LA FOULE :
  - Hourra.
 # LE PREMIER MINISTRE 
-Tenez-vous en silence, le temps que le roi paraisse.
- Chantez l'hymne et criez "hourra"
+#Tenez-vous en silence, le temps que le roi paraisse.
+Chantez l'hymne et criez "hourra"
  tant que le roi n'aura pas dit "repos".
- Après, taisez-vous.
+# Après, taisez-vous.
 #Seulement quand, sur un signe de Son Excellence,
 # la garde criera "hourra",
-# là, vous criez. Compris ?
+# là, vous criez.
+Compris ?
 # LA FOULE :
-Hourra.
-Le roi arrive ! Le roi arrive ! Le roi arrive !
+ - Hourra.
+# Le roi arrive ! Le roi arrive ! Le roi arrive !
 #L’OFFICIER :
-D'enthousiasme à la vue du roi, éé-vanouissez-vous - ploum !
+# D'enthousiasme à la vue du roi, éé-vanouissez-vous - ploum !
 # LE PREMIER MINISTRE 
 Chantez l'hymne !
 #LA FOULE :
@@ -1622,7 +1625,7 @@ Remarquable, merveilleux, quel tissu !
 # LE MINISTRE 
  - Le tissu est noble et somptueux, Votre Majesté !
 #LES COURTISANS :
- - Parfaitement ! Comme ça ressemble ! C’est noble et somptueux !
+ - Parfaitement ! C'est exactement cela ! Noble et somptueux !
 # LE ROI 
 Et toi, que diras-tu, honnête vieillard ? Hein ?
 # LE PREMIER MINISTRE 
@@ -1672,7 +1675,8 @@ Bravo, bravo !
 # LE ROI 
 Je voulais juste vous remercier de les avoir faites argentées,
  c’est la couleur que je préfère.
- Littéralement, juste à l’instant. Je vous exprime ma gratitude royale.
+ Littéralement, juste à l’instant.
+ Je vous exprime ma gratitude royale.
 # CHRISTIAN 
 Et comment trouvez-vous, Votre Majesté,
  la façon de cette chemise - n’est-ce pas trop audacieux ?
@@ -1718,7 +1722,7 @@ Chez nous, dans notre famille, ça porte malheur
 Eh alors, qu’est-ce qu'on attend ?
  Habillez-moi vite. Je suis pressé.
 # CHRISTIAN 
-À vos ordres, Votre Majesté. Henri, arrive.
+À vos ordres, Votre Majesté. Henri, viens m'aider.
  La gambette, Votre Majesté.
  Un poil à gauche ! Un poil à droite !
 Je crains que messieurs les courtisans
@@ -1783,30 +1787,29 @@ Les imbéciles vont voir le roi nu.
  C’est affreux ! C’est affreux !
 Tout notre système national, toutes les traditions
  tiennent sur des imbéciles inébranlables.
-Que se passera-t-il s’ils bronchent en voyant leur souverain dénudé ?
+Que se passera-t-il si les imbéciles voient leur souverain dénudé ?
  Les bases se mettront à chanceler, les murs trembleront,
  le feu consumera le pays !
 Non, ce n’est pas possible de laisser sortir le roi tout nu.
  Le faste - voilà le grand soutien du trône !
 J’avais un ami, un colonel de la garde.
  Il a pris sa retraite, il s'est présenté chez moi sans uniforme.
-Et d’un seul coup, qu’est-ce que je vois,
- ce n’était pas un colonel, c’était un imbécile !
+Et d’un seul coup, qu’est-ce que je vois devant moi ? 
+ Plus de colonel, mais un imbécile !
 Affreux ! Avec l’éclat de l’uniforme,
- ce qui avait disparu, c’était le prestige,
- le charme qui avait disparu.
+ avait disparu tout le prestige, tout l'émerveillement.
 Non ! Je vais voir le souverain, et je le lui dis tout net :
  ce n’est pas possible de sortir ! Non ! Pas possible !
 # LE ROI 
 Honnête vieillard !
 # LE PREMIER MINISTRE 
-Pour parler grossièrement, me voilà.
+ - Pour parler grossièrement, me voilà.
 # LE ROI 
 Il me va, ce caleçon ?
 # LE PREMIER MINISTRE 
  - À vous le dire de front, c’est une splendeur.        
 # LE ROI 
- - rMerci. Dispose.
+ - Merci. Dispose.
 # LE PREMIER MINISTRE 
 Non ! Je ne peux pas ! Je ne peux rien dire, la langue qui s’engourdit !
  J’ai perdu l’habitude, en trente ans de service.
@@ -1830,9 +1833,9 @@ On m’a volé mon porte-monnaie !
 Que quelques sous ? Espèce de malappris !
  Moi, le mendiant le plus expert, le plus ancien, le plus expérimenté —
  que quelques sous ! J’avais dix mille thalers !
-Ah ! Le voilà, le porte-monnaie, dans la doublure !
+Ah ! Le voilà, mon porte-monnaie, dans la doublure !
  Dieu soit loué !
- La charité, au nom du Christ.
+ La charité, au nom du Christ...
 
 # UN MONSIEUR GLABRE :
 Et si le roi père était en retard ?
@@ -1899,13 +1902,13 @@ Vous entendez, messieurs ? Et il a juste six ans.
 #  Et, maintenant, je vois encore moins bien !
 #	Je ne vois plus ma montre, mon portefeuille, mon porte-monnaie !
 #L’HOMME :
-#Place à mon petit garçon ! Place à mon fils génial !
-# Combien ça fait, six fois six ?
+Place à mon petit garçon ! Place à mon fils génial !
+ Combien ça fait, six fois six ?
 #LE PETIT GARÇON :
-# - Trente-six.
+ - Trente-six.
 # L’HOMME :
-#Vous entendez ? Place à mon fils !
-# Place au génie que j’ai pour fils !
+Vous entendez ? Place à mon fils !
+ Place au génie que j’ai pour fils !
 
 # Roulement de tambours. Mouvement dans la foule. On monte sur les poteaux, on grimpe sur les bornes, on se grimpe sur les épaules.
 #DES VOIX :
@@ -2006,10 +2009,10 @@ Soit vous n'êtes pas à votre place, soit vous êtes un imbécile !
 #LE R.P.:
  - L'imbécile, c'est celui qui le voit, le tissu, espèce de malpoli !
 #LE R.:
-Comment ça, malpoli ?
+Qui est un malpoli ?
 #LE R.P.:
-Parlez moins fort ! Ou la racaille vous entendra.
- Parlez moins fort et souriez, espèce de malpoli !
+ - Parlez moins fort ! Ou la racaille vous entendra.
+ Parlez moins fort et souriez, et le malpoli c'est vous !
 #LE R:
 Moi?	
 #LE R.P.:
@@ -2017,7 +2020,8 @@ Moi?
 #LE R.:
  - Pourquoi?
 #LE R.P.:
-Parce que tu te présentes sur cette place pleine de monde
+Parce que tu te présentes
+ sur cette place pleine de monde
  sans pantalon.
 #LE R:
 Et ça, c'est quoi ?
@@ -2070,15 +2074,15 @@ La météo, Votre Majesté!
 #LE R:
 Leur parapluie?
 #LE GEN:
-Oui, Votre Majesté. Ils sont armés de parapluies.
+ - Oui, Votre Majesté. Ils sont armés de parapluies.
  Si la foule avait été sans armes...
  mais là, ils ont des parapluies.
 #LE R:
 Des parapluies?
 #LE GEN:
-Tant qu'à dire le fond de ma pensée...
+ - Tant qu'à dire le fond de ma pensée...
  je ne réponds même pas des soldats.
- Ils vont battre en retraite! Ils sont tous déliquescents.
+ Ils vont battre en retraite! Ils sont tout déliquescents.
 Ça me surprend moi-même, Votre Majesté.
  Il n'y a pas de livres, pas de tracts, pas d'agitateurs,
  une discipline somptueuse,
@@ -2093,7 +2097,7 @@ Non, je ne sais pas, non, ce n'est pas possible comme ça.
 #LE PREM MIN.:
 Silence!
 #LE MIN. DE T.S.:
-Il faut créer un Comité provisoire de sûreté des courtisans. 
+ - Il faut créer un Comité provisoire de sûreté des courtisans. 
 #LE PREM. MIN.:
 Silence ! Il n'y a pas de temps à perdre !
  Il faut abasourdir la foule par l'audace.
@@ -2104,37 +2108,38 @@ Je....
 #LE PR.MIN.:
  - Silence !
 #LE R.P.:
-Il a raison! Allez, allez !
+ - Il a raison! Allez, allez !
 #LE MIN. DE T.S.:
 Les demoiselles d'honneur, chez moi, sont militarisées.
  Elles défendront notre comité.
 #LE PR. MIN.:
-Tu parle, tes demoiselles d'honneur !
+ - Tu parle, tes demoiselles d'honneur !
  Prends la princesse par la main, Majesté ! 
 #LES HERAUTS:
- - Silence! Silence! Silence !
+Silence! Silence! Silence !
 #LE PETIT GARCON:
-Papa, mais, il est tout nu !
+ - Papa, mais, il est tout nu !
 #LE MIN.DES T.S.:
-J'ai une mère forgeron et un père lingère!
+J'ai une mère forgeron et un père lingère !
  A bas l'autocratie !
 #LE PETIT G.:
 Tout nu, et en plus il est gros !
 #CRIS: 
-Vous entendez ce qu'il dit, cet enfant?
+Vous entendez ce qu'il dit, cet enfant ?
  Il ne peut pas ne pas être à sa place !
  Il n'est pas fonctionnaire...
-Il est intelligent, il connaît sa table de multiplication !
- Le roi est nu!
+Il est intelligent,
+ il connaît sa table de multiplication !
+ Le roi est nu !
 Il a une verrue sur le ventre,
  et il lève des impôt !
 Le ventre comme une pastèque,
- et il dit - soumettez-vous!
+ et il dit - soumettez-vous !
 Un bouton ! Regardez, il a un bouton !
  - Et c'est lui qui stérilise !
 # LE ROI:
-Silence! Je fais exprès. Oui ! J'ai tout fait exprès.
- J'ordonne: dorénavant tout le monde doit se marier tout nu.
+Silence ! Je fais exprès. Oui ! J'ai tout fait exprès.
+ J'ordonne: dorénavant, tout le monde doit se marier tout nu.
  Voilà !
 
 Crétins pouilleux !
@@ -2161,8 +2166,8 @@ Mais la fête aura quand même eu lieu !
  La demoiselle a enfin retrouvé son bien-aimé Henri !
 On a voulu la marier à un vieux,
  mais la force de l'amour a vaincu tous les obstacles.
- Nous saluons votre colère légitime contre ces murs sinistres.
-Vous aussi, répondez à notre salut,
+# Nous saluons votre colère légitime contre ces murs sinistres.
+Répondez à notre salut,
  saluez l'amour, l'amitié, le rire, la joie !
 # LA PRIN.:
 Mon Henri aux belles boucles,
