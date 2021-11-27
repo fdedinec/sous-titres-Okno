@@ -1121,21 +1121,20 @@ Permettez, Votre Altesse, de vous le dire brutalement,
 # LA PRINCESSE 
 Alors !
 # LE PREMIER MINISTRE 
- - Oui, Votre Altesse.
+ - Oui, Votre Altesse ?
 # LA PRINCESSE 
  - Pourquoi tu ne me dis pas : tire-moi par la barbe ?
 # LE PREMIER MINISTRE 
-Pourquoi faire, Votre Altesse ?
+ - Pourquoi faire, Votre Altesse ?
 # LA PRINCESSE 
 Toi alors ! Maintenant, tu ne me la feras plus !
  Je t’ai reconnu tout de suite !
 # LE PREMIER MINISTRE 
- - Mon Dieu !
+Mon Dieu !
 # LA PRINCESSE 
-Maintenant, je sais les tirer, les barbes !
+ - Maintenant, je sais les tirer, les barbes !
 # LE PREMIER MINISTRE 
-Votre Altesse ! 
- Au secours !
+ - Votre Altesse !  Au secours !
 # LA GOUVERNANTE 
 Qu’est-ce qu’il lui fait, cet étranger vieux !
  La ! Pas-de-trois !
@@ -1148,7 +1147,7 @@ Pourquoi, princesse, vous le bitte-dritte ?
 # LA GOUVERNANTE 
 Buvez des gouttes, was is das.
 # LA PRINCESSE 
-Je les ai envoyées se faire voir, ces saloperies.
+ - Je les ai envoyées se faire voir, ces saloperies.
 # LE PREMIER MINISTRE 
 Elle est complètement folle ! C’est très bien !
  Nous la renverrons très simplement.
@@ -1187,7 +1186,8 @@ Pas du tout, Votre Altesse, je suis un Général.
  Les filles ! À mes ordres ! En avant - marche !
 # LA PRINCESSE 
 C'est affreux !
-# LE PREMIER MINISTRE 
+# LE PREMIER MINISTRE
+# TODO à partir d'ici il y a qq coupes	
 Eh, vous, là-bas ! Faites entrer les soldats.
  Je vais chercher la foule.
 # L’OFFICIER :
@@ -1198,7 +1198,6 @@ Gauche ! Droite ! Au mu-ur ! Garde-à-vous !
 Je sais que vous êtes des sujets fidèles, mais je vous le rappelle :
  dans le palais de Sa Majesté, on n'a le droit d'ouvrir la bouche
   que pour crier "Hourra" ou bien pour chanter l'hymne. Compris ?
-
 # LA FOULE :
 Compris 
 # LE PREMIER MINISTRE 
@@ -1220,9 +1219,9 @@ Tenez-vous en silence, le temps que le roi paraisse.
  Chantez l'hymne et criez "hourra"
  tant que le roi n'aura pas dit "repos".
  Après, taisez-vous.
-Seulement quand, sur un signe de Son Excelence,
- la garde criera "hourra",
- là, vous criez. Compris ?
+#Seulement quand, sur un signe de Son Excellence,
+# la garde criera "hourra",
+# là, vous criez. Compris ?
 # LA FOULE :
 Hourra.
 Le roi arrive ! Le roi arrive ! Le roi arrive !
@@ -1239,8 +1238,8 @@ Repos !
 #L’OFFICIER :
 Ree-eprenez vos esprits !
 # LE ROI 
-Bon, alors, elle est où ? Qu'est-ce que c'est que ça !
- Quelle poisse !
+Bon, alors, elle est où ?
+ Qu'est-ce que c'est que ça ! Quelle poisse !
  Moi, je veux petit-déjeuner, et, là, cette... sang-mêlée.
 Mais où est-elle ?
  Il faut la renvoyer le plus vite possible.
@@ -1255,28 +1254,28 @@ Bonjour, princesse.
 # LA PRINCESSE 
 Va te faire voir chez ta grand-mère en enfer.
 # L’OFFICIER :
-A-abrutissez-vous d'attention !
+# A-abrutissez-vous d'attention !
 # LE ROI 
 Princesse !
  Je suis heureux de vous voir tel un soleil monter sur mon trône.
  La lumière de votre beauté illumine tous les alentours.
 # LA PRINCESSE 
-La ferme, vieux sac à trous.
+ - La ferme, vieux sac à trous.
 # LE ROI 
 Je suis heureux, princesse, que vous m'estimiez à ma juste valeur.
 # LA PRINCESSE 
-Tête d'âne.
+ - Tête d'âne.
 # LE ROI 
 Vous m'avez si bien compris, princesse,
  que je ne peux dire qu'une seule chose :
  vous êtes aussi intelligente que belle.
 # LA PRINCESSE 
-Couillon pouilleux. Gros veau.
+ - Couillon pouilleux. Gros veau.
 # LE ROI 
 Je sens que nous nous aimons, princesse,
  permettez-moi de vous embrasser.
 # LA PRINCESSE 
-Bas les pattes, vieux dégoûtant !
+ - Bas les pattes, vieux dégoûtant !
 #Hourra !
 # LA PREMIÈRE DEMOISELLE D’HONNEUR :
 Votre Majesté ! Permettez-moi de punir cette effrontée.
@@ -1301,10 +1300,10 @@ Mais je m’en fiche, de son origine !
 Non ! Inscrivez !
  Je lui accorde séance tenante l’origine la plus noble, le sang le plus pur !
  Je me marie, même si le monde entier est contre moi ! 
-
 # LA PRINCESSE 
 C'est très pénible, de vivre dans un pays étranger.
- Tout, ici est... enfin, comment ça se dit... mili...militarisé...
+ Tout, ici est... enfin, comment ça se dit... mili...
+ militarisé...
 Tout marche au tambour.
  Les arbres dans le jardin sont plantés en ordre de parade.
  Les oiseaux volent en colonnes par cinq.

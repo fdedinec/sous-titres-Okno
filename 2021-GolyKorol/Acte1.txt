@@ -215,7 +215,8 @@ Premièrement, ce n’est pas un porcher, c’est Henri.
 Et en général, sa conduite est indécente.
  Il vous tient par la main!
 # LA PRINCESSE. 
-Qu'y a-t-il là d’indécent à ça ! S’il me tenait la jambe... 
+Qu'y a-t-il là d’indécent à ça !
+ S’il me tenait la jambe... 
 # LA PREMIÈRE DAME DE COMPAGNIE. –
 Je vous en supplie, taisez-vous.
  Vous êtes tellement innocente que vous pouvez dire
@@ -231,20 +232,21 @@ Ce que tu es bête ! Comment pourrait-ce ne pas me plaire !
 # HENRI.
 Princesse, je vais te dire quelque chose... 
 # LA PREMIÈRE DAME DE COMPAGNIE, d’un air résolu. –
-Votre Altesse! Nous sommes venues écouter le chaudron.
+Votre Altesse ! Nous sommes venues écouter le chaudron.
  Si nous n’écoutons pas le chaudron,
  mais qu’avec une attention des plus indécentes,
  nous écoutons un inconnu, eh bien, sans plus attendre, je... 
 # LA PRINCESSE. 
 Eh bien, n’écoutez pas un inconnu et écartez-vous.
 #LA PREMIÈRE DAME DE COMPAGNIE. –
-Mais pour vous aussi, c’est un inconnu !
+ - Mais pour vous aussi, c’est un inconnu !
 # LA PRINCESSE. 
 N’importe quoi. Je ne parle jamais avec des inconnus.
 # LA PREMIÈRE DAME DE COMPAGNIE. –
-Je vous donne ma parole, princesse, que j’appelle le roi tout de suite. 
+Je vous donne ma parole, princesse,
+ que j’appelle le roi tout de suite. 
 # LA PRINCESSE. 
-La paix!
+ - La paix !
 # LA PREMIÈRE DAME DE COMPAGNIE, elle crie tournée vers le château. –
 Monsieur le Roi-oi !
  Venez tout de suite, la princesse a une conduite affreuse!
@@ -280,9 +282,9 @@ Vous me demanderez : pourquoi autant de danses ?
 Vous me demanderez : pourquoi une seule chanson ?
  Parce qu’il est fidèle comme nous.
 Et ce n’est pas encore tout : cet engin merveilleux et joyeux,
- sous son cuir d’âne, cache un nez !
+ sous son cuir d’âne, cache...  un nez !
 #LES DAMES DE COMPAGNIE, en chœur. –
-Un quoi ?
+ - Un quoi ?
 # CHRISTIAN. 
 Un nez. Et quel nez, ô magnifique princesse et nobles dames !
  Sous ce grossier cuir d’âne se cache, telle une tendre fleur,
@@ -295,13 +297,12 @@ Et, séance tenante, d’une voix des plus distinctes,
  ce nez nous décrira le repas en question.
 O nobles auditrices ! Par quoi commencerons-nous ?
  Par la chanson, par les danses, ou par les repas ?
-
 # LA PREMIÈRE DAME DE COMPAGNIE. –
 Princesse, par quoi souhaiterez-vous que l’on commence?
  Ah ! J’écoutais tellement que n’avais pas remarqué !
- Princesse ! Princesse ! Princesse! C’est vous que je parle.
+ Princesse ! Princesse ! Princesse ! C’est à vous que je parle.
 #LA PRINCESSE, d’une voix langoureuse. –
-À moi? Ah, oui, oui.
+À moi ? Ah, oui, oui.
  Dites ce que vous voulez.
 #LA PREMIÈRE DAME DE COMPAGNIE. –
 Que faites-vous, princesse ?
@@ -309,20 +310,21 @@ Que faites-vous, princesse ?
  C’est indécent !
 # LA PRINCESSE. 
 Qu’est-ce qu’il y a d’indécent là-dedans?
- S’il m’avait passé le bras autour... 
+ S’il m’avait passé le bras... 
 #LA PREMIÈRE DAME DE COMPAGNIE. –
 Je vous en supplie, taisez-vous.
  Vous êtes tellement naïve que vous pouvez dire des choses
  absolument épouvantable !
 # LA PRINCESSE.
-Alors laissez-moi tranquille. Allez écouter le chaudron ! 
+Alors laissez-moi tranquille.
+ Allez écouter le chaudron ! 
 #LA PREMIÈRE DAME DE COMPAGNIE. –
 Mais nous ne savons pas par quoi commencer:
  par la chanson, par les danses ou les repas ?
 # LA PRINCESSE. 
 Qu’est-ce que tu en penses, Henri ?
 # HENRI. 
-Ah, ma petite mignonne... 
+ - Ah, ma petite mignonne... 
 # LA PRINCESSE. 
  - Il dit que ça lui est égal.
 # LA PREMIÈRE DAME DE COMPAGNIE. –
@@ -334,8 +336,9 @@ Je vous ai déjà dit que ça nous était égal.
  – Les repas, les repas, les repas!
 # CHRISTIAN. 
 A vos ordres, nobles dames.
- Nous posons le chaudron sur le flanc gauche, ce qui met en action le nez.
- Vous entendez comme il renifle?
+ Nous posons le chaudron sur le flanc gauche,
+ ce qui met en action le nez.
+ Vous entendez comme il renifle ?
 # On entend un reniflement puissant.
 Il fait des essais de nez.
 # On entend un enternuement assourdissant.
@@ -344,29 +347,29 @@ Il fait des essais de nez.
 #Le nez, nasillard. –
 Je suis dans la cuisine de la duchesse.
 # Les dames de compagnie, applaudissant.  -
-Ah, comme cest interessant !
+ - Ah, comme c'est intéressant !
 #La premiere dame de compagnie. –
-Mais... 
+ - Mais...
 #Les dames de compagnie. –
- - Ne derangez pas!
+ - Ne derangez pas !
 #Le nez. –
 Sur le rechaud de la duchesse, on ne cuit rien du tout,
  on ne fait que rechauffer.
 #Les dames de compagnie. –
-Pourquoi?
+ - Pourquoi?
 #Le nez. –
 Hier, au diner du roi, elle sest fourré dans les manches
  neuf sandwichs au caviar, douze sandwichs au saucisson,
  cinq côtes de de porc, un lapin, une brochette a la royale,
  un poulet a la sauce blanche, dix-huit petits pâtés divers,
 une sauce tartare aux câpres et aux olives,
- un filet de boeuf a la Godard, une sauce fumée,
- un sorbet aux fruits confits, un parfait au café
+ un filet de boeuf à la Godard, une sauce fumée,
+ un sorbet aux fruits confits, un parfait au café, et ...
 et un petit crouton de pain.
 #La premiere dame de compagnie. –
 Tu mens, nez malappris!
 #le Nez -
-Je n'ai aucune raison de mentir.
+ - Je n'ai aucune raison de mentir.
  Je suis un instrument de précision. 
 #La DAMES DE COMPAGNIE -
 Bravo, bravo,
@@ -375,23 +378,23 @@ Bravo, bravo,
 #LE NEZ. -
 Je suis dans la cuisine de la comtesse. 
 #LA DEUXIÈME DAME DE COMPAGNIE,-
-Mais...
+ Mais...
 #Les DAMES DE COMPAGNIE,-
  - Ne dérangez pas.
 #Le NEZ.-
 Le réchaud de la comtesse, il est tellement froid, atchoum,
- que j'ai peur de m'enrhumer! Atchoum! 
+ que j'ai peur de m'enrhumer ! Atchoum ! 
 #Les DAMES DE COMPAGNIE,-
-Mais pourquoi ?
+ - Mais pourquoi ?
 # Le NEZ.-
 Le réchaud de la comtesse n'a pas été allumé depuis un mois.
 #  LES DAMES DE COMPAGNIE,-
-Mais pourquoi ?
+ - Mais pourquoi ?
 # LE NEZ. -
 Ça fait un mois qu'elle se fait inviter.
  Elle est économe.
 # LA DEUXIEME DAME DE COMPAGNIE. -
-Tu mens, nez malappris!
+ - Tu mens, nez malappris!
 # LE NEZ.-
 Pourquoi je mentirais ? Une machine ne ment pas.
  Je suis chez la baronne, là, il fait bon.
@@ -411,9 +414,9 @@ Je ne suis pas fatigué.
 J'espère que vous  êtes enthousiasmées,
  nobles dames ?
 # Les dames de compagnie se taisent.
-Sinon... je remets le nez en mouvement. 
+ Sinon... je remets le nez en mouvement. 
 # Les DAMES DE COMPAGNIE.-
- - Nous sommes contentes, nous sommes ravies,
+Nous sommes contentes, nous sommes ravies,
  merci, bravo, pas la peine ! 
 # CHRISTIAN,-
 Je vois que c'est vrai que vous êtes gaies et contentes.
@@ -439,7 +442,7 @@ Oui, s'il te plaît, Henri, remonte encore le chaudron !
 # CHRISTIAN, –
 Votre Altesse, ce chaudron a une particularité terrible.
 # LA PRINCESSE. -
-Laquelle ?
+ - Laquelle ?
 # CHRISTIAN, -
 Malgré son âme musicale, il ne fait rien pour rien.
  La première fois, il a joué par reconnaissance
@@ -447,7 +450,7 @@ Malgré son âme musicale, il ne fait rien pour rien.
  dans notre humble clairière. Si vous voulez qu'il joue encore...
 # LA PRINCESSE. -
 Il faut que je revienne. Mais comment faire ?
- Pour ça, il faut que je reparte,
+ Pour cela, il faudrait que je reparte,
  et je n'ai tellement pas envie de repartir !
 # HENRI, -
 Non, non, ne pars pas, attends,
@@ -476,14 +479,14 @@ Si tu savais à quel point ça me ferait plaisir,
 # LA PRINCESSE,-
 Trois ? Non ! Je ne suis pas d'accord.
 # LA PREMIERE DAME DE COMPAGNIE, -
-Vous avez absolumẹnt raison, Votre Altesse.
+ - Vous avez absolument raison, Votre Altesse.
 # LA PRINCESSE. -
 Dix, cinq, trois. Mais à qui tu parles ?
  Tu oublies que je suis fille de roi !
- Quatre-vingts ! Au moins !  
+Quatre-vingts ! Au moins !  
 # L DAMES DE COMPAGNIE,-Oh!
 # HENKI. -
-Quoi, quatre-vingts ?
+ - Quoi, quatre-vingts ?
 # LA PRINCESSE,-
 Donne-moi quatre-vingts baisers !
  Je suis une princesse !
@@ -502,9 +505,9 @@ Je vous en supplie, taisez-vous !
 # LA PRINCESSE, -
 Mais fichez-moi la paix !
 # HENKL -
-Plus vite ! Plus vite!
+ - Plus vite ! Plus vite!
 # LA PRINCESSE,
-Quand tu voudras, Henri, je suis prête.
+ - Quand tu voudras, Henri, je suis prête.
 # LA PREMIERE DAME DE COMPAGNIE, -
 Je vous supplie, princesse, de ne pas le faire.
  Si vous avez tellement envie de danser, qu'il me donne, à moi,
@@ -520,130 +523,241 @@ Absolument pas, c'est lui qui m'a forcée !
  Je vous comprends ... cent fois !
  Bien sûr, il est tellement mignon, frisé,
  sa bouche est tellemens plaisante...
-Elle a un peu raison, Henri, tu vas m'em brasser cent fois.
+Elle a un peu raison, Henri, tu vas m'embrasser cent fois.
  Et, s'il vous plaît, duchesse, ne discutez pas,
- sans quoi je vous fais jeter dans une oubliette. 
+ sans quoi je vous fais jeter aux oubliettes. 
 # La première dame de compagnie. -
 Mais le roi peut vous voir de la fenêtre de son château !
-#La Princesse.- Mettez-vous autour de moi ! Vous entendez ! Mettez-vous tout autour ! Cachez-vous avec vos robes. Vite! Comment est-ce possible, de déranger les gens qui ont l'intention de s'embrasser ! Arrivée ici, Henri !
-#La Première dame de compagnie. - Mais qui est-ce qui comptera. Votre Altesse La Princesse.- Ça n'a pas d'importance ! Si on se trompe, on recommence.
-#La Première dame de compagnie. - Comptez, mesdames. 
+#La Princesse.-
+Mettez-vous autour de moi ! Vous entendez !
+ Mettez-vous tout autour ! Cachez-moi avec vos robes.
+ Vite!
+Comment est-ce possible, de déranger les gens
+ qui ont l'intention de s'embrasser !
+ Arrive ici, Henri !
+#La Première dame de compagnie. -
+Mais qui est-ce qui comptera, Votre Altesse ?
+# La Princesse.-
+Ça n'a pas d'importance !
+ Si on se trompe, on recommence.
+#La Première dame de compagnie. -
+Comptez, mesdames. 
 #Henri et la Princesse s'embrassent.
-#Les DAMES DE Compagnie. - Un...
+#Les DAMES DE Compagnie. -
+ Un...
 #Le baiser se prolonge.
-#La Première dame de compagnie. - Mais, Votre Altesse, pour un premier baiser, je crois que ça suffit !
+#La Première dame de compagnie. -
+Mais, Votre Altesse, pour un premier baiser,
+ je crois que ça suffit !
 #-36-
 #Le baiser se prolonge.
 À ce train-là, on y sera encore demain.
 #Le baiser se prolonge.
-#Christian.- Ne le dérangez pas, madame, de toute façon, il  n'entend rien, je le connais.
-#Le première dame de compagnie. - Mais s'est affre!
+#Christian.-
+Ne le dérangez pas, madame,
+ de toute façon, il  n'entend rien, je le connais.
+#Le première dame de compagnie. -
+ - Mais c'est affreux !
 #Le roi jaillit de dernière les buissons. Il a sa couronné et son manteau d'hermine.
-#Le roi !
-#Le roi.- Qui a des allumettes, donnez-moi des allumettes !
+Le roi !
+#Le roi.-
+Qui a des allumettes, donnez-moi des allumettes !
 #Confusion générale. Henri et la Princesse restent tête basse.
-#Les DAMES DE Compagnie. - Votre Majesté!
-#Le roi. - Silence ! Vous avez des allumettes !
-#Christian. - Votre Majesté...
-#Le roi. - Silence ! Vous des allumettes ?
-#Christian. - oui, Votre Maj...
-#Le roi.- Silence ! Passez-les-moi.
-#Christian. - Mais pourquoi faire, Votre Majesté ?
+#Les DAMES DE Compagnie. -
+Votre Majesté!
+#Le roi. -
+ - Silence ! Vous avez des allumettes !
+#Christian. -
+Votre Majesté...
+#Le roi.
+ - Silence ! Vous des allumettes ?
+#Christian.
+ - oui, Votre Maj...
+#Le roi.
+ - Silence ! Passez-les-moi.
+#Christian. -
+Mais pourquoi faire, Votre Majesté ?
 #-37-
-#La roi. -Silence!
-# Christian. -  Vous me dites pas, je vous en donne pas, Votre...
-# le roi. - Silence ! Les allumettes, il me les faut pour allumer le bûcher sur lequel je vais brûler les dames de compagnie. j'ai déjà fait ma reserve de petit bois les buissons.
-# Christian. -Je vous en prie, Votre Majesté, voici les allumettes. les dames de compagnie s'évanouissent. 
-# LE ROL -Queile horreur ! Ma fille qui embrasse un porcher!  Pourquoi tu as fait ça ?
-# La PRENCESSE -J'ai eu envie. La roi-De l'embrasser, tu a eu envie?
-#  LA PRINCESSE - Oui. Le Roi-Non mais! Des demain, je te marie avec le roi d'a cote.
-#   LA PrenCESS Janais!
-# LE roi - On te demande ton avis?
-# Le prencess.-Je lui arracherai tous les poils de sa barbe!
-# -38-
-# Le ROI. - Il n'a рas de barbe.
-#  LA PRINCESSE.-Je lui arrachегai tous les cheveux ! LE ROI. - II est chauve.
-# LA PRINCESSE. -Je lui casserai toutes ses dents!
-# LE ROI. - Il n'a pas de dents. II a des dents artificielles.
-# LA PRINCESSE. - Et c'est à cette épave édentée que tu me maries!
-# LE ROI. - Ce n'est pas avec les dents qu'on sе marie, с'est avec I'homme. Eh oh, les dames! (Dans un cri assourdissant.) Debout !
-  Les dames se lèvent.
-# Bien! Très bien ! Juste parce que j'ai été mis en retard, j'ai mis du temps à trouver une éрingle à nourrice pour agrafer mon manteau d'hermine, vous, vous en profitez pour faire une orgie! Non, je serais trop bon si je me contentais de vous brûler sur le bûcher ! D'abord, je vous brûle, et ensuite je vous tranche la tête, et, аргès, alors, je vous pends, toutes autant que vous êtes, sur la grand-route.
+#La roi.
+ - Silence!
+# Christian. -
+ - Vous ne me dites pas, je ne vous les donne pas, Votre...
+# le roi. -
+Silence ! Les allumettes, il me les faut
+ pour allumer le bûcher sur lequel je vais brûler
+ les dames de compagnie.
+ J'ai déjà fait ma reserve de petit bois les buissons.
+# Christian. -
+Je vous en prie, Votre Majesté, voici les allumettes.
+# les dames de compagnie s'évanouissent. 
+# LE ROL -
+Quelle horreur ! Ma fille qui embrasse un porcher!
+ Pourquoi tu as fait ça ?
+# La PRENCESSE -
+J'ai eu envie.
+#La roi-
+- Tu as eu envie de l'embrasser ?
+#  LA PRINCESSE -
+ - Oui.
+ #Le Roi-
+Non mais!
+Dès demain, je te marie avec le roi d'à côté.
+#   LA PrenCESS
+Jamais!
+# LE roi -
+ - On te demande ton avis ?
+# Le prencess.-
+Je lui arracherai tous les poils de sa barbe !
+# Le ROI. -
+ - Il n'a рas de barbe.
+#  LA PRINCESSE.-
+Je lui arrachегai tous les cheveux !
+# LE ROI.
+ - Il est chauve.
+# LA PRINCESSE. -
+Je lui casserai toutes ses dents!
+# LE ROI. -
+ Il n'a pas de dents. Il porte un dentier.
+# LA PRINCESSE. -
+Et c'est à cette épave édentée que tu veux me marier !
+# LE ROI. -
+Ce n'est pas avec les dents qu'on sе marie,
+ с'est avec l'homme.
+ Eh oh, les dames!
+ Debout !
+#  Les dames se lèvent.
+Bien! Très bien ! Juste parce que j'ai été en retard,
+ j'ai mis du temps à trouver une éрingle à nourrice
+ pour agrafer mon manteau d'hermine,
+ vous, vous en profitez pour faire une orgie !
+Non, je serais trop bon si je me contentais
+ de vous brûler sur le bûcher !
+D'abord, je vous brûle, et ensuite je vous tranche la tête,
+ et аргès, alors, je vous pends, toutes autant que vous êtes,
+ sur la grand-route.
 #  Les dames pleurent.
-   Аrrétez vos grandes eaux! Non, je serais encore trop bon! J'ai trouve: je ne vous brêle pas et је пе vous pends pas. Je vous laisse vivantes, et, toute la vie, je vous gronde, je vous gronde, je vous chicane, јe vous chicane. Aha ! Et vlan !
+Аrrétez vos grandes eaux ! Non, je serais encore trop bon !
+ J'ai trouve: je ne vous brêle pas et је пе vous pends pas.
+Je vous laisse vivantes, et, toute la vie,
+ je vous gronde, je vous gronde,
+ je vous chicane, јe vous chicane.
+Aha ! Et vlan !
+ Et, en plus, priviées de salaire !
+Débout ! Et toi, porcher, avec ton ami,
+ je vous bannis du royaume.
+Tu n'y est trop pour rien.
+ C'est vrai que la princesse est tellement mignonne,
+ que c'est dur de ne pas tomber amoureux.
+Où est le chaudron ?
+ Le chaudron, je le garde pour moi.
 
- ------------------------------39------------------------------------
-Et, en plus, priviées de salaire !
-
-Débout ! Et toi, porcher, avec ton ami, je vous bannis du royaume. Tu n'y est trop pour rien. C'est vrai que la princesse est tellement mignonne, que c'est dur de ne pas tomber amoureux. Où est le chaudron ? Le chaudron, je me le prends.
-
-#LE CHAUDRON : Je vais par le monde en fête, je suis plein de feu, depuis que j'ai vu Henriette, on est amoureux. Notre amour est plus immense que le bois profonds, quoi qu'on dise, quoi qu'on pense, nous nous marierons. Nous vaincrons tous les obstacles, conquérant la joie. Ma princesse, mon miracle, sous le même toit. Je vais par le monde en fête, je suis plein de feu, depuis que j'ai vu Herniette, je suis amoureux. 
-
-#LE ROI : C'est le chaudron qui chante ?
-
-#HENRI : Oui, Votre Majesté.
+#LE CHAUDRON :
+Je vais par le monde en fête,
+ je suis plein de feu,
+ depuis que j'ai vu Henriette,
+ je suis amoureux.
+Notre amour est plus immense
+ que le bois profonds,
+ quoi qu'on dise, quoi qu'on pense,
+ nous nous marierons.
+Nous vaincrons tous les obstacles,
+ conquérant la joie.
+ Ma princesse, mon miracle,
+ sous le même toit.
+Je vais par le monde en fête,
+ je suis plein de feu,
+ depuis que j'ai vu Herniette,
+ je suis amoureux. 
+#LE ROI :
+C'est le chaudron qui chante ?
+#HENRI :
+Oui, Votre Majesté.
 #-----------------------------------------40------------------------------------
-#LE ROI : Il chante bien, mais les paroles sont révoltantes. Il affirme que, toi, malgré tous les obstacles, tu vas te marier avec la princesse.
+#LE ROI :
+Il chante bien, mais les paroles sont révoltantes.
+ Il affirme que, toi, malgré tous les obstacles,
+ tu vas te marier avec la princesse.
+#HENRI :
+Oui, de toute façon,
+ je vais me marier avec la princesse, Votre Majesté.
+#LA PRINCESSE :
+Il a raison, il a raison !
+#LE ROI :
+ - Emmenez-là.
+#LA PRINCESSE :
+Au revoir, Henri. Je t'aime.
+#HENRI :
+Ne t'en fais pas, princesse, je t'épouserai.
 
-#HENRI : Oui, de toute façon, je vais me marier avec la princesse, Votre Majesté.
-
-#LA PRINCESSE : Il a raison, il a raison !
-
-#LE ROI : Emmenez-là.
-
-#LA PRINCESSE : Au revoir, Henri. Je t'aime.
-
-#HENRI : Ne t'en fais pas, princesse, je t'épouserai.
-
-#LA PRINCESSE :  Oui, s'il te plaît, Henri, fais-moi cette faveur. Au revoir, au revoir !
-
-#HENRI : Au revoir, au revoir !
-
-#LE ROI : Henri !
-
-#HENRI : Au revoir, au revoir !
-
-#LE ROI : Eh, toi, écoute !
-
-#HENRI : Au revoir, au revoir !
-
-#LE ROI : C'est à toi que je parle. Ton chaudron, il ne chante qu'une seule chanson ?
------------------------------------------41------------------------------------
-
+#LA PRINCESSE :
+Oui, s'il te plaît, Henri,
+ fais-moi cette faveur.
+ Au revoir, au revoir !
+#HENRI :
+Au revoir, au revoir !
+#LE ROI :
+ - Henri !
+#HENRI :
+Au revoir, au revoir !
+#LE ROI :
+ - Eh, toi, écoute !
+#HENRI :
+Au revoir, au revoir !
+#LE ROI :
+C'est à toi que je parle.
+ Ton chaudron, il ne chante qu'une seule chanson ?
 # HENRI :
- Oui, rien qu'une seule.
+ - Oui, rien qu'une seule.
+# LE ROI :
+Et une chanson dans ce genre-là, il n'en a pas ?
 
-LE ROI : Et une chanson dans ce genre-là, il n'en a pas ? C'est mal parti, ton affaire - du balai.
-
+C'est mal parti, ton affaire - du balai.
 # HENRI :
- De chanson de genre-là, il n'en a pas, et il ne peut pas en avoir.
-
-LE ROI : Ne me mets pas en colère, toi - tu m'as vu, quand je deviens terrible ?
-
+Une chanson de genre-là, il n'en a pas,
+ et il ne peut pas en avoir.
+# LE ROI :
+Ne me mets pas en colère, toi.
+ Tu m'as vu, quand je m'énerve ?
 # HENRI :
- Je vous ai vu.
-
-LE ROI : Tu as tremblé ?
-
+Je vous ai vu.
+#LE ROI :
+ - Tu as tremblé ?
 # HENRI :
- Non.
-
-LE ROI : Tiens donc.
-
+ - Non.
+#LE ROI :
+ - Tiens donc.
 # HENRI :
- Adieu, Majesté.
-
-LE ROI : Où tu vas ?
-
+Adieu, Majesté.
+#LE ROI :
+ - Où vas-tu ?
 # HENRI :
- Chez le roi d'à côté. Il est idiot, je vais le rouler dans la farine, en deux temps trois mouvements. Je suis le plus audacieux du monde. J'ai embrassé ta fille, et, maintenant, je n'ai plus peur de rien ! Adieu !
-LE ROI : Attends, il faut que je recompte les cochons. Un, deux, trois, quinze, vingt...  Bon, ça va, vas-t-en. 
+Chez le roi d'à côté.
+ Il est idiot, je vais le rouler dans la farine,
+ en deux temps trois mouvements.
+Me voilà le plus audacieux du monde.
+J'ai embrassé ta fille, et, maintenant,
+ je n'ai plus peur de rien !
+ Adieu !
+# LE ROI :
+Attends, il faut que je recompte les cochons.
+ Un, deux, trois, quinze, vingt...
+ Bon, ça va, vas-t-en. 
 #HENRI :
 Adieu, Majesté. On y va, Christian. 
-Notre amour est plus immense que le bois profonds, quoi qu'on dise, quoi qu'on pense, nous nous marierons. 
-
-LE ROI : Je le sens, ça va faire du grabuge. Bon, mais, moi non plus, je ne suis pas tombé de la dernière pluie. Je vais faire venir pour ma fille une gouvernante étrangère, méchante comme un chien. C'est elle qui l'accompagnera. Et je lui enverrai aussi un chambellan. Et pour les dames de compagnie, c'est non. Je me les laisse. Non mais, ça marche et ça chante ! Marchez, marchez, pour ce que ça marchera !
-TODO Avant
+ Notre amour est plus immense
+ que le bois profonds,
+ quoi qu'on dise, quoi qu'on pense,
+ nous nous marierons. 
+# LE ROI :
+Je le sens, ça va faire du grabuge.
+ Bon, mais, moi non plus,
+ je ne suis pas tombé de la dernière pluie.
+Je vais faire venir pour ma fille une gouvernante étrangère,
+ méchante comme un chien. C'est elle qui l'accompagnera.
+ Et je lui enverrai aussi un chambellan.
+Et pour les dames de compagnie, c'est non.
+ Je me les garde. Non mais, ça marche et ça chante !
+ Marchez, marchez, pour ce que ça marchera !
 #LE MINISTRE DES TENDRES SENTUMENTS :
 Je suis le ministre des tendres sentiments de Sa Majesté le roi.
  En ce moment, j'ai une masse de travail -
@@ -663,13 +777,29 @@ Attention que les murs n'aient pas d'oreilles.
 À vos ordres, Votre Excellence !
 
 #LE MINSITRE :
-Et donc, mon maître, mardi dernier, en déjeunant, une pensée affreuse lui est venue. Il mangeait justement du saucisson - et, d'un seul coup, il s'est figé avec un morceau de nourriture entre les dents. Nous, nous sommes jetés vers lui, en nous exclamant : "Votre Majesté ! Qu'est-ce qui vous prend !"  Mais, lui, il ne faisait que gémir d'une voix sourde, sans desserrer les dents : "Quelle pensée affreuse ! C'est affreux ! Affreux !" Le médecin de la cour a ramené le roi à la vie, et nous avons appris ce qui précisément avait eu l'honneur d'émotionner Sa Majesté.  Cette pensée est réellement affreuse. Gendarmes !
-#LES GENDARMES : Que désire Votre Excellence ?
-#LE MINISTRE : Bouchez-vous les oreilles.
+Et donc, mon maître, mardi dernier, en déjeunant,
+une pensée affreuse lui est venue.
+Il mangeait justement du saucisson et,
+ d'un seul coup, il s'est figé
+ avec un morceau de nourriture entre les dents.
+Nous, nous sommes jetés vers lui, en nous exclamant :
+ "Votre Majesté ! Qu'est-ce qui vous prend !"
+Mais, lui, il ne faisait que gémir d'une voix sourde,
+ sans desserrer les dents : "Quelle pensée affreuse !
+ C'est affreux ! Affreux !"
+Le médecin de la cour a ramené le roi à la vie,
+ et nous avons appris ce qui précisément
+ avait eu l'honneur d'émotionner Sa Majesté.
+ Cette pensée est réellement affreuse.
+Gendarmes !
 #LES GENDARMES :
-À vos ordres, Votre Excellence !
+Que désire Votre Excellence ?
+#LE MINISTRE :
+ - Bouchez-vous les oreilles.
+#LES GENDARMES :
+ - À vos ordres, Votre Excellence !
 #LE MNISTRE :
-Le roi avait pensé : et si, d'un coup, la maman de Son Altesse,
+Le roi avait pensé : et si, d'un coup,la maman de Son Altesse,
  la maman de la fiancée promise du roi,
  avait été dans son temps délurée !
 Si, d'un coup, la princesse n'était pas la fille du roi,
@@ -680,11 +810,11 @@ Sa Majesté se baignait, était joyeux,
  daignait pousser des petits rires et dire des mots plaisants.
 Et, d'un seul coup, le roi, s'exclamant :
  "Quelle pensée affreuse !",
- s'est mis à se noyer en ayant pied.
+ s'est mis à se noyer alors qu'il avait pied.
 Voilà ce que le roi avait pensé :
  et si, d'un coup, la princesse, avant les fiançailles,
- elle aussi, avait été délurée, si elle avait eu des aventures et...
-et, enfin, bref, vous comprenez !
+ elle aussi, avait été délurée,
+ si elle avait eu des aventures et... et, enfin, bref, vous comprenez !
 Nous avons sauvé le roi, et, là, encore dans l'eau,
  il m'a donné les ordres nécessaires.
 Je suis venu ici pour découvrir toute la vérité
@@ -703,18 +833,15 @@ Ils apprennent à la population les accueils enthousiastes.
 #LES GENDARMES :
 Que désire Votre Excellence ?
 # LE MINISTRE :
-Allez voir si la princesse n'arrive pas.
+ - Allez voir si la princesse n'arrive pas.
 # LES GENDARMES :
-
-À vos ordres, Votre Excellence !
-
+ - À vos ordres, Votre Excellence !
 # LE MINISTRE :
 Ils sont durs, les problèmes que j'ai, hein, c'est vrai ?
  Mais je sais parfaitement comment les résoudre.
 Il me suffira d'un petit-pois 
  et de douze bouteilles de bon vin.
  Je suis un homme très habile.
-
 #Alors ?
 #LES GENDARMES :
 #Votre Excellence. Loin, très loin,
@@ -727,23 +854,24 @@ Il me suffira d'un petit-pois
 #LE MINISTRE :
 #Allons vérifier si tout est prêt pour l'accueillir.
 #CRIS :
-#Elle arrive ! Elle arrive !
+Elle arrive ! Elle arrive !
 #LE MINISTRE :
-Bourgmestre ! Ne vous agitez pas comme ça. Arrivez.
+Bourgmestre ! Ne vous agitez pas comme ça.
+ Venez par ici.
 #LE BOURGMESTRE :
-Moi ? Oui. Le v'la. Quoi ? Non !
+ - Moi ? Oui. Le v'la. Quoi ? Non !
 #LE MINISTRE :
 Préparez douze bouteilles du vin le plus fort.
 #LE BOURGMESTRE :
-Quoi ? Des bouteilles ? Pourquoi ?
+ - Quoi ? Des bouteilles ? Pourquoi ?
 #LE MINISTRE :
-Il faut.
+ - Il faut.
 #LE BOURGMESTRE :
 Aha... Compris... Pour accueillir la princesse ?
 #LE MINISTRE :
-Oui.
+ - Oui.
 #LE BOURGMESTRE :
-Elle boit ?
+ - Elle boit ?
 #LE MINISTRE :
 Vous êtes fou !
  Nous aurons besoin des bouteilles pour le dîner
@@ -763,8 +891,8 @@ Ah bon. Non... C'est-à-dire oui.
 #LE MINISTRE :
 Musiciens !
 #LE CHEF D'ORCHESTRE :
-Présents, Votre Excellence !
-LE MINISTRE :
+ - Présents, Votre Excellence !
+# LE MINISTRE :
 Tout est un ordre, chez vous ?
 LE CHEF D'ORCHESTRE :
 Le premier violon, Votre Excellence, il s'est bâfré de raisin
@@ -773,9 +901,9 @@ Le jus de raisin, Votre Excellence, a fermenté
  dans le bedon du premier violon et s'est changé en vin.
 Nous, on le réveille, on le réveille,
  et, lui, il rue et s'obstine à dormir.
-LE MINISTRE :
+# LE MINISTRE :
 Monstrueux ! Que faire ?
-LE CHEF D'ORCHESTRE :
+# LE CHEF D'ORCHESTRE :
 Tout est arrangé, Votre Excellence.
  Le deuxième violon prendra le premier,
  et la contrebasse prendra le deuxième.
@@ -785,59 +913,51 @@ Nous avons attaché le violon à une perche,
 # LE MINISTRE :
 Et qui jouera de la contrebasse ?
 LE CHEF D'ORCHESTRE :
-Ah, c'est affreux ! Ça, je n'y ai même pas pensé !
+ - Ah, c'est affreux ! Je n'ai pas pensé à ça !
 # LE MINISTRE :
-Placez la contrebasse au milieu.
- Que tous ceux qui auront une main libre la prennent et jouent dessus.
+Placez la contrebasse au milieu :
+ Que tous ceux qui auront une main libre jouent dessus.
 LE CHEF D'ORCHESTRE :
-À vos ordres, Votre Excellence !
+ - À vos ordres, Votre Excellence !
 # LE MINISTRE :
-
 Ah, ce que je suis intelligent,
  ce que je suis habile,
  ce que je suis inventif !
 # LES GENDARMES :
-
 Votre Excellence, la carrosse de la princesse
  vient de faire son entrée dans le village. 
 # LE MINISTRE :
-
 Attention ! Orchestre ! Bourgmestre !
  Les jeunes filles ! Le peuple !
-Les gendarmes ! Attention que, vos gars,
+ Les gendarmes ! Attention que vos gars,
  ils les lancent haut, les chapeaux ! 
 # LES GENDARMES :
-
 Hourra !
 # LE MINISTRE :
-
 Votre Altesse...
  L'émotion qu'éveille votre arrivée dans ce modeste village
  n'est rien comparée à ce qui se produit
  dans le cœur de notre maître enamouré. Mais, malgré tout...
 # LA PRINCESSE :
-
 Assez... Chambellan ! Où sont mes mouchoirs ?
-LE CHEMBELLAN :
+# LE CHEMBELLAN :
 Oh ! Ouh ! Oho-ho! Tout de suite, Votre Altesse,
  je me reprends en main et  je demande à la gouvernante.
  Mmmmeu. Où de notre princesse les mouchoirs se trouver sont ?
-LA GOUVERNANTE :
+# LA GOUVERNANTE :
 Les mouchoirs se trouver sont dans la valise,
  gotentotenponten-tatertanteatenter.
 # LE CHAMBELLAN :
-
 Oder. Les mouchoirs sont dans la valise, princesse.
 # LA PRINCESSE :
-
 Prenez-les. Vous voyez bien que j'ai les larmes aux yeux.
  Prenez les mouchoirs. Et apportez-les.
 Et qu'on me prépare mon lit. Il va faire bientôt nuit.
  Et je suis affreusement fatiguée.
-La poussière, la chaleur, les dos d'ânes !
- Vite, vite, dormir !
+ La poussière, la chaleur, les dos d'ânes !
+  Vite, vite, dormir !
 Dans mon rêve, je reverrai mon gentil Henri.
-J'en ai tellement assez de ces singes 
+ J'en ai tellement assez de ces singes 
  avec lesquels je n'ai absolument rien de commun.
 # LE MINISTRE :
 
