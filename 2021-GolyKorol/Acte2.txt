@@ -227,7 +227,7 @@ Mais maintenant, elle ne fait plus rien que manger.
 A la bonne heure ! Ah ! quels jolis petits pâtés !
  Des cours, dans le monde, j'en ai vu beaucoup,
  mais je n'ai jamais rien vu de comparable ! Quel arôme.
- Comme ils sont dorés.  Quel moelleux !
+ Comme ils sont dorés.  Quel mœlleux !
 # LE CUISINIER -
 Oo-oui. Ils sont tellement doux
  qu'on en a un petit creux rien qu'en les regardant.
@@ -1992,7 +1992,7 @@ Le roi arrive! Le roi arrive! Le roi arrive!
 # Dééé-tournez-vous!
 #LE ROI:
 Même l'habit le plus somptueux
- ne peut cacher la flamme qui flambe dans mon coeur.
+ ne peut cacher la flamme qui flambe dans mon cœur.
 #LA PR.:
 Papa. Maintenant, tu le vois, qu'il est idiot?
 #LE R.:
@@ -2181,7 +2181,7 @@ Que la terre soit en joie,
  Nous avons chassé le roi !
 # HENRI:
 Faites travailler vos têtes,
- Faites travailler vos coeurs,
+ Faites travailler vos cœurs,
  Et vous ferez la conquête
  De la joie et du bonheur !   
 #LA FOULE:
