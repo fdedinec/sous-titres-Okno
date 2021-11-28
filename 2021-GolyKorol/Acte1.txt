@@ -5,7 +5,7 @@
  Texte français dérivé de la traduction d'André Markowicz
 # avec quelques coupes pour le spectacle d'Okno
 # et quelques modifications stylistiques à la marge
-#
+# Affiche etc sur http://club.lycorn.free.fr
 
 Merci d'éteindre vos téléphones portables
 
@@ -38,7 +38,7 @@ Et elle, non, les cochons, ça grogne.
 # CHRISTIAN, d’une voix endormie. –
  - Ouais.
 # HENRI, il se tourne vers les cochons. –
-- Et donc, mes chers petits cochons, ce cheminr là,
+- Et donc, mes chers petits cochons, ce chemin là,
  je l’ai refait tours les jours.
 La princesse, elle se pavane à la fenêtre, comme une fleur,
  et moi je reste en bas dans la cour comme un piquet,
@@ -96,7 +96,7 @@ Et elle, quoi, c’est peut-être une princesse,
  mais c’est aussi une jeune fille.
 # HENRI. 
 - Surtout, tellement toute blanche.
- Attends, faut que je boive un coup.
+# Attends, faut que je boive un coup.
 Et tellement mignonne. Et tellement jolie.
  Tu traverses la cour, là,
  et elle, elle se pavane à la fenêtre, comme une fleur...
@@ -128,7 +128,7 @@ Et moi, comme un piquet, dans la cour,
  Dans la cour, quand tu me parlais,
   tu criais toujours très fort.
 # HENRI. 
-- Bah, là, je ne crie pas.
+ - Bah, là, je ne crie pas.
 # LA PRINCESSE. 
 - Tout le château est au courant
  que je suis venue voir ton chaudron,
@@ -174,7 +174,7 @@ Qu’est-ce qui t’arrive?
 # LA PRINCESSE. 
  - Henri ? Comme c’est intéressant. Moi, je m’appelle Henriette.
 # HENRI. 
- - Henriette ? Sérieux ? Moi, c’est Henri !
+ - Henriette ? C'est pas vrai ? Moi, c’est Henri !
 # LA PRINCESSE. 
 - Tu vois comme ça tombe bien. Henri !
 # HENRI. 
@@ -203,11 +203,11 @@ Qu’est-ce qui t’arrive?
 # LA PREMIÈRE DAME DE COMPAGNIE. –
 - C’est cette truie que vous avez appelée Baronne ?
 # HENRI.
-- Et celle-là, c’est Comtesse.
+ - Et celle-là, c’est Comtesse.
 # LA DEUXIÈME DAME DE COMPAGNIE. –
-A- bsolument pas ! La comtesse, c’est moi !
+ - Absolument pas ! La comtesse, c’est moi !
 # HENRI. 
-- Et, cette truie-là, c’est Duchesse.
+ - Et, cette truie-là, c’est Duchesse.
 # LA PREMIÈRE DAME DE COMPAGNIE. –
 - Quelle insolence ! La duchesse, c’est moi !
  Donner à ses truies des titres aussi hauts !
@@ -257,7 +257,7 @@ A- bsolument pas ! La comtesse, c’est moi !
 # LA PREMIÈRE DAME DE COMPAGNIE, elle crie tournée vers le château. –
 - Monsieur le Roi-oi !
  Venez tout de suite,
- la princesse a une conduite affreuse!
+ la princesse a une conduite épouvantable !
 # LA PRINCESSE. 
 - Ah, ce qu'elles m’énervent.
  Bon, alors, montre-moi ton chaudron,
@@ -340,7 +340,7 @@ O nobles auditrices ! Par quoi commencerons-nous ?
 # LA PREMIÈRE DAME DE COMPAGNIE. –
 - Mais c’est à vous que je pose la question, princesse. 
 # LA PRINCESSE. 
-- Je vous ai déjà dit que ça nous était égal.
+ - Je vous ai déjà dit que ça nous était égal.
  Bon, commencez par les repas.
 #LES DAMES DE COMPAGNIE, applaudissant.
  - Les repas, les repas, les repas!
@@ -377,7 +377,7 @@ une sauce tartare aux câpres et aux olives,
  un sorbet aux fruits confits, un parfait au café, ...
  et un petit crouton de pain.
 #La premiere dame de compagnie. –
-- Tu mens, nez malappris!
+- Tu mens, nez malappris !
 #le Nez -
  - Je n'ai aucune raison de mentir.
  Je suis un instrument de précision. 
@@ -437,8 +437,8 @@ Maintenant, je me rends chez la marquise,
 - J'espère que c'est une danse sans...
  sans... paroles?
 # CHRISTIAN. -
-- Oh oui, duchesse, c'est une danse absolument sans danger.
- Et donc, je retourne le chaudron sur le flanc droit
+ - Oh oui, duchesse, c'est une danse absolument sans danger.
+Et donc, je retourne le chaudron sur le flanc droit
  et... vous entendez ?
 #En faisant tinter ses grelots. le chaudron commence à jouer. Henri danse avec la princesse, Christian avec la ducesse, la comtesse avec la baronne. Les autres dames de compagnie font une ronde autour d'eux. La danse s'achève. 
 
@@ -527,7 +527,7 @@ Maintenant, je me rends chez la marquise,
  Lui, il ne vous a rien demandé.
  C'est vous-même qui proposez à un homme qu'il vous embrasse.
 # LA PREMIÈRE DAME DE COMPAGNIE, -
-- Mais vous aussi...
+ - Mais vous aussi...
 # LA PRINCESSE.-
 - Absolument pas, c'est lui qui m'a forcée !
  Je vous comprends ... cent fois !
@@ -539,7 +539,7 @@ Elle a un peu raison, Henri, tu vas m'embrasser cent fois.
 # La première dame de compagnie. -
 - Mais le roi peut vous voir de la fenêtre de son château !
 #La Princesse.-
-- Mettez-vous autour de moi ! Vous entendez !
+ - Mettez-vous autour de moi ! Vous entendez !
  Mettez-vous tout autour ! Cachez-nous avec vos robes.
  Allez, vite !
 Comment est-ce possible, de gêner des gens
@@ -548,7 +548,7 @@ Comment est-ce possible, de gêner des gens
 #La Première dame de compagnie. -
 - Mais qui est-ce qui comptera, Votre Altesse ?
 # La Princesse.-
-- Ça n'a pas d'importance !
+ - Ça n'a pas d'importance !
  Si on se trompe, on recommencera.
 #La Première dame de compagnie. -
 - Comptez, mesdames. 
@@ -660,22 +660,22 @@ Où est le chaudron ?
  Le chaudron, je le garde pour moi.
 
 #LE CHAUDRON :
-Je vais par le monde en fête,
- je suis plein de feu,
- depuis que j'ai vu Henriette,
- je suis amoureux.
+#Je vais par le monde en fête,
+# je suis plein de feu,
+# depuis que j'ai vu Henriette,
+# je suis amoureux.
 Notre amour est plus immense
  que le bois profonds,
  quoi qu'on dise, quoi qu'on pense,
  nous nous marierons.
-Réalisant des miracles,
- Nous riant des lois,
- Nous vaincrons tous les obstacles,
- Ma princesse et moi.
-Je vais par le monde en fête,
- je suis plein de feu,
- depuis que j'ai vu Herniette,
- je suis amoureux. 
+#Réalisant des miracles,
+# Nous riant des lois,
+# Nous vaincrons tous les obstacles,
+# Ma princesse et moi.
+#Je vais par le monde en fête,
+# je suis plein de feu,
+# depuis que j'ai vu Herniette,
+# je suis amoureux. 
 #LE ROI :
 - C'est le chaudron qui chante ?
 #HENRI :
@@ -715,7 +715,6 @@ Il a raison, il a raison !
  - Oui, rien qu'une seule.
 # LE ROI :
 Et une chanson dans ce genre-là, il n'en a pas ?
-
 C'est mal parti, ton affaire - du balai.
 # HENRI :
 - Une chanson de genre-là, il n'en a pas,
@@ -862,7 +861,7 @@ Il me suffira d'un petit pois
 #Allons vérifier si tout est prêt pour l'accueillir.
 #CRIS :
 
-- Elle arrive ! Elle arrive !
+#- Elle arrive ! Elle arrive !
 #LE MINISTRE :
  - Bourgmestre ! Ne vous agitez pas comme ça.
  Venez par ici.
@@ -941,6 +940,7 @@ Nous avons attaché le violon à une perche,
  ils les lancent haut, les chapeaux ! 
 # LES GENDARMES :
 - Hourra !
+
 # LE MINISTRE :
 - Votre Altesse...
  L'émotion qu'éveille votre arrivée dans ce modeste village
@@ -1257,7 +1257,8 @@ Il ne ne laisseront passer personne chez la princesse,
 Je les saurai, tous les dessous !
  Ce que je suis intelligent ! Ce que je suis habile !
  Bravo mon gars !
- 
+# rideaur
+
 # LA PRINCESSE : 
 - Notre amour est plus immense
  que le bois profond, 
@@ -1337,8 +1338,7 @@ Je vais par le monde en fête,
 # LES GENDARMES :
 - C’est un homme qui a juré contre vents et marées
   de se marier avec Votre Altesse.
-Il vous a aimée pour toujours
- parce que vous êtes tellement tout mignonne,
+ Il vous aime parce que vous êtes tellement tout mignonne,
  tellement gentille, tellement douce.
 Il ne geint pas, il ne pleure pas, il ne perd pas de temps. 
  Il vire et vole autour de vous
@@ -1367,17 +1367,17 @@ Il a chanté pour vous rappeler à lui,
 # LA PRINCESSE :
  - Là, je veux bien !
 # LES GENDARMES :
-- Plus fort !
+ - Plus fort !
 # LA PRINCESSE :
 - Henri ! Mais je ne suis pas habillée...
 # CHRISTIAN :
-- Ce n’est pas grave, princesse,
+ - Ce n’est pas grave, princesse,
  de toute façon, vous serez bientôt sa femme.
 # LA PRINCESSE :
 - Ce n’est par parce que c’est indécent,
  mais je ne sais pas si je suis jolie !
 # HENRI :
-- Henriette ! Je mourrais plutôt que de te laisser,
+ - Henriette ! Je mourrais plutôt que de te laisser,
  tellement tu es belle.
 N’aie pas peur - nous sommes sur tes pas tout le temps.
  Hier, on a saoulé deux gendarmes, on les a ligotés, cachés,
@@ -1468,7 +1468,8 @@ On n’obtient jamais rien du premier coup.
 #LA PRINCESE :
 - Bon, alors, même si ça nous retarde un peu, sois gentil,
  embrasse-moi.
- 
+# rideau
+
 # LE MINISTRE :
 - Je suis habile, tu entends, chambellan ?
  Je suis tellement intelligent !
