@@ -2,57 +2,57 @@
   Evgueni Schwarz           Евгений Шварц     
 # Acte I
  
- Texte français dérivé de la traduction d'André Markowicz
+# Texte français lourdement remanié à partir de la traduction d'André Markowicz
 # avec quelques coupes pour le spectacle d'Okno
-# et quelques modifications stylistiques à la marge
+# et de nombreuses améliorations stylistiques
 # Affiche etc sur http://club.lycorn.free.fr
 
 Merci d'éteindre vos téléphones portables
 
 # HENRI. 
-- Je traverse la cour du roi, donc, j'apporte un porcelet.
- La marque du roi, on devait lui mettre :
- une pièce de 5, avec, au-dessus, une couronne.
- Le porcelet, il hurlait ! C'était à fendre l'âme.
+- Je traversais la cour du roi, j'y apportais un porcelet.
+ On devait lui mettre la marque du roi :
+ une pièce de 5 avec une couronne au-dessus.
+ Le porcelet hurlait ! C'était à fendre l'âme.
 Et, d'un seul coup, j'entends une voix en haut :
- vous n'avez pas bientôt fini de torturer cette bête ?
+ vous n'avez pas bientôt fini de torturer cette pauvre bête ?
 Moi, je pars pour répondre des noms d'oiseaux.
  Moi non plus, tu comprends, ça ne me faisait pas plaisir
- de l'entendre hurler, le porcelet.
-Je lève les yeux, oh ! c'était la princesse.
+ d'entendre hurler mon porcelet.
+Je lève les yeux... Oh ! C'était la princesse.
  Tellement mignonne, mais tellement jolie,
  ça m'a mis le cœur sans dessus dessous.
-Et j'ai décidé de l'épouser.
+... Et j'ai décidé de l'épouser.
 # CHRISTIAN. 
  - Depuis un mois, ça va faire cent une fois que tu me racontes ça.
 
 # HENRI. 
-- Tu comprends, tellement blanche ! Moi, donc, je lui dis :
- princesse, descends dans la clairière,
- regarder comment je les garde, les cochons.
+- Tu comprends, tellement blanche ! Moi, alors, je lui dis :
+ Princesse, descends donc dans la clairière,
+ tu verras comment je les garde, les cochons.
 Et elle : j'ai peur des cochons.
  Moi, je lui dis : c'est doux, les cochons.
-Et elle, non, les cochons, ça grogne.
- Ça, je lui dis, ça fait pas de mal aux gens.
+Et elle: non, les cochons, ça grogne.
+ Ça, je lui dis, ça n'a jamais fait de mal à personne.
  Eh, tu dors?
 # CHRISTIAN, d’une voix endormie. –
  - Ouais.
 # HENRI, il se tourne vers les cochons. –
-- Et donc, mes chers petits cochons, ce chemin là,
+- Et donc, mes petits cochons chéris, ce chemin là,
  je l’ai refait tours les jours.
-La princesse, elle se pavane à la fenêtre, comme une fleur,
- et moi je reste en bas dans la cour comme un piquet,
+La princesse se pavane à la fenêtre, comme une fleur,
+ et moi je reste planté en bas dans la cour,
  les mains serrées sur le cœur.
 Et je n’arrête pas de lui répéter :
  descends me voir dans la clairière.
  Et elle : qu’est-ce que j’y verrai, dans la clairière ?
 Moi : il y a des fleurs qui sont très jolies.
  Elle : des fleurs, on en a chez nous.
- Moi, alors : il y a des cailloux de toutes les couleurs,
+ Alors moi : il y a des cailloux de toutes les couleurs,
  et elle : tu parles comme c’est intéressant.
 Et je continue d’essayer de la convaincre,
  tant qu’on ne vient pas nous chasser.
- Et pas moyen de la convaincre !
+ Mais pas moyen de la convaincre !
 Finalement, j’ai trouvé.
  J’ai un chaudron, je lui dis, à grelots,
 il chante d’une voix de rêve, il joue du violon,
@@ -73,15 +73,16 @@ Debout, Duchesse, lève-toi, Comtesse, lève-toi, Baronne.
 # CHRISTIAN. 
 - Hein? Quoi?
 # HENRI.
- - Elle arrive!  La voilà!  Toute blanche, là, sur le chemin.
+ - Elle arrive!  La voilà!
+  Toute blanche, là, sur le chemin.
 # (Henri la montre du doigt, sur la droite.)
 # CHRISTIAN. 
 - Qu’est-ce qui te prend ? Il n’y a rien là-bas.
  Oh, si, elle arrive ! Et pas toute seule, avec sa suite...
- Mais arrête de trembler... Comment tu veux l’épouser,
- si elle te fait tellement peur? 
+ Mais arrête de trembler...
+ Comment veux-tu l’épouser si elle te fait si peur ? 
 # HENRI. 
-- Ce n’est pas de peur que je tremble, c’est d’amour.
+- Je ne tremble pas de peur, mais d’amour.
 # CHRISTIAN. 
 - Henri, reprends-toi ! Est-ce que ça se fait, de trembler d’amour,
  à deux doigts de tomber dans les pommes !
@@ -90,14 +91,14 @@ Debout, Duchesse, lève-toi, Comtesse, lève-toi, Baronne.
 - La princesse arrive !
 # CHRISTIAN. 
  - Si elle arrive, c’est que tu lui plais.
- Souviens-toi de toutes les jeunes filles que tu as aimées,
- et ça s’est toujours passé au mieux.
+ Souviens-toi de toutes les filles que tu as aimées,
+ ça s’est toujours passé au mieux.
 Et elle, quoi, c’est peut-être une princesse,
  mais c’est aussi une jeune fille.
 # HENRI. 
-- Surtout, tellement toute blanche.
+- Oui mais elle est tellement toute blanche.
 # Attends, faut que je boive un coup.
-Et tellement mignonne. Et tellement jolie.
+ Et tellement mignonne. Et tellement jolie.
  Tu traverses la cour, là,
  et elle, elle se pavane à la fenêtre, comme une fleur...
 Et moi, comme un piquet, dans la cour,
@@ -105,26 +106,26 @@ Et moi, comme un piquet, dans la cour,
 # CHRISTIAN. 
 - Tais-toi ! Surtout, sois ferme.
  Tu as décidé te marier, ne va pas te défiler... Ah, je me méfie de toi.
- Tu étais un malin, comme gars, une tête brulée, et, maintenant... 
+ Tu étais un malin, comme gars, et courageux, mais maintenant... 
 # HENRI. 
 - Ne me gronde pas, elle approche.
 # CHRISTIAN. 
  - Et avec sa suite!
 # HENRI. 
- - Je ne vois personne en dehors d’elle !
- Ah, ce qu’elle est mignonne!
+ - Moi je ne vois personne qu'elle !
+ Ah, ce qu’elle est mignonne !
 # Entrent la princesse et les dames de compagnie. La princesse s’approche du porcher. Les dames se tiennent à l’écart.
 # LA PRINCESSE. 
 - Bonjour, porcher.
 # HENRI. 
  - Bonjour, princesse.
 # LA PRINCESSE. -
-- Et moi, d’en haut, de la fenêtre,
+- D'en haut, de ma fenêtre,
  j’avais l’impression que tu étais plus petit.
 # HENRI. 
  - Bah non, je suis plus grand.
 # LA PRINCESSE. 
-- Et ta voix, elle est plus douce.
+- Et ta voix est plus douce.
  Dans la cour, quand tu me parlais,
   tu criais toujours très fort.
 # HENRI. 
@@ -139,10 +140,10 @@ Bonjour, porcher.
  - Bonjour, princesse.
 #(Il prend la princesse par la main)
 # CHRISTIAN, il chuchote. –
-- Du nerf, du nerf, Henri !
+- De l'audace, de l'audace, Henri !
 # HENRI. 
-- Princesse ! Tu es tellement jolie,
- ça fait peur, même.
+- Princesse ! Tu es tellement jolie
+ que ça fait même peur.
 # LA PRINCESSE. 
  - Pourquoi ?
 # HENRI.
@@ -154,21 +155,21 @@ Qu’est-ce qui t’arrive?
  - Ce cochon, là-bas,
  il nous regarde d’un air méchant.
 # HENRI. 
-- Lequel? Ah ! Celui-là !
+- Lequel ? Ah ! Celui-là !
  Fous le camp, Baronne,
- ou demain, je te saigne.
+ ou je te saigne demain.
 # LA TROISIÈME DAME DE COMPAGNIE. – Ah ! (Elle s’évanouit.)
 # Toutes les dames de compagnie se massent autour d’elle.
 #Exclamations indignées:
-- Le rustre ! - C’est interdit de saigner une baronne !
- - Brute ! - Ce n’est pas beau, de saigner une baronne !
- - Quelle insolence ! - C’est indécent, de saigner une baronne!
+- Rustre ! - C’est interdit de saigner la baronne !
+ - Brute ! -  Saigner la baronne, mais c'est affreux !
+ - Quelle insolence ! - C’est indécent de saigner une baronne !
 # LA PREMIÈRE DAME DE COMPAGNIE, elle s’approche de la princesse d’un air solennel. –
 - Votre Altesse ! Interdisez à ce... petit cochon
- d’injurier les dames de compagnie.
+ d’insulter les dames de la cour.
 # LA PRINCESSE. 
 - Premièrement, ce n’est pas un petit cochon, c’est un porcher,
- et, deuxièmement, pourquoi tu injuries ma suite ?
+ et, deuxièmement, pourquoi tu agresses ma suite ?
 # HENRI.
 - Appelle-moi, s’il te plait, Henri.
 # LA PRINCESSE. 
@@ -178,41 +179,41 @@ Qu’est-ce qui t’arrive?
 # LA PRINCESSE. 
 - Tu vois comme ça tombe bien. Henri !
 # HENRI. 
- - Ça alors... Il y a de ces coïncidences...  Henriette.
+ - Ça alors... Ça arrive parfois...  Henriette.
 # LA PREMIÈRE DAME DE COMPAGNIE –
-- J’oserai rappeler à Votre Altesse que ce...
+- Oserai-je rappeler à Votre Altesse que ce...
  que votre interlocuteur a l’intention de saigner la baronne demain ?
 # LA PRINCESSE. 
 - Ah, oui... Dis-moi, s’il te plait, Henri,
- pourquoi est-ce que tu as l’intention de saigner la baronne demain.
+ pourquoi as-tu l’intention de saigner la baronne demain ?
 # HENRI. 
-- Elle a déjà assez engraissé comme ça.
+- Elle a assez engraissé comme ça.
  C’est affreux ce qu’elle est grosse.
 # LA TROISIÈME DAME DE COMPAGNIE. –
 #Ah ! (Elle s’évanouit de nouveau.)
 # HENRI. 
-- Pourquoi est-ce que cette femme,
- elle fait toujours des galipettes ?
+Pourquoi est-ce que cette dame
+ fait toujours des galipettes ?
 #LA PREMIÈRE DAME DE COMPAGNIE. –
 - Cette dame, c’est la baronne
  que vous avez traitée de cochon
- et que vous voulez saigner demain.
+ et que vous voulez saigner.
 # HENRI. 
-- Absolument pas, c’est cette truie, là,
+- Mais pas du tout, c’est cette truie, là,
  que j’ai appelée Baronne et que je veux saigner.
 # LA PREMIÈRE DAME DE COMPAGNIE. –
 - C’est cette truie que vous avez appelée Baronne ?
 # HENRI.
  - Et celle-là, c’est Comtesse.
 # LA DEUXIÈME DAME DE COMPAGNIE. –
- - Absolument pas ! La comtesse, c’est moi !
+ - Certainement pas ! La comtesse, c’est moi !
 # HENRI. 
  - Et, cette truie-là, c’est Duchesse.
 # LA PREMIÈRE DAME DE COMPAGNIE. –
-- Quelle insolence ! La duchesse, c’est moi !
+- Quelle insolence ! Je suis la duchesse !
  Donner à ses truies des titres aussi hauts !
  Votre Altesse, j'attire votre attention
- sur la conduite indécente de ce porcher.
+ sur la conduite scandaleuse de ce porcher.
 # LA PRINCESSE. 
 - Premièrement, ce n’est pas un porcher, c’est Henri.
  Deuxièmement, les truies, ce sont ses sujets,
@@ -222,7 +223,7 @@ Qu’est-ce qui t’arrive?
  Il vous tient par la main!
 # LA PRINCESSE. 
 - Qu'y a-t-il là d’indécent à ça !
- S’il me tenait la ... 
+ S’il me tenait la jambe... 
 # LA PREMIÈRE DAME DE COMPAGNIE. –
 - Je vous en supplie, taisez-vous.
  Vous êtes tellement innocente que vous pouvez dire
@@ -240,9 +241,9 @@ Qu’est-ce qui t’arrive?
 - Princesse, je vais te dire quelque chose... 
 # LA PREMIÈRE DAME DE COMPAGNIE, d’un air résolu. –
 - Votre Altesse ! Nous sommes venues écouter le chaudron.
- Si nous n’écoutons pas le chaudron,
- mais qu’avec une attention des plus indécentes,
- nous écoutons un inconnu, eh bien, sans plus attendre, je... 
+ Si au lieu d'écouter le chaudron,
+ nous écoutons, avec une attention des plus indécentes,
+ un inconnu, eh bien, sans plus attendre, je... 
 # LA PRINCESSE. 
 - Eh bien, n’écoutez pas un inconnu et écartez-vous.
 #LA PREMIÈRE DAME DE COMPAGNIE. –
@@ -251,7 +252,7 @@ Qu’est-ce qui t’arrive?
  - N’importe quoi. Je ne parle jamais avec des inconnus.
 # LA PREMIÈRE DAME DE COMPAGNIE. –
 - ... je vous donne ma parole, princesse,
- que j’appelle le roi tout de suite. 
+ que j’appelle tout de suite le roi. 
 # LA PRINCESSE. 
  - La paix !
 # LA PREMIÈRE DAME DE COMPAGNIE, elle crie tournée vers le château. –
@@ -272,7 +273,7 @@ Qu’est-ce qui t’arrive?
 # CHRISTIAN.
 - Cela saute aux yeux.
  Maintenant, surtout, embrasse-la. Trouve une occasion !
- Embrasse-la, qu’elle s’en souvienne quand elle sera rentrée chez elle.
+ Embrasse-la, qu’elle ait un souvenir à ramener à la maison.
 Voici, Votre Altesse et vous, nobles dames,
  un chaudron remarquable agrémenté de grelots.
 Qui est-ce qui l’a fabriqué ? C’est nous.

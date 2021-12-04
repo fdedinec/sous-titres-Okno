@@ -2171,10 +2171,15 @@ On a voulu la marier à un vieillard,
 # Mon Henri, mon tout mignon,
 # Rentrons vite, rentrons vite,
 # Rentrons vite à la maison !
-Quand tout dans notre vie est tout noir ou tout blanc,
+# Ce qui suit n'est pas de Schwartz
+#В чёрном-белом краю верим мы в чудеса,
+#Если сажи чёрней вновь идёт полоса.
+#И ничтожный глупец заправляет в стране,
+#Если истина только в вине.
+Quand ce qui nous entoure est tout noir ou tout blanc,
  Qu'on ne croit plus à rien sauf aux contes de fées,
  Quand le pays plie sous l'ineptie du tyran,
- Ce n'est qu'au fond du verre qu'on voit la vérité.
+ Quand c'est au fond du verre que gît la vérité...
 Ne baissez pas les bras ! 
  Ne baissez pas les bras !
  Ne baissez pas les bras !
@@ -2182,10 +2187,15 @@ Que la terre soit en joie,
  Nous avons chassé le roi !
  Que la terre soit en joie,
  Nous avons chassé le roi !
-Résignés aux caprices qui vont guider nos pas
- Quand on choisit pour nous qui peut vivre, et qui pas
- Qand la Contre la mode des esprits creux, 
- Et même si le chemin est tortueux 
+#Если ноль у руля,
+#а так хочется плыть,
+#И решают за нас быть нам или не быть.
+#Если в моде опять дуушии пустота,
+#Если слишком дорога крута.
+Si le nul aux commandes a asséché nos rêves,
+ Si l'on choisit pour nous qui peut vivre et qui crève,
+ Si une pensée vide à nouveau est la norme,
+ Et surtout si l'obstacle à franchir est énorme... 
 Ne baissez pas les bras ! 
  Ne baissez pas les bras !
  Ne baissez pas les bras !
