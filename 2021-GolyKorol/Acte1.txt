@@ -222,7 +222,7 @@ Qu’est-ce qui t’arrive?
  Il vous tient par la main!
 # LA PRINCESSE. 
 - Qu'y a-t-il là d’indécent à ça !
- S’il me tenait la jambe... 
+ S’il me tenait la ... 
 # LA PREMIÈRE DAME DE COMPAGNIE. –
 - Je vous en supplie, taisez-vous.
  Vous êtes tellement innocente que vous pouvez dire
@@ -1326,13 +1326,13 @@ Je vais par le monde en fête,
 # LA PRINCESSE :
 - Où sont mes chaussons ? Les voilà !
  Est-ce que, derrière la porte ... 
- Qui êtes-vous ?
+Qui êtes-vous ?
 # LES GENDARMES :
-- Nous sommes deux gendarmes de Sa Majesté le roi. 
+ - Nous sommes deux gendarmes de Sa Majesté le roi. 
 # LA PRINCESSE :
  - Que faites-vous ici ?
 # LES GENDARMES :
- - Nous montons la garde pour Votre Altesse.
+- Nous montons la garde pour Votre Altesse.
 # LA PRINCESSE :
  - Mais qui vient de chanter ?
 # LES GENDARMES :
@@ -1341,9 +1341,8 @@ Je vais par le monde en fête,
  Il vous aime parce que vous êtes tellement tout mignonne,
  tellement gentille, tellement douce.
 Il ne geint pas, il ne pleure pas, il ne perd pas de temps. 
- Il vire et vole autour de vous
- pour vous sauver d’un fiancé maudit.
-Il a chanté pour vous rappeler à lui,
+ Il vire et vole autour de vous pour vous sauver d’un fiancé maudit. 
+ Il a chanté pour vous rappeler à lui,
  et c’est son ami qui reprenait sa chanson. 
 # LA PRINCESSE :
 - Mais où est-il ?

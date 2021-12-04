@@ -90,17 +90,17 @@ N'empêche, je sonne déjà depuis une heure,
 
 Qu'est-ce que c'est ?
 # LE CUISINIER -
-- Des écrevisses, monsieur le valet de chambre.
+- Du saumon, monsieur le valet de chambre.
  Nous allons les mettre dans la cccchhhambre à cccouccchhher du roi,
- elles vont claquer des pinces, et réveilleront SSSa MMMajesté.
+ il va clapoter, et réveillera SSSa MMMajesté.
 # LE VALET DE CHAMBRE -
- - Non.
+ - Pas question !
 # LE CUISINIER -
 - Mais pourquoi ? 
 # LE VALET DE CHAMBRE -
- - Des écrevisses, on a beau dire,  pardonnez-moi.....
-  le roi peut voir rouge....
- Et vous savez bien ce que le roi pense du rouge. Enlevez !
+ - Du saumon, on a beau dire,  pardonnez-moi.....
+  c'est rouge comme poisson, le roi peut voir rouge....
+ Vous savez bien ce que le roi pense du rouge. Enlevez !
 #Là, c'est mieux, monsieur le cuisinier en chef.
 #Holà !  Appelez-moi un escadron de soldats,
 # qu'ils tirent sous les fenêtres  de la chambre à coucher,
@@ -136,8 +136,8 @@ Qu'est-ce que c'est ?
 # LE PREMIER MINISTRE -
 - Moins de bruit ! Le roi dort !
  Gaaarde à vous
- Alignement sur le portrait du papi à Sa Majesté.
-  A-lignement sur le nez. Sur son nez, au papi. Tout droit !
+ Alignement sur le portrait du grand-père de Sa Majesté.
+  A-lignement sur le nez. Sur le nez au papi. Tout droit !
 
 # CHRISTIAN -
 - Et avec des soldats aussi bien entraînés,
@@ -300,7 +300,7 @@ Là, ils se sont mis à brûler tous les livres, sans distinction.
 Hourra au roi ! Hourra au roi ! Hourra au roi !
 - Hein, hein, qu'est-ce que c’est ? Mais pourquoi tout ça ?
  Pourquoi vous m’avez réveillé ?
- Je rêvais d’une nymphe. Quelle chiennerie ! 
+ Je rêvais d’une nymphe. Cochonnerie ! 
 # LE VALET DE CHAMBRE 
 - Oserai-je rappeler à Sa Majesté
  qu’aujourd’hui doit arriver la princesse,
@@ -349,7 +349,8 @@ Fainéant !
  Dégoûté même...
 Je voyais en rêve une noble, une jolie nymphe
  de bonne race et du sang le plus pur.
- Je me réveille, et qu’est-ce que je vois ?
+ On massacrait les voisins, et ensuite, héhé... on était heureux !
+Je me réveille, et qu’est-ce que je vois ?
  Ce laquais répugnant !
 Comment je le disais à la nymphe ?
  Ensorceleuse. Encharmeresse !
@@ -1122,7 +1123,7 @@ Notre amour est plus immense
 # LA PRINCESSE 
  - Pourquoi tu ne me dis pas : tire-moi par la barbe ?
 # LE PREMIER MINISTRE 
- - Pourquoi faire, Votre Altesse ?
+ - Tire-moi quoi, Votre Altesse ?
 # LA PRINCESSE 
 - Toi alors ! Maintenant, tu ne me la feras plus !
  Je t’ai reconnu tout de suite !
@@ -1183,7 +1184,7 @@ Permettez, princesse, de vous présenter les demoiselles d’honneur.
 Les filles ! À mes ordres ! En avant - marche !
 # LA PRINCESSE 
  - C'est affreux !
- 
+
 # LE PREMIER MINISTRE
 - Eh, vous, là-bas !
 # Faites entrer les soldats.
@@ -1244,9 +1245,9 @@ Mais où est-elle ?
 # LE PREMIER MINISTRE 
  - Elle arrive, Votre Majesté.
 #L’OFFICIER :
-- À la vue de la jeune et belle princesse, pleins d'entrain, sau-utez !
+#- À la vue de la jeune et belle princesse, pleins d'entrain, sau-utez !
 #L’OFFICIER :
- Caa-lmez-vous !
+# Caa-lmez-vous !
 # LE ROI 
 - Bonjour, princesse.
 # LA PRINCESSE 
@@ -1287,7 +1288,7 @@ Je sens que nous nous aimons, princesse,
  - Séance tenante, faites-moi mon costume de noce !
 #LA PREMIÈRE DEMOISELLE D’HONNEUR :
 - Mais vous-avez entendu, comme elle a manqué de respect
- à la discipline ?
+ ... à la discipline ?
 # LE ROI 
 - Non, je n'ai rien entendu ! J'ai seulement vu !
  Je suis tombé amoureux ! Elle est merveilleuse ! 
@@ -1828,8 +1829,8 @@ Non ! Je vais voir le souverain, et je le lui dis tout net :
  - Mais vous n’y aviez sans doute que quelques sous.
 # LE MENDIANT :
 - Que quelques sous ? Espèce de goujat !
- Moi, le mendiant le plus expert, le plus ancien, le plus expérimenté —
- que quelques sous ! J’avais dix mille thalers !
+ Moi, le mendiant le plus expert, le plus ancien, le plus expérimenté !
+ Quelques sous ! Mais j’avais dix mille thalers !
 Ah ! Le voilà, mon porte-monnaie, dans la doublure !
  Dieu soit loué !
  La charité, au nom du Christ...
@@ -1900,7 +1901,7 @@ Vous entendez, messieurs ? Et il a juste six ans.
 #	Je ne vois plus ma montre, mon portefeuille, mon porte-monnaie !
 #L’HOMME :
  Place à mon petit garçon ! Place à mon fils génial !
- Combien ça fait, six fois six ?
+Combien ça fait, six fois six ?
 #LE PETIT GARÇON :
  - Trente-six.
 # L’HOMME :
@@ -2049,8 +2050,8 @@ Qu'est-ce que vous faites, cousin?
 - Et vlan !
  Premier ministre ! Je suis habillé ?
 #Le PREM.MIN.:
- - Pardonnez ma grossièreté, Votre Majesté.
-Tu est nu, vieux crétin ! Tu comprends ?
+- Pardonnez ma grossièreté, Votre Majesté.
+ Tu est nu, vieux crétin ! Tu comprends ?
  Tout nu, tout nu, tout nu !
 Mais regarde le peuple ! Le peuple, regarde-le !
  Ils pensent. Ils pensent, malheureux bouffon !
@@ -2129,11 +2130,9 @@ J'ai essayé de lancer un ordre :
 - Il est intelligent,
  il connaît sa table de multiplication !
  Le roi est nu !
-- Il a une verrue sur le ventre,
- et il lève des impôt !
-- Le ventre comme une pastèque,
- et il dit - soumettez-vous !
-- Un bouton ! Regardez, il a un bouton !
+- Il a une verrue sur le ventre,  et il lève des impôt !
+ - Le ventre comme une pastèque,  et il dit - soumettez-vous !
+ - Un bouton ! Regardez, il a un bouton !
  - Et c'est lui qui stérilise !
 # LE ROI:
 - Silence ! Je fais exprès. Oui ! J'ai tout fait exprès.
@@ -2172,23 +2171,39 @@ On a voulu la marier à un vieillard,
 # Mon Henri, mon tout mignon,
 # Rentrons vite, rentrons vite,
 # Rentrons vite à la maison !
-Quand tout est noir ou blanc,
- 
-#LA FOULE:
+Quand tout dans notre vie est tout noir ou tout blanc,
+ Qu'on ne croit plus à rien sauf aux contes de fées,
+ Quand le pays plie sous l'ineptie du tyran,
+ Ce n'est qu'au fond du verre qu'on voit la vérité.
+Ne baissez pas les bras ! 
+ Ne baissez pas les bras !
+ Ne baissez pas les bras !
 Que la terre soit en joie,
  Nous avons chassé le roi !
  Que la terre soit en joie,
  Nous avons chassé le roi !
-# HENRI:
-Faites travailler vos têtes,
- Faites travailler vos cœurs,
- Et vous ferez la conquête
- De la joie et du bonheur !   
-#LA FOULE:
+Résignés aux caprices qui vont guider nos pas
+ Quand on choisit pour nous qui peut vivre, et qui pas
+ Qand la Contre la mode des esprits creux, 
+ Et même si le chemin est tortueux 
+Ne baissez pas les bras ! 
+ Ne baissez pas les bras !
+ Ne baissez pas les bras !
 Que la terre soit en joie,
  Nous avons chassé le roi !
  Que la terre soit en joie,
  Nous avons chassé le roi !
+
+## HENRI:
+#Faites travailler vos têtes,
+# Faites travailler vos cœurs,
+# Et vous ferez la conquête
+# De la joie et du bonheur !   
+##LA FOULE:
+#Que la terre soit en joie,
+# Nous avons chassé le roi !
+# Que la terre soit en joie,
+# Nous avons chassé le roi !
 
 
 
