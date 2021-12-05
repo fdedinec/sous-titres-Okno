@@ -39,10 +39,11 @@ def main(filename):
     pygame.init()
     black = 0, 0, 0
     white = 255, 255, 255
-    font_size=30; # 24 normal
+    font_size=40; # 24 normal
     line_height=font_size*1.5
     myfont = pygame.font.SysFont("dejavusans", font_size, 0, 0)
-    screen_size = 1300,900 # for a 1024x768 proj
+    screen_size = 2000,1200 # for a 1024x768 proj
+    #screen_size = 1300,900 # for a 1024x768 proj
     #screen_size = 900,700 # forour cheap Acer 800x600 proj
     screen = pygame.display.set_mode(screen_size,0,24)
     #screen = toggle_fullscreen()
@@ -74,9 +75,9 @@ def main(filename):
         y=1
         for line in phrase:
             text = myfont.render(line,True,white)
-            #text_rect = text.get_rect(center=(screen.get_width()/2,line_height*(y+1) )) # trois quarts haut
+            text_rect = text.get_rect(center=(screen.get_width()/2,screen.get_height()*.25+ line_height*(y+1))) # trois quarts haut
             #text_rect = text.get_rect(center=(screen.get_width()/2,line_height*(y+0.5) )) # en haut 
-            text_rect = text.get_rect(center=(screen.get_width()/2,screen.get_height()/2+line_height*(y+1) )) # en bas
+            #text_rect = text.get_rect(center=(screen.get_width()/2,screen.get_height()/2+line_height*(y+1) )) # en bas
             #text_rect = text.get_rect(center=(screen.get_width()/2,screen.get_height()/2.2+line_height*(y+1) )) # Au milieu
             y+=1
             screen.blit(text, text_rect)

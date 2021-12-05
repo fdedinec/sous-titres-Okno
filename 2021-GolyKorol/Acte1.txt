@@ -494,7 +494,7 @@ Et donc, je retourne le chaudron sur le flanc droit
 # LA PRINCESSE. -
 - Dix, cinq, trois. Mais à qui tu parles ?
  Tu oublies que je suis fille de roi !
-- Quatre-vingts ! Au moins !  
+Quatre-vingts ! Au moins !  
 # L DAMES DE COMPAGNIE,-Oh!
 # HENKI. -
  - Quoi, quatre-vingts ?
@@ -516,7 +516,7 @@ Et donc, je retourne le chaudron sur le flanc droit
 # LA PRINCESSE, -
 - Mais fichez-moi la paix !
 # HENKL -
- - Plus vite ! Plus vite!
+ - Plus vite ! Plus vite !
 # LA PRINCESSE,
  - Quand tu voudras, Henri, je suis prête.
 # LA PREMIERE DAME DE COMPAGNIE, -
@@ -524,7 +524,7 @@ Et donc, je retourne le chaudron sur le flanc droit
  Si vous avez tellement envie de danser, qu'il me donne, à moi,
  cent baisers s'il le faut...
 # LA PRINCESSE,-
-- Vous ? Mais, ça, ce serait indécent pour de vrai !
+- Vous ? Voilà qui serait indécent pour de bon !
  Lui, il ne vous a rien demandé.
  C'est vous-même qui proposez à un homme qu'il vous embrasse.
 # LA PREMIÈRE DAME DE COMPAGNIE, -
@@ -611,10 +611,10 @@ Comment est-ce possible, de gêner des gens
 #  LA PRINCESSE -
  - Oui.
 #Le Roi-
-- Non mais!
+- Non mais !
  Dès demain, je te marie avec le roi d'à côté.
 #   LA PrenCESS
-- Jamais!
+- Jamais !
 # LE roi -
  - On te demande ton avis ?
 # Le prencess.-
@@ -635,7 +635,7 @@ Comment est-ce possible, de gêner des gens
  - Ce n'est pas avec les dents qu'on sе marie,  с'est avec l'homme.
  Eh oh, les dames ! Debout !
 #  Les dames se lèvent.
-- Bien ! Très bien ! Il suffit que je sois en retard
+Bien ! Très bien ! Il suffit que je sois en retard
  parce que j'ai mis du temps à trouver 
  de quoi agrafer mon manteau d'hermine,
  pour que vous, vous organisiez une orgie !
@@ -716,7 +716,7 @@ Il a raison, il a raison !
  - Oui, rien qu'une seule.
 # LE ROI :
 Et une chanson dans ce genre-là, il n'en a pas ?
-C'est mal parti, ton affaire - du balai.
+ " C'est mal parti, ton affaire : du balai ! "
 # HENRI :
 - Une chanson de genre-là, il n'en a pas,
  et il ne peut pas en avoir.
@@ -743,11 +743,11 @@ Me voilà le plus audacieux du monde.
  J'ai embrassé ta fille, et, maintenant,
  je n'ai plus peur de rien !  Adieu !
 # LE ROI :
-- Attends, il faut que je recompte les cochons.
+- Attends, il faut d'abord que je recompte mes cochons.
  Un, deux, trois, quinze, vingt...
  Bon, ça va, vas-t-en. 
 #HENRI :
-- Adieu, Majesté. Allons-y, Christian. 
+ - Adieu, Majesté. Allons-y, Christian. 
 Notre amour est plus immense
  que le bois profonds,
  quoi qu'on dise, quoi qu'on pense,
@@ -768,8 +768,8 @@ Non mais regardez-les, ça marche et ça chante !
 #LE MINISTRE DES TENDRES SENTUMENTS :
 - Je suis le ministre des tendres sentiments de Sa Majesté le roi.
  En ce moment, j'ai une masse de travail : 
-  mon roi se marie à la princesse d'à côté.
-Je suis ici, d'abord pour organiser la réception de la princesse
+  mon roi va se marier à la princesse d'à côté.
+Je suis d'abord ici pour organiser la réception de la princesse
  avec toute la solennité requise.
  Puis, ensuite et enfin, pour résoudre deux problèmes épineux.
 Le fait est qu'une idée épouvantable a traversé l'esprit
@@ -783,8 +783,8 @@ Gendarmes !
 #LES GENDARMES :
  - À vos ordres, Votre Excellence !
 #LE MINSITRE :
-- Et donc, mon maître, mardi dernier, en déjeunant,
- une pensée affreuse lui est venue.
+- Et donc, mon maître, mardi dernier, déjeunait,
+ lorsqu'une pensée affreuse lui est venue.
 Il mangeait justement du saucisson et,
  d'un seul coup, il s'est figé
  avec un morceau entre les dents.
@@ -1277,11 +1277,11 @@ Et voilà qu’aujourd’hui, ça ne marche pas du tout.
 Soit c’est une plume qu'il y a dans le duvet,
  soit sur les planches du lit, une écharde.
  Je parie que je suis couverte de bleus.
-Ah, ce que je suis une princesse malheureuse !
+Ah, malheureuse princesse que je suis !
  J’ai regardé par la fenêtre,
  il y a des jeunes filles qui se promènent avec leurs amis,
  et, moi, je suis là, ma vie file pour rien !
-Aujourd’hui, j’ai noté dans ma petite note
+Aujourd’hui, j’ai noté sur ma petite note
  ce qu’il fallait que je demande à Henri
  quand je le verrai dans mon rêve.
  Parce que j’oublie tout le temps. La voilà, la petite note...
@@ -1349,7 +1349,7 @@ Il ne geint pas, il ne pleure pas, il ne perd pas de temps.
 - Mais où est-il ?
  Pourquoi ne répondez-vous pas ?
  Où est Henri ? Pourquoi avez-vous l’air si tristes ?
- Peut-être vous êtes venus pour me tuer ?
+ Peut-être êtes-vous venus pour me tuer ?
 # LES GENDARMES :
 - Tirez-nous la barbe.
 # LA PRINCESSE :
@@ -1461,7 +1461,7 @@ On n’obtient jamais rien du premier coup.
  et, quand même tu serais au pied de l'autel, nous te sauverons.
  Viens, ma pauvrette !
 # LA PRINCESE :
-- Dites, mes chers petits amis...
+- Dites, mes adorables amis...
  Vous ne serez pas fâchés si je vous demande quelque chose ?
 # HENRI :
  - Bien sûr que non, demande ! Je ferai tout pour toi.

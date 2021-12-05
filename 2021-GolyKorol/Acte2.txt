@@ -1,9 +1,13 @@
 ## Le Roi Nu, d'Evgueni Schwarz (Евгений Шварц).
 # Acte II
-# Texte français dérivé de la traduction d'André Markowicz
+# Texte français lourdement remanié à partir de la traduction d'André Markowicz
 # avec quelques coupes pour le spectacle d'Okno
-# et quelques modifications stylistiques à la marge
+# et de nombreuses améliorations stylistiques
+# Affiche etc sur http://club.lycorn.free.fr
 #
+
+Merci d'éteindre vos téléphones portables
+
 # LE CIREUR -
 - On frappe à la porte de la salle de réception du roi,
  monsieur le cuisinier en chef.
@@ -17,14 +21,14 @@
 # LE CIREUR -
  - Entrez.
 # CHRISTIAN ET HENRI -
-- Bonjour, monsieur le sonneur.
+- Bonjour, monsieur le valet de chambre.
 - Bonjour, monsieur le cuisinier.
 - Bonjour, monsieur le cireur de chaussures.
 # LE CIREUR -
  - Bonjour, tailleurs.
 # CHRISTIAN -
-- Ils ont répondu. Quelle histoire !
- Mais dites-moi, les autres messieurs,
+- Ils ont répondu. Merveilleux !
+ Mais dites-moi, ces autres messieurs, là,
  ils sont quoi, sourds ou bien muets ?
 # LE CIREUR -
 - Ni l'un ni l'autre, tisserands.
@@ -503,7 +507,7 @@ Il est là, le savant de la cour ? Tant pis !
 # LE ROI 
  - De moi ? Bravo !
 # LA PREMIÈRE DEMOISELLE D’HONNEUR :
- - Heureuse de mettre mon zèle au service de Votre Majesté.
+ - Mon zèle est au service de Votre Majesté.
 # LE ROI 
 - Et vous, jeunes filles, de quoi avez-vous rêvé ?
 # LES AUTRES DEMOISELLES D’HONNEUR :
@@ -511,7 +515,7 @@ Il est là, le savant de la cour ? Tant pis !
 # LE ROI 
  - Bravo !
 #LES AUTRES DEMOISELLES D’HONNEUR :
- - Heureuses de mettre notre zèle au service de Votre Majesté.
+ - Notre zèle est au service de Votre Majesté.
 # LE ROI 
 - Parfait. Première demoiselle d’honneur !
  Votre militarisation de nos belles est une réussite.
@@ -529,7 +533,7 @@ Je vous exprime ma pleine satisfaction. Quel est votre grade ?
  Toutes les nuits, vous ne rêvez que de moi.
  Vous êtes mon canari, général !
 # LA PREMIÈRE DEMOISELLE D’HONNEUR :
-- Heureuse de mettre mon zèle au service de Votre Majesté.
+- Mon zèle au service de Votre Majesté.
 # LE ROI 
 - Ah, mes petites sucreries.
  Ne vous éloignez pas, mes gentilles.
@@ -542,7 +546,7 @@ Je vous exprime ma pleine satisfaction. Quel est votre grade ?
  j’ai dressé avec une exactitude totale
  l’arbre généalogique de votre invitée.
 # LE ROI 
-- Coucou ! Hi-hi- hi.
+#- Coucou ! Hi-hi- hi.
 # LE SAVANT 
 - Commençons par le blason.
  On appelle blason, Votre Majesté,
@@ -554,7 +558,7 @@ Je vous exprime ma pleine satisfaction. Quel est votre grade ?
  - Depuis les temps immémoriaux on a fait usage de signes symboliques,
  oui, de signes qu’on gravait sur des bagues.
 # LE ROI 
- - Tu-tu !
+# - Tu-tu !
 # LE SAVANT 
 - Qu’on dessinait sur les armes, les bannières, etc., oui, etc.
 # LE ROI 
@@ -607,12 +611,12 @@ Sur champ d'or semé de cœurs de gueules
 # LE ROI. 
  - Quelle horreur ! La princesse est juive ?
 # LE SAVANT. -
- - Voyons, Votre Majesté!
+- Voyons, Votre Majesté!
 # LE ROI. 
  - Mais, Adam, il était bien Juif ?
 #LE SAVANT. -
-- C'est une question controversée, Votre Majesté !
- Selon mes sources, il était caraïte.
+ - C'est une question controversée, Votre Majesté !
+# Selon mes sources, il était caraïte.
 # LE ROI. 
 - Ah, d'accord.
  Moi, l'essentiel, c'est que la princesse soit de sang pur.
@@ -1935,7 +1939,7 @@ Combien ça fait, six fois six ?
 - Un roi ne peut pas être un idiot, ma fille.
  Le roi est toujours sage.
 # LA PRINC.:
-- Mais il est gros!
+- Mais il est gros !
 #LE R P:
  - Ma fille, un roi n'est pas gros.
  Dans ce cas on dit "majestueux".
@@ -1943,7 +1947,7 @@ Combien ça fait, six fois six ?
 - En plus j'ai l'impression qu'il est sourd.
  Je l'injurie, et lui, il n'entend rien et il rigole.
 #LE R.P.:
-- Le roi ne rigole pas.
+- Un roi ne rigole pas.
  Il fait un sourire condescendant.
 Pourquoi tu m'embêtes ?
  Pourquoi tu me regardes avec des yeux de biche ?
@@ -1951,15 +1955,15 @@ Pourquoi tu m'embêtes ?
 Tiens, je t'ai apporté ton chaudron.
  Le roi, tu ne l'auras quand même pas sur le dos tous les jours.
  Tu pourras écouter de la musique, les petites clochettes.
-Quand tu n'auras personne à côté, tu peux même écouter la chanson.
- Une princesse ne peux quand même pas épouser un gardien de cochons !
+ Quand tu n'auras personne à côté, tu peux même écouter la chanson.
+Une princesse ne peux quand même pas épouser un gardien de cochons !
  Ça ne se fait pas du tout !
 #LA PR.:
 - Ce n'est pas un gardien de cochons, c'est Henri !
 #LE ROI P.:
- - C'est pareil! Ne fais pas ta bécasse !
+ - C'est pareil ! Ne fais pas ta bécasse !
  Ne sape pas le respect dû au pouvoir royal.
- Sinon les rois voisins vont te faire les sourires condescendants.
+ Sinon les rois voisins vont te faire des sourires condescendants.
 #LA PR.:
 - Tu es un tyran!
 #LE ROI P.:
@@ -2060,7 +2064,7 @@ Tais-toi, espèce de minus !
  Général ! Ici !
 Les troupes, on peut compter dessus ?
  Elles défendront le roi, au cas où ?
-# Vous entendez comme le peuple fait silence?
+ Vous n'entendez pas le silence du peuple  ?
 #LE GEN.:
 - La météo nous a joué un tour, Monsieur le Premier Ministre !
 #LE ROI:
@@ -2135,8 +2139,8 @@ J'ai essayé de lancer un ordre :
  - Un bouton ! Regardez, il a un bouton !
  - Et c'est lui qui stérilise !
 # LE ROI:
-- Silence ! Je fais exprès. Oui ! J'ai tout fait exprès.
- J'ordonne: dorénavant, tout le monde doit se marier tout nu.
+- Silence ! J'ai fait exprès. Oui ! J'ai tout fait exprès.
+ Et j'ordonne que désormais, tout le monde se mariera tout nu.
  Voilà !
 
 Crétins pouilleux !
@@ -2163,8 +2167,7 @@ Mais la fête aura quand même eu lieu !
 On a voulu la marier à un vieillard,
  mais la force de l'amour a vaincu tous les obstacles.
 # Nous saluons votre colère légitime contre ces murs sinistres.
- Répondez à notre salut,
- saluez l'amour, l'amitié, le rire, la joie !
+ Saluons ensemble l'amour, l'amitié, le rire, la joie !
 
 # LA PRIN.: 
 #Mon Henri aux belles boucles,
@@ -2176,13 +2179,13 @@ On a voulu la marier à un vieillard,
 #Если сажи чёрней вновь идёт полоса.
 #И ничтожный глупец заправляет в стране,
 #Если истина только в вине.
-Quand ce qui nous entoure est tout noir ou tout blanc,
- Qu'on ne croit plus à rien sauf aux contes de fées,
- Quand le pays plie sous l'ineptie du tyran,
- Quand c'est au fond du verre que gît la vérité...
-Ne baissez pas les bras ! 
- Ne baissez pas les bras !
- Ne baissez pas les bras !
+Si ce qui nous entoure est tout noir ou tout blanc,
+ Si on ne croit à rien sauf aux contes de fées,
+ Si le pays plie sous l'ineptie du tyran,
+ Si c'est au fond du verre que gît la vérité...
+Ne baisse pas les bras ! 
+ Ne baisse pas les bras !
+ Ne baisse pas les bras !
 Que la terre soit en joie,
  Nous avons chassé le roi !
  Que la terre soit en joie,
@@ -2193,12 +2196,12 @@ Que la terre soit en joie,
 #Если в моде опять дуушии пустота,
 #Если слишком дорога крута.
 Si le nul aux commandes a asséché nos rêves,
- Si l'on choisit pour nous qui peut vivre et qui crève,
+ Si l'on choisit pour nous qui peut vivre, et qui crève,
  Si une pensée vide à nouveau est la norme,
  Et surtout si l'obstacle à franchir est énorme... 
-Ne baissez pas les bras ! 
- Ne baissez pas les bras !
- Ne baissez pas les bras !
+Ne baisse pas les bras ! 
+ Ne baisse pas les bras !
+ Ne baisse pas les bras !
 Que la terre soit en joie,
  Nous avons chassé le roi !
  Que la terre soit en joie,
