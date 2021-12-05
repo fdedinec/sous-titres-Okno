@@ -56,7 +56,7 @@ Et je continue d’essayer de la convaincre,
 Finalement, j’ai trouvé.
  J’ai un chaudron, je lui dis, à grelots,
 il chante d’une voix de rêve, il joue du violon,
- du cor de chasse, de la flûte, et, en plus,
+ du cor de chasse, de la flûte, et en plus,
  il raconte ce que les gens se font à manger.
 Apporte-le ici, elle me dit, ce chaudron.
  Non, je lui dis, je vais me le faire confisquer par le roi.
@@ -169,7 +169,7 @@ Qu’est-ce qui t’arrive?
  d’insulter les dames de la cour.
 # LA PRINCESSE. 
 - Premièrement, ce n’est pas un petit cochon, c’est un porcher,
- et, deuxièmement, pourquoi tu agresses ma suite ?
+ et deuxièmement, pourquoi tu agresses ma suite ?
 # HENRI.
 - Appelle-moi, s’il te plait, Henri.
 # LA PRINCESSE. 
@@ -208,7 +208,7 @@ Pourquoi est-ce que cette dame
 # LA DEUXIÈME DAME DE COMPAGNIE. –
  - Certainement pas ! La comtesse, c’est moi !
 # HENRI. 
- - Et, cette truie-là, c’est Duchesse.
+ - Et cette truie-là, c’est Duchesse.
 # LA PREMIÈRE DAME DE COMPAGNIE. –
 - Quelle insolence ! Je suis la duchesse !
  Donner à ses truies des titres aussi hauts !
@@ -533,9 +533,9 @@ Quatre-vingts ! Au moins !
 - Absolument pas, c'est lui qui m'a forcée !
  Je vous comprends ... cent fois !
  Bien sûr, il est tellement mignon, frisé,
- sa bouche est tellemens plaisante...
+ sa bouche est tellement plaisante...
 Elle a un peu raison, Henri, tu vas m'embrasser cent fois.
- Et, s'il vous plaît, duchesse, ne discutez pas,
+ Et s'il vous plaît, duchesse, ne discutez pas,
  sans quoi je vous fais jeter aux oubliettes. 
 # La première dame de compagnie. -
 - Mais le roi peut vous voir de la fenêtre de son château !
@@ -583,7 +583,7 @@ Comment est-ce possible, de gêner des gens
 #Le roi.
  - Silence ! Vous des allumettes ?
 #Christian.
- - Oui, Votre Maj...
+ - Oui, Votre Majesté.
 #Le roi.
  - Silence ! Passez-les-moi.
 #Christian. -
@@ -614,7 +614,7 @@ Comment est-ce possible, de gêner des gens
 - Non mais !
  Dès demain, je te marie avec le roi d'à côté.
 #   LA PrenCESS
-- Jamais !
+ - Jamais !
 # LE roi -
  - On te demande ton avis ?
 # Le prencess.-
@@ -651,7 +651,7 @@ Je vous laisse vivantes, et, toute la vie,
  je vous gronde, je vous gronde,
  je vous chicane, јe vous chicane.
 Aha ! Et vlan !
- Et, en plus, vous êtes privées de salaire !
+ Et en plus, vous êtes privées de salaire !
 Debout ! Et toi, porcher, avec ton ami,
  je vous bannis du royaume.
 Tu n'es pas trop coupable.
@@ -661,10 +661,10 @@ Où est le chaudron ?
  Le chaudron, je le garde pour moi.
 
 #LE CHAUDRON :
-#Je vais par le monde en fête,
-# je suis plein de feu,
-# depuis que j'ai vu Henriette,
-# je suis amoureux.
+Je vais par le monde en fête,
+ je suis plein de feu,
+ depuis que j'ai vu Henriette,
+ je suis amoureux.
 Notre amour est plus immense
  que le bois profonds,
  quoi qu'on dise, quoi qu'on pense,
@@ -724,9 +724,9 @@ Et une chanson dans ce genre-là, il n'en a pas ?
 - Ne me mets pas en colère, toi.
  Tu m'as vu, quand je m'énerve ?
 # HENRI :
-- Je vous ai vu.
+ - Je vous ai vu.
 #LE ROI :
- - Tu as tremblé ?
+- Tu as tremblé ?
 # HENRI :
  - Non.
 #LE ROI :
@@ -740,7 +740,7 @@ Et une chanson dans ce genre-là, il n'en a pas ?
  Il est idiot, je vais le rouler dans la farine,
  en deux temps trois mouvements.
 Me voilà le plus audacieux du monde.
- J'ai embrassé ta fille, et, maintenant,
+ J'ai embrassé ta fille, et maintenant,
  je n'ai plus peur de rien !  Adieu !
 # LE ROI :
 - Attends, il faut d'abord que je recompte mes cochons.
@@ -785,8 +785,8 @@ Gendarmes !
 #LE MINSITRE :
 - Et donc, mon maître, mardi dernier, déjeunait,
  lorsqu'une pensée affreuse lui est venue.
-Il mangeait justement du saucisson et,
- d'un seul coup, il s'est figé
+Il mangeait justement du saucisson,
+ et tout à coup, il s'est figé
  avec un morceau entre les dents.
 Nous, nous sommes précipités vers lui, en nous exclamant :
  "Votre Majesté ! Qu'est-ce qui vous prend !"
@@ -812,11 +812,11 @@ Si, d'un coup, la princesse n'était pas la fille du roi,
  mais une fille d'origine inconnue ?
  Voilà le premier problème que je dois résoudre.
 Le deuxième est le suivant.
- Sa Majesté se baignait, était joyeux,
+ Sa Majesté se baignait, de bonne humeur,
  daignait pousser des petits rires et dire des mots plaisants.
-Et, d'un seul coup, le roi, s'exclamant :
+Et tout à coup, le roi s'exclama :
  "Quelle pensée affreuse !",
- s'est mis à se noyer alors qu'il avait pied.
+ et s'est mis à se noyer alors qu'il avait pied.
 Voilà ce que le roi avait pensé :
  et si, d'un coup, la princesse, avant les fiançailles,
  elle aussi, avait été délurée,
@@ -908,7 +908,7 @@ Il me suffira d'un petit pois
 Le jus de raisin, Votre Excellence, a fermenté
  dans le bedon du premier violon et s'est changé en vin.
 Nous, on le réveille, on le réveille,
- et, lui, il rue et s'obstine à se rendormir.
+ et lui, il rue et s'obstine à se rendormir.
 # LE MINISTRE :
 - Catastrophe ! Que faire ?
 # LE CHEF D'ORCHESTRE :
@@ -957,10 +957,10 @@ Nous avons attaché le violon à une perche,
 - Les mouchoirs se trouver sont dans la valise,
  gotentotenponten-tatertanteatenter.
 # LE CHAMBELLAN :
-- Oder.
- Les mouchoirs sont dans la valise, princesse.
+ - Oder.
+Les mouchoirs sont dans la valise, princesse.
 # LA PRINCESSE :
-- Allez les chercher.
+ - Allez les chercher.
  Vous voyez bien que j'ai les larmes aux yeux.
  Prenez les mouchoirs. Et apportez-les.
 Et qu'on me prépare mon lit. Il va faire bientôt nuit.
@@ -1122,7 +1122,7 @@ Les gens d’une ascendance royale réelle se distinguent
  par une peau d’une sensibilité et d’une douceur incroyables.
  La princesse, si elle est une princesse véritable,
  sentira ce petit pois à travers tous les 24 matelas.
-Elle ne dormira pas de la nuit et, demain, et elle s’en plaindra.
+Elle ne dormira pas de la nuit, et demain et elle s’en plaindra.
  Si elle dort, ça veut dire que ça va mal.
  Vous avez compris ? Allez-y ! 
 # LE BOURGMESTRE :
@@ -1227,7 +1227,7 @@ Le bourgmestre propose de racheter sa faute
 Et appelons aussi la gouvernante.
  Ici, là, sur la petite table, parole d’honneur, je vous jure,
  je le jure sur mon honneur !
-Et, moi, en haut, j’envoie ces deux beaux gaillards de gendarmes.
+Et moi, en haut, j’envoie ces deux beaux gaillards de gendarmes.
  Les chiens les plus fidèles, les plus aguerris de tout le royaume.
 Il ne ne laisseront passer personne chez la princesse,
  ni dans un sens ni dans l’autre.
@@ -1270,17 +1270,17 @@ Bon, et alors ? Tous les soirs, je m’endormais si bien
  Je la chante - et tout s’apaise tout de suite.
 Je me mets à croire tout de suite
  que c’est vrai qu‘Henri ne me laissera pas à ce roi vieux et gros.
- Et le sommeil arrive. Et, dans mon rêve, Henri.
+ Et le sommeil arrive. Et dans mon rêve, Henri.
 Et voilà qu’aujourd’hui, ça ne marche pas du tout.
- Il y a quelque chose, comme ça, qui me rentre dans le corps
+ Il y a quelque chose qui me rentre dans le corps
   à travers les 24 matelas et qui m’empêche de dormir.
-Soit c’est une plume qu'il y a dans le duvet,
- soit sur les planches du lit, une écharde.
+Soit c’est une plume dans le duvet,
+ soit une écharde sur les planches du sommier.
  Je parie que je suis couverte de bleus.
 Ah, malheureuse princesse que je suis !
  J’ai regardé par la fenêtre,
  il y a des jeunes filles qui se promènent avec leurs amis,
- et, moi, je suis là, ma vie file pour rien !
+ et moi, je suis là, ma vie file pour rien !
 Aujourd’hui, j’ai noté sur ma petite note
  ce qu’il fallait que je demande à Henri
  quand je le verrai dans mon rêve.
@@ -1398,7 +1398,7 @@ On n’obtient jamais rien du premier coup.
 # CHRISTIAN :
  - Pauvre princesse - comme elle a maigri !
 # LA PRINCESSE :
-- Et, dis-moi, s’il te plaît, Henri... 
+- Et dis-moi, s’il te plaît, Henri... 
 # CHRISTIAN :
  - Plus tard, pauvre princesse, vous parlerez plus tard.
  Maintenant, écoutez-nous. 
@@ -1584,7 +1584,7 @@ Notre amour est plus immense
 
 - Ils ont filé. C’est plus facile de pister cent cerfs
  que d’amener sans encombre une fille de roi à son fiancé !
-Et, l’autre, il ronfle : dors-dors, reprends des forces.
+Et l’autre, il ronfle : dors-dors, reprends des forces.
  Tu vas t’amuser, encore, avec notre douce demoiselle. Taïaut.
 
 Entracte

@@ -385,7 +385,7 @@ Mais qu’est-ce que c’est que ça ?
  - Son nom de famille ?
 # LE BOUFFON 
 - Petersen. Un marchand, du nom de Petersen, qui sort de sa boutique,
- et, vlan, il trébuche - et il se retrouve le nez sur la chaussée !
+ et vlan, il trébuche - et il se retrouve le nez sur la chaussée !
 # LE ROI 
 # - Ha-ha-ha !
 # LE BOUFFON 
@@ -401,7 +401,7 @@ Et là, il y a un peintre en bâtiment qui trébuche contre le marchand,
  Oh-oh-oh ! Sur la queue ?
 # LE BOUFFON 
 - Sur la queue, Votre Majesté.
- Et, le chien, il a mordu un gros bonhomme.
+ Et le chien, il a mordu un gros bonhomme.
 # LE ROI 
  - Ho-ho-ho ! Ha-ha-ha ! Oh, assez !...
 # LE BOUFFON 
@@ -470,7 +470,7 @@ Pardonnez-moi, Votre Majesté, d’être sans détour -
  J’aime la vérité, même quand elle est désagréable.
 Il est là, le savant de la cour ? Tant pis !
  S’il te plaît ! Appelle-le, qu’il vienne.
- Je m’habille et je prends mon chocolat, et, lui, qu’il parle.
+ Je m’habille et je prends mon chocolat, et lui, qu’il parle.
  Commande l’habillage et le chocolat, honnête vieillard.
 # LE PREMIER MINISTRE 
 #- À vos ordres !
@@ -620,7 +620,7 @@ Sur champ d'or semé de cœurs de gueules
 # LE ROI. 
 - Ah, d'accord.
  Moi, l'essentiel, c'est que la princesse soit de sang pur.
- C'est très à la mode, ces derniers temps, et, moi, je suis franc...
+ C'est très à la mode, ces derniers temps, et moi, je suis franc...
 Hein, je suis un franc dandy, mes canaris?
 # LES DEMOISELLES D'HONNEUR. -
  - Oui, Votre Majesté, vous êtes un franc dandy.
@@ -673,7 +673,7 @@ Ensuite, on aura Philippe Ier l’Anormal, Georges V l’Amusant,
 Georges X l’Asperge, Georges XI le Courageux,
  Georges XII l’Antipathique, Georges XIII l’Insolent,
  Georges XIV l’Intéressant
-et, enfin, le père toujours régnant de la princesse,
+et enfin, le père toujours régnant de la princesse,
  Georges XV, surnommé, pour ses exploits, le Barbu.
  Surnommé, oui.
 # LE ROI. 
@@ -812,7 +812,7 @@ Je l'embrasse ? ha-ha ! Pas mal !
 Regardez, imbéciles: de la pure faille.
  Sur les rebords, de la guipure tressée.
  En haut, des dentelles d’Alençon brodées.
- Et, en bas, de la Valenciennes.
+ Et en bas, de la Valenciennes.
 Ça, c’est pour mon costume de sortie en dentelles.
  Et vous, vous dites - le premier venu !
  Remarquez que même les bottes sont ornées de dentelles de Brabant.
@@ -969,7 +969,7 @@ Les nouvelles sont bonnes ?
  Plus encore, pendant tout le voyage, elle a dormi sur un seul matelas.
 # LE ROI. 
 - Pourquoi est-ce que tu souris ? Tête d’âne !
- Donc, le mariage ne se fera pas ! Et, moi, j’étais déjà dans l’humeur !
+ Donc, le mariage ne se fera pas ! Et moi, j’étais déjà dans l’humeur !
  Mais mince alors ! Oh, quelle saleté !
  Viens par ici, que je t’égorge !
 # LE MINISTRE  
@@ -1035,8 +1035,8 @@ Un marchand traversait un petit pont,
  - Ha-ha-ha ! Sur la caboche ? Ho-ho-ho !
 # LE BOUFFON 
 - Le rameur aussi - plouf, dans l’eau,
- et, là, sur la berge, il y avait une grand-mère.
- Il l’attrape par la robe - et, plouf, dans l’eau, pareil.
+ et là, sur la berge, il y avait une grand-mère.
+ Il l’attrape par la robe - et plouf, dans l’eau, pareil.
 # LE ROI. 
 - Ha-ha-ha ! Je suis mort !
  Oh-oh-oh ! Ha-ha-ha ! Ha-ha-ha !
@@ -1162,7 +1162,7 @@ Votre Altesse, permettez-moi de vous le dire
 Les demoiselles d‘honneur vont avoir le coup de foudre, je vous jure.
  Je peux les appeler ?
 Elles vous aideront à faire votre toilette après le voyage,
- elles vous montreront ceci–cela, et, nous, pendant ce temps,
+ elles vous montreront ceci–cela, et nous, pendant ce temps,
  nous préparerons tout ce qu’il faut ici pour vous recevoir.
  Mes petites filles !
 Permettez, princesse, de vous présenter les demoiselles d’honneur.
@@ -1209,7 +1209,7 @@ Dans le palais de Sa Majesté, on n'a le droit d'ouvrir la bouche
 #LA FOULE :
  - Hourra.
 # LE PREMIER MINISTRE 
-- C'est le roi, quoi ! Vous comprenez : le roi -  et, d'un seul coup,
+- C'est le roi, quoi ! Vous comprenez : le roi -  et d'un seul coup,
  il est si près de vous. Lui, tellement sage, tellement spécial !
  Il n'est comme personne d'autre.
 Et ce miracle de la nature, d'un seul coup,
@@ -1243,7 +1243,7 @@ Et ce miracle de la nature, d'un seul coup,
 # LE ROI 
 - Bon, alors, elle est où ?
  Qu'est-ce que c'est que ça ! Quelle poisse !
- Moi, je veux petit-déjeuner, et, là, cette... sang-mêlée.
+ Moi, je veux petit-déjeuner, et là, cette... sang-mêlée.
 Mais où est-elle ?
  Il faut la renvoyer le plus vite possible.
 # LE PREMIER MINISTRE 
@@ -1320,7 +1320,7 @@ Au repas, on vous sert des boulettes,
 Les fleurs dans le jardin, on les poudre.
  On rase les chats, on ne leur laisse que des favoris
  et un petit pompon sur la queue.
-Et, tout ça, on ne peut pas aller contre -
+Et tout ça, on ne peut pas aller contre -
  sans quoi c'est l'État  qui disparaît.
 J'aurais été très patiente si Henri avait été avec moi.
  Mais Henri a disparu, il a disparu, Henri !
@@ -1371,7 +1371,7 @@ Princesse. Mon petit cœur.
  Je la comprends tellement.
  Moi non plus, je n'en peux plus d'impatience.
 Ça ne fait rien. La noce est pour demain.
- Et, là, maintenant, je vais voir ce tissu extraordinaire. 
+ Et là, maintenant, je vais voir ce tissu extraordinaire. 
 # LE PREMIER MINISTRE :
 - Votre Majesté, vous avanciez, comme toujours, juste.
  Par ici, par ici.
@@ -1387,7 +1387,7 @@ Princesse. Mon petit cœur.
   que celle de roi.
 Même pour la fonction de roi, il y a toujours quelque chose qui me manque,
  je suis toujours en colère,  je fais peur, tout simplement.
-Et, malgré tout...
+Et malgré tout...
  Il vaudrait mieux que ce soit quelqu'un d'autre
  qui aille voir les tisserands. Tiens, le Premier Ministre.
 Un vieillard honnête, intelligent, mais, malgré tout, plus bête que moi :
@@ -1439,7 +1439,7 @@ Allez voir les tisserands, et faites-moi un rapport sur tout ça.
  Nous avons une soie des plus fines qu'on nous a données à tisser,
  elle est là, dans le sac.
  J'en tisserai une robe merveilleuse pour ta fiancée.
-Et, dans ce sac, de l'or.
+Et dans ce sac, de l'or.
  Nous rentrerons chez nous sur les meilleurs chevaux.
  De la gaîté, Henri !
 # HENRI 
@@ -1510,7 +1510,7 @@ Ce satin, pour la garniture des souliers du roi.
  Sur la table, des coupons de trois sortes. 
 # -----------------------128-----------------------------------
 # LE POETE DE LA COUR 
-- Et, dites-moi, ça m'intéresse, comment, dans votre langue simple,
+- Et dites-moi, ça m'intéresse, comment, dans votre langue simple,
   appelez-vous la couleur du premier morceau ? Celui avec des roses.
 # CHRISTIAN 
 - Dans notre lange simple, le fond de ce morceau s'appelle du vert.
@@ -1861,7 +1861,7 @@ Lui et la princesse-fiancée entreront sur la place depuis le port.
  Ma femme et moi, cela fait quinze ans
  qu’on se crêpe le chignon.
 Elle, elle me dit que je suis un imbécile,
- et, moi, je lui dis que, l’imbécile, c’est elle.
+ et moi, je lui dis que, l’imbécile, c’est elle.
  Aujourd’hui, notre querelle sera tranchée par l’habit du roi.
  Laissez passer !
 #DES VOIX :
@@ -1885,7 +1885,7 @@ Mon petit, combien ça fait, sept fois huit ?
 Vous entendez, messieurs ? Et il a juste six ans.
  Place à mon petit enfant intelligent, place à mon fils !
 # LE DISTRAIT :
-#J’ai oublié mes lunettes à la maison, et, maintenant,
+#J’ai oublié mes lunettes à la maison, et maintenant,
 # je ne pourrai pas voir le roi. Maudite myopie !
 # LE PICKPOCKET :
 #Je peux vous guérir facilement de votre myopie.
@@ -1896,7 +1896,7 @@ Vous entendez, messieurs ? Et il a juste six ans.
 # LE DISTRAIT :
 #Ah, s’il vous plaît.
 # Ma femme m’a ordonné de regarder et de tout lui décrire en détails,
-# et, moi, voilà que j’oublie mes lunettes.
+# et moi, voilà que j’oublie mes lunettes.
 #LE PICKPOCKET :
 # Ouvrez la bouche, fermez les yeux et comptez à haute voix jusqu’à vingt.
 #LE DISTRAIT :
