@@ -39,12 +39,12 @@ def main(filename):
     pygame.init()
     black = 0, 0, 0
     white = 255, 255, 255
-    font_size=40; # 24 normal
+    font_size=24; # 24 for the Acer 1024x768 resolution
     line_height=font_size*1.5
     myfont = pygame.font.SysFont("dejavusans", font_size, 0, 0)
-    screen_size = 2000,1200 # for a 1024x768 proj
+    #screen_size = 2000,1200 # for a 1024x768 proj
     #screen_size = 1300,900 # for a 1024x768 proj
-    #screen_size = 900,700 # forour cheap Acer 800x600 proj
+    screen_size = 900,700 # forour cheap Acer 800x600 proj
     screen = pygame.display.set_mode(screen_size,0,24)
     #screen = toggle_fullscreen()
 
