@@ -5,7 +5,7 @@ Merci d'éteindre vos téléphones portables !
  Nous reviendrons au printemps
 
 # Затемнение
-#S —  Тэффи ??
+#S-------------  Тэффи ??
 Quand elle m'a quitté pour ne plus revenir, 
  La grande, la cruelle lumière,
  Pour ne pas y penser, j'ai planté sur ma terre
@@ -22,7 +22,6 @@ Nous qui sommes pauvres, nous aurons droit au jour !
  De nos rires masquerons nos cris sourds !
 
 #S -------------------  ЛЕТОМ Seriozha et William
-
 Nous sommes dans une villa située à la périphérie de Paris,
  occupée par une maison d'hôtes russe.
 
@@ -34,7 +33,7 @@ Des escalopes tous les jours, cela commence à bien faire.
  plus d'attention au menu.
 
 Trop chaud pour marcher sur la route.
- Pas le courage de passer par le bois.
+ - Pas le courage de passer par le bois.
 
 Heureuse époque !
  Laquelle ?
@@ -74,7 +73,7 @@ Et quand ils grandissent, ils doivent apprendre.
 Dites-moi, honnêtement, sans mentir,
  A quoi sert cette "alouette, je te plumerai"
  dans la vie d'une personne normale ?
-Qui a besoin de ça ? Il y a auss celui qui a raconté en vers
+Qui a besoin de ça ? Il y a aussi celui qui a raconté en vers
  comment les poussins éclosent et s'envolent,
  mais qu'est-ce qu'ils ont tous avec les oiseaux ?
 Vous vous souvenez, je suppose, que vous les avez
@@ -86,7 +85,7 @@ Le diable sait ce que cela veut dire!
  Quelle honte. Et la fin est absurde :
 "Loin, loin, loin !
  Oh, si seulement j'avais des ailes..."
-Pourquoi, tout à coup, un homme normal aurait des ailes ?
+ Pourquoi, tout à coup, un homme normal aurait des ailes ?
 Une personne normale, si elle veut aller quelque part,
  elle achète un billet légalement.
 Et là on a un type qui ne fait jamais rien,
@@ -196,25 +195,22 @@ Nous ne devons pas le permettre.
  C'est ce qui a ruiné la Russie. Et vous vous réjouissez.
  - Eh bien, vous savez, c'est que...
 Je ne sais rien et je ne veux pas savoir.
- Et je ne veux pas parler de tout cela avec vous.
+ - Et moi je ne veux pas parler de tout cela avec vous.
  J'ai encore des idéaux dans mon âme.
 Trop chaud pour marcher sur la route.
- Pas le courage de passer par le bois.
+ - Pas le courage de passer par le bois.
 Ne pensez-vous pas, la main sur le cœur,
  que l'Europe va en enfer ?
-"C'est parti !"
- Ah bon ?
+Et le voilà qui repart...
+ - Ah bon ?
 
 #S-------- ИНТЕРМЕДИЯ ТЭФФИ СО ШТОПОРОМ (ВОРОТНИК)
-
-L'homme imagine
- que son règne sur les objets est sans limite.
-Mais parfois, une toute petite chose
+L'homme imagine que son règne sur les objets
+ est sans limite. Mais parfois, une toute petite chose
  entre dans votre vie, la prend en main
  et la retourne complètement, et pas dans le bon sens.
 
 #S-------- ВОРОТНИК -- LE COL EN DENTELLE
-
 Oletchka Rosova fut pendant trois ans
  l'honnête épouse d'un homme honnête.
  Elle avait un caractère réservé, voire timide.
@@ -315,7 +311,6 @@ Ma foi, je n'en sais rien.
  Demandez-lui !
  
 #S-------- ИНТЕРМЕДИЯ ТЭФФИ (СОБИРАЯ ЧЕМОДАН) :
-
 En matière d'eau thermale, les Français ont surpassé tous les autres.
 Ils ont mis en bouteille de l'eau de source
  propre et de bonne qualité,
@@ -481,7 +476,6 @@ Ainsi se termina notre liaison.
 Je suis partie dans la soirée.
 
 #S-------- ИНТЕРМЕДИЯ             МАРИНА
-
 Fleurs cryptogames, secrète est notre union...
  Personne n'a su que nous nous aimions,
  Qu'un arôme d'amour poudré
@@ -499,9 +493,6 @@ Et les neiges des cimes immaculées
 
 
 #S-------- ДЕМОНИЧЕСКАЯ ЖЕНЩИНА
-
-LA FEMME FATALE
-
 La femme fatale diffère de la femme ordinaire
  surtout dans sa manière de s’habiller. 
 Elle porte une noire soutane de velours. 
@@ -635,7 +626,6 @@ Mystère !
 #-------- ПЕСЕНКА ВЕРТИНСКОГО «О ВСЕХ УСТАЛЫХ»
  
 #S-------- ИНТЕРМЕДИЯ :
-
 #????
 Marfa ! Marfa ! 
  Ah-ah-ah !
@@ -646,7 +636,6 @@ Le tonneau de Potapovna a séché !
 - Le tonneau ! Le tonneau !
 
 #S------------TEFFI : NOSTALGIE
- 
 Dans la brillante capitale de la France,
  pour les immigrants russes s'est développée une sorte de "cité"
  avec ses propres lois et ses propres intérêts.
@@ -691,8 +680,7 @@ Fanny a transporté un énorme diamant, vous ne devinerez jamais :
 Eh bien, la voila bien lotie, avec un nez de cinquante carats.
  Tout le monde n'a pas cette chance.
 
-#S ТЭФФИ : 
-
+#S-------- ТЭФФИ : 
 Une malle a été empilée.
 L'autre malle, qui contenait (ma dernière lubie)
  des châles russes anciens de valeur,
@@ -705,7 +693,7 @@ J'ai mis dessus un portrait de Lénine avec l'inscription
  Ton Vova qui t'aime."
 Plus tard, il s'est avéré que même cela n'avait servi à rien.
 
-#S ЛЕВ - ТЭФФИ : 
+#S--------------  ТЭФФИ : ЛЕВ  
 Il est arrivé un pharmacien du sud de la Russie.
  Il affirme que dans deux mois exactement,
  le bolchevisme aura disparu.
@@ -722,8 +710,7 @@ Je me suis couché, et j'ai mis "Le temps nouveau" sous mon oreiller
  pour ne pas faire de mauvais rêves. Je me suis endormi doucement.
  J'ai rêvé que je mangeais des crêpes au miel.
 
-#SERGEI :
-
+#S---------- Sonia la dépravée SERGEI :
 Je me souviens qu'un libraire m'avait recommandé,
  pour une fillette de sept ans :
  "Sonia la petite dépravée".
@@ -737,7 +724,7 @@ L'histoire, profondément morale,
  est sévèrement punie d'avoir été dépravée,
  et les enfants lecteurs sont définitivement convaincus
  que la dépravation ne mène à rien de bon.
- 
+
 #S-------- ВЫСЛУЖИЛСЯ  Un service parfait
 Dès le début, j'ai vu qu'il était un peu balourd.
  Maintes fois, je lui ai dit: écoute, mon gars,
@@ -1021,22 +1008,18 @@ C'est pas vrai?
 
 Le lendemain, Liochka était renvoyé.
 
-#-------- ЗАКЛЮЧИТЕЛЬНАЯ ЧАСТЬ — ОТЪЕЗД
-
 #S--------------- LES VISAS
-
-Eh !
-
 Qu'est-ce que nous, citoyens russes moyens,
  savions autrefois à propos des visas ?
 Tout ce que nous savions, c'est que
  si vous alliez en Autriche ou que vous passiez par l'Autriche,
  vous aviez besoin de ce machin, ce passeport.
 Il fallait se rendre dans la rue Sergievskaya
- et quelqu'un, un genre portier, y apposait un tampon
+ et quelqu'un, un genre de portier,
+ y apposait un genre de tampon
  et demandait quelque chose comme trois roubles.
 Et à quoi cela sert-il ?
-L'Autriche est un pays pauvre, il faut bien qu'ils mangent.
+ -L'Autriche est un pays pauvre, il faut bien qu'ils mangent.
  Ce sont des êtres humains, après tout.
 Aujourd'hui, le visa a pris une forme et une signification
  presque mystique.
@@ -1046,12 +1029,12 @@ L'homme doit se battre, lutter, et il a beau avoir
  tout à fait le droit d'entrer ou de sortir,
  il n'obtient pas de visa.
 Et pourquoi ? Personne ne le sait.
-Alors il se renseigne.
+ - Alors il se renseigne.
 D'étranges choses émergent du brouillard mystique.
 Depuis Londres, on lui conseille d'aller à Paris
  en passant par la Hollande.
 Pourquoi ?
-Parce que les visionnaires voient des choses
+ - Parce que les visionnaires voient des choses
  que les autres ne voient pas.
 Ils voient que certains bolcheviks prennent la route directe.
 Par conséquent, si vous aussi vous prenez la route directe,
@@ -1060,11 +1043,12 @@ Or la France n'a pas besoin de bolcheviks,
  donc vous ne pourrez pas entrer en France.
 D'accord ? La logique de fer des visas est indestructible.
  Si c'est la même route, c'est la même route.
-On reconnaît l'oiseau à son vol.
+ - On reconnaît l'oiseau à son vol.
 Mais passer par la Hollande, c'est une autre histoire.
- En Hollande, il y a des canaux, l'air est pur -
- l'homme est altéré.
-Le bolchevik a peur de l'air, il tient à son humeur,
+ - En Hollande, il y a des canaux, l'air est pur -
+ l'homme en est aéré.
+Le bolchevik a peur du grand air,
+ il tient à son humeur,
  il ne passera pas par la Hollande.
 Il y a un autre aspect de la logique des visas
  qui nous déconcerte vraiment :
@@ -1072,7 +1056,7 @@ Il y a un autre aspect de la logique des visas
  que d'y entrer ?
 Moi je comprends : la France nous aime beaucoup
  et il lui est difficile de se séparer de nous.
-C'est pourquoi elle rend notre départ si difficile,
+ C'est pourquoi elle rend notre départ si difficile,
  elle nous décourage en quelque sorte.
 C'est très gentil. C'est ainsi qu'un hôte doit être:
  Restez donc assis !
@@ -1086,12 +1070,13 @@ On va commencer à "chlopoter".
 #Acceptez, la main sur le cœur !
  Ce verbe étonnant n'existe que dans la langue russe,
  Seuls les Russes ont à s'en plaindre. 
- L'étranger ne sait même pas ce qu'il signifie.
-Chlopoter, c'est courir à l'ambassade quand elle est fermée,
+ - L'étranger ne sait même pas ce qu'il signifie.
+Chlopoter, c'est courir à l'ambassade
+ quand elle est déjà fermée,
  et au consulat, quand il n'est pas encore ouvert.
 Passer ses journées assis
  sur les chaises viennoises de leurs antichambres.
-Demander à parler au téléphone et ne rien obtenir.
+ - Demander à parler au téléphone et ne rien obtenir.
 Sur le conseil de quelqu'un,
  rendre visite à la tante de quelqu'un d'autre
  pour faire pression sur un troisième quelqu'un. 
@@ -1099,55 +1084,59 @@ Arrêter ses connaissances dans la rue et,
  en les tenant par leur revers, leur raconter tout en détail
  et leur demander conseil.
 C'est tout cela, "chlopoter" et seuls les Russes le font.
- Les autres nations se contentent de voyager.
+ - Les autres nations se contentent de voyager.
 Les Russes chlopotent pour le droit de partir.
- Les autres peuples étudient. 
+ - Les autres peuples étudient. 
 Les Russes chlopotent pour le droit d'étudier.
- Les autres peuples se soignent.
+ - Les autres peuples se soignent.
 Les Russes chlopotent pour le droit de se soigner.
- Les autres peuples, enfin, vivent.
+ - Les autres peuples, enfin, vivent.
 Mais les Russes chlopotent pour le droit d'exister.
 
-#S --- ТЭФФИ :
+#S -------- ТЭФФИ :
 Moscou. L'automne. Le froid.
 J'ai liquidé mon existence à Saint-Pétersbourg.
  "La parole russe" est fermé.
 Il ne me restait qu'une seule perspective :
- aller à Kiev et à Odessa pour organiser mes spectacles littéraires.
+ aller à Kiev et à Odessa
+ pour organiser mes spectacles littéraires.
 J'ai commencé à demander l'autorisation de partir.
  On m'a donné un laissez-passer.
-
-#S --- ТЭФФИ :
+#S -------- ТЭФФИ :
 Dans la ruelle Krivo-Arbatsky, au coin de la rue,
- dans un magasin de Surov, il reste encore un mètre et demi
- de batiste. Vous devriez l'acheter.
+ dans un magasin de Surov, il reste encore
+ un mètre et demi de batiste.
+ Vous devriez l'acheter.
 Je n'en ai pas besoin.
- Si, tu en as besoin. Dans un mois, quand vous reviendrez,
- il n'y en aura plus.
-Les nouvelles de Saint-Pétersbourg disent qu'un artiste célèbre
- a été arrêté pour avoir lu mes histoires.
-Vous devez faire faire une robe de velours immédiatement !
-Vous savez que vous en avez besoin.
+ - Si, vous en avez besoin. Dans un mois,
+ quand vous reviendrez, il n'y en aura plus.
+
+Les nouvelles de Saint-Pétersbourg disent
+ qu'un artiste célèbre a été arrêté
+ pour avoir lu mes histoires.
+Vous devez immédiatement vous confectionner
+ une robe de velours !
+ Vous savez que vous en avez besoin.
 Il y a une propriétaire au coin de la boutique
  qui vend un morceau de rideau.
- Il vient d'être décroché, très frais, avec des clous dedans.
- Cela fera une belle robe de soirée.
+ Il vient d'être décroché, il est très frais,
+ avec des clous dedans. Cela fera une belle robe de soirée.
 Vous en avez besoin.
   Et vous n'aurez jamais une telle occasion.
 J'ai acheté un magnifique rabat avec sept clous dedans.
 
-#S--- TEFFI - ...............................
-
-Au revoir, ma Moscou chérie. Pas pour longtemps.
- Juste pour un mois.
+#S-------- TEFFI
+On est parti dans un wagon de marchandises.
+Au revoir, ma Moscou chérie.
+ - Pas pour longtemps.
+ - Juste pour un mois.
 
 On se revoit dans un mois.
 Dix ans ont passé depuis.
 # noir
 
 #Nous partons dans un wagon de marchandises.
-#Le train approche de la gare. 
-
+Le train approche de la gare. 
 Kiev !
 
 Tu ne peux pas rentrer chez toi.
@@ -1156,12 +1145,12 @@ Tu ne peux pas rentrer chez toi.
 Mais tout le monde va quelque part.
  - Chacun sent qu'il ne restera pas longtemps.
 
-- Je suis allée dire au revoir à Lavra.
-  Je suis allé dire au revoir à la cathédrale de Saint-Volodymyr.
+Je suis allée dire au revoir à Lavra.
+ Je suis allé dire au revoir à la cathédrale
+ de Saint-Volodymyr.
 
 Nous avons quitté Kiev en fin de soirée.
  Les canons retentissaient, tout près.
-
 Il est impossible d'aller plus loin que la 11ème verste.
  Le passage est coupé par les bolcheviks.
 
@@ -1170,42 +1159,51 @@ Le bombardement du train vient de reprendre.
 
 Des morts ! Des blessés !
  Nous sommes habitués à ces mots.
- Ils ne déroutent plus personne.
+ Ils ne dérangent plus personne.
 "Blessé" et "tué" sont des mots de notre vie quotidienne.
  Et nous-mêmes pouvons être blessés ou tués.
 Il y a quelqu'un qui s'est fait voler sa bouilloire ! 
 
 Nous avons roulé jusqu'à Odessa de nuit.
  De nouveau, les mêmes visages ont défilé,
- de nouveau, les mêmes absurdités ont été débitées. 
-
+ de nouveau, les mêmes discussions vides. 
 Au début, pour nous, les réfugiés,
  la vie à Odessa était amusante.
 Ce n'est pas une ville, c'est une blague !
- - La danse de la ballerine était magnifique,
+La ballerine a dansé magnifiquement,
  on ne peut pas en dire autant du décor.
 
 L'artiste a merveilleusement interprété l'Elégie d'Ernst,
  et son violon sanglotait...
- bien qu'il portât une simple veste."
+ bien qu'il portât une simple veste.
 
-"Un bateau à vapeur est arrivé à l'embarcadère.
+Un bateau à vapeur est arrivé à l'embarcadère.
 
 La routine devint vite lassante, car les blagues
  ne sont drôles que lorsqu'elles sont racontées.
  Quand elles sont vécues, ce sont des tragédies.
 Ma vie est une blague, c'est donc une tragédie.
 
-#S------- SERGEI, NATASHA :
+Je peux vous poser une question,
+ vous n'allez pas vous vexer ?
+ - Allez-y, je ne me vexerai pas.
+Pourquoi vous avez fait virer ce pauvre gamin
+ dans votre pièce ? Pourquoi vous êtes si méchante ?
+ Vous ne pouvez pas réparer tout cela,
+  d'une manière ou d'une autre ?
+Je ne sais pas, je ne peux pas,
+ cela ne dépend pas de moi.
+#S---------- TODO 
 
+#S------- SERGEI, NATASHA :
 Eh bien, au revoir, je pars. Bénissez-moi.
  - Que Dieu soit avec vous.
  - Ce ne sera pas long. Je vous reverrai bientôt.
-- Dieu vous garde. Je ne sais pas si nous nous reverrons.
+Dieu vous garde.
+ Je ne sais pas si nous nous reverrons.
  Nous n'en savons rien.
- 
-#S--- TEFFI - ........................ :
 
+#S-------- TEFFI
 Tout est rapide, pressé et inutile.
 Tout aussi rapides, pressés et inintéressants
  furent leurs derniers jours de Novorossiysk
@@ -1216,23 +1214,23 @@ Actuellement il est difficile de retourner à Pétersbourg,
  Vous reviendrez au pays au printemps.
 Quel merveilleux mot - le printemps.
  Quel merveilleux mot - mon pays...
-Le printemps est la résurrection de la vie.
+Le printemps, c'est la résurrection de la vie.
  Au printemps, je reviendrai.
+
 Le bruit, l'agitation et les chuchotements.
  Oui, ils chuchotent, ils regardent autour d'eux.
  Tout est effrayant, effrayant, pas de repos,
 je ne reprendrai pas mes esprits
  jusqu'à la fin de mes jours, Amen.
 
-Le bateau à vapeur tremble, son hélice soulève de l'écume blanche,
+Le bateau à vapeur s'ébranle,
+ son hélice soulève de l'écume blanche,
  une fumée noire se répand sur le rivage.
-
 Et silencieusement, doucement, la terre se retire.
  Il ne faut pas la regarder. Il faut regarder vers l'avant,
  vers la grande étendue bleue et libre...
 Mais la tête se tourne, les yeux s'ouvrent grands,
  et regardent, regardent ....
-
 
 Et chacun se tait.
 Seuls les pleurs d'une femme se font entendre
@@ -1242,10 +1240,12 @@ Le paquebot vibre, de la fumée noire s'en échappe.
 Les yeux grands ouverts jusqu'à ce qu'ils gèlent,
  je regarde fixement. 
  Et je ne me détournerai pas.
- 
+
 J'ai enfreint mon injonction, j'ai regardé en arrière.
-Et me voilà, comme la femme de Lot, pétrifiée et stupéfaite,
- je vais regarder éternellement ma terre qui s'éloigne doucement.
+Et me voilà, comme la femme de Lot,
+ pétrifiée et stupéfaite,
+ je vais regarder éternellement ma terre
+ qui s'éloigne doucement.
 
 #-------- CHANSON DE VERTINSKY "OF ALL THE WEARY" (DE TOUS LES FATIGUÉS)
 
@@ -1267,3 +1267,21 @@ Et me voilà, comme la femme de Lot, pétrifiée et stupéfaite,
 # Sur un rivage natal, lointain....
 # Poussière de Moscou sur le ruban d'un vieux chapeau
 # En tant que symbole, je tiens pour sacré...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
