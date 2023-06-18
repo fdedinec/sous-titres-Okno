@@ -1,10 +1,11 @@
 Merci d'éteindre vos téléphones portables !
+ Пожалуйста, отключите свои мобильные телефоны!
 
 ВЕСНОЙ ВЕРНЁМСЯ
  Nous reviendrons au printemps
 
 # Затемнение
-# —  Тэффи ??
+#S —  Тэффи ??
 Quand elle m'a quitté pour ne plus revenir, 
  La grande, la cruelle lumière,
  Pour ne pas y penser, j'ai planté sur ma terre
@@ -20,7 +21,7 @@ Nous qui sommes pauvres, nous aurons droit au jour !
  Et si sur nous se dresse un crépuscule noir,
  De nos rires masquerons nos cris sourds !
 
-#A -------------------  ЛЕТОМ Seriozha et William
+#S -------------------  ЛЕТОМ Seriozha et William
 
 Nous sommes dans une villa située à la périphérie de Paris,
  occupée par une maison d'hôtes russe.
@@ -64,7 +65,7 @@ Et que tout le monde leur frotte le visage avec leurs pattes sales
  et les engluent de baisers ?
 Seriez-vous heureux si l'on vous frottait ainsi ?
  Si une vieille mamie à la bouche édentée vous disait :
-  "Tronushka-tronushka-tronushka".
+  "Gouzi Gouzi".
 	Brr... effrayant.
 Et quand ils grandissent, ils doivent apprendre.
  Et quel charabia on ne leur enfonce pas dans le crâne.
@@ -204,11 +205,11 @@ Ne pensez-vous pas, la main sur le cœur,
 "C'est parti !"
  Ah bon ?
 
-#A-------- ИНТЕРМЕДИЯ ТЭФФИ СО ШТОПОРОМ
+#S-------- ИНТЕРМЕДИЯ ТЭФФИ СО ШТОПОРОМ
  
-#A-------- ВОРОТНИК
+#S-------- ВОРОТНИК
  
-#A-------- ИНТЕРМЕДИЯ ТЭФФИ (СОБИРАЯ ЧЕМОДАН) :
+#S-------- ИНТЕРМЕДИЯ ТЭФФИ (СОБИРАЯ ЧЕМОДАН) :
 
 En matière d'eau thermale, les Français ont surpassé tous les autres.
 Ils ont mis en bouteille de l'eau de source propre et de bonne qualité,
@@ -222,9 +223,9 @@ Dans nos meilleurs restaurants, on s'est mis à servir cette eau, un rouble la b
  C'est cher, et en plus c'est fade.
 Cela montre la haute considération qu'on a pour la pourriture à notre époque.
   
-#A---------КОШКИ
+#S---------КОШКИ
  
-#A-------- ИНТЕРМЕДИЯ                                        МАРИНА
+#S-------- ИНТЕРМЕДИЯ                                        МАРИНА
 
 Fleurs cryptogames, secrète est notre union...
  Personne n'a su que nous nous aimions,
@@ -242,7 +243,7 @@ Et les neiges des cimes immaculées
  Fleurs cryptogames, notre union est secrète !
 
 
-#A-------- ДЕМОНИЧЕСКАЯ ЖЕНЩИНА
+#S-------- ДЕМОНИЧЕСКАЯ ЖЕНЩИНА
 
 LA FEMME FATALE
 
@@ -376,9 +377,9 @@ Mystère !
 
 
 
-#A-------- ПЕСЕНКА ВЕРТИНСКОГО «О ВСЕХ УСТАЛЫХ»
+#S-------- ПЕСЕНКА ВЕРТИНСКОГО «О ВСЕХ УСТАЛЫХ»
  
-#A-------- ИНТЕРМЕДИЯ :
+#S-------- ИНТЕРМЕДИЯ :
 
 #????
 Marfa ! Marfa ! 
@@ -472,7 +473,7 @@ L'histoire, profondément morale, commençait par les mots suivants :
  et les enfants lecteurs sont définitivement convaincus
  que la dépravation ne mène à rien de bon.
  
-#A-------- ВЫСЛУЖИЛСЯ
+#S-------- ВЫСЛУЖИЛСЯ
 # Un service parfait
 
 Je savais depuis le début que c'était un fainéant.
@@ -763,7 +764,7 @@ Si je le dis, c'est que je le sais.
 Le lendemain, Liochka fut mis à la porte.
 
 
-#A-------- ЗАКЛЮЧИТЕЛЬНАЯ ЧАСТЬ — ОТЪЕЗД
+#S-------- ЗАКЛЮЧИТЕЛЬНАЯ ЧАСТЬ — ОТЪЕЗД
 #--- СЕРГЕЙ :
 #  TODO ici
 Les étapes difficiles m'ont malmené.
@@ -779,7 +780,7 @@ Dans les orages, je vois de nouvelles scènes
  Poussière de Moscou sur le ruban d'un vieux chapeau
  En tant que symbole, je tiens pour sacré...
 
-#A --- ТЭФФИ :
+#S --- ТЭФФИ :
 
 
  
@@ -788,7 +789,7 @@ Mon existence à Saint-Pétersbourg est liquidée. "La parole russe est fermée.
 J'ai commencé à demander l'autorisation de partir.
 Un laissez-passer m'a été accordé.
 
-#A --- ТЭФФИ :
+#S --- ТЭФФИ :
 
 Dans la ruelle Krivo-Arbatsky, au coin de la rue,
  dans un magasin de Surov, il reste encore un centimètre et demi de batiste.
@@ -808,7 +809,7 @@ J'ai acheté un magnifique rabat avec sept clous dedans.
 
  
 
-#A--- TEFFI - ...............................
+#S--- TEFFI - ...............................
 
 Au revoir, ma Moscou chérie. Pas pour longtemps.
  Juste pour un mois.
@@ -873,7 +874,7 @@ Ma vie est une blague, c'est donc une tragédie.
 
  
 
-#A------- SERGEI, NATASHA :
+#S------- SERGEI, NATASHA :
 
 Eh bien, au revoir, je pars. Bénissez-moi.
  - Que Dieu soit avec vous.
@@ -881,10 +882,10 @@ Eh bien, au revoir, je pars. Bénissez-moi.
 - Dieu vous garde. Je ne sais pas si nous le ferons.
  Nous ne savons rien.
 
-#A--- TEFFY - ........................ :
+#S--- TEFFY - ........................ :
 
  
-#A--- TEFFI - ........................ :
+#S--- TEFFI - ........................ :
 
  
 
