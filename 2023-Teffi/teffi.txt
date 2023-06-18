@@ -205,15 +205,16 @@ Ne pensez-vous pas, la main sur le cœur,
 "C'est parti !"
  Ah bon ?
 
-#S-------- ИНТЕРМЕДИЯ ТЭФФИ СО ШТОПОРОМ
- 
-#S-------- ВОРОТНИК -- LE COL EN DENTELLE
+#S-------- ИНТЕРМЕДИЯ ТЭФФИ СО ШТОПОРОМ (ВОРОТНИК)
 
 L'homme imagine
  que son règne sur les objets est sans limite.
 Mais parfois, une toute petite chose
  entre dans votre vie, la prend en main
  et la retourne complètement, et pas dans le bon sens.
+
+#S-------- ВОРОТНИК -- LE COL EN DENTELLE
+
 Oletchka Rosova fut pendant trois ans
  l'honnête épouse d'un homme honnête.
  Elle avait un caractère réservé, voire timide.
@@ -631,7 +632,7 @@ Mystère !
 
 
 
-#S-------- ПЕСЕНКА ВЕРТИНСКОГО «О ВСЕХ УСТАЛЫХ»
+#-------- ПЕСЕНКА ВЕРТИНСКОГО «О ВСЕХ УСТАЛЫХ»
  
 #S-------- ИНТЕРМЕДИЯ :
 
@@ -644,7 +645,7 @@ Le tonneau de Potapovna a séché !
 - Le coussin ?
 - Le tonneau ! Le tonneau !
 
-#TEFFI : NOSTALGIE
+#S------------TEFFI : NOSTALGIE
  
 Dans la brillante capitale de la France,
  pour les immigrants russes s'est développée une sorte de "cité"
@@ -652,12 +653,12 @@ Dans la brillante capitale de la France,
 "La cité est traversée par une rivière.
  Autrefois, elle s'appelait Sequana, puis Seine,
  et lorsque notre cité a été fondée sur ce cours d'eau,
- les habitants ont commencé à l'appeler "leur Nevka".
+ les habitants ont commencé à l'appeler "leur petite Neva".
 L'ancien nom est toutefois resté dans les mémoires,
  comme en témoigne le proverbe :
 "Nous vivons comme les chiens sur la Seine : maigres !"
 
- #СЕРГЕЙ — ТЭФФИ :
+#S-------------   СЕРГЕЙ — ТЭФФИ NOSTALGIE:
 Je crains, au bout du compte, de sombrer dans la nostalgie.
 Tu n'as rien à craindre. Ce que tu crains est déjà arrivé.
  Notre âme se fane, elle s'est tournée vers l'est.
@@ -665,18 +666,24 @@ Nous ne croyons en rien, n'attendons rien, ne désirons rien.
  Nous sommes morts.
 Nous ne pensons plus qu'à ce qui se passe là-bas.
  Seul ce qui en vient nous intéressse.
+
+#S-------------   :
 As-tu entendu ?
  Les Prokine ont transféré toute leur fortune.
  Ils en avaient emballé leur grand-mère.
-Et comment se fait-il que la grand-mère n'a pas été fouillée ?
-Penses-tu ! Elle est tellement affreuse, qui aurait eu le courage ?
+Et comment se fait-il que la grand-mère
+ n'a pas été fouillée ?
+Penses-tu ! Elle est tellement affreuse,
+ qui aurait eu le courage ?
 Et les Korkine ont eu une idée géniale, et en plus improvisée !
 Madame Korkina, déjà fouillée, se tient à l'écart
  et tout d'un coup - "oh, oh !" - sa jambe s'est tordue.
 Elle ne peut plus faire un pas.
 Alors son mari, pas encore fouillé, dit au Bolchevique :
- "S'il vous plaît, faites-lui passer ma canne, qu'elle s'appuie dessus".
-Et le soldat lui a transmis. Mais leur canne est creuse et remplie de diamants.
+ "S'il vous plaît, faites-lui passer ma canne,
+ qu'elle s'appuie dessus".
+Et le soldat lui a transmis.
+ Mais leur canne est creuse et remplie de diamants.
  Astucieux, non ?
 Chez les Boulkine, la théière a un double fond.
 Fanny a transporté un énorme diamant, vous ne devinerez jamais :
@@ -684,7 +691,7 @@ Fanny a transporté un énorme diamant, vous ne devinerez jamais :
 Eh bien, la voila bien lotie, avec un nez de cinquante carats.
  Tout le monde n'a pas cette chance.
 
-# ТЭФФИ :
+#S ТЭФФИ : 
 
 Une malle a été empilée.
 L'autre malle, qui contenait (ma dernière lubie)
@@ -698,20 +705,20 @@ J'ai mis dessus un portrait de Lénine avec l'inscription
  Ton Vova qui t'aime."
 Plus tard, il s'est avéré que même cela n'avait servi à rien.
 
-# ЛЕВ - ТЭФФИ :
+#S ЛЕВ - ТЭФФИ : 
 Il est arrivé un pharmacien du sud de la Russie.
- Il affirme que dans deux mois exactement, le bolchevisme aura disparu.
-Dans deux mois, c'est sûr. Comment pourrait il durer plus longtemps ?
- Cela n'est pas possible !  Hein, sérieusement ? 
- Enfin, ce n'est pas possible ! 
+ Il affirme que dans deux mois exactement,
+ le bolchevisme aura disparu.
+Dans deux mois, c'est sûr. Comment pourrait il durer
+ plus longtemps ? Cela n'est pas possible !
+ Hein, sérieusement ?  Enfin, ce n'est pas possible ! 
 C'est possible
 
-
-Je suis un homme libre !
+Je suis une personne libre !
  Si je veux, je quitte tout demain pour aller mendier.
 
 # WILLIAM :
-Je me suis couché, et j'ai mis "Novoe Vremya" sous mon oreiller
+Je me suis couché, et j'ai mis "Le temps nouveau" sous mon oreiller
  pour ne pas faire de mauvais rêves. Je me suis endormi doucement.
  J'ai rêvé que je mangeais des crêpes au miel.
 
@@ -720,8 +727,9 @@ Je me suis couché, et j'ai mis "Novoe Vremya" sous mon oreiller
 Je me souviens qu'un libraire m'avait recommandé,
  pour une fillette de sept ans :
  "Sonia la petite dépravée".
-L'histoire, profondément morale, commençait par les mots suivants :
- "Sonia était une petite fille dépravée.
+L'histoire, profondément morale,
+ commençait par les mots suivants :
+"Sonia était une petite fille dépravée.
  Un jour, elle mangea d'un coup toute la confiture de cerises
  que sa gentille Maman avait préparée pour ses amis
  avec beaucoup de travail et de soin".
@@ -730,341 +738,321 @@ L'histoire, profondément morale, commençait par les mots suivants :
  et les enfants lecteurs sont définitivement convaincus
  que la dépravation ne mène à rien de bon.
  
-#S-------- ВЫСЛУЖИЛСЯ
-# Un service parfait
-
-Je savais depuis le début que c'était un fainéant.
- Combien de fois lui ai-je dit, si tu n'es pas un imbécile,
- garde les yeux ouverts.
-Ne fais rien, mais garde les yeux ouverts.
- C'est pour ça que Dunyushka le frotte.
-Et il ne lève pas le petit doigt. L'autre jour, sa maîtresse a encore crié - il était dans la fournaise et s'est enfermé avec la tête.
-
-AUNTIE. Où irai-je avec lui ? Mavra Semyonovna ! Je lui ai acheté des bottes, je lui ai donné cinq roubles. Le tailleur lui a fait payer six hryvnias pour la modification de la veste -....
-
-KUKHARKA. J'ai dû la renvoyer à la maison.
-
-AUNTIE. Ma chérie ! C'est quatre roubles, chéri.
-
-KUKHARA. Il est trop tôt pour hurler. Personne ne l'a encore chassé. La propriétaire a seulement menacé... Et le locataire, Pyotr Dmitritch, est très protecteur. Il défend vraiment Lesha. Allons, Alexandra Vassilievna, il n'est pas dupe, Lesha, dit-il. Il dit que c'est un adeote, qu'il n'y a pas lieu de le gronder. C'est un vrai champion pour Lesha.
-
-Tante (baptisée). Eh bien, que Dieu le bénisse...
-
-KUKHARKA. Ce que dit notre locataire est sacré. C'est pour cela qu'il est très cultivé et qu'il paie bien.
-
-AUNTIE. Et Dunyushka est bon, lui aussi. Je ne comprends pas les gens comme ça, qui laissent un enfant s'en tirer à bon compte...
-
-KUKHARA. C'est vrai. C'est vrai. L'autre jour, je lui ai dit : "Va ouvrir la porte, Dunyasha." Tendrement, comme gentiment. Et elle m'a répondu : "Je ne suis pas ton portier, ouvre la porte toi-même." Et j'ai tout aboyé. Je dis qu'on n'est pas portier quand on ouvre la porte, et qu'on est portier quand on embrasse le concierge dans l'escalier. Et quand je me parfume avec le parfum de la dame, c'est vous le portier.
-
-AUNTIE. Seigneur, ayez pitié. Depuis ces années, tu as été un pionnier. C'est une jeune fille pour vivre. Un seul salaire, pas de boisson, pas de nourriture...
-
-KUKHARA. Je m'en fiche ! Je lui ai dit franchement : quand tu ouvres les portes, tu n'es pas le portier. Et comment accepter les cadeaux de la concierge, c'est elle la concierge. Et le rouge à lèvres de la locataire...
-
-
-Sonnez la cloche.
-
-
-KUKHARKA. Liocha, ah ! Liocha, ah ! Oh, allez vous faire foutre. Dunyasha a été renvoyé, et il ne dit même pas un mot. Tante Matrona, allons à la cuisine, le locataire est de retour. (Ils s'en vont)
-
-YOSHKA (sortant de sa cachette). Non, pas question. Je n'irai pas au village. Je ne suis pas idiot, je me débrouillerai tout seul si je veux. Tu ne peux pas me battre, pas comme ça... Sois devant mes yeux, dit-il. Et quels yeux j'aurai quand il n'y aura jamais personne à la maison... Je ne suis pas bête. Je vais te frotter les yeux. (Feuilles)
-
-
-Un locataire entre avec une dame. Il accroche son manteau et son chapeau près de la porte. La dame regarde autour d'elle, embarrassée.
-
-
-LOCATAIRE. Laissez-moi vous aider à enlever votre manteau.
-
-DAMA. Oh, non, ce n'est pas grave. Vous vous souvenez de notre condition. Je ne resterai qu'un instant, le temps de regarder votre album.
-
-FILLE. Chéri ! Quelle chance ! De jolies mains. (Lui embrasse les mains.) Viens t'asseoir ici. (Il la conduit à la table.)
-
-DAME. Non, je ne m'assiérai pas. (Elle s'assied et regarde le plafond.) Comme c'est confortable ici.
-
-FILLE (regardant involontairement le plafond elle aussi). Je suis très heureuse que cela vous plaise. (Prenant sa main.) Eh bien, laissez-moi enlever un seul gant. J'ai tellement envie d'embrasser ce petit doigt.
-DAME. Un gant ? C'est pas possible ! Vous êtes fou... Non, ce n'est pas comme ça qu'on le défait, c'est des boutons, pas des boutons, espèce de fou !
-
-
-La porte s'ouvre avec fracas. Leshka entre avec un tisonnier, va remuer dans le poêle. Le locataire et la dame se redressent et regardent dans des directions différentes.
-
-
-DAMA (sur un ton profane). Le plafond est très beau... le plâtre... j'aime beaucoup le plâtre...
-
-GILLETTE. Oui, c'est vrai, n'est-ce pas ? C'est très agréable, surtout en été... quand on peut faire une promenade en bateau... (Il louche sur Liocha.) Il y a des libellules qui gazouillent tout autour... je veux dire des fourmis.
-
-LESHKA (s'agite et chuchote). Je ne suis pas une idiote. Je ne suis pas une pique-assiette. Je suis à fond, à fond.
-
-DAMA. Et ma sœur aînée avait des rhumatismes. On dit que c'est très mauvais pour elle.
-
-
-Leshka, en s'éloignant, examine la tache humide sur le sol, tourne les yeux vers les pieds de son invitée et secoue la tête d'un air de reproche.
-
-
-LESCHKA. Tu as mis le bazar. Et ma maîtresse va me gronder. Ce n'est pas bien.
-
-FILLE (gênée). D'accord, d'accord, continue.
-
-
-Leshka s'en va.
-
-
-FILLE. Nous sommes enfin seuls. Chérie ! J'ai rêvé de ce moment pendant si longtemps, pendant mes nuits d'insomnie... Sonya ! Sonya !
-
-DAMA (s'éloignant). Tu es Don Juan, tout le monde le sait.
-
-Quelle absurdité ! Sonja, enlève ton voile !
-
-DAME. Pas question !
-
-FILLE. Le voile ne fait qu'assombrir le visage, tu es bien plus belle sans voile.
-
-DAME. Laissez-moi tranquille. J'ai dit que je ne l'enlèverais pas et je ne l'enlèverai pas. (Elle soulève le voile.)
-
-FILLE. Sonyechka, appelle-moi Petya. Sonyechka !
-
-
-La porte s'ouvre, Leshka entre avec un chiffon. Le locataire et la dame s'immobilisent dans une position peu naturelle, penchés sur la table.
-
-
-LESHKA. Regardez-les regarder fixement. Ils ont dû remarquer la tache. Ils pensent que je ne comprends pas. Ils ont trouvé un imbécile. Je comprends tout. Je travaille comme un cheval ! (Il s'approche et essuie la table sous le nez du locataire.)
-
-Locataire (effrayé). Qu'est-ce qui vous arrive ?
-
-YOSHKA. Qu'est-ce que tu veux dire ? Je ne peux pas me passer de mon œil. Dunyushka, le diable barbu, ne sait que maintenir l'ordre, et elle n'est pas portier dans l'escalier...
-
-LE JANITOR. Sortez ! Espèce d'imbécile !
-
-DAMA (au locataire, effrayé, à voix basse). Oh, non, il ne faut pas le chasser. Il va croire que nous voulons être seuls... il va faire des commérages. (à Leshka) C'est bon, c'est bon, mon garçon, tu peux rester... et ne ferme pas la porte en partant.
-
-
-Leshka s'en va et ferme la porte à clé.
-
-
-LECHKA (hausse les épaules avec mépris). Tu as l'air d'avoir peur de moi ?
-
-DAMA. Je n'ai pas peur du tout. Vous m'avez promis de me montrer votre album, c'est pour cela que je suis venue.
-
-FILLE. Oh, oui. Tiens.
-Voici un portrait de ma tante.
-
-DAMA. C'est vrai ? C'est très intéressant. Où est-il ?
-
-ICI. Juste ici (Il se penche et lui embrasse l'arrière de la tête.)
-
-
-Leshka ouvre la porte. Le locataire s'éloigne en sautillant.
-
-
-YOSHKA. On m'a dit de laisser la porte ouverte, mais j'ai oublié. (Il regarde le locataire.) Pourquoi a-t-il sauté ? C'est un monstre ! Il fait clair dans la pièce et il a peur. (Il s'en va.)
-
-Dame (se lève). Il faut que j'y aille.
-
-Je ne te laisserai pas entrer.
-
-DAMA. Tu es folle. Comment oses-tu me refuser l'entrée quand je suis pressée ? (s'assoit.)
-
-FILLE. Pourquoi es-tu venue ici ? Tu es venue voir mon album.
- Tu l'as regardé ? Non. Est-ce logique ?
- Dénigrer mon mari, confondre trois couturières,
- une grand-mère malade et un dentiste dans une histoire
+#S-------- ВЫСЛУЖИЛСЯ  Un service parfait
+Dès le début, j'ai vu qu'il était un peu balourd.
+ Maintes fois, je lui ai dit: écoute, mon gars,
+ Si tu n’est pas bête, sois toujours en vue.
+ Même si tu n’a rien à faire, fais toi remarquer.
+Mais voilà: Douniachka le relègue à l’arrière-plan.
+ Et lui, il s’en fiche.
+Hier, Madame s’est de nouveau fâchée
+ qu'il n’avait pas tisonné le poêle
+ et avait refermé la trappe avec encore des braises.
+Que vais-je faire de lui, Mavra Semionovna!
+Je lui ai acheté des bottes: cinq roubles, ni bu ni mangé.
+ Pour recoudre sa veste, le tailleur nous a écorchés
+ de soixante kopecks, ni bu ni mangé.
+A la rigueur, le renvoyer chez lui?
+ - Ma chère! Mais le voyage,
+ ni bu ni mangé, c’est quatre roubles !
+Bon, l'heure n’est pas encore aux hurlements.
+ Personne ne le chasse pour l’instant.
+ Madame a seulement menacé.
+Et le locataire, Piotr Dmitritch, le défend beaucoup.
+ Il prend entièrement la parti de Liochka.
+Il dit: «Allons donc, Alexandra Vassilievna,
+ il n’est pas bête, Liochka, il est juste à bruti,
+ pas la peine de le gronder».
+Bref, il défend beaucoup Liochka.
+ Que Dieu le bénisse...
+Et chez nous, vous savez, ce que le locataire veut,
+ c’est sacré. Car c’est un homme fort instruit :
+ il paye son loyer régulièrement.
+Mais cette Douniachka, en voilà une drôlesse !
+ Je ne comprends ce genre de gens :
+ dénoncer un gamin...
+Ce n’est que trop vrai. Hier, je lui dis :
+ «Ouvre la porte, Douniachka».
+ Je le dis doucement, poliment.
+Et elle, elle me pouffe à la figure :
+ «Je ne suis pas le suisse, ouvrez vous-même».
+Là, je lui ai tout sorti en vrac :
+ «Pour ouvrir les portes, dis-je, tu n’es pas le suisse,
+  mais pour embrasser le concierge, tu es bien le suisse.
+Et pour se parfumer avec le parfum de Madame,
+ tu es toujours le suisse».
+Miséricorde divine! A cette âge, et déjà espionne !
+ C'est une jeune fille, pourquoi ne pas vivre en paix ?
+ Avec le salaire quelle touche, ni bu ni mangé ...
+Moi, je lui ai dit sans façon:
+ «Pour ouvrir les portes, tu n’es pas le suisse,
+mais pour accepter des cadeaux du concierge,
+ tu veux bien être le suisse.
+ Et pour utiliser la pommade du locataire...»
+Liochka! Ohé, Liochka!
+ Zut alors! Douniachka est sortie, et lui n’en profite pas.
+ Matriona, allons dans la cuisine, 
+ le locataire est rentré.
+
+Ah non, bernique! Je ne reviendrai pas au village.
+ Je ne suis pas bête, si je veux, je ferai vite carrière.
+ On ne va pas m'effacer, je ne me laisserai pas faire...
+Sois en vue, dit-elle. Et en quelle vue,
+ s’il n’y a jamais personne à la maison...
+Mais je ne suis pas bête.
+ Plein la vue, je vais leur en mettre.
+
+Permettez-moi de vous aider à enlever votre manteau.
+Non, merci. Vous vous souvenez de nos termes:
+ je ne suis venue que pour une minute,
+ juste pour voir votre album.
+Ma chère! Quel bonheur! Quelles jolies mains!
+ Asseyons-nous ici.
+Non, quelle idée! Pas question de s'asseoir.
+ C'est gentil chez vous.
+Je suis très content que ça vous plaise.
+ Permettez-moi donc de vous enlever un gant.
+ J’ai tellement envie d’embrasser ce petit doigt.
+Mon gant? Pour rien au monde! Vous avez perdu la tête...
+ Mais non, ça ne se défait pas comme ça,
+ ce sont des boutons pression, écervelé !
+Votre... votre plafond est très beau... Les frises...
+ J’aime bien les frises en général...
+Oui, n’est pas? C’est fort agréable, surtout en été,
+ quand on peut se promener en barque... Les libellules
+ gazouillent partout... je veux dire, les fourmis.
+Je ne suis pas bête. Pas un fainéant, quoi.
+ Je suis toujours occupé, toujours occupé.
+Pourtant, ma sœur aînée avait un rhumatisme.
+ On dit que ce n’est pas bon pour la santé.
+Voilà! Des traces sur le plancher. C'est crade.
+ Et après, c’est moi qui serai grondé par Madame.
+ Ce n’est pas bien, ça.
+C'est bon, c'est bon, vas-t'en.
+Enfin seuls, ma chère!
+ J'ai rêvé si longtemps de cette minute
+ pendant tant de nuits sans sommeil.
+	onia, Sonietchka!
+Vous êtes un Don Juan, tout le monde le dit.
+ - Quelle absurdité! Sonietchka, enlève ton voile !
+ - Pour rien au monde!
+Le voile assombrit ton visage,
+ tu est beaucoup plus belle sans lui.
+Fichez-moi la paix. J’ai dit non et ça veut dire non.
+ Sonietchka, appelle-moi Petia. Sonietchka!
+Aïe, ils regardent. Ils ont sans doute remarqué la tache.
+ Mais moi je comprends. Les idiots, cherchez-les ailleurs.
+ Moi, je comprends tout. Je travaille comme un cheval !
+Qu'est ce que tu fais ? 
+ Comment, «Qu'est ce que tu fais ?» Moi, je surveille tout.
+Douniachka, cette diablesse qui louche, ne sait que cafter.
+ Ça, pour entretenir la maison, elle n’est pas le suisse...
+ Avec le concierge, sur le palier...
+Hors d’ici, l'abruti !
+Ah, non, ne le chassez pas.
+ Il pensera que nous voulons rester seuls...
+ il y aura des ragots.
+Ça va, mon garçon, ça va, vous pouvez rester...
+ et ne fermez pas la porte en partant.
+Vous n'avez pas peur de moi, au moins ?
+ Point du tout. Vous m’avez promis
+ de me montrer votre album. Je suis là pour ça.
+Ah, oui. Le voilà.
+ Ceci est un portrait de ma tante.
+ - Vraiment? Comme c’est intéressant. Où ça?
+ - Ici.
+J’ai oublié qu’on m’a demandé ne pas fermer la porte.
+ Pourquoi il saute comme ça? Drôle de type.
+ Il y a plein de lumière dans la chambre, et il a peur.
+Il faut que j'y aille.
+ - Je ne vous laisse pas partir.
+Vous êtes fou.
+ Comment osez-vous me retenir
+  alors que je suis pressée.
+Pourquoi donc êtes-vous venue ici?
+ Vous êtes venue pour voir mon album.
+ Est-ce que vous l’avez regardé? Non.
+ Où est la logique ?
+Raconter un tas de mensonges à son mari,
+ mêler dans l’affaire trois couturières,
+  une grand-mère malade et un dentiste
  juste pour regarder mon album.
-Puis arriver, faire la moue, se retourner et partir
- sans même lui jeter un coup d'œil. Est-ce logique ?
-
-DAME. Tu ne m'aimes pas...
-
-FILLE. Permets-moi, ne m'interromps pas.
- Il n'y a qu'une seule chose que tu puisses dire pour ta défense,
- c'est que tu n'es pas du tout venu pour l'album,
- et que l'album n'était qu'un prétexte.
-Dans ce cas, pourquoi êtes-vous venu, je vous le demande ? Eh bien ?
-
-DAME. Vous êtes... vous n'êtes qu'un Don Juan.
- C'est ce qu'ils disent tous...
-Vous me déclarez votre amour,
- alors que vous dites probablement la même chose à Maria Nikolaïevna... oui, oui, tout le monde y fait allusion... et à Katya Veshchilova.
-
-Je vous demande pourquoi vous êtes venu ici. Vous feriez mieux de répondre !
-
-DAME. Et je te dis que tu es Don Juan. Tu ne répondras pas !
-
-FILLE. Où est votre logique ?
-
-DAME. Et je vous dis que vous...
-
-FILLE. Écoute, je vais répondre pour toi :
- l'album n'a rien à voir avec ça, tu es juste venu pour m'embrasser.
- Oui, oui, rien à voir. Qu'est-ce que tu es, une idiote ou quelque chose comme ça !
-Tu risquerais ta réputation pour regarder un album à la con.
-Si je croyais ça, ça voudrait dire que je pense que tu es une oie
-et que tu n'as aucun respect pour un centime.
-
-#DAME.
-Laissez-moi tranquille ! Comment osez-vous ?
-
-#FILLE (fermant la porte).
-Mais je vous respecte, je pense que vous êtes une femme intelligente,
- et je sais que si je ne vous embrasse pas correctement,
- je mériterai à juste titre votre indignation.
-Non, Pyotr Butyakin n'est pas comme ça...
- Pyotr Butyakin est comme ça, est comme ça... ah !
-
-
-#Leshka entre. Le locataire et la dame roulent dans des directions différentes. Le chapeau de la dame est sur le côté, et le pince-nez du locataire pend de son voile. Le boa du locataire est accroché à l'épaule de la dame. Leshka s'agite dans le poêle.
-
-
-#LESHA
-Asseyez-vous, je veux dire asseyez-vous,
- s'il vous plaît, vous êtes tout debout.
-
-#DAMA.
-Ah, non, face à ça... je... m'assieds...
-Quand on prend le train, il faut souvent s'asseoir.
-
-DAMA (regardant le tableau sur le mur) : Où avez-vous acheté cette... lampe ? C'est une chose si exquise.
-
-FILLE : J'aime les tissus de soie en général. (vient décrocher le pince-nez de son voile) Pardon !
-
-DAMA (horrifiée). Qu'est-ce que tu... qu'est-ce que tu fais, espèce de fou.
-
-FILLE (louchant sur Leshka). Ah, non, ce n'est rien... tu avais un...
- un mégot de cigarette.
-
-DAMA. Qu'est-ce qu'il y a ?
-
-
-Leshka s'ébroue dans sa manche et s'éloigne.
-
-
-Il semble l'avoir remarqué. C'est horrible !
-Dites, vous n'avez jamais de femmes ici, n'est-ce pas ?
-
-Jamais. Juste une vieille dame en voyage d'affaires.
-
- Alors ce n'est pas vrai que vous êtes... Don Juan ?
- Jamais. Sauf pour une vieille dame en voyage d'affaires.
-
-DAME. Alors ce n'est pas vrai que vous êtes... Don Juan ?
-
-GLEEZ. Dieu m'en garde ! Bien sûr, je ne prétends pas que les femmes m'aiment, mais ce n'est pas ma faute. On ne peut pas interdire au soleil de faire pousser des fleurs. C'est parfaitement logique.
-
-DAME. Vous êtes si intelligente. Tu parles si bien.
-
-FILLE. Ma chère ! Ne m'appelez pas intelligent. Je l'entends trop souvent. Je suis fatigué de mon esprit sec et perpétuellement analytique. J'ai besoin d'un sentiment dévorant ! Chéri ! Appelez-moi Petya ! Appelez-moi Petya !
-
-Pe-tya !
-
-Tu reviendras me voir, n'est-ce pas ? Oui ? Oui ? Eh bien, dis à ton Petya...
- Je vais te montrer, bon sang ! Je vais te montrer comment marcher ! Je vais te montrer ton visage !
-
-FILLE (horrifiée). Tu as perdu la tête, misérable ! Qui grondez-vous ?
-
-YOSHKA. Laisse-la tranquille et tu ne survivras pas. Vous ne pouvez pas la laisser entrer dans vos chambres. Elle est un scandale !
-
-
-C'est un fou, ce garçon. J'ai bien peur que...
-
-
-Fous le camp, maudite chose !
-
-
-Bon sang ! Qu'est-ce que c'est que ça ?
-
-
-Qu'est-ce que tu veux dire ? Un chat ! Il griffe, ce satané chat ! Tu ne peux pas le garder dans la chambre. Hier, il était dans le salon, sous les rideaux...
-
-
-Va-t'en, pour l'amour de Dieu !
-
-
-Oh mon Dieu, comme j'ai eu peur ! Je vais partir ! Je ne peux pas m'en aller !
-
-
-Chérie, calme-toi ! Je te donne ma parole que je jetterai cet idiot dehors demain.
- Tu viendras demain, n'est-ce pas ? Tu viendras ? Chez Petya ?
-
-Je ne sais pas... mes jambes tremblent. J'ai tellement peur.
-
-Est-ce qu'elles tremblent ? Je vais les embrasser, ces jolis pieds !
- Voilà, c'est fait. Maintenant, ils ne trembleront plus.
-Maintenant le gauche, ou elle sera offensée.
-
-Je suis un garçon intelligent ! Intelligent et travailleur.
-Je vais fermer le poêle...
-Qu'est-ce qu'il fait là ? Il mâche le bouton de sa chaussure ! Non... il a dû faire tomber quelque chose. Je vais aller le chercher.
-
-Il n'y a rien là.
-
-Qu'est-ce que vous cherchez ? Qu'est-ce que vous nous voulez ?
-
-Je pensais que vous aviez fait tomber quelque chose... On le perdra encore, comme la broche de cette dame, cette Marya Nikolaïevna, qui vient prendre le thé chez vous... (À la dame.) Le troisième jour, quand elle est partie, je l'ai perdue, m'a-t-elle dit, Liocha, la broche. Alors je suis allée la chercher derrière le paravent, sur la table. Mais hier, elle a encore oublié sa broche, et ce n'est pas moi qui l'ai rangée, c'est Dunyashka, alors pour la broche c'est fichu...
-
-Est-ce vrai ? Est-ce que c'est vrai ? Est-ce que c'est vrai ?
-
-Par Dieu, c'est vrai ! C'est Dunyushka qui l'a volé, cette diablesse. Sans moi, elle aurait tout volé.
-
-Je nettoie comme un cheval, je nettoie comme un chien.
-
-Jetez cet idiot dehors. Mettez-le dehors tout de suite, pour qu'on ne le voie plus.
-Je ne suis pas un imbécile.
-
-Sont-ils partis ?
- Ils sont partis à la poursuite d'un adeotype.
- Qu'est-ce que c'est ?
- Je ne sais pas. Je sais, messieurs.
-Je suis moi-même plongé dans les affaires jusqu'au cou.
-J'ai fait mon devoir. Demain, le diable mourra et je serai l'une de leurs servantes pour servir de domestique.
-
-Vraiment ?
-
-Si je le dis, c'est que je le sais.
-
-Le lendemain, Liochka fut mis à la porte.
-
-
-#S-------- ЗАКЛЮЧИТЕЛЬНАЯ ЧАСТЬ — ОТЪЕЗД
-#--- СЕРГЕЙ :
-#  TODO ici
-Les étapes difficiles m'ont malmené.
- Je suis assis au bord de la mer.
- Je conserve comme une relique
- La poussière de Moscou sur mon vieux chapeau.
-Qu'ai-je à voir avec la splendeur et la joie d'une vie étrangère ? -
- Notre vie est un rêve troublé.
- Nos rires nous semblent être les rires d'un triomphe,
- Le son des discours est comme un chant funèbre.
-Dans les orages, je vois de nouvelles scènes
- Sur un rivage natal, lointain....
- Poussière de Moscou sur le ruban d'un vieux chapeau
- En tant que symbole, je tiens pour sacré...
-
-#S --- ТЭФФИ :
-
-
+Puis, venir, faire la tête, se retourner et s’en aller
+ sans y jeter un coup d’oeil.
+ Où serait la logique?
+Vous ne m'aimez pas...
+ - Permettez, ne me coupez pas la parole.
+ La seule chose que vous pouvez dire pour vous justifier,
+c’est que vous n’êtes pas venue pour l’album,
+ que l’album n’était qu’un prétexte.
+ Si c’est le cas, pourquoi donc êtes-vous venue? Hein ?
+Vous... Vous êtes vraiment un Don Juan.
+ Tout le monde le dit.
+Vous me faites une déclaration d'amour, mais sûrement
+  vous faites la même à Maria Nikolaevna...
+Oui, oui, les gens l'ont remarqué.
+ Et à Katia Vieshilova.
+Je vous demande alors, pourquoi êtes vous venue?
+ Essayez de me répondre.
+Et je vous réponds que vous êtes un Don Juan.
+ Ne le niez pas!
+Où est votre logique?
+ Je vous dis que vous...
+Alors écoutez, je vais répondre pour vous:
+ l'album n'y est pour rien, c'est pour m'embrasser 
+ que vous êtes venue. Eh oui, c'est comme ça.
+Quoi, vous seriez idiote au point
+ de risquer votre réputation
+ juste pour regarder un stupide album?
+Si je pensais cela, cela signifierait
+ que je vous tiens pour une perruche,
+ que je n'ai pas un gramme de respect pour vous.
+Mais laissez-moi! Comment osez-vous ?
+Mais je vous respecte,
+ je vous tiens pour une femme d'esprit,
+ et je sais que si ne ne vous embrasse pas
+ comme il convient,
+je ne mériterai que votre complet mépris.
+ Non, ce n'est pas le genre de Piotr Butyakin.
+ Piotr Butyakin, le voilà. Le voilà. Le voilà. 
+	
+Assiez-toi, je veux dire sseyez-toi, asseyez-vous,
+ je vous en prie, que faites vous encore debout?
+Ah, non, au contraire, je... je m'assieds.
+ En chemin de fer, il faut beaucoup être assis.
+Où avez-vous acheté cette lampe ? Quelle perfection.
+ - J'aime les tissus de soie, en général.
+ - Pardon !
+Qu'est-ce que tu... Qu'est-ce que vous faites,
+ vous avez perdu la tête !
+Pas du tout, ce n'est rien. Vous aviez là...
+ un mégot.
+ - Quoi ?
+
+On dirait qu'il nous a vu ! C'est affreux !
+ Dites-moi,
+ il n'y a jamais de dames chez vous?
+Jamais.
+ Enfin, parfois, quelque vieille dame, pour affaires.
+Alors ce n'est pas vrai que vous êtes un Don Juan?
+Grands dieux! Bien sûr,
+ je ne peux pas nier que je plais aux femmes,
+ mais ce n'est pas ma faute.
+Vous n'allez pas enfermer le soleil
+ sous prétexte qu'il fait pousser les fleurs.
+ C'est parfaitement logique.
+Vous êtes tellement intelligent.
+ Vous parlez tellement joliment.
+Ma chère! Ne me dites pas que je suis intelligent,
+ je l'entends déjà trop souvent.
+J'en ai assez de cette intelligence déssechée
+ et éternellement analytique.
+J'ai soif de sentiments qui embrasent tout!
+ Ma chérie! Appelle-moi Petia! Appelle-moi Petia! 
+ - Petia...
+Alors, je te reverrai ?
+ Hein? Dis oui, dis oui à ton Petia
+Attends un peu, ordure!
+ Je vais t'apprendre à traîner ici !
+ Tu vas voir ta gueule !
+Non mais tu es dingue, misérable !
+ Après qui tu te permets de crier comme ça ?
+C'est elle, cette salope, si tu la laisses rentrer,
+ après bonjour les emmerdes. Je vais te la fiche dehors.
+ Sinon, tu verras le scandale.
+Mais il a perdu la tête, ce garçon. Il me fait peur...
+ - Fous le camp, saleté!
+ - Seigneur, mais qu'est-ce que c'est que ça ?
+Quoi, qu'est-ce que c'est ? C'est cette fichue chatte.
+ Aïe, elle griffe, la sale bête.  Il ne faut pas
+ la garder dans la chambre. Hier, dans le salon,...
+Mais vas-t'en avec elle, pour l'amour de Dieu.
+Mon dieu, que j'ai eu peur ! Je pars !
+ Ce n'est pas possible !
+Ma chérie, calme-toi!
+ Je te donne ma parole que demain je fais virer cet idiot.
+ Car tu reviendras demain, hein ? Chez Petia ? 
+Je ne sais pas, j'ai les jambes qui tremblent.
+ J'ai eu si peur!
+Elles tremblent ? Je vais les embrasser,
+ ces jolies petites jambes !
+ Voila. Comme cela elles ne trembleront plus.
+Et maintenant la gauche,
+ pour qu'elle ne soit pas jalouse.
+
+Je suis un gars intelligent, moi.
+ Intelligent et travailleur.
+ Je vais fermer le poele.
+Qu'est-ce qu'il est en train de faire ?
+ On dirait qu'il mâche un bouton?
+ Non, il a fait tomber un truc ? Je vais l'aider.
  
-Moscou. L'automne. Le froid.
-Mon existence à Saint-Pétersbourg est liquidée. "La parole russe est fermée. Il ne me restait qu'une seule perspective : aller à Kiev et à Odessa pour organiser mes spectacles littéraires.
-J'ai commencé à demander l'autorisation de partir.
-Un laissez-passer m'a été accordé.
+Bon ben il n'y a rien ici.
+ - Mais qu'est-ce que tu cherches?
+  À la fin, tu veux quoi ?
+Je croyais que vous aviez perdu un truc !
+Comme l'autre jour, la broche 
+ de cette autre dame, là, Maria Nikolaevna,
+ celle qui vient tout le temps prendre le thé.
+V'la qu'elle me dit, Liochka, j'ai perdu ma broche.
+ Alors j'y vais, et je l'ai retrouvée,
+ sur la table, derrière le paravent.
+Et hier elle l'a encore oubliée,
+ mais ce n'ai pas moi qui ai rangé,
+ c'est Douniachka, alors à mon avis adieu la broche.
+Quoi ? Alors c'est vrai? C'est vrai?
+Et comment que c'est vrai! Douniachka l'aura escamoté,
+ cette diablesse qui louche. Si je n'étais pas derrière elle,
+ elle chiperait tout.
+Moi je range tout comme un cheval, sacrebleu,
+ comme un chien.
+Je vire l'abruti. Je le fiche dehors tout de suite.
+Je ne suis pas un idiot, moi.
+Ils sont sortis ?
+ - Oui, ils sont parti en courant après une brutie.
+ - Quoi ?
+J'en sais rien, moi. Monsieur sait.
+ Moi j'ai du boulot, jusqu'au cou. 
+En tout cas j'ai bien bossé aujourd'hui. Et demain,
+ la diablesse qui louche verra bien, c'est moi qui remplacerai
+ toutes ces bonnes femmes de ménage.
+C'est pas vrai?
+ - Si je le dis, c'est que je le sais.
+
+Le lendemain, Liochka était renvoyé.
+
+#-------- ЗАКЛЮЧИТЕЛЬНАЯ ЧАСТЬ — ОТЪЕЗД
+
+#S--------------- LES VISAS
+
 
 #S --- ТЭФФИ :
+Moscou. L'automne. Le froid.
+J'ai liquidé mon existence à Saint-Pétersbourg.
+ "La parole russe" est fermé.
+Il ne me restait qu'une seule perspective :
+ aller à Kiev et à Odessa pour organiser mes spectacles littéraires.
+J'ai commencé à demander l'autorisation de partir.
+ On m'a donné un laissez-passer.
 
+#S --- ТЭФФИ :
 Dans la ruelle Krivo-Arbatsky, au coin de la rue,
- dans un magasin de Surov, il reste encore un centimètre et demi de batiste.
- Vous devriez l'acheter.
+ dans un magasin de Surov, il reste encore un mètre et demi
+ de batiste. Vous devriez l'acheter.
 Je n'en ai pas besoin.
- Si, tu en as besoin. Dans un mois, quand vous reviendrez, il n'y en aura plus.
+ Si, tu en as besoin. Dans un mois, quand vous reviendrez,
+ il n'y en aura plus.
 Les nouvelles de Saint-Pétersbourg disent qu'un artiste célèbre
  a été arrêté pour avoir lu mes histoires.
-sVous devez faire faire une robe de velours immédiatement !
+Vous devez faire faire une robe de velours immédiatement !
 Vous savez que vous en avez besoin.
- Il y a une propriétaire au coin de la boutique qui vend un morceau de rideau.
+Il y a une propriétaire au coin de la boutique
+ qui vend un morceau de rideau.
  Il vient d'être décroché, très frais, avec des clous dedans.
  Cela fera une belle robe de soirée.
 Vous en avez besoin.
- Et vous n'aurez jamais une telle occasion.
+  Et vous n'aurez jamais une telle occasion.
 J'ai acheté un magnifique rabat avec sept clous dedans.
-
- 
 
 #S--- TEFFI - ...............................
 
@@ -1074,6 +1062,7 @@ Au revoir, ma Moscou chérie. Pas pour longtemps.
 On se revoit dans un mois.
 Dix ans ont passé depuis.
 # noir
+
 #Nous partons dans un wagon de marchandises.
 #Le train approche de la gare. 
 
@@ -1082,24 +1071,24 @@ Kiev !
 Tu ne peux pas rentrer chez toi.
  - Kiev est coupée du nord.
  - Ceux qui sont arrivés à temps sont déjà partis.
-- Mais tout le monde va quelque part.
+Mais tout le monde va quelque part.
  - Chacun sent qu'il ne restera pas longtemps.
 
 - Je suis allée dire au revoir à Lavra.
   Je suis allé dire au revoir à la cathédrale de Saint-Volodymyr.
 
 Nous avons quitté Kiev en fin de soirée.
- Les canons retentissaient dans un endroit très proche.
+ Les canons retentissaient, tout près.
 
 Il est impossible d'aller plus loin que la 11ème verste.
- La voie de passage est occupée par les bolcheviks.
+ Le passage est coupé par les bolcheviks.
 
 Le bombardement du train vient de reprendre.
  Il y a des morts et des blessés.
 
-Des morts ! Blessés !
+Des morts ! Des blessés !
  Nous sommes habitués à ces mots.
- Ils ne déroutent personne.
+ Ils ne déroutent plus personne.
 "Blessé" et "tué" sont des mots de notre vie quotidienne.
  Et nous-mêmes pouvons être blessés ou tués.
 Il y a quelqu'un qui s'est fait voler sa bouilloire ! 
@@ -1108,13 +1097,11 @@ Nous avons roulé jusqu'à Odessa de nuit.
  De nouveau, les mêmes visages ont défilé,
  de nouveau, les mêmes absurdités ont été débitées. 
 
-Au début, nous, les réfugiés, étions amusés par la vie à Odessa.
-
+Au début, pour nous, les réfugiés,
+ la vie à Odessa était amusante.
 Ce n'est pas une ville, c'est une blague !
-
-La ballerine a dansé magnifiquement,
- ce qui n'est pas le cas du décor.
-
+ - La danse de la ballerine était magnifique,
+ on ne peut pas en dire autant du décor.
 
 L'artiste a merveilleusement interprété l'Elégie d'Ernst,
  et son violon sanglotait...
@@ -1122,39 +1109,29 @@ L'artiste a merveilleusement interprété l'Elégie d'Ernst,
 
 "Un bateau à vapeur est arrivé à l'embarcadère.
 
-La routine devint vite lassante,
- car les blagues ne sont drôles que lorsqu'elles sont racontées.
+La routine devint vite lassante, car les blagues
+ ne sont drôles que lorsqu'elles sont racontées.
  Quand elles sont vécues, ce sont des tragédies.
 Ma vie est une blague, c'est donc une tragédie.
-
- 
-
- 
 
 #S------- SERGEI, NATASHA :
 
 Eh bien, au revoir, je pars. Bénissez-moi.
  - Que Dieu soit avec vous.
  - Ce ne sera pas long. Je vous reverrai bientôt.
-- Dieu vous garde. Je ne sais pas si nous le ferons.
- Nous ne savons rien.
-
-#S--- TEFFY - ........................ :
-
+- Dieu vous garde. Je ne sais pas si nous nous reverrons.
+ Nous n'en savons rien.
  
 #S--- TEFFI - ........................ :
 
- 
-
-
 Tout est rapide, pressé et inutile.
 Tout aussi rapides, pressés et inintéressants
- furent les derniers jours de Novorossiysk avant leur départ inattendu.
-
-
-Il est difficile de retourner à Pétersbourg maintenant,
- partez donc à l'étranger pour l'instant,
- vous reviendrez au pays au printemps.
+ furent leurs derniers jours de Novorossiysk
+ avant leur départ inattendu.
+ 
+Actuellement il est difficile de retourner à Pétersbourg,
+ partez donc à l'étranger en attendant.
+ Vous reviendrez au pays au printemps.
 Quel merveilleux mot - le printemps.
  Quel merveilleux mot - mon pays...
 Le printemps est la résurrection de la vie.
@@ -1162,27 +1139,28 @@ Le printemps est la résurrection de la vie.
 Le bruit, l'agitation et les chuchotements.
  Oui, ils chuchotent, ils regardent autour d'eux.
  Tout est effrayant, effrayant, pas de repos,
- je ne reprendrai pas mes esprits jusqu'à la fin des jours, Amen.
-
+je ne reprendrai pas mes esprits
+ jusqu'à la fin de mes jours, Amen.
 
 Le bateau à vapeur tremble, son hélice soulève de l'écume blanche,
  une fumée noire se répand sur le rivage.
 
-
 Et silencieusement, doucement, la terre se retire.
-Inutile de la regarder. Il faut regarder vers l'avant,
+ Il ne faut pas la regarder. Il faut regarder vers l'avant,
  vers la grande étendue bleue et libre...
-Mais la tête se tourne, les yeux grands ouverts, le regard fixe, ....
+Mais la tête se tourne, les yeux s'ouvrent grands,
+ et regardent, regardent ....
 
 
 Et chacun se tait.
 Seuls les pleurs d'une femme se font entendre
- depuis le pont inférieur, persistants, longs,
- avec des lamentations.
-La dernière. Dans tout le pays, dans tout...
-Le paquebot tremble, de la fumée noire s'échappe.
-Les yeux grands ouverts sur le froid qui les habite, je regarde fixement. 
- Et je ne reculerai pas.
+ depuis le pont inférieur.
+Les derniers pleurs. De tout le pays, de tout...
+Le paquebot vibre, de la fumée noire s'en échappe.
+Les yeux grands ouverts jusqu'à ce qu'ils gèlent,
+ je regarde fixement. 
+ Et je ne me détournerai pas.
+ 
 J'ai enfreint mon injonction, j'ai regardé en arrière.
 Et me voilà, comme la femme de Lot, pétrifiée et stupéfaite,
  je vais regarder éternellement ma terre qui s'éloigne doucement.
@@ -1193,3 +1171,17 @@ Et me voilà, comme la femme de Lot, pétrifiée et stupéfaite,
 
 
 
+#--- СЕРГЕЙ :
+#  TODO ici
+#Les étapes difficiles m'ont malmené.
+# Je suis assis au bord de la mer.
+# Je conserve comme une relique
+# La poussière de Moscou sur mon vieux chapeau.
+#Qu'ai-je à voir avec la splendeur et la joie d'une vie étrangère ? -
+# Notre vie est un rêve troublé.
+# Nos rires nous semblent être les rires d'un triomphe,
+# Le son des discours est comme un chant funèbre.
+#Dans les orages, je vois de nouvelles scènes
+# Sur un rivage natal, lointain....
+# Poussière de Moscou sur le ruban d'un vieux chapeau
+# En tant que symbole, je tiens pour sacré...
