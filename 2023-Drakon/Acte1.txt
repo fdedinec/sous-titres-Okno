@@ -442,61 +442,116 @@ Je me sens tout à coup terriblement faible. Pardonnez-moi,
  Il a été si aimable avec nous.
 Pardonnez-moi, je vais me coucher.
 
-Pourquoi avez-vous entrepris tout cela ? Je ne vous fais pas de reproches, mais tout était si clair et si digne. Ce n’est vraiment pas si effrayant de mourir jeune. Tout le monde vieillira, sauf toi. 
-Qu’est ce que vous dites ! Réfléchissez ! Même les arbres poussent un soupir, quand on les abat.
-Mais je ne me plains pas.
-Et vous n’avez pas pitié de votre père ?
-Il va mourir juste au moment où il veut mourir. Au fond, c’est le bonheur. 
+Pourquoi vous êtes-vous lancé là dedans ?
+ Je ne vous fais pas de reproches, mais tout était si clair
+ et si digne.
+Ce n’est vraiment pas si effrayant de mourir jeune.
+ Tout le monde vieillira, sauf toi. 
+Qu’est ce que vous dites ! Réfléchissez !
+ Même les arbres poussent un soupir, quand on les abat.
+Eh bien moi je ne me plains pas.
+ Et vous n’avez pas pitié de votre père ?
+Il va mourir juste au moment où il souhaite mourir.
+ Au fond, c’est le bonheur. 
 Et vous ne regrettez pas de quitter vos amies ?
-Non, si ce n’était pas moi, le dragon aurait choisi l’une d’entre elles.
+Non, parce que si ce n’était pas moi, le dragon aurait choisi
+ l’une d’entre elles.
 Et votre fiancé ?
 Comment savez-vous que j’ai un fiancé ?
-Je l’ai pressenti. Et vous ne regrettez pas de le quitter, votre fiancé ?
-De toute façon, pour consoler Henri, le dragon l’a désigné comme son secrétaire personnel.
-Ah ! C’est donc cela. Dans ce cas, évidemment, il n’y a plus autant de regret à le quitter. Mais votre ville natale ? Vous ne regrettez pas de la laisser ?
+Je l’ai pressenti. Alors, vous ne regrettez pas de le quitter,
+ votre fiancé ?
+De toute façon, pour consoler Henri, le dragon l’a désigné
+ comme son secrétaire personnel.
+Ah ! Voilà donc. Dans ce cas, évidemment,
+ il y moins de regret de le quitter. Mais votre ville natale ?
+ Vous ne regrettez pas de la laisser ?
 Mais c’est justement pour ma ville natale que je meurs.
 Et elle accepte votre mort avec indifférence ?
-Non, non ! Ma vie s’arrête dimanche, mais toute la ville portera évidemment le deuil jusqu’au jour même de mardi. Pensant trois jours entiers, personne ne mangera de viande. Avec le thé, on servira des pâtisseries spéciales portant le nom de « pauvre jeune fille » en ma mémoire.
+Non, non ! Ma vie s’arrêtera dimanche, mais toute la ville
+ portera évidemment le deuil, et jusqu'au mardi.
+ Pensant trois jours entiers, personne ne mangera de viande.
+Avec le thé, on servira des pâtisseries spéciales
+ portant le nom de « pauvre jeune fille » en ma mémoire.
 Et c’est tout ?
-Et que peut-on faire encore ?
+ Et quoi faire encore ?
 Tuer le dragon. 
-C’est impossible.
-Huit de mes amies chattes et quarante-huit de mes chatons ont parcouru toutes les maisons et ont parlé de la bagarre imminente. Miaou ! Le bourgmestre accourt.
-Le bourgmestre ? Charmant !
-Bonjour, Elsa. Où est le passant ?
+ - C’est impossible.
+
+#S Acte1 Scène 5 -----------------------------------------
+Huit de mes amies chattes et quarante-huit de mes chatons
+ ont parcouru toutes les maisons et ont parlé de la bagarre
+ imminente. Miaou ! Le bourgmestre accourt.
+Le bourgmestre ? Parfait !
+Bonjour, Elsa. Où est le chevalier errant ?
 Je suis là. 
-Avant tout, soyez gentil, parlez un peu plus bas, autant que possible sans geste, avancez doucement et ne me regardez pas dans les yeux.
+Avant tout, soyez gentil, parlez un peu plus bas,
+ autant que possible sans geste, avancez doucement
+ et ne me regardez pas dans les yeux.
 Pourquoi ?
-Parce que j’ai les nerfs dans un état épouvantable. Je souffre de toutes les maladies de nerfs et de toutes les maladies psychiques qui existent sur terre, et, en supplément, de trois autres encore, jusqu’ici inconnues. Vous pensez qu’il est facile d’être bourgmestre sous le règne d’un dragon ?
+Parce que j’ai les nerfs dans un état épouvantable.
+ Je suis atteint de toutes les maladies nerveuses
+ et de toutes les maladies psychiques qui existent sur terre,
+ et, en outre, de trois autres encore, jusqu’ici inconnues.
+Vous pensez qu’il est facile d’être bourgmestre
+ sous le règne d’un dragon ?
 Je vais tuer le dragon, et vous irez mieux.
-Mieux ? Ah!ah ! Mieux ! Ah ! Ah ! Mieux ! Le fait que vous avez osé défier monsieur le dragon est un malheur. Les affaires étaient en ordre. Monsieur le dragon, par son influence, tenait dans ses mains mon adjoint, un salaud comme on en voit peu. Maintenant, tout s’embrouille. Monsieur le dragon va se préparer au combat et il abandonnera la gestion des affaires de la ville, auxquelles il venait de commencer à réfléchir.
-Comprenez donc, malheureux, que je vais sauver la ville.
-La ville ? Ah!ah ! La ville ! La ville ! Ah ! Ah ! Mon adjoint est un si grand salaud que je vais sacrifier deux villes, rien que pour l’anéantir. Cinq dragons valent mieux qu’une vermine comme mon adjoint. Je vous en supplie, partez.
-Je ne partirais pas.
-Félicitation, j’ai un accès de catalepsie. 
-Mais je vous sauverais tous ! Comprenez-le ! Vous ne comprenez pas ?
-Non, je ne vous comprends pas. Qui vous demande de vous battre avec lui ?
+Mieux ? Ah!ah ! Mieux ! Ah ! Ah ! Mieux !
+ Le fait que vous avez osé défier monseigneur le dragon
+ est un malheur.
+Les affaires étaient en ordre.
+ Monseigneur le dragon, par son influence, tenait dans ses mains
+ mon adjoint, un salaud comme on en voit peu.
+Maintenant, tout s’embrouille. Monsieur le dragon va se préparer
+ au combat et il abandonnera la gestion des affaires de la ville,
+ auxquelles il venait juste de commencer à réfléchir.
+Mais vous comprenez, malheureux, que je vais sauver la ville ?
+La ville ? Ah!ah ! La ville ! La ville ! Ah ! Ah !
+ Mon adjoint est un si grand salaud que je sacrifierais deux villes,
+ rien que pour l’anéantir. Cinq dragons valent mieux
+ qu’une vermine comme mon adjoint. Je vous en supplie, partez.
+Je ne partirai pas.
+Je vous félicite, j’ai un accès de catalepsie. 
+Mais je vous sauverai tous ! Comprenez-le !
+Vous ne comprenez pas ?
+Non, je ne vous comprends pas. Qui vous demande
+ de vous battre avec lui ?
 Toute la ville le veut.
-Ah, oui ? Regardez par la fenêtre. Les meilleurs hommes de la ville ont accouru pour vous demander de plier bagage.
+Ah, oui ? Regardez par la fenêtre. Les meilleurs de nos citoyens
+ ont accouru pour vous demander de plier bagage.
 Où sont-ils ?
-Là, ils se serrent près des murs. Approchez davantage, mes amis.
+ - Là, serrés près des murs. Approchez davantage, mes amis.
 Pourquoi marchent-ils sur la pointe des pieds ?
-Pour éviter de me mettre sur les nerfs. Mes amis, dites à Lancelot ce que vous voulez de lui. Allez ! Une, deux, trois !
+Pour ne pas me taper sur les nerfs. Mes amis, dites à Lancelot
+ ce que vous voulez de lui. Allez ! Une, deux, trois !
 Partez loin de chez nous ! Au plus vite ! Aujourd’hui même !
-Vous voyez ! Si vous êtes quelqu’un d’humain et de cultivé, vous vous soumettrez à la volonté du peuple. 
-À aucun prix !
-Félicitations, j’ai un léger dérangement cérébral. Je suis une théière, faites-moi infuser !
-Je comprends pourquoi ces gens médiocres sont accourus sur la pointe des pieds.
-Alors, pourquoi cela?
-Pour éviter de réveiller les véritables gens. Je m’en vais de ce pas leur parler.
-Faites-moi bouillir ! D’ailleurs, qu’est ce qu’il peut faire ? Le dragon ordonnera, et nous le mettrons en prison. Ma chère Elsa, ne vous inquiétez pas. À la seconde près, dans le délai fixé, notre cher dragon te serrera dans ses bras. Sois tranquille.
+Vous voyez ! Si vous êtes quelqu’un d’humain et de cultivé,
+ soumettez-vous à la volonté du peuple. 
+Hors de question !
+Je vous félicite, me voilà avec un dérangement cérébral. *
+ Je suis une théière, faites-moi infuser !
+Je comprends pourquoi ces petites gens sont accourus
+ sur la pointe des pieds.
+Ah bon, pourquoi cela?
+Pour éviter de réveiller les gens authentiques.
+ Je m’en vais de ce pas leur parler.
+Vous me faites bouillir ! D’ailleurs, qu’est ce qu’il peut faire ?
+ Le dragon ordonnera, et nous le mettrons en prison.
+Ma chère Elsa, ne vous inquiétez pas. À la seconde près,
+ dans le délai imparti, notre cher dragon te serrera dans ses bras.
+ Tu peux être tranquille.
 Bien.
+#S  Acte 1 Sc 6
 Entrez.
 Bonjour, fiston. 
 Bonjour, père. 
-Tu viens de chez lui ? Il n’y aura aucun combat, bien sur ? Tu apportes l’ordre de jeter Lancelot en prison ?
-Monsieur le dragon ordonne : premièrement, de fixer le jour du combat à demain ; deuxièmement, de fournir des armes à Lancelot ; troisièmement, d’être un peu plus intelligent.
-Félicitation, j’ai perdu la raison. Raison ! Aïe ! Réponds ! Sors !
+Tu viens de chez lui ? Il n’y aura aucun combat, bien sur ?
+ Tu apportes l’ordre de jeter Lancelot en prison ?
+Monseigneur le dragon ordonne :
+ premièrement, de fixer le jour du combat à demain ;
+ deuxièmement, de fournir des armes à Lancelot ;
+ troisièmement, d’être un peu plus intelligent.
+Je vous félicite, j’ai perdu la raison.
+ La raison ! Aïe ! Réponds ! Sors !
 J’ai ordre de parler avec Elsa en tête-à-tête.
 Je sors, je sors, je sors !
 Bonjour, Elsa.
@@ -507,12 +562,17 @@ Moi non plus.
 Qu’est ce que le dragon t’a chargé de me dire ?
 Il m’a chargé de te dire de tuer Lancelot, si nécessaire. 
 Comment ?
-Avec un couteau. Le voici, c’est un petit couteau. Il est empoisonné…
+Avec un couteau. Le voici, c’est un petit couteau.
+ Il est empoisonné…
 Je ne veux pas !
-Mais là-dessus, monsieur le dragon m’a chargé de dire qu’autrement il massacrera toutes tes amies.
-Bon. Dis-lui de que je m’y efforcerais.
-Là-dessus, monsieur le dragon m’a chargé de dire : toute hésitation sera punie comme insoumission.
+À ce sujet, monseigneur le dragon m’a chargé de dire
+ qu’autrement il massacrera toutes tes amies.
+Bon. Dis-lui de que j'essaierai.
+Là-dessus, monseigneur le dragon m’a chargé de dire :
+ toute hésitation sera punie en tant qu'insoumission.
 Je te déteste !
-Là-dessus, monsieur le dragon m’a chargé de dire qu’il sait récompenser les serviteurs fidèles.
+À ce sujet, monseigneur le dragon m’a chargé de dire
+ qu’il sait récompenser les serviteurs fidèles.
 Lancelot le tuera, ton dragon !
-Et là-dessus, monsieur le dragon m’a chargé de dire : on verra !
+Et à ce sujet, monseigneur le dragon m’a chargé de dire :
+ on verra bien !
