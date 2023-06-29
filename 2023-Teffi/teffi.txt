@@ -1,3 +1,10 @@
+Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxZ
+
+
+
 Merci d'éteindre vos téléphones portables !
  Пожалуйста, отключите свои мобильные телефоны!
 
@@ -31,7 +38,7 @@ Sous le tonneau.
 Nous sommes dans une villa à la périphérie de Paris,
  occupée par une maison d'hôtes russe.
 
-Des fricadelles tous les jours, cela commence à bien faire.
+Des boulettes de viande tous les jours, cela commence à bien faire.
  Faites des gâteaux au fromage pour changer, quoi.
  Pour vingt-deux francs, on est en droit d'exiger
  plus d'attention au menu.
@@ -51,7 +58,7 @@ Un garçon si heureux, et il hurle pendant deux heures,
 Vous savez ce que c'est, le chagrin à cet âge.
  Ils l'ont mis au lit, alors il pleure.
 Peu importe la cause de ce désespoir.
-Seriez-vous vous-même  heureux si un malabar
+Seriez-vous vous-même heureux si un caïd
  vous sautait dessus et vous forçait à vous coucher ?
 Non, mon cher, je vous le dis,
  la pire partie de la vie est précisément l'enfance.
@@ -72,14 +79,15 @@ Seriez-vous heureux si l'on vous frottait ainsi ?
  Si une vieille mamie à la bouche édentée vous disait
  "Gouzi Gouzi".
  Brr... effrayant.
-Et en grandissant ils doivent apprendre.
+Et en grandissant ils doivent s'instruire.
  Quel charabia on ne leur enfonce pas alors dans le crâne.
 "Alouette, gentille alouette,
  Alouette, je te plumerai !
 Dites-moi, honnêtement, sans mentir,
  A quoi sert cette "alouette, je te plumerai"
  dans la vie d'une personne normale ?
-Qui a besoin de ça ? Il y a aussi celui qui a raconté en vers
+Qui a besoin de ça ?
+ Il y a aussi celui qui a raconté en vers
  comment les poussins éclosent et s'envolent,
  mais qu'est-ce qu'ils ont tous avec les oiseaux ?
 Vous vous souvenez, je suppose, que vous les avez
@@ -136,7 +144,7 @@ Et il n'y a pas que de la poésie nationale
  dont on nous a bourré le mou,
  on nous a aussi inculqué les poèmes étrangers.
 Vous vous souvenez du "Roi des Aulnes" ? Quel scandale !
- Quand j'étais enfant, je me disais que quelque chose
+ Quand j'étais enfant, je trouvais déjà que quelque chose
  allait de travers.
 Rappelez-vous :
  Un père monte à cheval
@@ -520,7 +528,7 @@ Ainsi se termina notre liaison.
 Fleurs cryptogames, secrète est notre union...
  Personne n'a su que nous nous aimions,
  Qu'un arôme d'amour poudré
- Nous a, toi et moi, enivrés.
+ Nous avait, toi et moi, enivrés.
 Dans la profondeurs de l'ombre sous la terre
  C'est là que par hasard nos racines se mêlèrent,
  Là que notre secret fut conçu.
@@ -635,12 +643,13 @@ Somme toute, qu’est-il est arrivé ?
 Avez-vous entendu ? Avez-vous entendu ?
 Il ne faut pas la lasser seule cette nuit.
  Sinon, elle va se tirer dessus
- avec le cyanure qu’on doit lui livrer mardi !
+ - avec le cyanure qu’on doit lui livrer mardi !
 
 Il y a des moments désagréables et gênants quand...
+
 J'en ai vraiment besoin, pas pour longtemps...
  juste vingt-cinq roubles.
-Je croix que ce sera la semaine prochaine,
+ Je croix que ce sera la semaine prochaine,
  ou en janvier que... je pourrai...
 Pourquoi je vous regarde ? Je vais vous le dire.
  Ecoutez-moi, regardez-moi... Je veux – vous m’entendez bien ?
@@ -843,13 +852,14 @@ Non, merci. Vous vous souvenez de nos termes:
 Ma chère! Quel bonheur! Quelles jolies mains!
  Asseyons-nous ici.
 Non, quelle idée! Pas question de s'asseoir.
- C'est gentil chez vous.
+C'est gentil chez vous.
 Je suis très content que ça vous plaise.
  Permettez-moi donc de vous enlever un gant.
  J’ai tellement envie d’embrasser ce petit doigt.
 Mon gant? Pour rien au monde! Vous avez perdu la tête...
- Mais non, ça ne se défait pas comme ça,
- ce sont des boutons pression, écervelé !
+
+Mais non, ça ne se défait pas comme ça,
+ ce sont des boutons pression, grand fou !
 Votre... votre plafond est très beau... Les frises...
  J’aime bien les frises en général...
 Oui, n’est pas? C’est fort agréable, surtout en été,
@@ -893,6 +903,7 @@ Vous n'avez pas peur de moi, au moins ?
  - Point du tout. Vous m’avez promis
  de me montrer votre album. Je suis là pour ça.
  - Ah, oui.
+
 Le voilà.
  Ceci est un portrait de ma tante.
  - Vraiment? Comme c’est intéressant. Où ça?
@@ -935,7 +946,8 @@ Et je vous réponds que vous êtes un Don Juan.
 Où est votre logique?
  Je vous dis que vous...
 Alors écoutez, je vais répondre pour vous:
- l'album n'y est pour rien, c'est pour m'embrasser 
+
+L'album n'y est pour rien, c'est pour m'embrasser 
  que vous êtes venue. Eh oui, c'est comme ça.
 Quoi, vous seriez idiote au point
  de risquer votre réputation
@@ -970,8 +982,8 @@ Dites-moi,  il n'y a jamais de dames chez vous?
 Jamais.
  Enfin, parfois, quelque vieille dame, pour affaires.
 Alors ce n'est pas vrai que vous êtes un Don Juan?
- - Grands dieux! Bien sûr,
- je ne peux pas nier que je plais aux femmes,
+ - Grands dieux!
+ Bien sûr, je ne peux pas nier que je plais aux femmes,
  mais ce n'est pas ma faute.
 Vous n'allez pas enfermer le soleil
  sous prétexte qu'il fait pousser les fleurs.
@@ -1002,10 +1014,11 @@ Quoi, qu'est-ce que c'est ? C'est cette fichue chatte.
  Aïe, elle griffe, la sale bête.  Il ne faut pas
  la garder dans la chambre. Hier, dans le salon,...
 Mais vas-t'en avec elle, pour l'amour de Dieu.
+
 Mon dieu, que j'ai eu peur ! Je pars !
  Ce n'est pas possible !
 Ma chérie, calme-toi!
- Je te donne ma parole que demain je fais virer cet idiot.
+ Je te donne ma parole que demain je fais virer cet abruti.
  Car tu reviendras demain, hein ? Chez Petia ? 
 Je ne sais pas, j'ai les jambes qui tremblent.
  J'ai eu si peur!
@@ -1021,7 +1034,7 @@ Je suis un gars intelligent, moi.
 Qu'est-ce qu'il est en train de faire ?
  On dirait qu'il mâche un bouton?
  Non, il a fait tomber un truc ? Je vais l'aider.
- 
+
 Bon ben il n'y a rien ici.
  - Mais qu'est-ce que tu cherches ?
   À la fin, tu veux quoi ?
@@ -1043,6 +1056,7 @@ Moi je range tout comme un cheval, sacrebleu,
  comme un chien.
 Je vire l'abruti. Je le fiche dehors tout de suite.
 Je ne suis pas un idiot, moi.
+
 Ils sont sortis ?
  - Oui, ils sont parti en courant après une brutie.
  - Quoi ?
@@ -1073,7 +1087,8 @@ Aujourd'hui, le visa a pris une forme et une signification
  presque mystique.
 C'est pourquoi une personne qui communique avec lui
  est appelée un visionnaire.
-L'homme doit se battre, lutter, et il a beau avoir
+Le destin de l'homme est de se battre, de lutter.
+ Il a beau avoir
  tout à fait le droit d'entrer ou de sortir,
  il n'obtient pas de visa.
 Et pourquoi ? Personne ne le sait.
@@ -1113,8 +1128,8 @@ Restez donc assis !
  Nous fermons les portes et cachons la clé.
 N'est-ce pas agréable ?
  C'est flatteur d'être ainsi valorisé.
-Nous commençons donc à nous pencher sur la question.
-On va commencer à "chlopoter".
+Alors on doit commencer à se pencher sur la question.
+On doit commencer à "chlopoter".
 #Acceptez, la main sur le cœur !
  - Ce verbe étonnant n'existe que dans la langue russe,
  Seuls les Russes ont à s'en plaindre. 
@@ -1150,6 +1165,7 @@ Il ne me reste qu'une seule perspective :
  pour organiser mes spectacles littéraires.
 J'ai commencé à demander l'autorisation de partir.
  On m'a donné un laissez-passer.
+
 #S -------- ТЭФФИ :
 Dans la ruelle Krivo-Arbatsky, au coin de la rue,
  dans un magasin de Surov, il reste encore
@@ -1185,6 +1201,7 @@ Dix ans ont passé depuis.
 
 #Nous partons dans un wagon de marchandises.
 Le train approche de la gare. 
+
 Kiev !
 
 Tu ne peux pas rentrer chez toi.
@@ -1217,7 +1234,9 @@ Nous avons roulé jusqu'à Odessa de nuit.
  de nouveau, les mêmes discussions vides. 
 Au début, pour nous, les réfugiés,
  la vie à Odessa était amusante.
+
 Ce n'est pas une ville, c'est une pure blague !
+
 La ballerine a dansé magnifiquement,
  on ne peut pas en dire autant du décor.
 
@@ -1225,7 +1244,7 @@ L'artiste a merveilleusement interprété l'Elégie d'Ernst,
  et son violon sanglotait...
  bien qu'il portât une simple veste.
 
-Un bateau à vapeur est arrivé à l'embarcadère.
+Un paquebot est arrivé à l'embarcadère.
 
 La routine devint vite lassante, car les blagues
  ne sont drôles que lorsqu'elles sont racontées.
@@ -1254,8 +1273,8 @@ Dieu vous garde.
 #S-------- TEFFI
 Tout est rapide, pressé et inutile.
 Tout aussi rapides, pressés et inintéressants
- furent leurs derniers jours de Novorossiysk
- avant leur départ inattendu.
+ furent les derniers jours à Novorossiysk
+ avant mon départ inattendu.
  
 Actuellement il est difficile de retourner à Pétersbourg,
  partez donc à l'étranger en attendant.
@@ -1271,7 +1290,7 @@ Le bruit, l'agitation et les chuchotements.
 je ne reprendrai pas mes esprits
  jusqu'à la fin de mes jours, Amen.
 
-Le bateau à vapeur s'ébranle,
+Le paquebot s'ébranle,
  son hélice soulève de l'écume blanche,
  une fumée noire se répand sur le rivage.
 Et silencieusement, doucement, la terre se retire.
@@ -1287,7 +1306,7 @@ Les derniers pleurs. De tout le pays, de tout...
 Le paquebot vibre, de la fumée noire s'en échappe.
 Les yeux grands ouverts jusqu'à ce qu'ils gèlent,
  je regarde fixement. 
- Et je ne me détournerai pas.
+ Et je ne me retournerai pas.
 
 J'ai enfreint mon injonction, j'ai regardé en arrière.
 Et me voilà, comme la femme de Lot,
