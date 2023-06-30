@@ -1,0 +1,67 @@
+\documentclass[11pt]{book}
+\usepackage[centering, a4paper,total={20cm, 28.5cm}]{geometry}
+\usepackage[OT2,T1]{fontenc}
+\usepackage[russian,english]{babel}
+\usepackage{paratype}
+\usepackage{tikz}
+\usetikzlibrary{calc} 
+
+\begin{document}
+%%%%%%%%%%%%%%%%%% Set up the following
+\pgfmathsetmacro{\TicketPerPage}{10}
+
+\newcommand{\Price}{10€}
+\pgfmathsetmacro{\Pages}{7}
+
+% If you need to print more tickets, 
+% or  if you have two ticket categories that you want to print with different prices in different colors
+\pgfmathsetmacro{\StartNumber}{1}
+
+\newcommand{\ShortTitle}{\foreignlanguage{russian}{ДРАКОН}}
+\newcommand{\Title}{\foreignlanguage{russian}{Дrakon}}
+\newcommand{\Author}{\foreignlanguage{russian}{Евгений Шварц}}
+\newcommand{\Description}{École de théâtre OKNO Lyon -- groupe des adolescents}
+
+%%%%%%%%%%%%%%%%%%%%%%%% no need to touch anything below this line
+
+%The following is all centimeters for an A4 page
+\pgfmathsetmacro{\TicketHeight}{28.5/\TicketPerPage}
+\pgfmathsetmacro{\TicketBoxHeight}{\TicketHeight-.4}
+
+
+\pgfmathtruncatemacro{\pagem}{\Pages-1}
+\foreach \page in {0,...,\pagem} { % loop on pages
+
+  \begin{tikzpicture}[x=1cm,y=1cm]
+    \pgfmathtruncatemacro{\tpppm}{\TicketPerPage-1}
+
+    \foreach \i in {0,...,\tpppm} { % loop inside page
+      \pgfmathtruncatemacro{\TicketNumber}{\StartNumber + \page + \Pages*\i }
+      \pgfmathsetmacro{\y}{-\i*\TicketHeight}
+
+      \draw(0, \y) rectangle ++(2,\TicketBoxHeight)
+      node[midway, align=center, rotate=90]  {
+        \TicketNumber\\
+        \textbf{\ShortTitle}\\
+        \Price
+      };
+      
+      \draw(4, \y) rectangle ++(15,\TicketBoxHeight)
+      node[midway, align=center]  {
+        \textbf{\Title}\\
+        \Author\\
+        \Description
+      };
+      \draw(4.5, \y+0.5*\TicketBoxHeight)  node[align=center, rotate=90]  {\TicketNumber};
+      \draw(18.5, \y+0.5*\TicketBoxHeight)  node[align=center, rotate=90]  {\Price};
+
+    }
+    % The lines to know where to cut
+    \foreach \i in {0,...,\TicketPerPage} { % loop inside page
+      \pgfmathsetmacro{\y}{(1-\i)*\TicketHeight}
+      \draw[dotted] (0, -.2 + \y ) -- ++ (2.5,0);
+      %\draw[dotted] (3,2) -- ++  (0,-27) ;
+    }
+  \end{tikzpicture}
+}
+\end{document}
