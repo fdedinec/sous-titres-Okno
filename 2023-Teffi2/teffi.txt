@@ -2,8 +2,8 @@ Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxZ
-
-
+# Sonia la dépravée est enlevé?
+# Les visas aussi?
 
 Merci d'éteindre vos téléphones portables !
  Пожалуйста, отключите свои мобильные телефоны!
@@ -11,23 +11,23 @@ Merci d'éteindre vos téléphones portables !
 ВЕСНОЙ ВЕРНЁМСЯ
  Nous reviendrons au printemps
 
-Nos joies ressemblent tellement à nos chagrins
- que parfois il est difficile de les distinguer.
+#Nos joies ressemblent tellement à nos chagrins
+# que parfois il est difficile de les distinguer.
 
 # Затемнение
 #S-------------  Тэффи ??
-Quand elle m'a quitté pour ne plus revenir, 
- La grande, la cruelle lumière,
- Pour ne pas y penser, j'ai planté sur ma terre
- Un tournesol à fleurir
-"Brille, oh brille ! - disais-je devant lui, -
- Tu seras mon soleil ! Chauffée par ta lumière,
- Refleurira en moi, triomphant de la nuit,
+Lorsqu'elle m'a quitté pour ne plus revenir, 
+ La grande et cruelle lumière,
+ Pour l'oublier j'ai semé sur ma terre
+ Un tournesol à fleurir.
+"Brille, lui disais-je, oh, luis !
+ Sois mon soleil ! Chauffée par ta lumière,
+ Que refleurisse en moi, triomphant de la nuit,
  L'âme d'un poète, libre et fière !"
 Nous qui sommes pauvres, nous aurons droit au jour ! 
  Nous qui sommes fiers, nous connaitrons l'espoir !
  Et si sur nous se dresse un crépuscule noir,
- Nos rires couvriront nos cris sourds !
+ De nos rires couvrons nos cris sourds !
 
 #S -------------------  ЛЕТОМ Seriozha et William
 Nous sommes dans une villa à la périphérie de Paris.
@@ -760,14 +760,6 @@ C'est possible
 # Si je veux, je quitte tout demain pour aller mendier.
 
 # ----------------- ВЗАМЕН ПОЛИТИКИ
-A LA PLACE DE LA POLITIQUE
-
-La politique, la politique...
- Ah, que j’en ai marre de la politique !..
-Qu’est-ce qu’on pourrait inventer
- à la place de la politique ?..
-Voyons... A la place de la politique.
-
 On était à table.
  Le chef de la famille, un capitaine à la retraite,
  à la moustache flasque et comme humide,
