@@ -537,8 +537,18 @@ Cette canaille m'espionne ! Quel animal malhonnête !
 Mais je suis un être humain, le roi de la nature,
  je fais des observations sur les animaux.
  En un mot, cela n'a pas d'importance.
- 
-# TODO il manque une poesie ici "proklyata luna" p18 du scan
+
+#S  "proklyata luna" p18 du scan
+Maudite soit la Lune !
+Pour nous, les fous et les amants,
+Dans la coupe de nos rêves d'enfants
+Coule à flots le vin posthume...
+Maudite soit la Lune !
+# Maudite soit la Lune !
+# Pour nous, fous et amoureux
+# Dans notre coupe de rêves encore en braise
+# Elle verse du vin posthume...
+#Maudite soit la Lune !
 
 Vieux dragueur !...
  Sortez d'ici immédiatement. Effronté !
@@ -559,7 +569,7 @@ Dans la profondeurs de l'ombre sous la terre
 
 #Et les neiges des cimes immaculées
 # Nous figent, si proches, si éloignées...
-# Nous sommes bleues et parfaites,
+# Nous sommes bleues, nous sommes parfaites,
 # Fleurs cryptogames, notre union est secrète !
 
 #S-------- ДЕМОНИЧЕСКАЯ ЖЕНЩИНА
@@ -1239,7 +1249,24 @@ C'est pas vrai?
 
 Le lendemain, Liochka était renvoyé.
 
-# TODO texte de Teffi p4 du scan 
+Il est parfois difficile d'être un Russe.
+ Moi, par exemple, j'aimerais beaucoup écrire une "lettre de loin".
+ Mais je ne peux pas.
+ Non pas que je n'aie voyagé loin.
+Mais parce que pour un Russe, tout ce qui est plus proche
+ que quelque chose comme la Zélande du nord-ouest,
+ le décrire comme un voyage, c'est même gênant.
+Les Allemands, c'est une autre affaire.
+ Un Allemand, après un trajet d'une demi-heure en chemin de fer,
+ considère déjà qu'il a fait "eine Reise", "eine schöne Reise",
+et il pourra ensuite décrire les aventures de ce voyage
+ pendant de longues années, provoquant
+ des exclamations jalouses chez ses auditeurs admiratifs.
+Henrich Heine lui même, louée soit sa mémoire,
+ parti à pied pour à peine dix-huit verstes d'une ville à une autre,
+ en fit une expérience lyrique et satirique
+ de cent vingt pages en caractères serrés. 
+
 #S--------------- LES VISAS
 #visas
 Qu'est-ce que nous, citoyens russes moyens,
@@ -1333,7 +1360,6 @@ Ils ne sont pas nombreux, ces réfugiés de Sovdepia.
  Un petit groupe de personnes, sans lien de parenté,
  un petit troupeau hétéroclite,
  blotti sur un rocher pour le saut final.
-# TODO . Разношерстные и разнопородные 
 Des êtres différents de plumage et de ramage,
  totalement étrangers les uns aux autres,
  peut-être à l'origine mutuellement hostiles par nature,
@@ -1357,11 +1383,11 @@ Si un dialogue avait été possible pendant cette course effrénée,
  si souvent ces derniers jours.
 
 Les nôtres courent-ils ?
-Ils courent !
+ - Ils courent !
 Pourquoi courons-nous ?
-Tout le monde court !
+ - Tout le monde court !
 Où allons-nous ?
-Là où tout le monde va !
+ - Là où tout le monde va !
 Pourquoi sommes-nous avec eux ?
  Ce ne sont pas les nôtres.
  Ce n'est pas bon pour nous d'être avec eux.
@@ -1377,22 +1403,22 @@ Nous avons de l'argent cousu dans nos chaussures,
  des diamants cachés dans le nez, c'est pour sauver...
 La culture, la culture, la culture !
 On court et tout en même temps on spécule à toute vitesse...
-On achète, on rachète, on revend, on répand des rumeurs...
-De son museau on gonfle une pièce de cinq pour qu'elle en vaille cent. 
+ On achète, on rachète, on revend, on répand des rumeurs...
+ De son museau on gonfle une pièce de cinq pour qu'elle en vaille cent. 
 La culture !
-À la culture !
-Pour la culture !
+ - À la culture !
+ - Pour la culture !
 C'est étrange ! Le mot semble être le nôtre, de notre dictionnaire,
  mais allez savoir pourquoi, il est désagréable.
 Qui fuis-tu ?
  - Les bolcheviks. 
 C'est étrange...
- - Nous aussi, nous fuyons les bolcheviks.
+ Nous aussi, nous fuyons les bolcheviks.
 De toute évidence, puisque ces gens-là s'enfuient,
  nous, nous aurions dû rester.
 Ils fuient en effet les bolcheviks.
 Mais le troupeau enragé fuit la vérité bolchevique....
-... les principes du socialisme, de l'égalité et de la justice....
+ ... les principes du socialisme, de l'égalité et de la justice....
 Et les doux et les effrayés fuient le mensonge....
  La pratique noire des bolcheviks....
  La terreur, l'injustice et la violence.
@@ -1400,21 +1426,21 @@ Que pourrais-je faire en restant là-bas ?
  Je suis professeur de droit international.
  Je ne pourrais que mourir de faim.
 Il faut courir !
-Tout le monde court !
+ Tout le monde court !
 Peut-être aurions-nous dû rester et nous battre ?
-Comment se battre ?
+ Comment se battre ?
 En faisant de merveilleux discours que personne n'écoutera ?
-Ou en écrivant des articles merveilleux que personne n'imprimera... ?
-Et contre qui se battre ?
+ Ou en écrivant des articles merveilleux que personne n'imprimera... ?
+ Et contre qui se battre ?
 Si un chevalier inspiré lutte contre un moulin à vent,
  c'est toujours, notez-le, le moulin à vent qui gagne.
 Mais cela ne veut pas dire, notez-le aussi,
  que le moulin à vent a raison.
 On court. On est troublés, on doute, mais on court.
 Et à côté d'eux, sans douter de rien, des spéculateurs grognent....
-Anciens gendarmes...
-Anciens policiers...
-Et d'autres anciennes crapules égoïstes.
+ Anciens gendarmes...
+ Anciens policiers d'état...
+ Et d'autres anciens (mais identiques) vauriens.
 Il y a des natures héroïques qui, joyeux et exaltés,
  traversent le sang et le feu - tram-ta-ra-ram ! - vers une nouvelle vie.
 Et il y a les doux qui peuvent, avec autant de joie et d'exaltation
@@ -1422,8 +1448,9 @@ Et il y a les doux qui peuvent, avec autant de joie et d'exaltation
  mais seulement sans tram-ta-ra-ram.
 Le filet de sang que l'on voit ce matin à la porte du commissariat,
  rampant lentement sur le trottoir, coupe à jamais la route de la vie.
- Vous ne pouvez pas la traverser.
-On ne peut pas aller plus loin. On peut tourner et s'enfuir.
+On ne peut pas la traverser.
+ On ne peut pas aller plus loin.
+ On ne peut que tourner et s'enfuir.
 
 Et puis il y a les gens de tous les jours, ni mauvais ni bons,
  les gens moyens, les vrais gens qui constituent le noyau
@@ -1580,14 +1607,12 @@ Il faut "se".
 Je ne discute pas.
  On ne va pas faire capoter un projet pareil
  pour de telles broutilles.
-On pourra écrire aussi "Un succès à ne pas se rater"
+On pourra écrire aussi "Un succès à se voir absolument"
  - Sans le "se".
 Quoi, maintenant il n'en faut plus ? 
  Il me semblait bien qu'il ne fallait pas.
- Tout le monde l'écrit comme cela. Et voila, les nerfs féminin.
-
-#TODO
-
+ Tout le monde l'écrit comme cela.
+ Mais voila, les nerfs féminin, et il faut enlever "se".
 
 Je peux vous poser une question,
  vous n'allez pas vous vexer ?
@@ -1599,9 +1624,11 @@ Pourquoi vous avez fait virer ce pauvre gamin
 Je ne sais pas, je ne peux pas,
  cela ne dépend pas de moi.
 J'ai peur. Les tronches haineuses, la méchanceté stupide.
-Le froid, le froid.
-
-#TODO 2- 3 lignes
+ Le froid, le froid.
+L'obscurité, le choc des crosses sur le parquet,
+ les cris, les coups de feu, la mort étrangère.
+Je suis si lasse !
+ Je ne veux plus, je n'en peux plus.
 
 #S------- SERGEI, NATASHA :
 Eh bien, au revoir, je pars. Bénissez-moi.
