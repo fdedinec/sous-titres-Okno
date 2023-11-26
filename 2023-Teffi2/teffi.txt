@@ -2,8 +2,6 @@ Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxZ
-# Sonia la dépravée est enlevé?
-# Les visas aussi?
 
 Merci d'éteindre vos téléphones portables !
  Пожалуйста, отключите свои мобильные телефоны!
@@ -29,7 +27,9 @@ Nous qui sommes pauvres, nous aurons droit au jour !
  Et si sur nous se dresse un crépuscule noir,
  De nos rires couvrons nos cris sourds !
 
+
 #S -------------------  ЛЕТОМ Seriozha et William
+#été
 Nous sommes dans une villa à la périphérie de Paris.
 
 Manka, où est la cruche ? Hein ?
@@ -61,7 +61,7 @@ Peu importe la cause de ce désespoir.
 Seriez-vous vous-même heureux si un caïd
  vous sautait dessus et vous forçait à vous coucher ?
 Non, mon cher, je vous le dis,
- la pire partie de la vie est précisément l'enfance.
+ la pire partie de la vie, c'est précisément l'enfance.
 Des coups, des gifles, des fessées,
  ne fais pas ci, ne fais pas ça,
  on te fait manger toutes sortes d'horreurs,
@@ -219,7 +219,7 @@ Nous ne devons pas le permettre.
  - Eh bien, vous savez, c'est que...
 Je ne sais rien et je ne veux pas savoir.
  Et moi je ne veux pas parler de tout cela avec vous.
- J'ai encore des idéaux dans mon âme.
+ J'ai encore l'âme plein d'idéaux.
 Trop chaud pour marcher sur la route.
  - Pas le courage de passer par le bois.
 
@@ -234,7 +234,13 @@ L'homme imagine qu'il règne sans limite sur les objets.
  la prend en main et retourne complètement tout son destin
  hors du chemin qu'il aurait du prendre.
 
+Tous les jours, sur le pont Anichkov
+ Qui enjambe la rivière Fontanka,
+ Passe d'un pas lent 
+ Une jeune fille, employée de banque
+
 #S-------- ВОРОТНИК -- LE COL EN DENTELLE
+#col
 Oletchka Rosova fut pendant trois ans
  l'honnête épouse d'un homme honnête.
  Elle avait un caractère réservé, voire timide.
@@ -354,6 +360,16 @@ Et le col en dentelle, qu'est-il devenu ?
  Demandez-lui !
 
 #S-------- ИНТЕРМЕДИЯ ТЭФФИ (СОБИРАЯ ЧЕМОДАН) :
+#evian
+L'eau thermale doit avant tout avoir mauvais goût.
+Si en plus elle a un aspect repoussant,
+ elle est deux fois plus appréciée
+ et exportée à l'étranger comme un bijou.
+Si, par surcroît, elle possède une odeur répugnante,
+ alors elle n'a plus de prix !
+ Elle nourrira et fera vivre toute la population
+ du pays béni qui l'a vue sortir de terre.
+
 En matière d'eau thermale,
  les Français ont surpassé tous les autres.
 Ils ont mis en bouteille de l'eau de source
@@ -367,11 +383,12 @@ Avec le temps, l'eau embouteillée a croupi et s'est dégradée,
 Dans nos meilleurs restaurants,
  on s'est mis à servir cette eau, un rouble la bouteille,
  et les connaisseurs aiment en boire un verre après le dîner.
- C'est cher, et en plus c'est fade.
+C'est cher, et cela sent mauvais.
 Voilà qui montre la haute considération qu'on a,
- à notre époque, pour la pourriture.
+ à notre époque, pour toutes les formes de pourriture.
 
 #S---------КОШКИ
+#chats
 Anna ! Ouvrez vite. Je ne peux pas me lever.
  Nikolaï me tient l'épaule et me souffle dans le nez.
 
@@ -432,6 +449,7 @@ Mais tu verras par toi-même.
  Quel amour ! 
 - Un vrai chat.
 Viens, je vais te montrer ta chambre.
+
  Voilà, c'est ici que tu dormiras, ici tu pourras te reposer,
  voilà le bureau, la radio, le gramophone,
  et voilà les patins si tu en as besoin.
@@ -492,6 +510,7 @@ Il y a peu, un oiseau est entré par la fenêtre.
  Il la tenait haut dans ses pattes avant, et il a dansé, dansé.
 Puis il l'a lançé, l'a rattrapé et dévoré d'un seul coup,
  bec et plumes.
+
  - C'est révoltant. Quels instincts affreux. Les chiens ne...
 
 La vie a repris son cours normal.
@@ -518,6 +537,8 @@ Cette canaille m'espionne ! Quel animal malhonnête !
 Mais je suis un être humain, le roi de la nature,
  je fais des observations sur les animaux.
  En un mot, cela n'a pas d'importance.
+ 
+# TODO il manque une poesie ici "proklyata luna" p18 du scan
 
 Vieux dragueur !...
  Sortez d'ici immédiatement. Effronté !
@@ -525,6 +546,8 @@ Ainsi se termina notre liaison.
  Je suis partie dans la soirée.
 
 #S-------- ИНТЕРМЕДИЯ             МАРИНА
+#fleurs
+#cryptogammes
 Fleurs cryptogames, secrète est notre union...
  Personne n'a su que nous nous aimions,
  Qu'un arôme d'amour poudré
@@ -540,6 +563,8 @@ Dans la profondeurs de l'ombre sous la terre
 # Fleurs cryptogames, notre union est secrète !
 
 #S-------- ДЕМОНИЧЕСКАЯ ЖЕНЩИНА
+#femme
+#fatale
 La femme fatale diffère de la femme ordinaire
  surtout dans sa manière de s’habiller. 
 Elle porte une noire soutane de velours. 
@@ -560,7 +585,7 @@ les bagues : sur son pouce,
  la montre : à la cheville.
 
 À table, la femme fatale ne mange rien.
- Elle ne mange jamais rien.
+ En fait, elle ne mange jamais rien.
 A quoi bon ?
 Elle porte toujours un mystère...
  Quelque déchirure...
@@ -593,7 +618,7 @@ A quoi bon ?
 Mais elle dévoile en passant qu’un critique renommé,
  Alexander Alexéiévich, s’emparant au péril de sa vie
  de son manuscrit, l’a lu et a sangloté toute la nuit !
- Il parait même qu’il priait, même si ce n’est pas sûr.   
+Il parait même qu’il priait, même si ce n’est pas sûr.   
 Et que deux écrivains lui ont prédit un grand avenir
  si elle acceptait enfin de publier ses œuvres.
 Mais le public ne pourra jamais les comprendre
@@ -651,6 +676,7 @@ J'en ai vraiment besoin, pas pour longtemps...
  juste vingt-cinq roubles.
  Je croix que ce sera la semaine prochaine,
  ou en janvier que... je pourrai...
+ 
 Pourquoi je vous regarde ? Je vais vous le dire.
  Ecoutez-moi, regardez-moi... Je veux – vous m’entendez bien ?
   – je veux que vous me donniez tout de suite – vous m’entendez ?
@@ -673,18 +699,21 @@ Peut-être... est-elle amoureuse de moi ?
 Mystère !
 
 #-------- ПЕСЕНКА ВЕРТИНСКОГО «О ВСЕХ УСТАЛЫХ»
- 
+# TODO traduire Vertinsku
+
 #S-------- ИНТЕРМЕДИЯ :
-#????
+#marfa
 Marfa ! Marfa ! 
- Ah-ah-ah !
-Le tonneau de Potapovna a séché !
-- Mouillé ?
-- Séché ! Le tonneau de Potapovna a séché !
-- Le coussin ?
-- Le tonneau ! Le tonneau !
+ Quoi ?
+La barrique de Potapovna s'est desséchée !
+ - Repêchée ?
+- Desséchée ! La barrique de Potapovna s'est desséchée !
+ - La tunique ?
+ - La barrique ! La barrique !
 
 #S------------TEFFI : NOSTALGIE
+#nostalgie
+#seine
 Dans la brillante capitale de la France,
  pour les immigrants russes s'est développée
  une sorte de "cité"  avec ses propres lois
@@ -698,6 +727,7 @@ L'ancien nom est toutefois resté dans les mémoires,
 "Nous vivons comme les chiens sur la Seine : maigres !"
 
 #S-------------   СЕРГЕЙ — ТЭФФИ NOSTALGIE:
+#nostalgie
 Je crains, au bout du compte, de sombrer dans la nostalgie.
 Tu n'as rien à craindre. Ce que tu crains est déjà arrivé.
  - Notre âme se fane, elle s'est tournée vers l'est.
@@ -707,6 +737,7 @@ Nous ne pensons plus qu'à ce qui se passe là-bas.
  Seul ce qui en vient nous intéressse.
 
 #S-------------   :
+#diamants
 As-tu entendu ?
  Les Prokine ont transféré toute leur fortune.
  Ils en avaient emballé leur grand-mère.
@@ -731,7 +762,8 @@ Eh bien, la voila bien lotie,
  avec un nez de cinquante carats.
  Tout le monde n'a pas cette chance.
 
-#S-------- ТЭФФИ : 
+#S-------- ТЭФФИ :
+#malle
 Une malle a été empilée.
  L'autre malle, qui contenait (ma dernière lubie)
  des châles russes anciens de valeur,
@@ -746,6 +778,7 @@ J'ai mis dessus un portrait de Lénine avec l'inscription
 Plus tard, il s'est avéré que même cela n'avait servi à rien.
 
 #S--------------  ТЭФФИ : ЛЕВ  
+#possible
 Il est arrivé un pharmacien du sud de la Russie.
  Il affirme que dans deux mois exactement,
  le bolchevisme aura disparu.
@@ -754,12 +787,13 @@ Dans deux mois, c'est sûr.
  - Comment pourrait il durer plus longtemps ?
  - Cela n'est pas possible !
  - Hein, sérieusement ?  Enfin, ce n'est pas possible ! 
-C'est possible
+C'est possible.
 
 #Je suis une personne libre !
 # Si je veux, je quitte tout demain pour aller mendier.
 
 # ----------------- ВЗАМЕН ПОЛИТИКИ
+#politique
 On était à table.
  Le chef de la famille, un capitaine à la retraite,
  à la moustache flasque et comme humide,
@@ -772,7 +806,7 @@ C'était pourtant son apparence habituelle,
 Regardant avec un étonnement muet sa femme, sa fille,
  et le locataire qui vivait chez eux en pension complète,
  il accrocha sa serviette à son cou et demanda :
- Et Pietka, ou est-il ?
+Et Pietka, ou est-il ?
 Dieu seul sait où ils traînent.
  Le bâton ne le fait pas aller au collège,
  la carotte ne le fait pas revenir à la maison.
@@ -783,17 +817,18 @@ De la politique probablement. Des meetings.
 Mais non, mon cher.
  Ça, c’est fini, Dieu soit loué !
 Fini les bavardages, fini les débats.
-Enfin ! Maintenant on travaille,
- on ne se contente pas de parler.
+Enfin ! Maintenant il faut travailler,
+ pas se contenter de parler.
 Même moi, tout retraité que je suis,
  je ne vais pas rester sans occupation.
 Je vais inventer quelque-chose, le breveter,
- et le vendre à l’étranger,
- à la honte de la Russie.
+ et le vendre, à la honte de la Russie,
+ à l’étranger.
+ 
 Et que comptez-vous donc inventer ?
- - Je ne sais pas encore au juste.
+Je ne sais pas encore au juste.
  Je trouverai bien quelque chose.
-Oh, mon Dieu, est-ce qu'on manque
+Eh, Dieu, est-ce qu'on manque
  de choses non encore inventées ?
 J’inventerai, disons, par exemple
  un mécanisme qui me réveillerait
@@ -834,7 +869,7 @@ Sonia, chasse ce ...
  chasse Pietka de la table. Je t’en prie !
 Ne peux tu pas le faire toi-même ?
  Pietia, entends-tu ?
- Petit papa t’ordonne de quitter la table.
+ Ton petit papa t’ordonne de quitter la table.
 Allez ouste, hors d’ici.
  Et pas de dessert aujourd’hui !
 Je ne fais rien de mal...
@@ -843,6 +878,7 @@ Je ne fais rien de mal...
 Allez, allez. Tu as bien entendu, hors d’ici !
  Si tu ne sais pas te comporter comme il faut,
   reste dans ta chambre !
+
 C’est injuste de traiter ses enfants comme ça !..
  Je suis innocent...
  Pourquoi inno-cent, et pas inno-mille?
@@ -872,6 +908,8 @@ Oui ! Pourquoi dit-on
 Oh, maman ! Maman ! Ha-ha-ha !
  Et pourquoi petit pa-pa et non pas...
 Va-t-en, Alexandra ! Tais-toi !
+# TODO texte ici p. 24 du scan
+Vivre, dans ce monde, c'est difficile en général.
 
 Le locataire fut longtemps sans trouver le sommeil.
  Il se retournait et réfléchissait à ce qu'il demanderait demain.
@@ -881,11 +919,13 @@ L’un à neuf heures...
  "Pourquoi embrasser, et non pas perle-suffit ?"
 L’autre à onze heures...
  "Pourquoi che-mise, et pas che-enlevée ?"
-Il avait répondu aux deux sur un ton convenable,
- et maintenant il se torturait au sujet de ce qu'il allait bien
- pouvoir offrir à la jeune femme demain.
+
+#Il avait répondu aux deux sur un ton convenable,
+# et maintenant il se torturait au sujet de ce qu'il allait bien
+# pouvoir offrir à la jeune femme demain.
 Pourquoi... ? Pourquoi... ?
-Ah, en voila des manières !
+
+#Ah, en voila des manières !
 Je suis désolé. Je ne vais pas vous déranger...
  Je ne suis là que pour un instant. J’ai inventé...
 Quoi ?! Quoi ?! Un mécanisme ?
@@ -898,30 +938,14 @@ Je suis venu comme ça,
  j’avais une insomnie,
  j'ai vu la lumière...
 
-
-
 # WILLIAM :
-Je me suis couché, et j'ai mis "Le temps nouveau"
- sous mon oreiller pour ne pas faire de mauvais rêves.
- Je me suis endormi doucement.
- J'ai rêvé que je mangeais des crêpes au miel.
-
-#S---------- Sonia la dépravée SERGEI :
-Je me souviens qu'un libraire m'avait recommandé,
- pour une fillette de sept ans :
- "Sonia la petite dépravée".
-L'histoire, profondément morale,
- commençait par les mots suivants :
-"Sonia était une petite fille dépravée.
- Un jour, elle mangea d'un coup toute la confiture de cerises
- que sa gentille Maman avait préparée pour ses amis
- avec beaucoup de travail et de soin".
-À la fin de l'histoire, la petite Sonia
- est sévèrement punie d'avoir été dépravée,
- et les enfants lecteurs sont définitivement convaincus
- que la dépravation ne mène à rien de bon.
+#Je me suis couché, et j'ai mis "Le temps nouveau"
+# sous mon oreiller pour ne pas faire de mauvais rêves.
+# Je me suis endormi doucement.
+# J'ai rêvé que je mangeais des crêpes au miel.
 
 #S-------- ВЫСЛУЖИЛСЯ  Un service parfait
+#service
 Dès le début, j'ai vu qu'il était un peu balourd.
  Maintes fois, je lui ai dit: écoute, mon gars,
  Si tu n’est pas bête, sois toujours en vue.
@@ -981,7 +1005,7 @@ Liochka! Ohé, Liochka!
 Ah non, bernique! Je ne reviendrai pas au village.
  Je ne suis pas bête, si je veux, je ferai vite carrière.
  On ne va pas m'effacer, je ne me laisserai pas faire...
-Sois en vue, dit-elle. Et en quelle vue,
+Sois en vue, dit-elle. Mais vu de qui,
  s’il n’y a jamais personne à la maison...
 Mais je ne suis pas bête.
  Plein la vue, je vais leur en mettre.
@@ -1015,6 +1039,7 @@ Voilà! Des traces sur le plancher. C'est crade.
  Et après, c’est moi qui serai grondé par Madame.
  Ce n’est pas bien, ça.
 C'est bon, c'est bon, vas-t'en.
+
 Enfin seuls, ma chère!
  J'ai rêvé si longtemps de cette minute
  pendant tant de nuits sans sommeil.
@@ -1026,6 +1051,7 @@ Le voile assombrit ton visage,
  tu est beaucoup plus belle sans lui.
 Fichez-moi la paix. J’ai dit non et ça veut dire non.
  Sonietchka, appelle-moi Petia. Sonietchka!
+
 Aïe, ils regardent. Ils ont sans doute remarqué la tache.
  Mais moi je comprends. Les idiots, cherchez-les ailleurs.
  Moi, je comprends tout. Je travaille comme un cheval !
@@ -1097,6 +1123,7 @@ Si je pensais cela, cela signifierait
  que je vous tiens pour une perruche,
  que je n'ai pas un gramme de respect pour vous.
 Mais laissez-moi! Comment osez-vous ?
+
 Mais je vous respecte,
  je vous tiens pour une femme d'esprit,
  et je sais que si ne ne vous embrasse pas
@@ -1190,7 +1217,7 @@ Et hier elle l'a encore oubliée,
  mais ce n'ai pas moi qui ai rangé,
  c'est Douniachka, alors à mon avis adieu la broche.
 Quoi ? Alors c'est vrai? C'est vrai?
-Et comment que c'est vrai! Douniachka l'aura escamoté,
+Et comment que c'est vrai! Douniachka l'aura chouré,
  cette diablesse qui louche. Si je n'étais pas derrière elle,
  elle chiperait tout.
 Moi je range tout comme un cheval, sacrebleu,
@@ -1199,19 +1226,22 @@ Je vire l'abruti. Je le fiche dehors tout de suite.
 Je ne suis pas un idiot, moi.
 
 Ils sont sortis ?
- - Oui, ils sont parti en courant après une brutie.
+ - Oui, ils sont parti en courant après une "brutie".
  - Quoi ?
 J'en sais rien, moi. Monsieur sait.
  Moi j'ai du boulot, jusqu'au cou. 
-En tout cas j'ai bien bossé aujourd'hui. Et demain,
- la diablesse qui louche verra bien, c'est moi qui remplacerai
+En tout cas j'ai bien bossé aujourd'hui.
+ Et demain, la diablesse qui louche verra bien,
+ c'est moi qui les remplacerai,
  toutes ces bonnes femmes de ménage.
 C'est pas vrai?
  - Si je le dis, c'est que je le sais.
 
 Le lendemain, Liochka était renvoyé.
 
+# TODO texte de Teffi p4 du scan 
 #S--------------- LES VISAS
+#visas
 Qu'est-ce que nous, citoyens russes moyens,
  savions autrefois à propos des visas ?
 Tout ce que nous savions, c'est que
@@ -1297,7 +1327,147 @@ Les Russes chlopotent pour le droit de se soigner.
  - Les autres peuples, enfin, vivent.
 Mais les Russes chlopotent pour le droit d'exister.
 
+#TODO regrouper ci-dessous les lignes
+#TEFFI :
+Ils ne sont pas nombreux, ces réfugiés de Sovdepia.
+ Un petit groupe de personnes, sans lien de parenté,
+ un petit troupeau hétéroclite,
+ blotti sur un rocher pour le saut final.
+# TODO . Разношерстные и разнопородные 
+Des êtres différents de plumage et de ramage,
+ totalement étrangers les uns aux autres,
+ peut-être à l'origine mutuellement hostiles par nature,
+ se sont rassemblés et se sont désignés comme un commun "nous".
+Rassemblés sans but, sans signification.
+ Comment cela s'est-il produit ?
+
+Une légende du pays de Gergesina me vient à l'esprit.
+ Des possédés étaient sortis de leurs tombeaux,
+ et le Christ, pour les guérir, chassa les démons dans un troupeau de porcs,
+ qui se précipitèrent d'une falaise et furent tous noyés.
+
+En Orient, les troupeaux sont rarement homogènes.
+ Le plus souvent, ils sont mélangés.
+Dans le troupeau de porcs de la légende,
+ il y avait probablement des moutons doux et effrayés.
+Lorsque les moutons ont vu les cochons furieux se précipiter,
+ ils ont eu peur eux aussi.
+Si un dialogue avait été possible pendant cette course effrénée,
+ il aurait ressemblé à celui que nous avons entendu
+ si souvent ces derniers jours.
+
+Les nôtres courent-ils ?
+Ils courent !
+Pourquoi courons-nous ?
+Tout le monde court !
+Où allons-nous ?
+Là où tout le monde va !
+Pourquoi sommes-nous avec eux ?
+ Ce ne sont pas les nôtres.
+ Ce n'est pas bon pour nous d'être avec eux.
+Que faisons-nous ?
+ Nous sommes perdus, nous ne savons pas....
+
+Mais les cochons qui courent à côté savent
+ et encouragent et grognent.
+
+La culture !
+ - Vers la culture !
+Nous avons de l'argent cousu dans nos chaussures,
+ des diamants cachés dans le nez, c'est pour sauver...
+La culture, la culture, la culture !
+On court et tout en même temps on spécule à toute vitesse...
+On achète, on rachète, on revend, on répand des rumeurs...
+De son museau on gonfle une pièce de cinq pour qu'elle en vaille cent. 
+La culture !
+À la culture !
+Pour la culture !
+C'est étrange ! Le mot semble être le nôtre, de notre dictionnaire,
+ mais allez savoir pourquoi, il est désagréable.
+Qui fuis-tu ?
+ - Les bolcheviks. 
+C'est étrange...
+ - Nous aussi, nous fuyons les bolcheviks.
+De toute évidence, puisque ces gens-là s'enfuient,
+ nous, nous aurions dû rester.
+Ils fuient en effet les bolcheviks.
+Mais le troupeau enragé fuit la vérité bolchevique....
+... les principes du socialisme, de l'égalité et de la justice....
+Et les doux et les effrayés fuient le mensonge....
+ La pratique noire des bolcheviks....
+ La terreur, l'injustice et la violence.
+Que pourrais-je faire en restant là-bas ?
+ Je suis professeur de droit international.
+ Je ne pourrais que mourir de faim.
+Il faut courir !
+Tout le monde court !
+Peut-être aurions-nous dû rester et nous battre ?
+Comment se battre ?
+En faisant de merveilleux discours que personne n'écoutera ?
+Ou en écrivant des articles merveilleux que personne n'imprimera... ?
+Et contre qui se battre ?
+Si un chevalier inspiré lutte contre un moulin à vent,
+ c'est toujours, notez-le, le moulin à vent qui gagne.
+Mais cela ne veut pas dire, notez-le aussi,
+ que le moulin à vent a raison.
+On court. On est troublés, on doute, mais on court.
+Et à côté d'eux, sans douter de rien, des spéculateurs grognent....
+Anciens gendarmes...
+Anciens policiers...
+Et d'autres anciennes crapules égoïstes.
+Il y a des natures héroïques qui, joyeux et exaltés,
+ traversent le sang et le feu - tram-ta-ra-ram ! - vers une nouvelle vie.
+Et il y a les doux qui peuvent, avec autant de joie et d'exaltation
+ donner leur vie pour la beauté et l'unité,
+ mais seulement sans tram-ta-ra-ram.
+Le filet de sang que l'on voit ce matin à la porte du commissariat,
+ rampant lentement sur le trottoir, coupe à jamais la route de la vie.
+ Vous ne pouvez pas la traverser.
+On ne peut pas aller plus loin. On peut tourner et s'enfuir.
+
+Et puis il y a les gens de tous les jours, ni mauvais ni bons,
+ les gens moyens, les vrais gens qui constituent le noyau
+ de ce qu'on appelle l'humanité.
+Pas des héros, pas des crapules, en un mot, des gens.
+L'homme a besoin de l'enveloppe de la vie, de sa chair terrestre,
+ c'est-à-dire de la vie de tous les jours !
+
+Exister sans la vie quotidienne, suspendus dans les airs,
+ sans sentir sous leurs pieds un soutien familier, fidèle, solide, terrestre,
+ seuls le peuvent les héros et les maniaques.
+
+On dit qu'ils prennent aussi des pots-de-vin !
+ Vous avez entendu ? Avez-vous entendu ?
+Vous avez entendu ? Ils prennent aussi des pots-de-vin !
+La bonne nouvelle s'envole, passe de bouche en bouche,
+ comme une promesse de vie, comme "le Christ est ressuscité".
+Des pots-de-vin ! Mais c'est notre vie, notre façon de vivre,
+ la nôtre, l'ancienne, la terrestre, la solide.
+Mais on ne peut pas compter seulement là-dessus.
+ Il faut s'enfuir !
+ Courir, courir !
+Quelque part là-bas...
+ À Kiev...
+ À Ekaterinodar...
+ À Odessa...
+Quelque part où les enfants étudient et où les gens travaillent...
+Il sera encore possible de vivre un peu...
+Courons, courons !
+
+Oui, mes amis. Nous ne pouvons pas nous en empêcher.
+ Ensemble. Les uns en mangeant, les autres en étant mangés.
+Mais "l'histoire impartiale" vous comptera
+ et vous rangera dans le même nombre.
+ Ensemble.
+
+"Le troupeau se précipita de la falaise, et tous furent noyés."
+
+
+
+
+
 #S -------- ТЭФФИ :
+#moscou
 Moscou. L'automne. Le froid.
 J'ai liquidé mon existence à Saint-Pétersbourg.
  "La parole russe" est fermé.
@@ -1308,6 +1478,7 @@ J'ai commencé à chlopoter pour partir.
  On m'a donné un laissez-passer.
 
 #S -------- ТЭФФИ :
+#tissu#baptiste#rabat#clous
 Dans la ruelle Krivo-Arbatsky, au coin de la rue,
  dans un magasin de Surov, il reste encore
  un mètre et demi de batiste.
@@ -1331,7 +1502,13 @@ Vous en avez besoin.
 J'ai acheté un magnifique rabat avec sept clous dedans.
 
 #S-------- TEFFI
+#train
 On est parti dans un wagon de marchandises.
+On a posé nos affaires par terre, on s'est assis dessus et,
+ ma foi, on s'est installé très confortablement. 
+Personne ne nous a tiré dessus, personne ne nous a fouillé,
+ que demander de plus ?
+
 Au revoir, ma Moscou chérie.
  - Pas pour longtemps.
  - Juste pour un mois.
@@ -1351,12 +1528,10 @@ Tu ne peux pas rentrer chez toi.
 Mais tout le monde va quelque part.
  - Chacun sent qu'il ne restera pas longtemps.
 
-Je suis allée dire au revoir à Lavra.
- Je suis allé dire au revoir à la cathédrale
+Je suis allée faire mes adieux à Lavra.
+ Je suis allé faire mes adieux à la cathédrale
  de Saint-Volodymyr.
-
-Nous avons quitté Kiev en fin de soirée.
- Les canons retentissaient, tout près.
+Les canons retentissaient, tout près.
 Il est impossible d'aller plus loin que la 11ème verste.
  Le passage est coupé par les bolcheviks.
 
@@ -1381,16 +1556,38 @@ Ce n'est pas une ville, c'est une pure blague !
 La ballerine a dansé magnifiquement,
  on ne peut pas en dire autant du décor.
 
-L'artiste a merveilleusement interprété l'Elégie d'Ernst,
- et son violon sanglotait...
- bien qu'il portât une simple veste.
+#L'artiste a merveilleusement interprété l'Elégie d'Ernst,
+# et son violon sanglotait...
+# bien qu'il portât une simple veste.
+#Le pape a annoncé que
+# "si tout ceci ne cesse pas, alors il se retirera dans le desert."
+Ce n'est pas une ville, c'est une mandarine.
+Pourquoi ne rejoignez vous pas les cafés ?
+ C'est là qu'on trouve, au sens propre, toute la crème de la société.
 
-Un paquebot est arrivé à l'embarcadère.
-
-La routine devint vite lassante, car les blagues
+La vie quotidienne devint vite lassante, car les blagues
  ne sont drôles que lorsqu'elles sont racontées.
  Quand elles sont vécues, ce sont des tragédies.
 Ma vie est une blague, c'est donc une tragédie.
+ Quel ennui.
+
+Pourquoi ne pas organiser votre propre soirée ?
+ Je lui ferais une telle publicité.
+ En lettres énormes, "Un nouveau programme joue..."
+Il faut "se".
+ - Quoi ?
+ - Il faut "se". "Un programme se joue"
+Je ne discute pas.
+ On ne va pas faire capoter un projet pareil
+ pour de telles broutilles.
+On pourra écrire aussi "Un succès à ne pas se rater"
+ - Sans le "se".
+Quoi, maintenant il n'en faut plus ? 
+ Il me semblait bien qu'il ne fallait pas.
+ Tout le monde l'écrit comme cela. Et voila, les nerfs féminin.
+
+#TODO
+
 
 Je peux vous poser une question,
  vous n'allez pas vous vexer ?
@@ -1401,7 +1598,10 @@ Pourquoi vous avez fait virer ce pauvre gamin
   d'une manière ou d'une autre ?
 Je ne sais pas, je ne peux pas,
  cela ne dépend pas de moi.
-#S---------- TODO 
+J'ai peur. Les tronches haineuses, la méchanceté stupide.
+Le froid, le froid.
+
+#TODO 2- 3 lignes
 
 #S------- SERGEI, NATASHA :
 Eh bien, au revoir, je pars. Bénissez-moi.
@@ -1441,8 +1641,8 @@ Mais la tête se tourne, les yeux s'ouvrent grands,
  et regardent, regardent ....
 
 Et chacun se tait.
-Seuls les pleurs d'une femme se font entendre
- depuis le pont inférieur.
+Depuis le pont inférieur, on entend juste
+ les pleurs d'une femme.
 Les derniers pleurs. De tout le pays, de tout...
 Le paquebot vibre, de la fumée noire s'en échappe.
 Les yeux grands ouverts jusqu'à ce qu'ils gèlent,
