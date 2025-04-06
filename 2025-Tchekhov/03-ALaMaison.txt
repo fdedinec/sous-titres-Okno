@@ -1,47 +1,186 @@
-À la maison
+#Scene
+# A LA MAISON
 
-- Les Grigoriev ont envoyé chercher un livre, mais j'ai dit que vous étiez sorti. Le facteur a apporté les journaux et deux lettres… À propos, Evgueni Petrovitch, je vous demanderais de faire attention à Sérioja. Aujourd'hui et avant-hier, j'ai remarqué qu'il fume. Quand j'ai commencé à le semoncer, il s'est comme d'habitude, bouché les oreilles et s'est mis à chanter pour couvrir ma voix. 
-- Sérioja fume… Je m'imagine ce bout d'homme avec une cigarette ! … Quel âge a-t-il, donc ? 
-- Sept ans ! Cela ne vous paraît pas sérieux, mais, à cet âge, fumer est une habitude pernicieuse, et il faut dès le début déraciner les mauvaises habitudes. 
-- Parfaitement juste. Et où prend-il le tabac ? 
-- Dans votre tiroir. 
-- Oui ? … En ce cas, envoyez-le-moi. 
-- Papa est arrivé ! Pa-pa est ar-ri-vé… pa-pa-pa ! 
-- « Que vais-je lui dire ? » 
-- Bonjour, papa ! Tu m'as appelé ? 
-- Permettez, permettez, Sergueï Evguenytch. Avant de nous embrasser, nous avons à parler, et à parler sérieusement… Je suis fâché contre toi, et je ne t'aime plus. Sache-le, mon petit : je ne t'aime pas et tu n'es plus mon fils… Parfaitement. 
-- Que t'ai-je donc fait ? Je ne suis pas entré une seule fois aujourd'hui dans ton bureau et je n'ai rien touché. 
-- Nathalia Semionovna vient de se plaindre à moi que tu fumes… C'est vrai ? Tu fumes ? 
-- Oui, j'ai fumé une fois... C'est vrai. 
-- Tu vois, et encore, par-dessus le marché, tu mens. Nathalia Semionovna t'a vu fumer deux fois. Tu es donc convaincu des trois vilaines choses : tu fumes, tu prends dans mon tiroir du tabac qui ne t'appartient pas, et tu mens. Trois fautes ! 
--  Ah ! oui ! c'est vrai, c'est vrai ! J'ai fumé deux fois : aujourd'hui et avant. 
-- Tu le vois, ce n'est donc pas une fois, mais deux ! … Je suis très, très mécontent de toi. Tu étais un bon petit avant, mais je vois que tu t'es gâté et es devenu mauvais. 
-« Que lui dire encore ? » 
-Oui, c'est mal. Je ne m'attendais pas à cela de ta part. D'abord tu n'as pas le droit de prendre du tabac qui n'est pas à toi. Chaque homme n'a le droit de disposer que de ce qui est à lui. S'il prend quelque chose à autrui… c'est un mauvais homme. (Je ne lui dis pas ce qu'il faut !) Tiens, par exemple, Nathalia Semionovna a une malle avec des robes. Cette malle est à elle ; et nous, c'est-à-dire ni moi, ni toi, n'avons le droit d'y toucher, parce que cette malle n'est pas à nous. Est-ce vrai ? Tu as des chevaux et des images… Aussi je ne les prends pas ! J'en aurais peut-être envie, mais… ces objets ne sont pas à moi ; ils sont à toi ! 
-- Prends-les, si tu veux, Je t'en prie, papa, ne te gêne pas ; prends-les ! Le petit chien jaune qui est ici sur la table est aussi à moi ; mais ça ne fait rien… garde-le ! 
-- Tu ne me comprends pas. Tu me donnes ce chien, il est à moi maintenant, et je peux en faire ce que je veux ; mais je ne t'ai pas donné de tabac ! Le tabac m'appartient ! (Je ne lui explique pas ce qu'il faut : ce n'est pas ça ! Pas du tout ça !) Si je veux fumer du tabac qui n'est pas à moi, il faut, avant tout, que j'en demande la permission… 
-- Papa, avec quoi fait-on la colle ? 
-- En second lieu, tu fumes… C'est très mal ! Que je fume, cela ne signifie pas que l'on puisse fumer ; je fume et sais que ce n'est pas sage ; je me gronde et ne suis pas content de moi sur ce point-là… (Ce que je suis un pédagogue malin !) Le tabac nuit beaucoup à la santé, et celui qui fume meurt prématurément, Mais fumer est particulièrement nuisible aux petits comme toi. Tu as la poitrine délicate, tu n'es pas encore formé, et le tabac provoque chez les faibles la tuberculose et autres maladies. Ton oncle Ignatiï est mort de la tuberculose. S'il n'avait pas fumé, peut-être vivrait-il encore maintenant. 
-- L'oncle Ignatiï jouait bien du violon. Son violon est maintenant chez les Grigoriév… La mort emporte dans l'autre monde les mères et les oncles, mais leurs enfants et leurs violons restent sur la terre.
-- « Que puis-je lui dire ? Il ne m'écoute pas. Il ne regarde évidemment pas comme sérieuses ses fautes ni mes paroles. Comment lui faire entrer cela dans la tête ? Jadis, de mon temps, ces questions se tranchaient d'une façon remarquablement simple. Tout gamin que l'on trouvait en train de fumer, on le passait aux verges. Les faibles et les poltrons cessaient de fumer ; mais les plus courageux et les plus intelligents cachaient, après avoir été punis, le tabac dans leurs bottes et fumaient au hangar. Quand on les y surprenait et leur redonnait les verges, ils allaient fumer près de la rivière... Ainsi de suite, jusqu'à ce que les enfants fussent devenus grands. Ma mère, pour que je ne fume pas, me comblait d'argent et de bonbons. Ces moyens semblent aujourd'hui inefficaces et immoraux… » 
-- Aujourd'hui, la cuisinière, en hachant le chou, s'est coupé le doigt. Elle a crié si fort que nous avons tous eu peur et avons tous couru à la cuisine. Ce qu'elle est bête ! Nathalia Sémionovna lui a dit de tremper le doigt dans l'eau froide, et elle le suçait… Comment peut-elle fourrer son doigt sale dans sa bouche ? Papa, c'est mal élevé ! 
-- « Il suit ses idées ! Il a son monde à lui. Il sait, à sa manière, ce qui est sérieux et ce qui ne l'est pas. Pour se rendre maître de son attention et de sa conscience, il ne suffit pas de s'adapter à sa façon de parler ; il faut encore penser à sa manière. Si je regrettais vraiment mon tabac, si j'avais été offensé, si j'avais pleuré, il m'aurait parfaitement compris… Les mères sont irremplaçables dans l'éducation, parce qu'elles savent sentir, pleurer et rire avec les enfants… Avec la logique et la morale, on n'obtient rien. Allons, que vais-je encore lui dire ? Quoi ? » 
+Les Grigoriev ont envoyé chercher un livre,
+ mais j'ai dit que vous étiez sorti.
+Le facteur a apporté les journaux et deux lettres…
+À propos, Evgueni Petrovitch,
+ je vous demanderais de faire attention à Sérioja.
+Aujourd'hui et avant-hier, j'ai remarqué qu'il fume.
+Quand j'ai commencé à le semoncer, il s'est comme d'habitude,
+ bouché les oreilles et s'est mis à chanter pour couvrir ma voix. 
+Sérioja fume… Je m'imagine ce bout d'homme avec une cigarette !
+ Quel âge a-t-il donc ? 
+Sept ans ! Cela ne vous paraît pas sérieux, mais, à cet âge,
+ fumer est une habitude pernicieuse, et il faut dès le début
+  déraciner les mauvaises habitudes. 
+Parfaitement juste. Et où prend-il le tabac ? 
+Dans votre tiroir. 
+Oui ? … En ce cas, envoyez-le-moi. 
+Papa est arrivé ! Pa-pa est ar-ri-vé… pa-pa-pa ! 
+Que vais-je lui dire ?
+Bonjour, papa ! Tu m'as appelé ? 
+Permettez, permettez, Sergueï Evguenytch.
+ Avant de nous embrasser, nous avons à parler,
+ et à parler sérieusement.
+Je suis fâché contre toi, et je ne t'aime plus.
+ Sache-le, mon petit : je ne t'aime pas et tu n'es plus mon fils…
+ Parfaitement. 
+Que t'ai-je donc fait ?
+ Je ne suis pas entré une seule fois aujourd'hui dans ton bureau
+ et je n'ai rien touché. 
+Nathalia Semionovna vient de se plaindre à moi que tu fumes.
+ C'est vrai ? Tu fumes ? 
+Oui, j'ai fumé une fois... C'est vrai. 
+Tu vois, et encore, par-dessus le marché, tu mens.
+ Nathalia Semionovna t'a vu fumer deux fois.
+Tu es donc convaincu des trois vilaines choses :
+ tu fumes, tu prends dans mon tiroir du tabac qui ne t'appartient pas,
+ et tu mens. Trois fautes ! 
+Ah ! oui ! c'est vrai, c'est vrai !
+ J'ai fumé deux fois : aujourd'hui et avant. 
+Tu le vois, ce n'est donc pas une fois, mais deux !
+Je suis très, très mécontent de toi.
+ Tu étais un bon petit avant, mais je vois que tu t'es gâté
+ et que tu es devenu mauvais. 
+Que lui dire encore ? 
+Oui, c'est mal. Je ne m'attendais pas à cela de ta part.
+ D'abord tu n'as pas le droit de prendre du tabac qui n'est pas à toi.
+Chaque homme n'a le droit de disposer que de ce qui est à lui.
+ S'il prend quelque chose à autrui… c'est un mauvais homme.
+(Je ne lui dis pas ce qu'il faut !)
+Tiens, par exemple, Nathalia Semionovna a une malle avec des robes.
+Cette malle est à elle. Et nous, c'est-à-dire ni moi, ni toi,
+ n'avons le droit d'y toucher, parce que cette malle n'est pas à nous.
+ Est-ce vrai ?
+Tu as des chevaux et des images…  Eh bien je ne les prends pas !
+ J'en aurais peut-être envie, mais… ces objets ne sont pas à moi.
+ Ils sont à toi ! 
+Prends-les, si tu veux, Je t'en prie, papa, ne te gêne pas, prends-les !
+ Le petit chien jaune qui est ici sur la table est aussi à moi.
+ Mais ça ne fait rien… garde-le ! 
+Tu ne me comprends pas. Tu me donnes ce chien,
+ il est à moi maintenant, et je peux en faire ce que je veux.
+Mais je ne t'ai pas donné de tabac ! Le tabac m'appartient !
+(Je ne lui explique pas ce qu'il faut.
+ ce n'est pas ça ! Pas du tout ça !)
+Si je veux fumer du tabac qui n'est pas à moi,
+ il faut, avant tout, que j'en demande la permission… 
+Papa, avec quoi fait-on la colle ? 
+ En second lieu, tu fumes… C'est très mal !
+Que je fume, cela ne signifie pas que l'on puisse fumer.
+ Je fume et sais que ce n'est pas sage.
+ Je me gronde et ne suis pas content de moi sur ce point-là…
+(Ce que je suis un pédagogue malin !)
+Le tabac nuit beaucoup à la santé,
+ et celui qui fume meurt prématurément.
+Mais fumer est particulièrement nuisible aux petits comme toi.
+ Tu as la poitrine délicate, tu n'es pas encore formé,
+ et le tabac provoque chez les faibles la tuberculose
+ et autres maladies.
+Ton oncle Ignatiy est mort de la tuberculose.
+ S'il n'avait pas fumé, peut-être vivrait-il encore maintenant. 
+L'oncle Ignatiy jouait bien du violon.
+ Son violon est maintenant chez les Grigoriev…
+La mort emporte dans l'autre monde les mères et les oncles,
+ mais leurs enfants et leurs violons restent sur la terre.
+Que puis-je lui dire ? Il ne m'écoute pas.
+ Il ne regarde évidemment pas comme sérieuses ses fautes ni mes paroles.
+ Comment lui faire entrer cela dans la tête ?
+Jadis, de mon temps, ces questions se tranchaient d'une façon remarquablement simple.
+ Tout gamin que l'on trouvait en train de fumer, on le passait aux verges.
+Les faibles et les poltrons cessaient de fumer.
+Mais les plus courageux et les plus intelligents, après avoir été punis,
+  cachaient le tabac dans leurs bottes et fumaient au hangar.
+Quand on les y surprenait et leur redonnait les verges,
+ ils allaient fumer près de la rivière...
+Ainsi de suite, jusqu'à ce que les enfants fussent devenus grands.
+Ma mère, pour que je ne fume pas, me comblait d'argent et de bonbons.
+ Ces moyens semblent aujourd'hui inefficaces et immoraux. 
+Aujourd'hui, la cuisinière, en hachant le chou, s'est coupé le doigt.
+ Elle a crié si fort que nous avons tous eu peur
+ et avons tous couru à la cuisine. Ce qu'elle est bête !
+Nathalia Sémionovna lui a dit de tremper le doigt dans l'eau froide,
+ et elle le suçait…
+ Comment peut-elle fourrer son doigt sale dans sa bouche ?
+ Papa, c'est mal élevé ! 
+Il suit ses idées ! Il a son monde à lui.
+ Il sait, à sa manière, ce qui est sérieux et ce qui ne l'est pas.
+Pour se rendre maître de son attention et de sa conscience,
+ il ne suffit pas de s'adapter à sa façon de parler,
+ il faut encore penser à sa manière.
+Si je regrettais vraiment mon tabac, si j'avais été offensé,
+ si j'avais pleuré, il m'aurait parfaitement compris.
+Les mères sont irremplaçables dans l'éducation,
+ parce qu'elles savent sentir, pleurer et rire avec les enfants.
+ Avec la logique et la morale, on n'obtient rien.
+Allons, que vais-je encore lui dire ? Quoi ?
 Écoute, donne-moi ta parole d'honneur que tu ne fumeras plus. 
-- Ma parole d'honneur ! Ma-parole-d'honneur ! Neur ! Neur ! … 
-- « Sait-il, ce que c'est qu'une parole d'honneur ? Non, je suis un mauvais éducateur ! À l'école et au tribunal, ces canailles de questions se tranchent bien plus simplement que chez soi ! Ici, on a affaire à des êtres que l'on aime à la folie, et l'amour est exigeant et compliqué. Si ce bambin n'était pas mon fils, mais mon élève, ou un inculpé, j'aurais moins de crainte, et mes idées ne se disperseraient pas… » 
- Un homme ne peut pas être plus grand qu'une maison, dit le procureur. Regarde : ton toit vient à l'épaule du soldat. 
-- Non ! papa ! si tu dessines le soldat petit, on ne lui verra pas les yeux. 
-Tu ressembles maintenant à Ivane Stépânovitch; et tout de suite tu vas ressembler… à notre suisse… 
-Papa, pourquoi les Suisses se tiennent-ils près de la porte ? C'est pour empêcher les voleurs d'entrer ? 
-- « Va le punir !... Va lui trouver des punitions ! Non ! comment nous improviser précepteurs ? » 
-Allons, petit, il est temps d'aller au lit. Dis-moi adieu et pars. 
--  Non, papa, laisse-moi encore. Raconte-moi quelque chose ! Dis-moi un conte. 
-- Bon. Seulement après le conte, tout de suite au lit. 
-Écoute : « Dans un certain royaume, dans un certain État vivait un vieux, très vieux roi à longue barbe blanche et… avec d'énormes moustaches comme cela. Il vivait dans un palais de verre qui brillait et luisait au soleil comme un gros morceau de glace pure. Le palais, mon petit, se trouvait dans un immense jardin où, sais-tu, il y avait des oranges… des bergamotes, des bigarreaux… où fleurissaient des tulipes, des roses, des muguets…, où chantaient des oiseaux multicolores… Oui…Des clochettes de verre pendaient aux arbres, et, quand il faisait du vent, elles tintaient si doucement qu'on les écoutait malgré soi. Le verre rend un son plus doux et plus délicat que le métal… 
-« Et qu'y avait-il encore ? Il y avait des jets d'eau dans le jardin… Tu te rappelles, tu as vu un jet d'eau chez la tante Sonia, à la campagne ? Eh bien, ce sont justement des jets d'eau comme ça qu'il y avait dans le jardin royal, mais beaucoup plus grands. La colonne d'eau atteignait la cime des plus hauts peupliers. » 
-« Le vieux roi avait un fils unique, héritier du trône, enfant aussi petit que toi. C'était un bon petit. Il n'avait jamais de caprices, se couchait tôt, ne touchait à rien sur la table et… était, en général, sage. Il n'avait qu'un défaut : il fumait… » 
-« Que peut-il bien venir après ? » 
-« A force de fumer, le petit roi fut pris par la tuberculose et mourut quand il avait vingt ans. Le vieillard décrépit et malade resta sans personne pour le soutenir. Il n'y avait personne pour conduire le royaume et défendre le palais. Des ennemis vinrent, tuèrent le vieillard, détruisirent le palais, et il n'y a plus maintenant dans le palais ni bigarreaux, ni oiseaux, ni clochettes… C'est comme ça, mon petit… » 
-- Je ne fumerai plus… 
-« On dira qu'en l'espèce c'est la beauté et l'art de la forme qui ont agi ; soit ! Mais ce n'est pas consolant. Ce n'est pourtant pas là le vrai moyen… Pourquoi la morale et la vérité ne doivent-elles pas être servies toutes crues, mais être absolument assaisonnées, sucrées et dorées, comme des pilules ? Ce n'est pas la voie directe… C'est de la falsification, c'est du mensonge…, du passe-passe… » 
-« Un médicament doit être sucré, la vérité doit être embellie… Et l'homme depuis Adam s'en tient à cette lubie… Au fait… tout cela est peut-être naturel et il doit être ainsi…
+Ma parole d'honneur ! Ma-parole-d'honneur ! Neur ! Neur !  
+Sait-il, ce que c'est qu'une parole d'honneur ?
+ Non, je suis un mauvais éducateur !
+ À l'école et au tribunal, ces canailles de questions se tranchent
+ bien plus simplement que chez soi !
+Ici, on a affaire à des êtres que l'on aime à la folie,
+ et l'amour est exigeant et compliqué. Si ce bambin n'était pas mon fils,
+ mais mon élève, ou un inculpé, j'aurais moins de crainte,
+ et mes idées ne se disperseraient pas.
+Un homme ne peut pas être plus grand qu'une maison, dit le procureur.
+ Regarde : ton toit vient à l'épaule du soldat. 
+Non ! papa ! si tu dessines le soldat petit, on ne lui verra pas les yeux. 
+Tu ressembles maintenant à Ivan Stepanovitch,
+ et tout de suite tu vas ressembler… à notre suisse… 
+Papa, pourquoi les Suisses se tiennent-ils près de la porte ?
+ C'est pour empêcher les voleurs d'entrer ? 
+Va le punir !... Va lui trouver des punitions !
+ Non ! comment nous improviser précepteurs ? 
+Allons, petit, il est temps d'aller au lit.
+ Dis-moi adieu et pars. 
+Non, papa, encore un peu.
+ Raconte-moi quelque chose ! Dis-moi un conte. 
+Bon. Seulement, après le conte, tout de suite au lit. 
+Écoute : « Il était une fois un royaume, un pays, dans lequel
+ vivait un vieux, très vieux roi à longue barbe blanche et…
+ avec d'énormes moustaches comme cela.
+Il vivait dans un palais de verre qui brillait et luisait au soleil
+ comme un gros morceau de glace pure.
+Le palais, mon petit, se trouvait dans un immense jardin où, sais-tu,
+ il y avait des oranges, des bergamotes, des bigarreaux…
+ où fleurissaient des tulipes, des roses, des muguets…,
+ où chantaient des oiseaux multicolores… Oui.
+Des clochettes de verre pendaient aux arbres,
+ et quand il faisait du vent, elles tintaient si doucement
+ qu'on les écoutait malgré soi.
+Le verre rend un son plus doux et plus délicat que le métal.
+Et qu'y avait-il encore ?
+Il y avait des jets d'eau dans le jardin.
+ Tu te rappelles, tu as vu un jet d'eau chez la tante Sonia, à la campagne ?
+Eh bien, ce sont justement des jets d'eau comme ça
+ qu'il y avait dans le jardin royal, mais beaucoup plus grands.
+ La colonne d'eau atteignait la cime des plus hauts peupliers.
+Le vieux roi avait un fils unique, héritier du trône, enfant aussi petit que toi.
+C'était un bon petit. Il n'avait jamais de caprices, se couchait tôt,
+ ne touchait à rien sur la table et… était, en général, sage.
+Il n'avait qu'un défaut : il fumait.
+Que peut-il bien venir après ceci ? 
+A force de fumer, le petit roi fut pris par la tuberculose
+ et mourut quand il avait vingt ans.
+Le vieillard décrépit et malade resta sans personne pour le soutenir.
+Il n'y avait personne pour conduire le royaume et défendre le palais.
+Des ennemis vinrent, tuèrent le vieillard, détruisirent le palais,
+et il n'y a plus maintenant dans le palais
+ ni bigarreaux, ni oiseaux, ni clochettes… C'est comme ça, mon petit…
+
+Je ne fumerai plus… 
+
+On dira qu'en l'espèce c'est la beauté et l'art de la forme qui ont agi.
+ Soit ! Mais ce n'est pas consolant.
+Ce n'est pourtant pas là le vrai moyen.
+Pourquoi la morale et la vérité ne doivent-elles pas
+ être servies toutes crues, mais être absolument assaisonnées,
+ sucrées et dorées, comme des pilules ?
+Ce n'est pas la voie directe.
+ C'est de la falsification, c'est du mensonge, du passe-passe…
+Un médicament doit être sucré, la vérité doit être embellie…
+Et l'homme depuis Adam s'en tient à cette lubie.
+ En fait, peut-être que tout cela est naturel et qu'il doit en être ainsi…

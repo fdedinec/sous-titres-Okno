@@ -1,4 +1,5 @@
-LE MUFLE ET LA DEMOISELLE
+#Scene
+# LE MUFLE ET LA DEMOISELLE
 
 Sur le visage plein et luisant de Monsieur
  se peignait un ennui des plus mortels.
@@ -24,8 +25,8 @@ Enchanté! Asssseyez-vous!
 Asseyez-vous, ne vous gênez pas!
 Je suis venue vous faire une requête...
 Je suis venue...  vous demandez un billet
- pour un trajet gratuit en train jusqu'à ma ville natale.
-J'ai entendu dire que vous en donnez,
+ pour un trajet en train jusqu'à ma ville natale.
+J'ai entendu dire que vous pourriez en donnez,
  et moi... je ne suis pas riche...
 Pour moi, aller de Saint-Pétersbourg jusqu'à Koursk...
 Hm... Bien... Et pourquoi voulez-vous aller à Koursk?
