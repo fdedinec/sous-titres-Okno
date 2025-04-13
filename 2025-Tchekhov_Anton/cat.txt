@@ -1,0 +1,2 @@
+cat 01-QuestionSérieuse.txt 02-LesRêves.txt 03-ALaMaison.txt 04-UneChiffe.txt 05-LesNerfs.txt 06-UneNatureEnigmatique.txt 07-UneCréatureSansDefense.txt > Acte1.txt
+cat 08-MuffleDemoiselle.txt 09-LaChoriste.txt 10-UnDrame.txt 11-LeVilainGarçon.txt 12-RéponseDétaillée.txt > Acte2.txt
