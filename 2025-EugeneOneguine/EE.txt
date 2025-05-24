@@ -28,64 +28,86 @@ Nous cherchons des succès d'une nuit,
 Ainsi ai-je tué huit années, gâchant 
  D'une vie les meilleurs moments.
 
+# Мой дядя самых честных правил,
+# Когда не в шутку занемог,
+# Он уважать себя заставил
+# И лучше выдумать не мог.
 Mon oncle, un homme de morale,
  Lorsqu’il sentit qu’il trépassait,
- Força l’estime générale
- Et se tailla un franc succès.
-L’exemple, certes, nous inspire ;
- Mais quel ennui peut être pire
- Que de rester, des nuits durant,
- Attendre au chevet d’un mourant ?
-C’est une ignominie perfide
- Qu’un presque-mort à égayer,
- Lui arranger ses oreillers,
-Compter ses gouttes, l’air languide,
- Et, soupirant, penser tout bas :
- “Satan ne te prendra-t-il pas ?”
+# Sentant approcher le trépas,
+ Sut susciter avec succès 
+ L'estime la plus générale.
+# Его пример другим наука;
+# Но, боже мой, какая скука
+# С больным сидеть и день и ночь,
+# Не отходя ни шагу прочь!
+L’exemple, certes, est inspirant ;
+ Mais, oh mon Dieu, mais quel ennui
+ Que de rester des jours, des nuits
+ Assis au chevet d’un mourant !
+# Какое низкое коварство
+# Полуживого забавлять,
+# Ему подушки поправлять,
+# Печально подносить лекарство,
+C’est une basse perfidie
+ De distraire un agonisant,
+ Tassant ses oreillers sous lui,
+ Comptant ses cachets tristement,
+# Вздыхать и думать про себя:
+# Когда же черт возьмёт тебя!
+Et, soupirant, penser tout bas :
+ “Quand est-ce que Satan te prendra ?”
 # ВСЕ (кроме Онегина)
 Onéguine !
 # МАША
- _______Notre bon camarade !
+ Notre bon camarade !
 # СОНЯ
-Naquit, lecteur, à Pétersbourg…
+Naquit au bord de la Néva.
 #ПОЛИНА
- Où vous aussi vîtes le jour ?
+ Peut-être, aussi, naquîtes-vous là ?
 #Перестановка
 
 #ЛИЗА
-Commis intègre de l’empire,
+# Служив отлично-благородно,
+Homme à l'honnêteté sans faille,
 #МАША
+# Долгами жил его отец,
  Son père allait en s’endettant
 #ДАША
  Et, à donner trois bals par an,
 #Сцена «балов».
+
 #КОСТЯ
- Il se ruinait comme on respire.
+ Il se retrouva sur la paille.
 
 #Две няньки (Соня и Полина) ведут юного
 #Онегина (Вадима), чтобы сдать его на руки
 #Madame (Маше)
 #СОНЯ
-Sur Evguéni veillaient les anges,
+# Судьба Евгения хранила:
+Evguéni fut chéri du destin
 #МАША
- Madame avait soin de ses langes ;
+# Сперва Madame за ним ходила…
+ Madame d'abord en prit grand soin ;
 #Импровизация.
 
 #КОСТЯ
-Monsieur survint quand il grandit.
+# Потом Monsieur её сменил;
+Ensuite Monsieur lorsqu'il grandit.
 #МАША
-L’enfant était vif…
+# Ребёнок был резов…
+L’enfant était vif...
 #ПОЛИНА
 #Но мил!
- ________________… mais gentil.
+ ... mais gentil.
 
 #Перестановка
 #КОСТЯ
 #Театр уж полон.
 #ПОЛИНА
-La foule attend…
+La foule attend...
 #Ложи блещут.
- les loges brillent…
+...     les loges brillent...
 #ДАША
 #Партер и кресла, всё кипит.
  Fauteuils, parterre, tout reluit ;
@@ -103,35 +125,34 @@ Aérienne, étincelante,
  Au seul archet obéissante,
 #ИЛЬЯ
 #Толпою нимф окружена
- Un chœur de nymphes l’entourant,
+ Un chœur de nymphes à ses côtés,
 #Стоит Истомина…
- Se tient Istomina…
+  Istomina est arrivée...
 #ВСЕ
 #Истомина, Истомина…
 Istomina, Istomina, 
 #КОСТЯ
 #Она,
 #Одной ногой касаясь пола…
-________________…touchant
- D’un pied les planches, de l’autre, elle…
 #МАША
 #Другою медленно кружит.
- Dessine un cercle calculé,
 #ИЛЬЯ
 #И вдруг прыжок, и вдруг летит.
-Et, là, un saut, et, là, ailée
 #ЛУКА
 #Летит, как пух от уст Эола.
-(La plume, ainsi, qu’Eole appelle),
 #ВСЕ
 #То стан совьёт, то разовьёт,
-Taille pliée et dépliée,
 #И быстрой ножкой ножку бьёт.
-Battant du pied son autre pied.
+Une jambe au sol, l'autre avec grâce
+ Décrit un cercle dans l'espace.
+Soudain un saut, soudain elle vole,
+ Comme plume au baiser d'Éole.
+La taille pliée puis dépliée,
+ Un pied agile bat l'autre pied.
 #ОНЕГИН (Вадим) (входит, зевает)
 #Балеты долго я терпел,
 #Но и Дидло мне надоел.
-Le ballet,  encor,
+Le ballet, passait encor,
  Mais même Didelot m’endort.
 
 #Перестановка.
@@ -195,20 +216,41 @@ L’ennui traquait notre Onéguine
 #Печально подносить лекарство,
 #Вздыхать и думать про себя:
 #Когда же черт возьмёт тебя!
+
 Mon oncle, un homme de morale,
  Lorsqu’il sentit qu’il trépassait,
- Força l’estime générale
- Et se tailla un franc succès.
-L’exemple, certes, nous inspire ;
- Mais quel ennui peut être pire
- Que de rester, des nuits durant,
- Attendre au chevet d’un mourant ?
-C’est une ignominie perfide
- Qu’un presque-mort à égayer,
- Lui arranger ses oreillers,
-Compter ses gouttes, l’air languide,
- Et, soupirant, penser tout bas :
- “Satan ne te prendra-t-il pas ?”
+# Sentant approcher le trépas,
+ Sut susciter avec succès 
+ L'estime la plus générale.
+# Его пример другим наука;
+# Но, боже мой, какая скука
+# С больным сидеть и день и ночь,
+# Не отходя ни шагу прочь!
+L’exemple, certes, est inspirant ;
+ Mais, oh mon Dieu, mais quel ennui
+ Que de rester des jours, des nuits
+ Assis au chevet d’un mourant !
+# Его пример другим наука;
+# Но, боже мой, какая скука
+# С больным сидеть и день и ночь,
+# Не отходя ни шагу прочь!
+L’exemple, certes, est inspirant ;
+ Mais, oh mon Dieu, mais quel ennui
+ Que de rester des jours, des nuits
+ Assis au chevet d’un mourant !
+# Какое низкое коварство
+# Полуживого забавлять,
+# Ему подушки поправлять,
+# Печально подносить лекарство,
+C’est une basse perfidie
+ De distraire un agonisant,
+ Tassant ses oreillers sous lui,
+ Comptant ses cachets tristement,
+# Вздыхать и думать про себя:
+# Когда же черт возьмёт тебя!
+Et, soupirant, penser tout bas :
+ “Quand est-ce que Satan te prendra ?”
+
 #Перестановка.
 #МАША
 #Деревня, где скучал Евгений…
@@ -220,68 +262,72 @@ L’ennui traquait notre Onéguine
 #Тут друг невинных наслаждений
 #Благословить бы небо мог.
  Où l’homme simple, j’imagine,
- Aurait cent fois béni les cieux.
+ Aurait plutôt béni les cieux.
+
 #За столом. Угощают приехавшего Ленского.
 #Сплетничают. Татьяна (Полина) и Ленский
 #(Илья) слушают.
 #ЛАРИНА (Маша)
 #Сосед наш неуч.
-Notre voisin ?
+Notre voisin, il n'est pas clair.
 #ЛЯКА
 #Сумасбродит!
-Un rustre infâme,
+ - C'est un rustre !
 #НЯНЯ (Костя)
 #Он фармазон!
- ____________Un franc-maçon…
+ - Un franc-maçon!
 #ОЛЬГА (Соня)
 #Он пьёт одно
 #Стаканом красное вино.
-… qui boit du vin
- Au verre, et rouge – un jacobin ;
+Il boit seul, verre après verre
+ Du vin rouge dans sa maison.
 #ЛИЗА
 #Он дамам к ручке не подходит.
 Jamais un baisemain aux dames,
 #ЛАРИНА (Маша)
 #Всё да да нет; не скажет да-с
 #Иль нет-с…
-“Oui”, “non”, il parle impoliment…”
+ Des “oui”, des “non”, impoliment.
+
 #ОНЕГИН (Ярослав) Ленскому (Луке)
 #Таков был общий глас.
 Tel fut, en bref, le jugement.
 #ОЛЬГА (Соня)
-#В свою деревню в ту же пору
-#Помещик новый прискакал…
-#И столь же строгому разбору
-#В соседстве повод подавал.
+# В свою деревню в ту же пору
+# Помещик новый прискакал…
+# И столь же строгому разбору
+# В соседстве повод подавал.
 Or un nouveau propriétaire
  Vint s’installer alors tout près,
 Qu’un jugement aussi sévère
  Semblait soumettre au même arrêt :
+
 #ОЛЬГА (Даша)
-#По имени Владимир Ленской,
-#С душою прямо геттингенской,
-#Красавец, в полном цвете лет,
-#Поклонник Канта и поэт.
-Vladimir Lenski, un poète,
- Fleur de Göttingen, cœur et tête,
- Beau, jeune et fort, empli d’ardeur,
- De Kant brûlant admirateur…
+# По имени Владимир Ленской,
+# С душою прямо геттингенской,
+# Красавец, в полном цвете лет,
+# Поклонник Канта и поэт.
+Nommé Vladimir Lenski,
+ De Göttingen brillant esprit,
+ Dans la fleur de l'âge, un athlète,
+ Beau, admirant Kant, et poête. 
 #ОЛЬГА (Соня)
 #Он из Германии туманной
 #Привёз учёности плоды:
 #Вольнолюбивые мечты,
 #Дух пылкий и довольно странный…
-Des brumes bleues de l’Allemagne
- Portait les fruits de l’instruction –
-Des rêves de libération,
- Une âme d’aigle des montagnes,
+De l'Allemagne et de ses brouillards,
+ Il avait ramené une moisson
+ de rêves de libération,
+ Et un coeur ouvert mais bizarre,
 #ОЛЬГА (Даша)
 #Всегда восторженную речь
- Un discours vif et ampoulé,
+Un verbe toujours enflammé,
 #ОЛЬГА (Соня)
 #И кудри чёрные до плеч.
 #Перестановка.
- De longs cheveux noirs et bouclés.
+ Et des cheveux noirs, longs, frisés.
+
 #ЛЕНСКИЙ (Илья) на могиле Ларина.
 #Он был простой и добрый барин,
 # И там, где прах его лежит,
@@ -294,50 +340,52 @@ Des rêves de libération,
 #Он на руках меня держал.
 #Как часто в детстве я играл
 #Его Очаковской медалью!
-#Он Ольгу прочил за меня,
-#Он говорил: дождусь ли дня?
-#Я полон искренней печалью.
 
 #S
 C’était un brave et bon barine,
- Et là où sa poussière gît,
- Le passant voit ces mots inscrits :
+ Et là où sa cendre gît,
+ Sur la pierre on voit écrit :
 L’humble pécheur Dmitri Larine,
- Brigadier serviteur de Dieu,
+ Brigadier, serviteur de Dieu,
  Repose ici et vit aux cieux.
 Poor Yorick!…
- Il m’a tenu sur ses genoux ;
- Je jouais comme un petit fou
- De sa médaille otchakovienne ;
-Il avait béni notre amour,
- Disait : “Vivrai-je jusqu’au jour ?…”
- Je suis plein d’une réelle peine…
+ Il m’a dans ses bras tant porté,
+ Et m'a tant laissé tripoter
+ la médaille dont il était fier !
+#Он Ольгу прочил за меня,
+#Он говорил: дождусь ли дня?
+#Я полон искренней печалью.
+Il espérait de notre amour,
+ Disait : “Vivrai-je jusqu’au jour... ?”
+ Je suis plein d’une peine sincère.
 #садится писать стихи, но проходящие мимо
 #девушки то и дело отвлекают его внимание
+
 #Куда, куда вы удалились,
 #Весны моей златые дни?
+Où êtes-vous donc à présent,
+ Journées dorées de mon printemps ?
 #Что день грядущий мне готовит?
 #Его мой взор напрасно ловит,
 #В глубокой мгле таится он.
 #Нет нужды; прав судьбы закон.
+Que m’offrira l’aube qui vient ?
+ En vain la cherche mon regard
+ Au plus profond de ce brouillard.
+ N'espérons rien; force restera au destin.
 #Паду ли я, стрелой пронзенный,
 #Иль мимо пролетит она,
 #Всё благо: бдения и сна
 #Приходит час определенный;
 #Благословен и день забот,
 #Благословен и тьмы приход!
-Où êtes-vous, instants que j’aime,
- Moments dorés de mon printemps ?
- Que m’offrira l’aube nouvelle ?
-Mon âme en vain la cherche-t-elle,
- Mais le mystère en est sans fond.
- Soit. Le destin est toujours bon.
-Sous une flèche tomberai-je ? 
- Triompherai-je ? Tout nous vient
- A l’heure dite, et tout est bien,
- Qu’on nous prolonge ou nous abrège
-Nos jours de vie. Béni, le jour,
- Bénie la nuit, chacun son tour.
+Ou bien une flèche perce mon coeur,
+ Ou elle s'en va planter ailleurs,
+ Et tout est bien : veille ou bien somme,
+ Tout vient à son tour à chaque homme. 
+Bénis soient le jour, ses soucis,
+ Et bénie soit la nuit aussi.
+
 #Блеснёт заутра луч денницы
 #И заиграет яркий день;
 #А я, быть может, у гробницы
@@ -354,38 +402,39 @@ Nos jours de vie. Béni, le jour,
 #Приди, приди: я твой супруг!..
 Demain luira une aube heureuse,
  Le jour poindra, brillant et beau,
-Et moi, les ombres ténébreuses
- — Qui sait ? – verrai-je du tombeau.
+Mais moi, c'est peut-être un tombeau
+ qui m'offre une ombre mystérieuse,
  Et du Léthé l’onde muette
- Gardera l’ombre du poète,
+ Se refermera sur le poète.
 On m’oubliera, mais viendras-tu,
  Vierge de grâce et de vertu,
  Verser un pleur sur l’urne pâle,
-Penser : c’est moi qu’il adorait
- Oui, c’est à moi qu’il consacrait
- De ses passions l’aube fatale !…
+Penser : c’est moi qu’il adora
+ Oui, c’est à moi qu’il consacra
+ Les passions d'une vie fatale !…
 Ma douce amie, mon cœur si doux,
  Reviens, reviens vers ton époux !…
 
 #Перестановка.
-#ОНЕГИН (Ярослав) Ленскому (Луке)Увы, на разные забавы
-#Я много жизни погубил!
-#Но если б не страдали нравы,
-#Я балы б до сих пор любил.
-#Люблю я бешеную младость,
-#И тесноту, и блеск, и радость,
-#И дам обдуманный наряд;
-#Люблю их ножки; только вряд
-#Найдёте вы в России целой
-#Три пары стройных женских ног.
-#Ах! долго я забыть не мог
-#Две ножки... Грустный, охладелый,
-#Я всё их помню, и во сне
-#Они тревожат сердце мне.
+#ОНЕГИН (Ярослав) Ленскому (Луке)
+# Увы, на разные забавы
+# Я много жизни погубил!
+# Но если б не страдали нравы,
+# Я балы б до сих пор любил.
+# Люблю я бешеную младость,
+# И тесноту, и блеск, и радость,
+# И дам обдуманный наряд;
+# Люблю их ножки; только вряд
+# Найдёте вы в России целой
+# Три пары стройных женских ног.
+# Ах! долго я забыть не мог
+# Две ножки... Грустный, охладелый,
+# Я всё их помню, и во сне
+# Они тревожат сердце мне.
 Hélas, à mille réjouissances,
  Ma vie, je l’ai gâchée pas mal !
-Mais quoi que la morale en pense,
- Non, j’aimerai toujours les bals !
+Mais, quoi que la morale en pense,
+ Non, j’aime toujours les bals !
 J’aime le feu de la jeunesse,
  L’éclat, la frénésie, la presse,
 Des dames les atours pensés ;
@@ -394,32 +443,30 @@ Des dames les atours pensés ;
  Trois belles paires de beaux pieds…
 Longtemps je n’ai pu oublier,
  Moi, deux petons… Froid, solitaire,
- Le cœur me ronge, et, jour et nuit,
- Mon songe brûle et me poursuit.
+ Je les revois, et, jour et nuit,
+ Cette vision toujours me poursuit.
+
 #Куда? Уж эти мне поэты!
 Déjà ? Ah, j’aime ces poètes !
 #ЛЕНСКИЙ (Лука)
 #Прощай, Онегин, мне пора.
-J’y vais, c’est l’heure.
+ - J’y vais, c’est l’heure. - Peut-on savoir
 #ОНЕГИН (Ярослав)
 #Я не держу тебя; но где ты
 #Свои проводишь вечера?
-Peut-on savoir
  Quel est le nom de la retraite
  Où tu t’enterres tous les soirs ?
 #ЛЕНСКИЙ (Лука)
 #У Лариных.
-Chez les Larine.
+Chez les Larine.  - Ah ça alors !
 #ОНЕГИН (Ярослав)
 #Вот это чудно.
 #Помилуй! и тебе не трудно
 #Там каждый вечер убивать?
-La merveille !
- Et toutes ces soirées pareilles,
- Tu te les gâches sans regret ?
+ Tu gâches tous ces soirs sans remords ?
 #ЛЕНСКИЙ (Лука)
 #Нимало.
-Evidemment.
+# TODO Evidemment.
 #ОНЕГИН (Ярослав)
 #Не могу понять.
 #Отселе вижу, что такое:
@@ -429,18 +476,19 @@ Evidemment.
 #Варенье, вечный разговор
 #Про дождь, про лён, про скотный двор…
 #ЛЕНСКИЙ (Лука)
-Attends, je sais,
- Je vois ces gens comme en peinture :
+# TODO
+#Attends, je sais,
+Je vois ces gens comme en peinture :
  Un foyer simple, de chez nous,
  Hospitalier et tout et tout -
 Des régiments de confitures,
  Et les potins jusqu’à la nuit,
  La basse-cour, le lin, la pluie…
 #Я тут ещё беды не вижу.
-Je n’y vois pas encore un drame.
+Je ne vois pas où est le drame.
 #ОНЕГИН (Ярослав)
 #Да скука, вот беда, мой друг.
-Le drame, c’est l’ennui, mon vieux.
+ - Le drame, c’est l’ennui, mon vieux.
 #ЛЕНСКИЙ (Лука)
 #Я модный свет ваш ненавижу;
 #Милее мне домашний круг,
@@ -452,8 +500,8 @@ Votre mondanité sans âme,
 #Опять эклога!
 #Да полно, милый, ради Бога.
 #Ну что ж? ты едешь: очень жаль.
-Belle églogue !
- Allez, va, change d’apologue.
+ - Encore un poême pastoral !
+Ça nous tape sur le moral.
  Eh quoi, tu pars ? tant pis, mais bon.
 #Ленский делает несколько шагов в сторону
 #кулисы.
@@ -469,13 +517,13 @@ Dis, à propos, Lenski, peut-on,
 Présente-moi.
 #ЛЕНСКИЙ (Лука)
 #Ты шутишь.
- Vraiment ?
+ - Tu rigoles ?
 #ОНЕГИН (Ярослав)
 #Нету.
- Parole.
+ - Du tout.
 #ЛЕНСКИЙ (Лука)
 #Я рад.
-Bien sûr.
+ - Tant mieux.
 #ОНЕГИН (Ярослав)
 #Когда же?
 Quand donc ?
@@ -483,107 +531,111 @@ Quand donc ?
 #Хоть сейчас
 #Oни с охотой примут нас.
 #Поедем!
-Viens avec moi,
-Nous recevoir sera leur joie.
-Partons.
+ - Sur l'heure, et pourquoi pas?
+ Nous recevoir sera leur joie.
+ Partons!
+
 #ОНЕГИН (Вадим) Ленскому (Илье)
 #Быть можно дельным человеком
 L’homme peut vivre dans l’étude
 #И думать о красе ногтей:
 #К чему бесплодно спорить с веком?
 #Обычай деспот меж людей.
-Et se vouloir de jolies mains :
+ Et se vouloir de jolies mains :
  Notre despote est l’habitude,
  Pourquoi lutter contre l’humain ?
-#Куда? Уж эти мне поэты!Déjà ?
-Ah, j’aime ces poètes !
-#ЛЕНСКИЙ (Илья)
+
+
+#BEGIN COPIE 
+#Куда? Уж эти мне поэты!
+Déjà ? Ah, j’aime ces poètes !
+#ЛЕНСКИЙ (Лука)
 #Прощай, Онегин, мне пора.
-J’y vais, c’est l’heure.
-#ОНЕГИН (Вадим)
+ - J’y vais, c’est l’heure. - Peut-on savoir
+#ОНЕГИН (Ярослав)
 #Я не держу тебя; но где ты
 #Свои проводишь вечера?
-Peut-on
  Quel est le nom de la retraite
  Où tu t’enterres tous les soirs ?
-#ЛЕНСКИЙ (Илья)
+#ЛЕНСКИЙ (Лука)
 #У Лариных.
-Chez les Larine.
-#ОНЕГИН (Вадим)
+Chez les Larine.  - Ah ça alors !
+#ОНЕГИН (Ярослав)
 #Вот это чудно.
 #Помилуй! и тебе не трудно
 #Там каждый вечер убивать?
-La merveille !
-Et toutes ces soirées pareilles,
-Tu te les gâches sans regret ?
-#ЛЕНСКИЙ (Илья)
+ Tu gâches tous ces soirs sans remords ?
+#ЛЕНСКИЙ (Лука)
 #Нимало.
-Evidemment.
-ОНЕГИН (Вадим)
-Не могу понять.
-Отселе вижу, что такое:
-Во-первых (слушай, прав ли я?),
-Простая, русская семья,
-К гостям усердие большое,
-Варенье, вечный разговор
-Про дождь, про лён, про скотный двор...»
-Attends, je sais,
+# TODO Evidemment.
+#ОНЕГИН (Ярослав)
+#Не могу понять.
+#Отселе вижу, что такое:
+#Во-первых (слушай, прав ли я?),
+#Простая, русская семья,
+#К гостям усердие большое,
+#Варенье, вечный разговор
+#Про дождь, про лён, про скотный двор…
+#ЛЕНСКИЙ (Лука)
+# TODO
+#Attends, je sais,
 Je vois ces gens comme en peinture :
-Un foyer simple, de chez nous,
-Hospitalier et tout et tout -
+ Un foyer simple, de chez nous,
+ Hospitalier et tout et tout -
 Des régiments de confitures,
-Et les potins jusqu’à la nuit,
-La basse-cour, le lin, la pluie…
-ЛЕНСКИЙ (Илья)
-Я тут ещё беды не вижу.
-Je n’y vois pas encore un drame.
-ОНЕГИН (Вадим)
-Да скука, вот беда, мой друг.
-Le drame, c’est l’ennui, mon vieux.
-ЛЕНСКИЙ (Илья)
-Я модный свет ваш ненавижу;
-Милее мне домашний круг,
-Где я могу…
+ Et les potins jusqu’à la nuit,
+ La basse-cour, le lin, la pluie…
+#Я тут ещё беды не вижу.
+Je ne vois pas où est le drame.
+#ОНЕГИН (Ярослав)
+#Да скука, вот беда, мой друг.
+ - Le drame, c’est l’ennui, mon vieux.
+#ЛЕНСКИЙ (Лука)
+#Я модный свет ваш ненавижу;
+#Милее мне домашний круг,
+#Где я могу…
 Votre mondanité sans âme,
-Je la déteste, ah, j’aime mieux
-L’humble foyer où…ОНЕГИН (Вадим)
-Опять эклога!
-Да полно, милый, ради Бога.
-Ну что ж? ты едешь: очень жаль.
-Belle églogue !
-Allez, va, change d’apologue.
-Eh quoi, tu pars ? tant pis, mais bon,
-Ленский делает несколько шагов в сторону
-кулисы.
-Ах, слушай, Ленский; да нельзя ль
-Увидеть мне Филлиду эту,
-Предмет и мыслей, и пера,
-И слез, и рифм et cetera?..
-Представь меня.
+ Je la déteste, ah, j’aime mieux
+ L’humble foyer où…
+#ОНЕГИН (Ярослав)
+#Опять эклога!
+#Да полно, милый, ради Бога.
+#Ну что ж? ты едешь: очень жаль.
+ - Encore un poême pastoral !
+Ça nous tape sur le moral.
+ Eh quoi, tu pars ? tant pis, mais bon.
+#Ленский делает несколько шагов в сторону
+#кулисы.
+#Ах, слушай, Ленский; да нельзя ль
+#Увидеть мне Филлиду эту,
+#Предмет и мыслей, и пера,
+#И слез, и рифм et cetera?..
+#Представь меня.
 Dis, à propos, Lenski, peut-on,
-La voir, cette divine idole,
-Objet de songes et d’écrits,
-De larmes, de rimailleries ?…
+ La voir, cette divine idole,
+ Objet de songes et d’écrits,
+ De larmes, de rimailleries ?…
 Présente-moi.
-ЛЕНСКИЙ (Илья)
-Ты шутишь.
-Vraiment ?
-ОНЕГИН (Вадим)
-Нету.
-Parole.
-ЛЕНСКИЙ (Илья)
-Я рад.
-C’est bien.
-ОНЕГИН (Вадим)
-Когда же?
+#ЛЕНСКИЙ (Лука)
+#Ты шутишь.
+ - Tu rigoles ?
+#ОНЕГИН (Ярослав)
+#Нету.
+ - Du tout.
+#ЛЕНСКИЙ (Лука)
+#Я рад.
+ - Tant mieux.
+#ОНЕГИН (Ярослав)
+#Когда же?
 Quand donc ?
-ЛЕНСКИЙ (Илья)
-Хоть сейчас
-Они с охотой примут нас.
-Поедем!
-Viens avec moi,
-Nous recevoir sera leur joie.
-Partons.
+#ЛЕНСКИЙ (Лука)
+#Хоть сейчас
+#Oни с охотой примут нас.
+#Поедем!
+ - Sur l'heure, et pourquoi pas?
+ Nous recevoir sera leur joie.
+ Partons!
+#END COPIE
 
 #S
 #Перестановка.
@@ -599,14 +651,14 @@ Dans un village délicieux…
 #Не спится, няня: здесь так душно!
 #Открой окно да сядь ко мне.
 Nounou, viens, ouvre la fenêtre ;
- Comment dormir ? Il fait si lourd…
+ Comment dormir ? L'air est pesant !
 #НЯНЯ
 #Что, Таня, что с тобой?
 Tania, tu te sens mal, peut-être ?
 #ТАТЬЯНА (Полина)
 #Мне скучно,
 # Поговорим о старине.
-Non, je m'ennuie. Parlons de tes jeunes jours.
+ - Non, je m'ennuie. Parlons de l'ancien temps.
 #НЯНЯ
 #О чем же, Таня? Я, бывало,
 #Хранила в памяти не мало
@@ -617,18 +669,18 @@ Non, je m'ennuie. Parlons de tes jeunes jours.
 #Пришла худая череда!
 #Зашибло…
 De quoi, Tania ?… Dans mon jeune âge,
- On en disait, dans les filages,
- Plein de vieux contes, des vieux dits,
-Plein sur les fées et les esprits…
- Mais, vois-tu, je perds la mémoire, Tania…
+ On en disait, dans les villages,
+ Des vieux contes et des vieux dits,
+ Sur les fées et les esprits…
+Mais, vois-tu, Tania, je perds la mémoire.
  Eh oui, quoi, mon pain blanc,
- Je l’ai mangé depuis longtemps…
+ Je l’ai mangé depuis longtemps !
 On oublie tout…
 #ТАТЬЯНА (Полина)
 #Расскажи мне, няня,
 #Про ваши старые года:
 #Была ты влюблена тогда?
-Pas des histoires…
+ - Pas des histoires.
  Dis-moi ta vie, toi, autrefois.
  Tu étais amoureuse, toi ?
 #НЯНЯ
@@ -636,13 +688,13 @@ Pas des histoires…
 #Мы не слыхали про любовь;
 #А то бы согнала со света
 #Меня покойница свекровь.
-Moi, amoureuse ? Allez, arrête !
- On n’avait pas d’amour chez nous,
+Moi, amoureuse ? Allons, arrête !
+ Il n’avait pas d’amour chez nous,
  Ou elle m’aurait fait ma fête,
  Feu la maman de mon époux.
 #ТАТЬЯНА (Полина)
 #Да как же ты венчалась, няня?
-#Pourtant, nounou, et ton mariage ?
+Pourtant, nounou, et ton mariage ?
 #НЯНЯ
 #Так, видно, Бог велел. Мой Ваня
 #Моложе был меня, мой свет,
@@ -653,19 +705,19 @@ Moi, amoureuse ? Allez, arrête !
 #Я горько плакала со страха,
 #Мне с плачем косу расплели
 #Да с пеньем в церковь повели.
-Oh, il fallait. Mais d’années d’âge,
+ - Oh, il fallait. Mais d’années d’âge,
  J’en avais plus que mon Ivan,
-Et, moi, j’avais juste treize ans.
- Deux-trois semaines, la marieuse
- A travaillé, et, pour finir,
+ Et, moi, j’avais juste treize ans.
+La marieuse a travaillé
+ Oh, deux semaines, et pour finir,
  Mon père est venu me bénir.
-Moi, j’avais peur, la vraie pleureuse,
- On m’a défait ma natte en pleurs,
-Conduite au temple avec des chœurs…
+ Moi, j’avais peur, j'ai tant pleuré,
+On m'a défait ma natte, moi pleurant,
+ Et  conduite à l'église sous les chants.
 #И вот ввели в семью чужую…
 #Да ты не слушаешь меня…
- Et donc, j’entrais dans leur famille…
-Mais, tu m’écoutes, mon enfant ?
+Et donc, j’entrais dans leur famille…
+ Mais tu m’écoutes, mon enfant ?
 #ТАТЬЯНА (Полина)
 #Ах, няня, няня, я тоскую,
 #Мне тошно, милая моя:
@@ -690,7 +742,7 @@ Un front en feu…
 #<…>
 #Дай, няня, мне перо, бумагу
 #Да стол подвинь; я скоро лягу.
-J’ai le cœur lourd,
+ - J’ai le cœur lourd,
  Tu sais, nounou… C’est de l’amour…
 Nounou, de quoi écrire, vite,
  Rapproche-moi ma table – ensuite,
@@ -934,8 +986,8 @@ C’est vous, je vous le garantis,
 Sans promettre monts et merveilles,
  Trouvant mon idéal perdu,
  Je vous aurais sans doute élue
-Compagne de mes sombres veilles
- En gage d’un bonheur promis,
+ Compagne de mes sombres veilles
+En gage d’un bonheur promis,
  Heureux… autant qu’il m’est permis.
 #Но я не создан для блаженства;
 #Ему чужда душа моя;
@@ -973,11 +1025,11 @@ Allez savoir – à tout jamais.
 #К беде неопытность ведёт.
 Un autre aurait compris plus mal ;
  Tant de candeur sera fatal.
+
 #Перестановка.
 #ЛИЗА
 #Деревня, где скучал Евгений…
 L’ennui traquait notre Onéguine
-
 #МАША
 #Была прелестный уголок…
 Dans un village délicieux…
@@ -1042,18 +1094,19 @@ Il rit, son doigt gelé le pique,
 #Боится ложного стыда.
 Les ennemis ! Eh quoi, la veille,
  Ils ignoraient la soif du sang ;
- Ils partageaient monts et merveilles,
+Ils partageaient monts et merveilles,
  Riaient, heureux, reconnaissants
 Et fraternels. Et, là, ces frères,
  En ennemis héréditaires,
  Pris dans un rêve plein d’effroi,
- Ils se préparent de sang-froid
+Ils se préparent de sang-froid
  A se tuer sans rien se dire -
 Pourquoi n’ont-ils pas essayé
  Tant que leur main n’est pas souillée,
  – Que sais-je ? – d’éclater de rire ?
 Mais le farouche honneur mondain
  A peur de déroger soudain.
+
 #Дуэль
 #ЛЕНСКИЙ (Лука)
 #Любви все возрасты покорны;
@@ -1086,27 +1139,25 @@ Ainsi, aux froides pluies d’automne,
  Les champs deviennent des marais,
  et se désertent les forêts.
 
-#(всхлипывая)
-#Что день грядущий мне готовит?
-#Его мой взор напрасно ловит,
-#В глубокой мгле таится он.
-#Нет нужды; прав судьбы закон.
+
+#COPIE
+Que m’offrira l’aube qui vient ?
+ En vain la cherche mon regard
+ Au plus profond de ce brouillard.
+ N'espérons rien; force restera au destin.
 #Паду ли я, стрелой пронзенный,
 #Иль мимо пролетит она,
 #Всё благо: бдения и сна
 #Приходит час определенный;
 #Благословен и день забот,
 #Благословен и тьмы приход!
-Que m’offrira l’aube nouvelle ?
- Mon âme en vain la cherche-t-elle,
- Mais le mystère en est sans fond.
- Soit. Le destin est toujours bon.
-Sous une flèche tomberai-je ?
- Triompherai-je? Le destin vient
- A l’heure dite, et tout est bien,
-Qu’il prolonge ou bien qu'il abrège
- Nos jours de vie. Béni, le jour,
- Bénie la nuit, chacun son tour.
+Ou bien une flèche perce mon coeur,
+ Ou elle s'en va planter ailleurs,
+ Et tout est bien : veille ou bien somme,
+ Tout vient à son tour à chaque homme. 
+Bénis soient le jour, ses soucis,
+ Et bénie soit la nuit aussi.
+#END COPIE
 
 #Перестановка. Онегин (Вадим) рыдает.
 #ЛИЗА
@@ -1132,9 +1183,9 @@ Le regarder, rigide, blême,
  En refusant d’y voir sa face ;
 On aime plus quand, maladroit,
  Le bougre hurle : “mais, c’est moi !”
-On aime encor plus, en silence,
+On aime plus encore, en silence,
  Lui fondre gravement du plomb,
-Le guetter, lui viser le front
+ Le guetter, viser son front
  Tant que chacun reste à distance.
 Mais tout de bon le mettre à mort,
  Aimerez-vous ? J’en doute fort.
@@ -1215,19 +1266,19 @@ Et, rêveries secrètes, gages
 #ДАША
 
 Qui sait, pour le bonheur d'un homme,
-Si pour la gloire il était né ;
-Son nom, passant l’âge où nous sommes,
-Eût dans les siècles résonné,
+ Si pour la gloire il était né ;
+ Si son nom, de l’âge où nous sommes,
+ Eût dans les siècles résonné,
 Grondant comme l’orage gronde.
-Qui sait, sur l'échelle du monde
-A quelle marche il était prêt.
+ Qui sait, sur l'échelle du monde
+ A quelle marche il était prêt.
 Son ombre endolorie, qui sait,
-Emporta-t-elle son mystère
-Et nous perdîmes une voix,
-Source de vie, source de foi,
+ Emporta-t-elle son mystère
+ Et nous perdîmes une voix,
+ Source de vie, source de foi,
 Qu’auraient suivie depuis la terre
-Les hymnes de bénédiction
-Du chœur des temps et des nations.
+ Les hymnes de bénédiction
+ Du chœur des temps et des nations.
 #А может быть и то: поэта
 #Обыкновенный ждал удел.
 #Прошли бы юношества лета:
@@ -1245,7 +1296,7 @@ Du chœur des temps et des nations.
 A moins, qui sait, que le poète
  N’ait dû n’avoir qu’un sort banal ;
 L’âge venant, foin des tempêtes :
- La vie l’aurait changé pas mal.
+ La vie l’aurait changé en mal.
 Adieu les grands brasiers de l’âme ;
  Quittant la muse, il eût pris femme,
  Dans sa campagne aurait vécu
@@ -1274,13 +1325,13 @@ Rendre son âme au Créateur
 Pourtant, lecteur, il gît sous terre,
  Quoi que le sort lui eût promis,
  Penseur, poète, amant sincère,
- Tué par la main de son ami !
+ Tué par la main d'un ami !
 On voit à gauche du domaine
  Du jeune élève des Camènes
  Deux pins, racines emmêlées ;
 Là, le ruisseau de la vallée
  Fait une fourche vagabonde.
- Le laboureur prend du repos
+Le laboureur prend du repos
  Et les glaneuses y puisent l’eau,
  Leurs cruches claquant sur ses ondes.
 C’est là, dans l'ombre, près du courant,
@@ -1304,7 +1355,7 @@ Prince, qui est-ce, le sais-tu,
  Qui cause avec l’ambassadeur ?
 #КНЯЗЬ (Костя)
 #Ага! давно ж ты не был в свете.
-Oui, tu débarques, mon cher cœur…
+Ah oui, tu as été absent lontemps, 
 #Постой, тебя представлю я.
  Je te présente dans l’instant.
 #ОНЕГИН (Ярослав)
@@ -1371,7 +1422,7 @@ A la campagne, en tête à tête,
  La lettre où brûle un pur amour,
 Où tout est libre, où tout se donne,
  C’est cette enfant – ou rêve-t-il ? -
- Qu’il dédaignait d’un cœur subtil,
+ Qu’il dédaigna d’un cœur subtil,
  L’enfant si simple et monotone…
 Il se sentit rongé au cœur
  Par sa distance et sa rigueur.
@@ -1498,20 +1549,20 @@ Pendant cette heure atroce, dis-je,
  Je vous ai vu homme d’honneur :
  Merci à vous, du fond du cœur…
 
-Тогда — не правда ли? — в пустыне,
-Вдали от суетной молвы,
-Я вам не нравилась... Что ж ныне
-Меня преследуете вы?
-Зачем у вас я на примете?
-Не потому ль, что в высшем свете
-Теперь являться я должна;
-Что я богата и знатна,
-Что муж в сраженьях изувечен,
-Что нас за то ласкает двор?
-Не потому ль, что мой позор
-Теперь бы всеми был замечен
-И мог бы в обществе принесть
-Вам соблазнительную честь?
+# Тогда — не правда ли? — в пустыне,
+# Вдали от суетной молвы,
+# Я вам не нравилась... Что ж ныне
+# Меня преследуете вы?
+# Зачем у вас я на примете?
+# Не потому ль, что в высшем свете
+# Теперь являться я должна;
+# Что я богата и знатна,
+# Что муж в сраженьях изувечен,
+# Что нас за то ласкает двор?
+# Не потому ль, что мой позор
+# Теперь бы всеми был замечен
+# И мог бы в обществе принесть
+# Вам соблазнительную честь?
 Alors – c’est vrai ? – dans ma retraite,
  Loin de l’éclat des vanités,
  Je ne vous plaisais pas… Que faites-
@@ -1599,7 +1650,7 @@ Et puis ce pauvre cimetière,
 #S
 Et le bonheur était si proche,
  Oui, si possible !
-____________________ Mais mon sort
+Mais mon sort
  Reste scellé. Je me reproche
  Une imprudence : fut-ce un tort,
  Cédant aux larmes, aux prières,
@@ -1609,7 +1660,7 @@ Tous les partis m’étaient égaux…
  S’il vous plaît, me laisser vous-même.
 Je sais qu’il est dans votre cœur
  De la fierté et de l’honneur.
- A quoi bon feindre ? je vous aime,
+ A quoi bon feindre ? Je vous aime,
 Mais j’appartiens à mon époux
  Et lui serai fidèle en tout.
 #Татьяны уходят. Немая сцена.
@@ -1623,4 +1674,8 @@ Mais j’appartiens à mon époux
 Un maître faible et hypocrite,
  Un dandy chauve, un fainéant,
  Fier d'une gloire sans mérite
- Régnait sur nous en ce temps…
+ Régnait sur nous-autres en ce temps…
+
+
+
+
