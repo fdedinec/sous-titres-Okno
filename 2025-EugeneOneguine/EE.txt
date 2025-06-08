@@ -1,3 +1,22 @@
+*********************************************
+ *********************************************
+ *********************************************
+ *********************************************
+ *********************************************
+#S
+
+*********************************************
+ *  Евгений Онегин     Eugène Onégine
+ *   А. С. Пушкин          A. S. Pouchkine
+ *********************************************
+
+Merci d'éteindre vos portables !
+ (photos/videos autorisées, coupez le son) 
+ Пожалуйста, отключите телефоны!
+ (Фото/видео разрешены, без звука)
+
+
+
 # Onéguine
 # Чем меньше женщину мы любим,
 # Тем легче нравимся мы ей
@@ -14,7 +33,7 @@ Moins nous tenons à une femme,
 Mais la routine nous ennuie,
  Ce qui un jour nous éblouit
  Nous semble terne un autre jour,
- Et le désir nous ronge toujours
+ Et le désir nous ronge toujours.
 #Томим и ветреным успехом,
 #Внимая в шуме и в тиши
 #Роптанье вечное души,
@@ -25,7 +44,7 @@ Nous cherchons des succès d'une nuit,
  On rit pour mieux cacher qu’on bâille :
 # Вот как убил я восемь лет,
 # Утратя жизни лучший цвет.
-Ainsi ai-je tué huit années, gâchant 
+Ainsi ai-je tué huit ans, gâchant 
  D'une vie les meilleurs moments.
 
 # Мой дядя самых честных правил,
@@ -50,13 +69,14 @@ L’exemple, certes, est inspirant ;
 # Ему подушки поправлять,
 # Печально подносить лекарство,
 C’est une basse perfidie
- De distraire un agonisant,
+ Que distraire un agonisant,
  Tassant ses oreillers sous lui,
  Comptant ses cachets tristement,
 # Вздыхать и думать про себя:
 # Когда же черт возьмёт тебя!
 Et, soupirant, penser tout bas :
  “Quand est-ce que Satan te prendra ?”
+
 # ВСЕ (кроме Онегина)
 Onéguine !
 # МАША
@@ -74,18 +94,19 @@ Homme à l'honnêteté sans faille,
 # Долгами жил его отец,
  Son père allait en s’endettant
 #ДАША
- Et, à donner trois bals par an,
-#Сцена «балов».
 
+C'est qu'il donnait trois bals par an...
+
+#Сцена «балов».
 #КОСТЯ
- Il se retrouva sur la paille.
+Il se retrouva sur la paille.
 
 #Две няньки (Соня и Полина) ведут юного
 #Онегина (Вадима), чтобы сдать его на руки
 #Madame (Маше)
 #СОНЯ
 # Судьба Евгения хранила:
-Evguéni fut chéri du destin
+Evguéni pourtant, fut chéri du destin.
 #МАША
 # Сперва Madame за ним ходила…
  Madame d'abord en prit grand soin ;
@@ -107,7 +128,7 @@ L’enfant était vif...
 #ПОЛИНА
 La foule attend...
 #Ложи блещут.
-...     les loges brillent...
+ ...     les loges brillent...
 #ДАША
 #Партер и кресла, всё кипит.
  Fauteuils, parterre, tout reluit ;
@@ -121,7 +142,7 @@ Le poulailler, pressé, frétille,
 #Блистательна, полувоздушна…
 Aérienne, étincelante,
 #СОНЯ
-#Смычку волшебному послушна.
+# Смычку волшебному послушна.
  Au seul archet obéissante,
 #ИЛЬЯ
 #Толпою нимф окружена
@@ -130,7 +151,7 @@ Aérienne, étincelante,
   Istomina est arrivée...
 #ВСЕ
 #Истомина, Истомина…
-Istomina, Istomina, 
+Istomina, Istomina ! 
 #КОСТЯ
 #Она,
 #Одной ногой касаясь пола…
@@ -149,18 +170,21 @@ Soudain un saut, soudain elle vole,
  Comme plume au baiser d'Éole.
 La taille pliée puis dépliée,
  Un pied agile bat l'autre pied.
+
 #ОНЕГИН (Вадим) (входит, зевает)
 #Балеты долго я терпел,
 #Но и Дидло мне надоел.
-Le ballet, passait encor,
- Mais même Didelot m’endort.
+J'ai supporté tous les ballets,
+ Mais Didelot, c'était trop laid.
+#Le ballet, passait encor,
+# Mais même Didelot m’endort.
 
 #Перестановка.
 #СОНЯ
 #Что ж мой Онегин? Полусонный
 #В постелю с бала едет он…
 Et Evguéni ? – Paupières lourdes,
- Il rentre au lit au point du jour
+ Il rentre au lit au point du jour...
 #МАША
 #А Петербург неугомонный
 #Уж барабаном пробужден.
@@ -196,7 +220,7 @@ Le boulanger, Saxon habile,
  Au vasistas de sa maison.
 
 #Деревня, где скучал Евгений…
-L’ennui traquait notre Onéguine
+L’ennui accablait Onéguine
 #МАША
 #Была прелестный уголок.
  Dans un village délicieux…
@@ -230,20 +254,12 @@ L’exemple, certes, est inspirant ;
  Mais, oh mon Dieu, mais quel ennui
  Que de rester des jours, des nuits
  Assis au chevet d’un mourant !
-# Его пример другим наука;
-# Но, боже мой, какая скука
-# С больным сидеть и день и ночь,
-# Не отходя ни шагу прочь!
-L’exemple, certes, est inspirant ;
- Mais, oh mon Dieu, mais quel ennui
- Que de rester des jours, des nuits
- Assis au chevet d’un mourant !
 # Какое низкое коварство
 # Полуживого забавлять,
 # Ему подушки поправлять,
 # Печально подносить лекарство,
 C’est une basse perfidie
- De distraire un agonisant,
+ Que distraire un agonisant,
  Tassant ses oreillers sous lui,
  Comptant ses cachets tristement,
 # Вздыхать и думать про себя:
@@ -253,14 +269,14 @@ Et, soupirant, penser tout bas :
 
 #Перестановка.
 #МАША
-#Деревня, где скучал Евгений…
-L’ennui traquait notre Onéguine
+# Деревня, где скучал Евгений…
+# Была прелестный уголок.
+# Тут друг невинных наслаждений
+# Благословить бы небо мог.
+L’ennui accablait Onéguine
 #ЛИЗА
-#Была прелестный уголок.
  Dans un village délicieux…
 #ЛЕНСКИЙ (Илья)
-#Тут друг невинных наслаждений
-#Благословить бы небо мог.
  Où l’homme simple, j’imagine,
  Aurait plutôt béni les cieux.
 
@@ -292,6 +308,7 @@ Jamais un baisemain aux dames,
 #ОНЕГИН (Ярослав) Ленскому (Луке)
 #Таков был общий глас.
 Tel fut, en bref, le jugement.
+
 #ОЛЬГА (Соня)
 # В свою деревню в ту же пору
 # Помещик новый прискакал…
@@ -340,8 +357,6 @@ Un verbe toujours enflammé,
 #Он на руках меня держал.
 #Как часто в детстве я играл
 #Его Очаковской медалью!
-
-#S
 C’était un brave et bon barine,
  Et là où sa cendre gît,
  Sur la pierre on voit écrit :
@@ -372,7 +387,7 @@ Où êtes-vous donc à présent,
 Que m’offrira l’aube qui vient ?
  En vain la cherche mon regard
  Au plus profond de ce brouillard.
- N'espérons rien; force restera au destin.
+ N'espérons rien; c'est le destin.
 #Паду ли я, стрелой пронзенный,
 #Иль мимо пролетит она,
 #Всё благо: бдения и сна
@@ -408,8 +423,8 @@ Mais moi, c'est peut-être un tombeau
  Se refermera sur le poète.
 On m’oubliera, mais viendras-tu,
  Vierge de grâce et de vertu,
- Verser un pleur sur l’urne pâle,
-Penser : c’est moi qu’il adora
+Verser un pleur sur l’urne pâle,
+ Penser : c’est moi qu’il adora
  Oui, c’est à moi qu’il consacra
  Les passions d'une vie fatale !…
 Ma douce amie, mon cœur si doux,
@@ -464,6 +479,8 @@ Chez les Larine.  - Ah ça alors !
 #Помилуй! и тебе не трудно
 #Там каждый вечер убивать?
  Tu gâches tous ces soirs sans remords ?
+Sans le moindre.
+ - Je ne puis le comprendre.
 #ЛЕНСКИЙ (Лука)
 #Нимало.
 # TODO Evidemment.
@@ -480,9 +497,9 @@ Chez les Larine.  - Ah ça alors !
 #Attends, je sais,
 Je vois ces gens comme en peinture :
  Un foyer simple, de chez nous,
- Hospitalier et tout et tout -
-Des régiments de confitures,
- Et les potins jusqu’à la nuit,
+ Hospitalier et tout et tout,
+ Des régiments de confitures,
+Et les potins jusqu’à la nuit,
  La basse-cour, le lin, la pluie…
 #Я тут ещё беды не вижу.
 Je ne vois pas où est le drame.
@@ -508,12 +525,12 @@ Votre mondanité sans âme,
 #Ах, слушай, Ленский; да нельзя ль
 #Увидеть мне Филлиду эту,
 #Предмет и мыслей, и пера,
-#И слез, и рифм et cetera?..
+#И слез, и рифм et cetera?
 #Представь меня.
 Dis, à propos, Lenski, peut-on,
  La voir, cette divine idole,
  Objet de songes et d’écrits,
- De larmes, de rimailleries ?…
+ De larmes et de rimailleries ?
 Présente-moi.
 #ЛЕНСКИЙ (Лука)
 #Ты шутишь.
@@ -567,6 +584,8 @@ Chez les Larine.  - Ah ça alors !
  Tu gâches tous ces soirs sans remords ?
 #ЛЕНСКИЙ (Лука)
 #Нимало.
+Sans le moindre.
+ - Je ne puis le comprendre.
 # TODO Evidemment.
 #ОНЕГИН (Ярослав)
 #Не могу понять.
@@ -581,9 +600,9 @@ Chez les Larine.  - Ah ça alors !
 #Attends, je sais,
 Je vois ces gens comme en peinture :
  Un foyer simple, de chez nous,
- Hospitalier et tout et tout -
-Des régiments de confitures,
- Et les potins jusqu’à la nuit,
+ Hospitalier et tout et tout,
+ Des régiments de confitures,
+Et les potins jusqu’à la nuit,
  La basse-cour, le lin, la pluie…
 #Я тут ещё беды не вижу.
 Je ne vois pas où est le drame.
@@ -614,7 +633,7 @@ Votre mondanité sans âme,
 Dis, à propos, Lenski, peut-on,
  La voir, cette divine idole,
  Objet de songes et d’écrits,
- De larmes, de rimailleries ?…
+ De larmes et de rimailleries ?
 Présente-moi.
 #ЛЕНСКИЙ (Лука)
 #Ты шутишь.
@@ -637,17 +656,17 @@ Quand donc ?
  Partons!
 #END COPIE
 
-#S
 #Перестановка.
 #ЛИЗА
 #Деревня, где скучал Евгений…
-L’ennui traquait notre Onéguine
+L’ennui accablait Onéguine
 #МАША
 #Была прелестный уголок.
 #Немая сцена. Приезд Ленского с Онегиным.
 #Перестановка.
 #ТАТЬЯНА (Полина)
-Dans un village délicieux…
+ Dans un village délicieux…
+
 #Не спится, няня: здесь так душно!
 #Открой окно да сядь ко мне.
 Nounou, viens, ouvre la fenêtre ;
@@ -932,25 +951,25 @@ C’est fait. Je ferme cette lettre,
 #Песенки заветные,
 #Не ходи подсматривать
 #Игры наши девичьи.
-Jeunes filles, jeunes belles,
- Gentillettes, mignonnettes,
- Jouons, jeunes filles,
- Dansons, les gentilles !
-Commençons notre chanson,
- La chanson la plus cachée,
- Attirons le beau jeune homme
- Dans nos danses, notre ronde.
-Quand viendra le beau jeune homme,
- Quand nous le verrons tout proche,
- Courons vite, les mignonnes,
-Jetons-lui à la figure
- Des framboises et des cerises,
- Des groseilles et des framboises.
-Pas pour tes oreilles,
- Nos chansons cachées,
- Pas pour tes prunelles,
+Jeunes filles, mes jolies
+ Mes amies, mes chéries,
+Amusez-vous, mesdemoiselles,
+ Sortez, dansez, soyez belles !
+Chantez une chansonnette,
+ Une chanson secrète,
+Attirez un beau jeune homme
+ Dans notre joyeuse ronde.
+ Quand il viendra du vaste monde,
+ Quand il voudra croquer la pomme,
+Eparpillez-vous, les jolies,
+ Nous le couvrirons de cerises,
+ De framboises et de cerises,
+ De groseilles cramoisies.
+
+Il ne faut pas qu'il épie
+ Nos secrètes chansons,
+ Ce n'est pas pour les garçons
  Nos jeux de jeunes filles.
-#TODO
 
 #Входит Татьяна (Полина), затем Онегин
 #(Вадим)
@@ -1016,7 +1035,7 @@ Vous pleurerez ; vos pauvres larmes,
  Accroîtront juste sa fureur ;
 Vous pouvez donc juger des charmes
  Que le mariage nous promet -
-Allez savoir – à tout jamais.
+ Allez savoir – à tout jamais.
 
 #Появляются Онегин (Вадим) и Татьяна
 #(Полина).
@@ -1029,17 +1048,15 @@ Un autre aurait compris plus mal ;
 #Перестановка.
 #ЛИЗА
 #Деревня, где скучал Евгений…
-L’ennui traquait notre Onéguine
+L’ennui accablait Onéguine
 #МАША
 #Была прелестный уголок…
-Dans un village délicieux…
+ Dans un village délicieux…
 #СОНЯ
 #Зима!..
-
-L’hiver !…
+L’hiver ! Le paysan pavoise,
 #ДАША
 #Крестьянин, торжествуя,
-Le paysan pavoise,
 #На дровнях обновляет путь;
  Traçant la voie sur son traîneau ;
 #ЛИЗА
@@ -1092,7 +1109,7 @@ Il rit, son doigt gelé le pique,
 #Не разойтиться ль полюбовно?..
 #Но дико светская вражда
 #Боится ложного стыда.
-Les ennemis ! Eh quoi, la veille,
+Des ennemis ! Eh quoi, la veille,
  Ils ignoraient la soif du sang ;
 Ils partageaient monts et merveilles,
  Riaient, heureux, reconnaissants
@@ -1123,7 +1140,6 @@ Mais le farouche honneur mondain
 #Так бури осени холодной
 #В болото обращают луг
 #И обнажают лес вокруг.
-#S
 L’amour s’impose à tous les âges,
  Mais il n’est bon dans sa fureur,
  Comme aux prairies de mai l’orage,
@@ -1144,7 +1160,7 @@ Ainsi, aux froides pluies d’automne,
 Que m’offrira l’aube qui vient ?
  En vain la cherche mon regard
  Au plus profond de ce brouillard.
- N'espérons rien; force restera au destin.
+ N'espérons rien; c'est le destin.
 #Паду ли я, стрелой пронзенный,
 #Иль мимо пролетит она,
 #Всё благо: бдения и сна
@@ -1175,13 +1191,14 @@ Bénis soient le jour, ses soucis,
 #На благородном расстоянье;
 #Но отослать его к отцам
 #Едва ль приятно будет вам.
+#S
 D’une épigramme vive, on aime
  Voir l’ennemi pris en défaut ;
-Le regarder, rigide, blême,
+ Le regarder, rigide, blême,
  Baissant ses cornes de taureau
- Devant lui-même dans la glace
+Devant lui-même dans la glace
  En refusant d’y voir sa face ;
-On aime plus quand, maladroit,
+ On aime plus quand, maladroit,
  Le bougre hurle : “mais, c’est moi !”
 On aime plus encore, en silence,
  Lui fondre gravement du plomb,
@@ -1296,7 +1313,7 @@ Qu’auraient suivie depuis la terre
 A moins, qui sait, que le poète
  N’ait dû n’avoir qu’un sort banal ;
 L’âge venant, foin des tempêtes :
- La vie l’aurait changé en mal.
+ La vie l’aurait changé, en mal.
 Adieu les grands brasiers de l’âme ;
  Quittant la muse, il eût pris femme,
  Dans sa campagne aurait vécu
@@ -1345,7 +1362,6 @@ C’est elle ?… Est-ce possible ?… Non.
 #ОНЕГИН (Вадим)
 #Как! из глуши степных селений…
 Quoi ?… du fin fond de sa province ?…
-#S
 #ВДВОЁМ
 #Скажи мне, князь, не знаешь ты,
 #Кто там в малиновом берете
@@ -1397,7 +1413,8 @@ Non, Tatiana ?
 #Встреча «Онегиных» с «Татьянами».
 #Девушки наблюдают за ними.
 #МАША
-Eh bien, viens donc.
+ Eh bien, viens donc.
+
 #Ужель та самая Татьяна,
 #Которой он наедине,
 #В начале нашего романа,
@@ -1602,7 +1619,7 @@ Avec ces lettres, ces sanglots.
  Oui, ma candeur et ma jeunesse,
  Au moins, vous en aviez pitié…
 Et maintenant ! Vous, à mes pieds…
- Ici ! Par quelle petitesse !…
+ Ici ! Quelle petitesse !…
  Vous, si brillant, jadis, si fin,
  La proie d’un sentiment mesquin…
 #А мне, Онегин, пышность эта,
@@ -1619,6 +1636,7 @@ Et maintenant ! Vous, à mes pieds…
 #Да за смиренное кладбище,
 #Где нынче крест и тень ветвей
 #Над бедной нянею моей…
+
 Et moi, ces fastes, Onéguine,
  Ce faux clinquant des jours dorés,
  Les compliments qu’on me destine
@@ -1658,7 +1676,7 @@ Mais mon sort
 Tous les partis m’étaient égaux…
  Je suis mariée. Pour vous, il faut,
  S’il vous plaît, me laisser vous-même.
-Je sais qu’il est dans votre cœur
+Je sais qu’il reste en votre cœur
  De la fierté et de l’honneur.
  A quoi bon feindre ? Je vous aime,
 Mais j’appartiens à mon époux
@@ -1677,5 +1695,6 @@ Un maître faible et hypocrite,
  Régnait sur nous-autres en ce temps…
 
 
-
-
+***************************************
+   Театральная школа ОКНО Лион
+ ***************************************

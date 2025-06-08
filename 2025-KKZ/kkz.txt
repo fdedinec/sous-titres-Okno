@@ -1,0 +1,3258 @@
+#ДЕЙСТВИЕ ПЕРВОЕ
+
+#S КАРТИНА ПЕРВАЯ
+
+#Бабушка.
+Qu'est-ce qui se passe ? Où est Olya ?
+ Les cours sont pourtant finis depuis  longtemps,
+ et elle est toujours absente.
+
+Allô, je suis bien à l'école ?
+ Pourriez-vous me dire, s'il vous plaît,
+  s'il y a eu une réunion en 5ème B après les cours ?
+Non ? Merci !
+Je m'en doutais ! Où est-elle donc ?
+
+Oh! Enfin la voilà ! Elle va m'entendre !
+
+# Olya
+Grand-mère, pourquoi n'ouvres-tu pas ?
+ J'ai cru que tu n'étais pas à la maison.
+
+#Бабушка.
+Où étais-tu ?
+
+#Olya : 
+Chez une amie. On a fait nos devoirs.
+
+#Grand-mère 
+Olya, dis-moi la vérité.
+
+# Olya (essayant de changer de sujet, montre la peinture) :
+Grand-mère, ne trouves-tu pas que ce tableau,
+ qui avait été offert à papa, est accroché de travers ?
+
+
+# Grand-mère.
+On ne parle pas de la peinture, Olya.
+ Regarde-moi dans les yeux.
+Où étais-tu, je te demande ?
+
+#Olya.
+Je me promenais dans le parc.
+
+#Grand-mère.
+Mais enfin ? Qui te l'a permis ?
+
+#Olya.
+Grand-mère, c'est la dernière fois que je pars sans te demander.
+
+#Grand-mère.
+Hier, tu as passé toute la soirée chez une amie à lire une histoire, 
+ aujourd'hui tu es allée au parc…
+Et la voisine t'attendait. Tu lui avais promis 
+ d'aller chercher son petit-fils à la crèche.
+
+#Olya.
+ Grand-mère, la crèche est si loin.
+
+# Grand-mère.
+Et alors ?
+
+#Olya.
+Et je me suis fait mal au pied.
+
+#Grand-mère.
+Ne mens pas, s'il te plaît ! En voilà des prétextes !
+ Combien de fois te l'ai-je dit :
+ si tu dois faire quelque chose, fais-le tout de suite,
+ ne le remets pas à plus tard.
+
+#Olya. TODO les podumaech
+#C'est pas grave !
+Ça va!
+
+#Grand-mère.
+Et qu'as-tu fait de la clé de la porte ?
+ Hier tu as perdu la tienne, et aujourd'hui la mienne aussi.
+ J'ai dû aller trouver un serrurier pour en commander une nouvelle.
+
+#Olya.
+Comment veux-tu que je sache où est la clé ?
+
+#Grand-mère.
+Tu l'as prise ce matin, quand tu es allée à la boulangerie.
+ Il faut prendre soin des clés, Olya.
+ Tu es distraite, tu les perds, et il peut y avoir de gros problèmes.
+
+#Olya.
+Je ne l'ai pas perdue, grand-mère.
+
+#Grand-mère.
+Je me souviens parfaitement que tu l'as prise.
+
+#Olya.
+Bon, et alors, si je l'ai prise ?
+ Je l'ai ensuite remise en place.
+
+#Grand-mère.
+ Ah, tu l'as remise en place ? Eh bien retrouve-la.
+
+#Olya. Je vais la retrouver. Elle est quelque part ici.
+ Je vais la trouver...
+Bon, où peut-elle bien être ?
+
+#Grand-mère.
+Tu l'as probablement perdue dans la rue.
+
+#Olya.
+Je ne sais pas comment cela a pu arriver.
+ Je l'ai eue constamment dans les mains.
+
+#Grand-mère.
+Oh, Olya, Olya.
+
+#Olya.
+Ça va!
+
+#Голос бабушки:
+Tu ne t'est pas encore débarassé ?
+
+#Оля.
+Si, si.
+
+#бабушка:
+Quelle désordre !
+ Ce n'est pas possible de jeter ses affaires comme cela !
+ Il va falloir que je raconte tout cela à Papa et Maman.
+
+# Оля. Подумаешь!
+Ça va !
+#Бабушка.
+Assez de " Ça va !"
+Tu crois peut-être que ce sont des détails, mais qui néglige ces détails pourrait bien en souffrir beaucoup.
+ Tiens, ta ceinture et ton tablier sont défaits.
+
+Et ta natte est défaite. Regarde, le ruband pendouille.
+ Viens pars là que je la refasse.
+ Reste assise sans bouger !
+
+#Olya.
+Aïe, ça fait mal !
+
+#Grand-mère.
+Non, ça ne fait pas mal.
+
+#Olya.
+Si, ça fait mal.
+
+#Grand-mère.
+Pas le moins du monde… Quelle capricieuse tu fais.
+ Tu es en cinquième, et tu te comportes comme un bébé.
+ Tu ne te rends pas compte à quoi tu ressembles ?
+Si seulement tu pouvais te voir de côté !
+#Olya.
+De côté ?
+
+тебе  еще не надоело вертеться перед зерка-
+пом? Может быть, ты думаешь, что очень красива?
+
+Oля (состроив рожу). А разве не так? .
+
+Бабушка (добродушно). У, какое страшилище!
+
+#Grand-mère.
+Tu n'es pas fatiguée de te tourner devant le miroir ?
+ Tu te crois peut-être très belle ?"
+#Olya.
+Quoi, ce n'est pas le cas ?
+#Grand-mère.
+Un affreux petit monstre.
+#Grand-mère.
+Tu sais quoi, ma chérie, va plutôt voir le serrurier pour la clé,
+ il avait  promis de la faire ce soir.
+
+#Olya (d'une voix plaintive).
+Oh, grand-mère... les fusibles ont grillé dans l'escalier,
+ la lumière est coupée.
+
+#Grand-mère.
+Tu as peur ? Quelle honte ! Tu as peur !
+
+#Olya.
+Oui… Je n'aime pas le noir.
+
+#Grand-mère.
+Alors apprends à surmonter ta peur.
+
+#Olya (en sanglotant).
+Oui, bien sûr, surmonter ! Grand-mère... C'est que...
+
+#Grand-mère.
+Oh, arrête, peureuse, je vais y aller moi-même.
+
+#Olya.
+Et tu m'achètes une tablette de chocolat en passant, grand-mère !
+J'ai horriblement envie de quelque chose de sucré.
+
+#Grand-mère.
+Il y a du chocolat pour toi dans le placard.
+
+#Olya.
+Ah oui ? Mais je l'ai déjà mangée ce matin.
+
+#Grand-mère.
+Petite gourmande ! Tu n'as pas pu te retenir !
+ Oh, Olya, Olya...
+
+#Olya.
+Tu vas m'en acheter ?
+
+#Grand-mère (en plaisantant).
+Non.
+
+Olya. Tu vas m'en acheter !
+
+#Grand-mère.
+Sûrement pas. Il y a encore de la confiture dans le placard, Olya.
+Mais ne touche à rien avant le repas, tu vas perdre l'appétit.
+
+#Voix (d'un ton réprobateur).
+Oh, Olya, Olya.
+
+#Olya (figée, une cuillère à la bouche).
+C'est qui ?
+
+#Miroir.
+C'est moi, le miroir !
+
+#Olya (sautant de sa chaise et reculant).
+C'est le miroir ? Mais les objets ne savent pas parler !
+
+#Miroir.
+Tu aimes lire des contes de fées.
+ Imagine donc que tu es dans un conte 
+ et que je suis un miroir magique bienveillant...
+Tu aimes tellement regarder dans ma glace.
+
+#Olya.
+C'est vrai...
+#(Prenant courage, elle fait un pas vers le miroir.)
+Je n'aurais jamais imaginé
+ que nous avions un miroir magique à la maison.
+
+#Miroir.
+Je garde le silence depuis de nombreuses années.
+ Mais aujourd'hui, j'ai entendu que ta grand-mère avait très envie
+ que tu te voies de côté...
+
+#Olya.
+Est-ce vraiment possible ?
+
+#Miroir.
+Oui. Mais pour cela, tu dois te trouver
+ de l'autre côté du miroir.
+
+#Olya.
+Ah, comme c'est intéressant !
+ Permets-moi, s'il te plaît, de me trouver de l'autre côté du miroir !
+
+#Miroir (soupirant).
+C'est qu'avec ton caractère, il est dangereux d'y atterrir.
+ Tu as des défauts qui, au mauvais moment, pourraient te nuire.
+ Et si tu  rencontrais un ennemi ?
+
+#Olya (avec chaleur).
+Je n'ai pas peur des ennemis.
+ Je suis une pionnière.
+
+#Miroir.
+Très bien. Comme tu veux.
+
+#Olya.
+Aïe ! Aïe ! Qui es-tu, petite fille ?
+
+#Reflet.
+Je suis ton reflet.
+
+#Olya.
+Comment, mon reflet ? Et comment t'appelles-tu ?
+
+#Reflet.
+Je m'appelle Yalo. Et toi, tu t'appelles Olya ?
+
+#Olya.
+C'est exact. Comment sais-tu ?
+
+#Yalo.
+C'est très simple. Si je suis ton reflet,
+ alors j'ai le même nom que toi, mais à  l'envers.
+ Olya à l'envers sera Yalo.
+
+#Olya.
+C'est très amusant.
+Si tu es mon reflet, cela signifie que tu es gaucher ?
+
+#Yalo.
+Oui, je fais tout avec ma main gauche.
+C’est beaucoup plus pratique.
+
+#Olya.
+Et tu écris de droite à gauche, contrairement à moi ?
+
+#Yalo.
+Je me suis toujours émerveillé en te regardant dans le miroir,
+ c'est tellement étrange de te voir écrire.
+
+#Olya.
+Comme c'est étrange ici : tout est à l'envers.
+ Dis, d’où vient ce vent si fort ? La porte vers l'extérieur est fermée.
+
+#Yalo (montrant le reflet du tableau).
+C'est le vent qui vient des places et des rues de cette ville.
+
+#Olya.
+Ce n'est pas possible.
+
+#Alyo
+Tu te trouves dans un conte. Ici, tout est possible.
+
+# Olya
+Quel était ce bruit ?
+
+#Yalo.
+Ce sont probablement les heures qui sonnent.
+Tu veux qu'on aille voir ce que c'est que cette ville ?
+
+#Olya.
+Allons-y. C'est très intéressant.
+ Mais que se passera-t-il à la maison ?
+ Tout le monde va s'inquiéter et me chercher.
+
+#Yalo.
+À la maison, personne ne remarquera même que tu as disparu.
+ Tu es entrée dans un conte de fées.
+Quand tu reviendras, les horloges afficheront
+la même heure qu'à présent. Allons-y, Olya ?
+
+#Olya.
+Allons-y, Yalo.
+
+>
+#Grand-mère.
+#Olya.
+
+
+Оля. Этого не может быть.
+Яло. Ты находишься в сказке. Здесь все может быть.
+
+Быот часы.
+
+Оля. Что это за звон?
+
+Яло. Это, наверное, там бьют часы. Хочешь, пойдем по-
+смотрим, что это за город?
+
+Оля. Пойдем. Это очень интересно. Но что будет делаться
+дома? Все будут волноваться, разыскивать меня.
+
+Яло. Дома никто даже не успеет заметить, что тебя нет.
+Ты ведь попала в сказку. Когда ты вернешься, часы будут пока-.
+зывать то же самое время, что и сейчас. Пойдем, Оля? .
+
+Оля. Пойдем, Яло.
+
+Девочки берутся за руки и входят в отражение картины.
+'Затемнение.
+
+
+#S КАРТИНА ВТОРАЯ
+
+# Olya.
+Allons, allons, on n'a pas encore tout vu.
+
+# Yalo (boitant et gémissant).
+Oui, tu vas bien, toi, et moi, je me suis tordu la jambe.
+
+# Olya.
+Moi aussi, je me la suis la suis tordue.
+ La droite. Et toi, laquelle ?
+
+# Yalo.
+La gauche.
+
+# Olya.
+Quelle ville étrange !
+ Pourquoi cet pays s'appelle-t-il
+ le royaume des miroirs déformants ?
+
+# Yalo (montrant les miroirs accrochés aux murs).
+Probablement parce qu'il y a beaucoup de miroirs déformants ici.
+
+# Olya.
+On a vu des gens si élégants !
+
+# Yalo.
+Quelles belles robes !
+Ce sont sans doute les proches du roi et les ministres.
+
+# Olya.
+Regarde, regarde, le garçon qui sort là ?
+ Il est habillé tout différemment.
+
+Qu'est-ce qui t'arrive, mon garçon ?
+Tu ne te sens pas bien ?
+
+# Ima.
+Je suffoque à cause de la fumée.
+ Il n'y a rien à respirer...
+ Même les adultes ne le supportent pas.
+
+# Olya.
+Et qu'est-ce que c'est que ça ?
+
+# Ima.
+Cela ? C’est l’atelier de miroirs déformants
+ du ministre Ecapar.
+
+# Olya.
+Un atelier de miroirs déformants ?
+ Et pourquoi portes-tu de vieux haillons ?
+
+# Ima (avec un sourire amer).
+Où vois-tu des haillons ?
+ Je porte une magnifique tenue neuve.
+
+# Olya.
+Tu plaisantes sans doute.
+ Tu appelle cela une tenue neuve ?
+
+# Ima.
+Vous, mesdemoiselles, vous êtes probablement des étrangères ?
+ Il faut regarder le miroir déformant, pas moi.
+
+Voilà ! Regardez !
+
+# Olya (en regardant dans le miroir).
+Oh, quelle tenue élégante !
+ Yalo, regarde, regarde dans le miroir !
+
+# Ima.
+Dans ce miroir, même moi, j'ai l'air d'avoir la santé, de bonnes joues rouges.
+C’est pour ça qu’on a accroché des miroirs déformants partout,
+ par ordre de notre roi Teuqorrep le Septième.
+Si une personne pâle et maigre se regarde dans un miroir déformant,
+elle se prend pour une personne corpulente et bien nourrie.
+ Le roi et les ministres veulent que le peuple ait confiance
+ dans les miroirs déformants et soit satisfait de sa vie.
+Mais quand j'ai froid, ça n'aide pas.
+ Et quand j'ai faim, cela me donne pas moins envie de manger.
+
+# Olya.
+Comment les gens peuvent-ils supporter ça ?
+ Pourquoi ne chassez-vous pas votre Teuqorrep, 
+ comme nous avons chassé le tsar ?
+
+# Ima.
+ Chut… Pourquoi parler si fort ?
+ Si quelqu'un des proches du roi vous entend, vous serez exécuté.
+ Vous savez quel est le supplice ici ? Vous voyez cette tour noire ?
+
+# Olya.
+Oui… comme c'est effrayant !
+
+# Ima.
+C’est la Tour de la Mort !
+Les condamnés sont amenés dans cette tour, menottés
+ puis jetés de la plateforme supérieure sur les pierres.
+
+# Olya.
+Quels monstres !
+
+# Ima.
+C’est ainsi que les opposants au roi
+ et à ses ministres sont punis ici.
+
+# Olya.
+Vous avez donc de telles personnes ici ?
+
+# Ima (avec émotion).
+Oh, si tu savais ce qu'on a de personnes courageuses et honnêtes !
+
+# Olya (avec passion).
+À la place de ces gens, je ferais des miroirs non déformants,
+ mais droits, qui ne montrent que la vérité !
+
+# Гурд.
+Ils en fabriquent !
+ Parfois, de vrais miroirs apparaissent sur les places,
+  et les gens se rassemblent autour.
+	Mais les gardes brisent ces miroirs !
+
+# Оля.
+Qui fabrique ces miroirs qui disent la vérité ?
+
+# Гурд.
+Tu es trop curieuse, ma petite.
+ Même si je le savais, je ne te le dirais pas.
+ Le roi et les ministres voudraient découvrir l'identité de ces gens !
+Dans notre royaume, il y a des ministres très cruels.
+ Les plus terribles sont Ecapar et Duaparc.
+
+# Оля (Яло).
+Ecapar et Duaparc ? Cela veut dire... Rapace et Crapaud...
+
+# Гурд (оглянувшись, тихо).
+En vérité, bien sûr, c'est exactement ce qu'ils sont, ma petite.
+ Duaparc est le maître de tous les champs
+ où le riz est cultivé pour le royaume...
+Il traite les semeurs de riz de manière très cruelle...
+Et Ecapar possède les ateliers où sont fabriqués
+ les miroirs déformants.
+ Il est encore plus cruel que Duaparc.
+Si vous saviez comme la vie est dure pour nous,
+ les fabricants de miroirs…
+#c'est ce qui est chanté dans notre chanson.
+
+# Оля.
+Tout ici semble si beau.
+ Mais en réalité, c’est tout à fait différent.
+ Comme le disait ma grand-mère : Tout ce qui brille n'est pas or.
+
+# Яло.
+Qu'est-ce que c'est ?
+
+# Гурд.
+C'est le roi. Je dois partir. Adieu. 
+
+# Le Maître des Cérémonies 
+Notre Très Vertueux et Très Clément Roi
+ Teuqorrep le Septième revient de la chasse…
+
+# Оля (тихо, Яло).
+Teuqorrep ? Cela veut dire Perroquet ? Oui ?
+
+# Яло.
+Chut !
+
+# Le Maître des Cérémonies (à Olia et Yalo).
+Le Roi examine les miroirs déformants
+ sur  les places et les escaliers du royaume.
+À genoux ! Nul mortel n’est autorisé
+ à se tenir debout devant le roi.
+
+# Оля (возмущенно). Olia (indignée).
+À genoux ?
+ Que je me mette à genoux devant le premier Teuqorrep venu ? 
+Je ne me mets à genoux que devant ma grand-mère,
+ quand je lui lace les chaussures.
+
+# Le Maître des Cérémonies.
+Qu'as-tu dit, fillette insolente ?
+ Oserais-tu comparer le roi, vertueux et puissant,
+ à une vieille femme inconnue ?
+
+# Le Roi (pointant du doigt les miroirs dans la rue).
+Écrivez : deux cent seize miroirs… 
+ deux cent dix-sept…
+
+# Le Maître des Cérémonies.
+Qui ose faire du bruit en présence du roi ?
+
+# Le Roi.
+Oui, oui ! J’ai aussi entendu du bruit !
+ Et je crois qu'il il venait de votre atelier de miroirs, Ecapar
+#
+Mais… votre Majesté…
+
+# Le Roi.
+Oui, oui… de votre atelier.
+
+#
+Si votre Majesté dit que c'est ainsi, alors c'est ainsi.
+
+# Le Roi.
+Et pourquoi ce bruit ? Que s’est-il passé ?
+Je veux savoir ! Pourquoi ne me répond-on pas tout de suite ?
+
+# Abadj.
+Ne serait-ce pas l'un de vos miroirs préférés qui s'est brisé,
+ votre Majesté ?
+
+# Le Roi (horrifié).
+Quoi ! Ecapar, entendez-vous ce que dit le ministre Duaparc ?
+ J'ai interdit de briser les miroirs déformants dans mon royaume !
+J'ai ordonné de jeter de la Tour de la Mort quiconque oserait
+ briser un miroir déformant…
+
+# Ecapar (jetant un regard malveillant à Abadj).
+Je vais éclaircir cela, votre Majesté !
+
+# Le Roi. Oui, oui !
+Éclaircissez, et faites-moi un rapport !
+ Un rapport, dès aujourd'hui !
+Je  ne le permettrai pas !
+ Je le jure par la beauté de mon reflet !
+ Je ne le pardonnerai pas !
+
+# Нушрок (à Duaparc, doucement).
+Pourquoi avez-vous parlé des miroirs ?
+ Essayeriez-vous de monter le roi contre moi ?
+
+# Duaparc (reculant sous le regard de Ecapar).
+Ne me regardez pas ainsi, Ecapar !
+ Vous savez que je ne supporte pas votre regard !
+
+# Ecapar (avec suffisance).
+Personne, dans tout le royaume, ne peut supporter mon regard.
+
+# Roi (se souvenant).
+Au fait, et où sont les faisans ?
+
+# Maître des cérémonies (effrayé).
+Quels... quels faisans, votre Majesté ?
+
+# Roi.
+Ceux que j'ai abattus à la chasse.
+
+# Ecapar (doucement).
+Qu'il a abattus ? Il ne sait pas tirer.
+
+# Roi (à Duaparc).
+Je vous ai chargé, ministre Duaparc, de les amener au palais.
+
+# Duaparc (perplexe).
+Les faisans... Les faisans seront prêts,
+votre Majesté... .
+
+# Roi.
+Ma belle dame sait que je suis parti chasser.
+Je ne puis pas rentrer sans faisans...
+
+# Ecapar.
+La belle dame verra des faisans, votre Majesté.
+J'ai dépêchéé de mon château un de mes serviteurs,
+ avec ordre de porter vos faisans au palais.
+
+# Roi.
+Je vous remercie, cher ministre...
+
+# Ecapar.
+Je suis heureux de servir votre Majesté...
+
+# Duaparc (doucement).
+Où avez-vous pris ces faisans, Ecapar ?
+
+# Ecapar (doucement).
+Je les ai achetés dans une épicerie.
+Deux paniers remplis.
+
+# Duaparc.
+Vous me surpassez toujours !
+
+# Roi.
+C'était une chasse réussie !
+Et pour ce gueux qui a brisé le miroir dans votre atelier,
+ ordonnez de l'enchaîner, de l'envoyer à la Tour de la Mort
+ et de le faire tomber de là.
+Et informez-moi obligatoirement quand on le fera tomber.
+J'aime beaucoup regarder comment ils se brisent sur les pierres...
+
+Eh bien ? Que faisons-nous ?
+
+# Maître des cérémonies (criant).
+Le Roi ! Le Roi !
+Sa Majesté, le plus vertueux et le plus bienveillant Roi
+ Teuqorrep le Septième, est de retour de la chasse.
+
+# Roi (continuant à compter les miroirs).
+Deux cent dix-huitième miroir, deux cent dix-neuvième...
+
+# Maître des cérémonies.
+À genoux, mortels ! À genoux !
+
+# Duaparc (à part, à Ecapar).
+Les enfantillages royaux commencent à m'agacer.
+
+# Ecapar.
+Nous en parlerons plus tard… 
+
+# Ecapar (s'arrêtant au garde).
+Découvrez ce qui s'est passé dans l'atelier.
+ Je reviens.
+
+# Garde. A vos ordres, monsieur le ministre. 
+
+# Olya.
+Qu'est-ce que c'est ? Où sommes-nous tombés ?
+
+# Yalo.
+Tu as bien entendu : c'est le pays des miroirs déformants.
+# Olya.
+Cela ne me plaît pas ici. Je veux rentrer chez moi.
+# Yalo.
+Chut… Quelqu'un arrive !
+
+# Bar.
+Ouf, je suis fatigué ! C'est montée sur montée.
+Tante Aksal, il faut qu'on se repose un peu…
+sinon, je ne pourrai pas livrer ces faisans au palais…
+
+# Tante Aksal.
+N'importe quoi ! N'importe quoi !
+Il faut se hâter vers la cuisine royale.
+Les poêles sont déjà chauffées, l'huile bout dans les chaudrons…
+
+# Bar.
+Hier, j'ai transporté de lourdes pierres toute la journée
+ dans le jardin de mon seigneur, le ministre Ecapar -
+ j'ai réparé une banc… Et aujourd'hui aussi…
+Mais allez donc dans votre cuisine et ne craignez rien…
+ Je livrerai les faisans à temps…
+
+# Tante Aksal.
+Fais attention, Bar ! Si tu es en retard,
+ nous serons tous les deux envoyés à la Tour de la Mort.
+
+# Bar.
+Eh bien, tante Aksal ! Je ne suis pas pressé d'y aller.
+N’ayez pas peur. Partez tranquille.
+Je vais juste me reposer un peu.
+
+# Tante Aksal.
+Souviens-toi, Bar !
+
+# Bar (jette un coup d'œil autour de lui).
+Cela fait longtemps que je dois voir mes amis de l'atelier de miroirs…
+
+# Olya.
+Eh bien, Yalo, j'en ai assez. Rentrons chez nous.
+# Yalo.
+Allons-y.
+
+# Ecapar.
+Hé, garde !
+Qui sont ces gens ?
+ Que faites-vous ici ?
+
+# Яло (испуганно).
+Nous... nous...
+
+# Нушрок (Ecapar).
+Garde !
+
+C’est lui ?
+
+# Стражник (Le garde).
+Oui, Monsieur le Ministre.
+ C’est bien lui qui a brisé le miroir déformant.
+
+# Нушрок (Ecapar).
+Comment s'appelle-t-il ?
+
+# Стражник (Le garde).
+Ima, Monsieur le Ministre.
+
+# Оля (Olya) (chuchotant).
+Ima, ça veut dire ami…
+
+# Нушрок (Ecapar) (à Ima).
+Tu as brisé le miroir déformant ?
+ Tu sais quelle est la punition pour ça ?
+
+# Гурд (Ima).
+Monsieur le Ministre… c'est que mes mains tremblent…
+
+# Нушрок (Ecapar).
+Pourquoi tes mains tremblent ?
+
+# Гурд (Ima).
+Je n'ai pas mangé depuis plusieurs jours…
+Je n'avais rien à manger…
+
+# Нушрок (Ecapar).
+Tu mens ! Chaque jour, tu reçois un morceau de pain.
+
+# Гурд (Ima).
+Quel morceau, Monsieur le Ministre ?
+ C'est un tout petit bout, de la taille d'une allumette.
+ Et je le donnais à ma mère malade…
+Il ne me restait qu’une miette… La voilà…
+ Je la gardais pour le soir…
+
+# Нушрок (Ecapar).
+Comme le peuple peut mentir ! Ce n'est pas une miette !
+ Approche-toi de ce miroir.
+
+Plus près, plus près. Que vois-tu dans le miroir ?
+ Alors ?  Aide-le.
+
+# Стражник (Le garde).
+Dans le miroir, on voit une miche entière,
+ Monsieur le Ministre.
+
+# Нушрок (Ecapar) (à Ima).
+Ah, vaurien ! Tu vois ? Une miche entière !
+ Et après cela, tu dis que tu n'as rien à manger !
+Notre bien-aimé roi a ordonné de faire accrocher ces miroirs
+ afin que le peuple soit content de sa vie.
+Et toi tu as brisé un tel miroir !
+ Emmenez-le !
+
+# Гурд (Ima).
+Monsieur le Ministre…
+Je ne crains pas pour moi…
+ Mais ma mère… Elle va mourir sans moi…
+ Il ne lui reste plus personne…
+Elle est alitée depuis plusieurs semaines…
+ Elle va mourir demain si je ne lui apporte pas même une miette.
+# Нушрок.
+Tu es un criminel d'État !
+ Tu as détruit ce sur quoi reposent toutes nos lois et notre pouvoir.
+ Emmène-le !
+
+# Стражник.
+Allez, allez, mon gars…
+ Les bavardages sont inutiles.
+
+# Гурд (avec colère).
+Vos miroirs mentent !
+
+# Нушрок.
+Quoi ?
+
+# Гурд.
+Je suis heureux d’avoir brisé ce miroir déformant !
+ Au moins, cela fera un miroir  mensonger de moins dans le monde.
+
+# Нушрок.
+Quoi ? Qu’as-tu dit ? 
+
+# Оля (sortant de son abri).
+Arrêtez ! Qu’est-ce que vous faites ? Vous allez le tuer !
+
+# Нушрок.
+Qui se permet ? Encore toi, petite !
+Tu veux toi aussi aller à la Tour de la Mort ?
+
+# Яло (Yalo).
+Fuyons, Olya, fuyons !
+
+#Ima
+Merci, mademoiselle!
+# le garde
+Tais toi ! Tu ne perds rien pour attendre, fillette.
+ Emmennez-le!
+
+#IALO
+Olya, qu'as-tu fait ? Ce n'est pas possible d'être aussi imprudente !
+ On aurait pu avoir de gros ennuis !
+
+# Оля (Olya).
+Allons !
+
+# Яло (Yalo).
+Où ? À la maison ?
+
+# Оля (Olya).
+Au palais du roi !
+
+# Яло (Yalo).
+Tu es devenue folle ! Pourquoi ?
+
+# Оля (Olya).
+Nous devons sauver Ima.
+ Il est honnête, il est gentil.
+ Nous demanderons au roi de le libérer.
+
+# Яло (Yalo).
+Mais nous pourrions être exécutés pour avoir
+demandé cela au roi.
+
+# Оля (Olya).
+De toute façon. Allons.
+
+# Яло (Yalo).
+Et c'est très loin. Et... Et... Et j'ai trè mal à la cheville.
+
+# Оля (Olya).
+Moi aussi je me suis tordu le pied ! Et alors ?
+ Comment peux-tu penser à toi, quan Ima est en danger ?
+ Tu as peur ?
+C'est ça tont caractère, Yalo !
+
+#Яло.
+Mon caractère ?
+#Оля.
+Tu es tout simplement une peureuse !
+ Très bien, j'irai seule. Quelle honte !
+ Il s'avère que tu peux abandonner quelqu'un dans le malheur.
+
+#Яло.
+Mais j'ai ton caractère, Оля.
+
+#Оля.
+Quoi ?
+
+#Яло (après un silence).
+Tu vois, Оля… J'ai tellement envie d'être bien,
+ mais ce n'est pas toujours possible…
+ Car mes défauts sont les tiens.
+
+#Оля.
+Les miens ?
+
+#Яло.
+Je suis ton reflet.
+Tu te souviens quand tu ne voulais pas
+ aller chercher le petit-fils de la voisine ?
+ Et c'était important pour elle…
+
+#Оля (avec embarras).
+Oui, oui ! Quand je te regarde, je me vois sous un autre jour…
+ je  vois mes défauts… Oui… comment ai-je pu…
+Nous devons sauver Гурд, Яло.
+ Nous  allons voir le roi, nous allons exiger qu'il le libère.
+
+#Яло.
+Mais comment allons-nous voir le roi ?
+Tu as vu combien de gardes sont postés aux portes du palais.
+Ils ne nous laisseront pas passer.
+
+#Оля.
+Il faut trouver quelque chose.
+Tu as  entendu ? Ces paniers seront emmenés au palais.
+Et si on se baissait pour suivre la charrette ?
+
+#Яло.
+On sera repérées… Attends !..
+ Et si on montait dans les paniers ?
+
+#Оля.
+Il y a des faisans dedans.
+
+#Яло.
+Essayons.
+Il y a de la place.
+
+#Оля (près d'un autre panier).
+Et il y a aussi de la place ici… Monte !
+
+#Яло.
+J'ai peur.
+
+#Оля.
+Plus vite, plus vite !
+#Tante Аксадл.
+Bar ! Bar ! Où es-tu ? Bar !
+#Bar apparaît.
+#Bar.
+Je suis là, je suis là, tante Аксал.
+#Tante Аксал.
+Le chef cuisinier est fâché qu'il n’y ait toujours pas de faisans,
+il se dispute, il crie. Que va-t-il se passer pour moi et pour toi
+si le roi demande où ils sont ?
+
+#Bar (cache quelque chose derrière sa tunique).
+Ne t'inquiète pas, tante Аксал.
+Je les apporte tout de suite à la cuisine royale.
+
+#Tante Аксадл.
+Et qu’est-ce que tu caches ?
+
+#Bar.
+Je, tante Аксал… je…
+
+#Tante Аксал.
+On t'a donné un miroir droit, montrant la vérité ?
+Tu sais ce qui arrive quand c’est le cas ?..
+
+#Bar.
+Chut… tante Аксал… Chut…
+Les maudits bourreaux !
+ Ils viennent d’emmener Гурд à la Tour de la Mort.
+ Les miroirs exigeront qu’il soit libéré…
+
+#Tante Аксал.
+Sois prudent, Bar.
+
+#Bar.
+Mais vous, tante Аксал…
+
+#Tante Аксал.
+Je comprends, je comprends… Je ne sais rien, je n’ai rien vu.
+Amène les faisans !
+#Bar (essaie de déplacer la charrette).
+Ces faisans sont lourds comme des pierres !
+
+
+#RIDEAU
+#ДЕЙСТВИЕ ВТОРОЕ
+#S КАРТИНА ТРЕТЬЯ
+
+
+# Maître de Cérémonies
+Où est passé le chef cuisinier ?
+ Une heure que j'attends le menu du royal petit-déjeuner.
+
+# Tante Aksal
+Le cuisinier était ici il y a un instant, Monsieur le Maître De Cérémonies.
+
+# Maître De Cérémonies
+Alors, alors, qu'est-ce qui est prévu pour le dîner de Sa Majesté ?
+
+# Tante Aksal
+Une minute, Monsieur le Maître De Cérémonies.
+
+# Maître De Cérémonies
+Allez, allez, vite, cuisinière !
+ Je n’ai pas le temps à perdre ici…
+
+# Tante Aksal (lit)
+Pour le petit-déjeuner de Sa Majesté,
+ le Roi Teuqorrep le Septième, on a préparé :
+un cochon rôti, cinq dindes fumées, deux esturgeons marinés,
+ dix œufs à la coque, deux canards rôtis,
+une dizaine de pommes cuites au four,
+ un panier de raisins, un seau de glace
+ et un baril de vin d'outre-mer.
+
+# Maître De Cérémonies
+Continuez !
+
+# Tante Aksal
+C’est tout.
+
+# Maître De Cérémonies
+C’est tout ? Vous êtes folle !
+ Le Roi va mourir de faim.
+
+# Tante Aksal
+Nous pensions…
+
+# Maître De Cérémonies
+Ah, vous pensiez !
+ Voilà ce que vous faisiez, debout près du four !
+Dans notre  royaume, il est interdit de penser à ceux qui travaillent.
+ Votre devoir est de préparer la nourriture, pas de réfléchir.
+ Où sont les faisans ?
+
+# Tante Aksal
+Ils sont dans ces paniers, Monsieur le Maître De Cérémonies.
+
+# Maître De Cérémonies
+Ils sont bien gras ?
+
+# Tante Aksal
+Les meilleurs qu'on ait pu trouver.
+
+# Maître De Cérémonies
+Vous avez dit ?
+
+# Tante Aksal
+Je suis confuse, Monsieur le Maître De Cérémonies. Je voulais dire :
+ les meilleurs de ceux que Sa Majesté Teuqorrep le Septième
+ a abattus à la chasse, que son nom soit béni à jamais.
+
+# Maître De Cérémonies
+C'est cela.
+ Oui, c’était une chasse fructueuse.
+ Au fait, montrez-moi les faisans.
+
+# Tante Aksal
+Bien sûr, Monsieur le Maître De Cérémonies. 
+
+# Voix hors scène :
+Monsieur le Maître De Cérémonies,
+ Monsieur le Maître De Cérémonies !
+
+# Maître De Cérémonies
+Ah, mais alors !
+ Ils ne peuvent pas se passer de moi une seule minute !
+Je suis ici, ici ! Que se passe-t-il ?!
+
+# Voix hors scène :
+Sa Majesté vous demande ! 
+
+# Maître De Cérémonies (se frappe le front) :
+Aïe aïe aïe ! C'est que la question des miroirs
+ que Sa Majesté nous a posée n'est pas encore réglée.
+ Qu'allons-nous devenir ! Qu’allons-nous devenir !
+
+# Tante Aksal
+Allez, il semble que c'est tout bon. La journée est finie.
+ Quelle journée ! Et ce n'est pas la première.
+ Je peux me reposer deux heures avant de péparer le dîner du roi.
+
+# Voix du chef cuisinier : «
+Tante Aksal !
+
+# Aksal :
+Oui, monsieur le chef cuisinier !
+
+# Voix du chef cuisinier :
+Sortez les faisans de la corbeille,
+ préparez-les et emportez-les sur la glace.
+
+# Aksal :
+A vos ordres, monsieur le chef cuisinier.
+
+# Olya :
+Oh !
+
+# Aksal :
+En voilà de drôles de faisans !
+ Et qu'y a-t-il dans l'autre corbeille ?
+
+# Aksal :
+Et là aussi ! Je le jure,
+ par tous les miroirs déformants du royaume,
+ j'ai beau être une cuisinière expérimentée,
+ je n'ai jamais vu de faisans avec des nœuds dans les nattes !
+Dites donc, mes petits faisans ! On dirait bien
+ que le maître de  cérémonie  avait raison de dire
+ que la chasse a été réussie.
+Mais comment êtes-vous tombés dans ces paniers ?
+
+# Olya :
+Nous ?
+
+# Aksal :
+Oui, vous.
+
+# Yalo :
+Nous... nous... nous nous sommes perdues...
+
+# Tетушка Аксал :
+Perdues ? Ben voyons... Mais c'est une mauvaise plaisanterie... 
+Savez-vous ce que vous risquez
+ pour être venues sans être invitées au palais ?
+
+# Olya :
+Nous le savons.
+# Yalo :
+ Nous le savons.
+
+# Tетушка Аксал :
+Elles disent "nous le savons" si calmement,
+ comme si je leur demandais si elles connaissaient leur nom.
+ Allez, sortez de là.
+
+# Olya :
+Vous êtes une gentille...
+ C'est vous qu'on appelle tante Laskа ?
+
+# Tетушка Аксал :
+Tante Aksal, ma petite...
+# Yalo :
+ - C'est la même chose...
+
+# Tетушка Аксал : (regardant autour d'elle) :
+Faites attention de ne pas vous faire repérer ici.
+
+# Olya :
+Chère tante Aksal... aidez-nous...
+ Il nous arrive un grand malheur...
+
+# Tетушка Аксал :
+Quel malheur, mes chéries ?
+# Olya :
+En fait...
+# En coulisses, pas de pas, le tintement de la vaisselle.
+# Tетушка Аксал :
+ - Chut... On dirait qu'il revient.
+  Le chef... Qu'est-ce qui l'a  piqué ?
+Non, il est reparti.
+ Maintenant, racontez-moi tout.
+
+# Olya :
+Tante Aksal, il y a un garçon... Ima...
+Il est très courageux et bon...
+
+# Tетушка Аксал :
+Je sais, je sais, il a travaillé avec mon frère dans les ateliers de miroirs.
+
+# Olya :
+Il est si pauvre... Il recevait un morceau de pain par jour
+ et le rapportait à sa mère malade...
+ Maintenant, il a été arrêté par un garde...
+ Ils veulent l'exécuter...
+
+# Yalo :
+C'est pour cela que nous avons décidé de nous faufiler au palais,
+ pour parler au roi.
+
+# Tетушка Аксал :
+Vous avez de bons cœurs, mes chéries.
+  Mais il est difficile de sauver Ima.
+J'ai entendu dire qu'il avait déjà été emmené à la Tour de la Mort
+ et qu'il avait été enchaîné à un rocher au sommet.
+ Et il est impossible de briser ce cadenas !
+
+# Olya :
+Qui détient la clé de ce cadenas ?
+
+# Tетушка Аксал :
+La clé est suspendue au-dessus du trône du roi.
+
+# Olya :
+Et si… et si nous disions au roi que Ima n'est coupable de rien ?
+
+# Tетушка Аксал :
+Ah, ma petite ! Il est peu probable que le roi le  pardonne.
+ Et puis, il ne décide rien lui-même.
+ Il signe ce que lui rédigent les ministres.
+Ils sont riches, et ne rédigent que ce qui les avantage eux-mêmes.
+
+# Yalo :
+Non, nous devons quand même parler au roi.
+
+# Olya :
+Nous allons essayer de le convaincre...
+
+# Tетушка Аксал :
+Comment allez-vous faire, mes chéries ?
+ Même moi, je n'ai pas accès aux appartements royaux.
+ Comment allez-vous vous y rendre ?
+
+# Olya :
+Peut-être qu'on peut trouver quelque chose ?
+
+# Yalo :
+Tante Aksal, s'il vous plaît.
+
+# Tетушка Аксал :
+Attendez, attendez... J'ai  une idée !
+ Écoutez, attendez-moi quelques minutes,
+ et si quelqu'un arrive, cachez-vous !
+
+# Olya :
+Bien, tante Aksal.
+
+# Tетушка Аксал :
+Je reviens bientôt.
+
+# Yalo :
+Olya, j'ai peur. Et toi, tu n'as pas peur
+ d'aller voir le roi ?
+
+# Olya :
+Je me demande à présent si cela vaut le coup de parler au roi.
+ Il ne va sûrement pas nous aider.
+
+# Yalo :
+Probablement pas. Mais que pouvons-nous faire ?
+
+# Olya :
+Essayons tout de même de récupérer la clé.
+
+# Yalo :
+Essayons !
+
+# Olya : Où est tante Aksal ?
+
+# Tante Aksal.
+Me voici, mes chères filles !
+Je vous le jure par tous les miroirs du royaume,
+ vous m'avez causé du souci !
+Mais qu'on ne m'appelle plus tante Aksal
+ si vous ne parlez pas au roi aujourd'hui.
+
+# Olya. Pas possible ?
+# Yalo. 
+ Vraiment ?
+# Aksal.
+Dans ce coffre, il y a les costumes des pages de la cour.
+ Les pages, comme chacun sait,
+ ont toujours accès aux appartements du Roi.
+Allez, habillez-vous ! J'apporte tout de suite des capes de page.
+
+# Yalo (examinant les costumes).
+On va être des pages ! Toi aussi, Olya,
+comme c'est intéressant ! Ces bottes ! Ce chapeau !
+
+# Olya (tournant un chapeau entre ses mains).
+Quel chapeau étrange.
+ Je ne sais pas comment le mettre.
+
+# Yalo (remettant le chapeau de travers, le bord vers l'avant).
+ Moi je l'ai déjà porté.
+
+# Olya.
+Pourquoi dis-tu un mensonge ?
+
+# Yalo.
+Oh, ça va !
+
+# Olya.
+De quoi ? Qu'est-ce que c'est que cette expression ridicule « ça va » ?
+
+# Yalo.
+C’est toi qui me l’as apprise.
+# Olya.
+Mais je ne parle plus comme ça.
+ Allons, on n'utilisera plus cette expression stupide. 
+Mais voilà ce qui ne me plaît pas, Yalo…
+# Yalo.
+ - Quoi ?
+
+# Tante Aksal.
+Les filles, qu'est-ce qui se passe ? Habillez-vous.
+# Tante Aksal.
+Tante Aksal, nous préparons un mensonge ?
+# Tante Aksal.
+De quel mensonge parles-tu, ma petite ?
+# Olya.
+Eh bien, ce costume… Nous sommes des petites filles ordinaires,
+ et tout le monde va penser que nous sommes…
+ enfin, comment appeler ça… des pages !
+
+# Tante Aksal.
+Ce n'est pas un mensonge, ma chérie.
+ C’est juste une petite ruse militaire.
+ Tu vas chez l'ennemi, et il faut qu'on ne te reconnaisse pas.
+Quant au roi et à la cour, ils ne font que mentir.
+ Ce sont les plus grands menteurs du monde.
+
+# Tante Aksal.
+Il faut remettre de l'ordre dans vos cheveux.
+
+#Яло (капризно).
+Aïe, ça fait mal !
+# Olya.
+Mais tu n'as pas mal du tout, ne fais pas semblant.
+
+# Yalo.
+Comment le sais-tu ?
+# Olya.
+Moi ? Je sais.
+# Yalo (surprend encore au contact du peigne).
+Aïe !
+
+# Olya.
+C’est désagréable de te regarder. Je suis pareille ?
+
+*Voix en coulisse : «
+Chef cuisinier ! Chef cuisinier !
+
+# Tante Aksal.
+Ils arrivent !
+ Vite, cachez-vous dans ma petite chambre !
+
+# Maître des Cérémonies.
+Il n'est pas là encore ! Cuisinière ! Cuisinière !
+ Il n’y a pas de cuisinière !
+
+#Voix du roi en coulisse : «
+Maître des Cérémonies ! 
+Sa Majesté !
+
+#*Voix du roi en coulisse : «
+Tout est prêt ?
+Je ne sais comment vous allez entrer, Majesté !
+ Il y a un tel désordre dans la cuisine.
+
+# Roi.
+Je vous prie, je vous prie, Belle Dame.
+ Je vais vous montrer les faisans que j’ai tués à la chasse !
+
+# Belle Dame.
+Merci, Majesté ! Votre courtoisie est sans limites.
+
+# Roi.
+Une chasse magnifique ! Les faisans, me voyant,
+ tourbillonnaient autour de moi en grappes.
+Si vous m'aviez vu tirer ! J’ai tiré merveilleusement ! Pan — 
+ et dix d’un coup par terre.
+
+# Belle Dame.
+Oh, Majesté ! Dix d’un coup ?
+
+# Roi.
+Même vingt ! Pan, pan ! Je n'arrivais même pas à compter.
+ La prochaine fois, j’irai chasser avec un mathématicien.
+Dommage qu’il n’y ait personne à mon palais qui 
+ connaisse bien les mathématiques.
+Et puis, j’ai encore tué trois ours ! Et quatre loups !
+ Combien cela fait-t-il au total ?
+
+# Maître des Cérémonies (murmure).
+Trois ours et quatre loups…
+Il faut donc multiplier trois par quatre…
+ Trois fois quatre, trois fois quatre…
+ 
+# Roi.
+Trois fois quatre – vingt-quatre.
+# Maître des Cérémonies.
+Exactement, Majesté.
+# Roi (à la Belle Dame).
+Voyez combien j’en ai tués !
+
+# Belle Dame (doucement).
+Je crois que ce n’est pas tout à fait exact, Majesté.
+
+# Roi.
+Oui, oui, bien sûr… Il multiplie, alors qu’il faut diviser.
+ Après tout, un ours est bien plus grand qu’un loup !
+ Oh, comme j’aimerais avoir un mathématicien !
+
+# Belle Dame.
+Et où sont les faisans, Majesté ?
+
+# Roi.
+Ils sont là, ils sont quelque part.
+ Où sont les faisans ?
+
+# Maître des Cérémonies (montrant les paniers).
+Ils sont là, Majesté.
+
+# Roi (regarde dans le panier ; à voix basse, au Maître des Cérémonies).
+Ce sont des  faisans ?
+# Maître des Cérémonies.
+ - Oui, des faisans.
+# Roi (à la Belle Dame).
+Voici mes faisans.
+
+# Belle Dame (regardant dans le panier, se couvre le visage avec ses mains).
+Quelle horreur ! Ils sont couverts de sang !
+ Pauvres oiseaux !
+# Roi.
+Quelle gentillesse dans cette charmante créature !
+
+# Belle Dame.
+Partons, allons-nous en, Majesté !
+Tout le chemin jusqu'à votre château, je tremblerai
+ au souvenir de cet horrible spectacle !
+
+# Roi (pleurant).
+Je ne mangerai plus jamais de faisans ! 
+ La prochaine fois que j’irai chasser, qu’il y ait des lapins.
+
+# Maître des Cérémonies.
+A vos ordres, Majesté.
+
+# Roi (tendant la main).
+Allons-y, Belle Dame.
+
+# Belle Dame.
+Me conduisez-vous jusqu'à la voiture, Majesté ?
+
+# Roi.
+Bien sûr, bien sûr, même si j'ai encore
+ des affaires d'État importantes à régler.
+Je n'ai encore compté le nombre de miroirs sur les places de mon royaume. 
+ C'est très important, Belle Dame… 
+
+# Tante Aksal.
+Ils sont partis !
+ Plus vite, plus vite, les filles ! 
+C’est le moment idéal pour pénétrer dans les appartements du roi.
+ Et soyez prudentes, les filles, il est très dangereux, ce plan !...
+
+#S КАРТИНА ЧЕТВЕРТАЯ
+# Olya.
+Tout se passe bien pour l'instant.
+# Yalo.
+J'ai peur.
+# Olya.
+Ne t'inquiète pas, ne t'inquiète pas…
+ Quand le roi arrive-t-il ?
+# Yalo.
+Je ne sais pas. Nous allons attendre. 
+# Olya. Ne dis rien d'inutile.
+# Yalo. Toi-même, ne dis rien.
+ Qu'allons-nous lui dire ?
+ Allons-nous tout de suite parler de Gurde ?
+# Olya.
+On verra.
+# Yalo.
+J'ai tellement peur que ça me pique les talons.
+Olya ! La clé ! C'est probablement celle-ci !
+Celle de la chaîne d'Ima ! 
+
+Monsieur Duaparc ! Monsieur Duaparc
+Chut… Quelqu'un vient ! .
+
+# Cérémoniomaster (à Olya).
+Où est le ministre Duaparc  ? Il y a une dépéche urgente pour lui.
+# Olya.
+Je… je ne sais pas.
+# Yalo.
+ - Je ne sais pas.
+# Cérémoniomaster.
+Les pages doivent tout savoir. Pourquoi donc vous êtes-vous postés ici ?
+ Attendez, je ne vous ai jamais vu ici.
+ Êtes-vous de nouveaux pages de Sa Majesté ?
+# Yalo.
+Oui… Nous sommes nouveaux…
+# Cérémoniomaster.
+Qui vous a placés ici ?
+# Olya (effrayée).
+Nous ?
+# Yalo.
+ - Nous ?
+# Cérémoniomaster (agacé).
+Oui, oui ! Vous. Vous.
+# Yalo (comme si elle venait de comprendre).
+Ah, nous ! Vous demandez qui nous a placés ici ?
+# Cérémoniomaster.
+Oui, oui ! Vous êtes de drôles de garçons !
+# Olya.
+Nous avons été placés par… nous,
+# Yalo.
+C'est vous qui nous avez placés ici, monsieur le maître de cérémonies.
+# Cérémoniomaster.
+Moi ?
+# Yalo.
+ - Oui.
+# Cérémoniomaster.
+Hmmm. Attendez, attendez !
+Oui, bien sûr. Pourquoi discutez-vous avec moi ?
+
+# Olya
+Nous ne discutons pas.
+
+# Maître de Cérémonies
+Silence ! Bien sûr que c'est moi qui vous ai mis ici.
+ Et c'est parfait. Tout va bien.
+Quelle mémoire affreuse j’ai !
+Mais il ne faut surtout pas le montrer,
+ sinon le roi me privera de mes fonctions...
+Monsieur Ecapar ! Où est Monsieur Ecapar ?
+ Il a reçu un télégramme urgent.
+Ah, qu'allais-je faire !
+Elle n'est pas pour Ecapar, mais pour Duaparc.
+ Monsieur Duaparc !
+
+# Yalo
+On dirait qu’on est tirées d'affaire.
+
+# Olya
+Plus vite ! La clé ! 
+# Voix hors scène :
+Le Ministre Ecapar... Le Ministre Duaparc.
+
+# Yalo
+Ils reviennent ! Ecapar et Duaparc !
+# Olya (se plaçant près du trône) :
+Silence ! Et sois immobile.
+
+# Duaparc :
+Le roi nous a invités à une réunion
+ concernant une affaire d'État importante.
+ Et lui-même est introuvable.
+Pour être franc, il faut que nous réfléchissions à notre roi.
+Alors, pourquoi vous lui faites des courbettes ? Où est-il ?
+
+# Ecapar :
+Il accompagne ma fille.
+
+# Duaparc :
+Ah, votre fille. Vous déployez vos ailes.
+ Vous voyez loin, Ecapar.
+# Ecapar :
+J’ai une vue perçante. 
+# Duaparc (reculant, se couvrant les yeux d'une main) :
+Écartez-vous, éloignez-vous,
+ je ne supporte pas votre regard. J'ai l'impression de regarder 
+ dans les yeux d'un boa... J'en ai même le tournis.
+
+# Ecapar (avec suffisance) :
+Je n'ai jamais rencontré personne qui puisse supporter mon regard.
+ Et vous n'avez pas tort de parler de boa, Duaparc.
+J'ai fait venir un énorme boa d'outre-mer
+ et j'ai appris de lui à regarder les êtres vivants
+ de manière à ce qu'ils s’engourdissements de terreur
+ et se soumettent à ma volonté.
+
+# Duaparc :
+Mais… on m'a dit, cher Ecapar, qu'il y avait eu quelques cas
+ où certains miroitiers n'avaient pas baissé les yeux devant vous…
+
+# Ecapar (jetant un coup d'œil autour de lui, à voix basse) :
+C'étaient des cas dont j’avais moi-même peur.
+ On disait que ces miroitiers étaient des gens très honnêtes et véridiques.
+Ce sont eux qui faisaient ces miroirs droits
+ qui bouleversent autant la populace.
+Un vieil homme a même osé un jour me crier
+ que la vérité finirait par tuer le mensonge.
+Mais en tombant de la Tour de la Mort,
+ tous ces braves se brisaient sur les pierres,
+ comme tous les autres avant eux.
+
+# Duaparc :
+Assez de ça, Ecapar.
+ Parlons de nos affaires.
+N'est-ce pas que les miroirs déformants 
+ont cessé d'agir sur notre populace ?
+# Ecapar :
+Oui. C'est ce qu'il semble.
+# Duaparc :
+Des miroirs droits apparaissent même
+ de plus en plus souvent dans la ville.
+
+# Ecapar
+Je sais. Un jeune miroitiers m'a même crié aujourd’hui
+que les miroirs déformants mentent.
+
+# Duaparc
+Oui, oui, ils se sont montrés trop audacieux, Ecapar.
+Et pour maintenir la populace dans l’obéissance,
+ il faut plus souvent recourir à...
+
+# Ecapar
+À quoi ?
+
+# Duaparc
+À la clé des chaînes pour les semeurs de riz.
+ Je l’ai faite sur votre modèle.
+
+# Ecapar
+Montrez. Oui, elle est tout à fait identique
+ à la clé des chaînes de la Tour de la Mort.
+ Mon invention !
+Elle reste toujours suspendue
+ au-dessus des armoiries du royaume,
+ afin que les gens la regardent et aient peur.
+
+# Olya (à voix basse)
+Tu entends ?
+
+# Duaparc
+Une invention magnifique !
+ Et je crois davantage à ce moyen qu’à d’autres.
+Surtout maintenant que les semeurs de riz sur mes marais
+ ont commencé à répéter les paroles mesquines de vos miroitiers,
+ selon lesquelles ils n'ont pas assez à manger.
+
+# Ecapar
+Quelle horreur !
+
+# Voix hors scène
+Vive Sa Majesté le Roi ! Le Roi arrive !
+
+# Maître de Cérémonies
+Sa Majesté, le Très-Miséricordieux et Très-Vertueux Roi Teuqorrep le Septième.
+
+# Roi 
+Enfin, enfin, mes ministres, nous sommes au cœur du sujet.
+
+Je vous ai convoqués, mes ministres, pour résoudre
+ une question d’État qui me  préoccupe.
+Nous avons cent places dans le royaume, chacune avec cent miroirs.
+ Combien de miroirs y a-t-il au total ?
+
+# Duaparc (à voix basse, à Ecapar)
+Peut-être devrions-nous enfin lui dire combien de miroirs il y a.
+
+# Ecapar (à voix basse)
+Pourquoi ? Qu'il s'occupe de ses propres calculs insensés
+ et qu’il ne s’immisce pas dans nos affaires.
+
+# Roi Topsed
+Bon ? Combien ? Une tâche insoluble !
+ Peut-être me le direz-vous, Ecapar ?
+
+# Ecapar
+Une telle tâche ne peut être résolue que par vous,
+ votre Majesté.
+
+# Roi Topsed
+Et vous, Duaparc ?
+
+# Maître de Cérémonies
+Votre Majesté !
+# Roi Topsed
+Combien ?
+# Maître de Cérémonies
+Pardon, votre Majesté.
+ Je viens de me souvenir. 
+Messire Ecapar. Pourquoi vous cherchai-je ?
+ Peut-être le savez-vous ?
+# Ecapar
+Je n'en ai aucune idée.
+#Roi Topsed
+Ecapar, Ecapar, dites-lui vite pourquoi il vous cherchait
+ et revenons à nos affaires.
+# Maître de Cérémonies
+Je me souviens, je me souviens !
+ Vous avez une dépêche urgente, monseigneur Ecapar ! 
+# Ecapar (lit)
+"Aujourd'hui, les semeurs de riz ne sont pas venus travailler.
+ Ils exigent du pain." 
+Quoi ? Quoi ? Ils n'ont pas été travailler ?
+ Votre Majesté ! Les circonstances m'obligent
+ à quitter immédiatement le palais !
+#Roi Topsed
+Eh bien, Ecapar !
+ Il y a toujours des broutilles
+ pour vous distraire des affaires de l'État.
+# Ecapar
+Il y a du désordres dans les rizières, votre Majesté.
+# Roi Topsed
+Envoyez-leur plus de miroirs déformants et ils se calmeront.
+#Ecapar
+J'aimerais plutôt avoir plus de soldats, votre Majesté.
+#Roi Topsed
+Je vous en prie ! Prenez-en autant que vous voulez.
+ Je n'en suis pas avare.
+#Ecapar
+Je vous remercie, votre Majesté.
+# Ecapar
+Épargnez vos nerfs, Duaparc.
+# Duaparc
+Je n'ai pas le temps pour les plaisanteries, Ecapar.
+# Roi
+Alors, sur les places publiques, cent miroirs…
+
+# Voix hors scène :
+"Dépêche pour le ministre Ecapar ! Dépêche pour le ministre Ecapar !"
+
+# Ecapar
+Votre Majesté ! 
+# Roi Topsed
+Par pitié ne me regardez pas comme cela, Ecapar !
+#Ecapar
+Votre Majesté !
+ Il y a de la rébellion dans les ateliers de miroirs !
+ Les moroitiers exigent la libération du jeune Ima.
+Il faut encercler les ateliers.
+ Je vais sur le champ donner l'ordre aux soldats.
+# Roi Topsed
+Je vous en prie, je vous en prie...
+ Prenez autant de soldats qu'il vous en faudra.
+
+Ouf ! Passons aux choses sérieuses.
+Maître de Cérémonies, surveillez que personne ne me dérange.
+
+#Maître de Cérémonies (solennellement)
+Sa Majesté ordonne de ne pas le déranger.
+
+#Sa Majesté
+Sa Majesté ordonne de ne pas le déranger.
+Sa Majesté ordonne de ne pas le déranger.
+
+#Roi
+Alors, cent places avec cent miroirs chacune.
+ Maître de Cérémonies,
+ combien de miroirs au total ?
+
+#Maître de Cérémonies
+À mon avis, trois, Votre Majesté.
+
+#Roi
+Trois ? Bien plus. Imbécile !
+#Maître de Cérémonies
+Ah bon ? Oui oui oui ! C'est tout-à-fait possible.
+#Roi
+J'ai passé toute la journée à y réfléchir.
+ J'en ai eu mal à la tête.
+Maître de Cérémonies,
+ comment est-ce possible que vous ne sachiez pas ?
+# Maître de Cérémonies,
+Je... Hum... J'avais, Votre Majesté, dans l'enfance
+ des difficultés avec l'arithmétique.
+Je n'ai appris à compter que jusqu'à trois.
+#Roi
+Hum, c'est étonnant. Combien font deux plus deux ?
+# Maître de Cérémonies,
+Trois, Votre Majesté.
+#Roi
+Et cinq moins un ?
+# Maître de Cérémonies,
+Trois, Votre Majesté.
+#Roi
+Vous êtes le plus grand idiot de tout le royaume.
+#Maître de Cérémonies
+C'est tout à fait exact, Votre Majesté.
+
+#Roi
+Que faire ? Que faire ? 
+ Qui me dira, en fin de compte, combien cela fait de miroirs,
+ si sur chaque place il y a cent miroirs, et en tout il y a aussi cent places ?
+Combien ? Combien ? 
+
+#Olya
+Dix mille.
+ - Olya !
+#Roi
+Qui a parlé ? Qui a parlé, je vous le demande ?
+ Moi, le roi Teuqorrep le Septième, je le demande.
+ Pourquoi personne ne répond ? Qui a parlé ?
+#Olya
+C'est moi !
+
+# Roi
+Toi ? Je jure par la beauté de mon reflet,
+ c'est la première fois que j'entends qu'un gamin
+ pourrait résoudre des problèmes aussi difficiles !
+
+# Olya
+Mais ce n'est pas du tout un problème difficile.
+
+# Roi
+Tu en es sûr ?
+
+# Olya
+J'en suis sûre… enfin, sûr.
+
+# Roi
+Absurde ! C'est un problème incroyablement difficile,
+ et je suis convaincu que tu l'as résolu incorrectement...
+Il aurait fallu additionner tous les centaines,
+ mais tu n'as pas eu le temps...
+
+# Olya
+Je n'ai pas additionné les centaines.
+ J'ai simplement multiplié cent par cent.
+
+# Roi
+Tiens ! Mais la multiplication est encore plus difficile que l'addition.
+
+# Olya
+Pas du tout. Dans ce cas, il fallait juste ajouter deux zéros.
+ C'est tout. Si vous me donnez du papier et un crayon,
+ je vous montre tout de suite comment faire.
+
+# Roi
+Hé, Maître de Cérémonies ! Donne un crayon et du papier.
+ Dépêche-toi, dépêche-toi ! Mais écoute, gamin, si tu mens,
+ je commanderai qu'on te fouette.
+
+# Olya
+Vous n'aurez pas besoin de donner cet ordre, votre Majesté.
+ Il faudrait juste que quelqu'un tienne ce manteau pour moi.
+
+# Roi
+Quel manteau ?
+
+# Olya
+Eh bien, celui que vous m'avez fait tomber sur les bras
+ depuis vos épaules.
+
+# Roi (d'un ton condescendant)
+Ah, la cape royale ! Tu parles un dialecte étrange, page.
+ Maître de Cérémonies, prends la cape au page.
+
+Allez, montre.
+# Olya
+Regardez !
+# Maître de Cérémonies (de manière solennelle)
+Sa Majesté résout le problème.
+
+#Voix en coulisses, une à une, de plus en plus lointaines :
+Sa Majesté résout le problème !
+ Sa Majesté résout le problème ! 
+
+# Roi (sur le papier)
+Bien, bien. Très intéressant.
+ Et après ? 
+
+# Maître de Cérémonies (de manière solennelle)
+Sa Majesté a daigné éternuer.
+
+Sa Majesté a daigné éternuer.
+ Sa Majesté a daigné éternuer.
+
+# Roi
+Excellent ! C'est vrai que c'est tout simple.
+ Et à présent je puis multiplier n'importe quel nombre.
+ Eh, Maître de Cérémonies !
+
+Savezv-vous ce qu'on obtient si on multiplie... par exemple...
+ Cinq par huit ?
+
+#  Maître de Cérémonies
+Trois, votre Majesté.
+# Roi
+Aha, tu n'en sais rien ! Haha ! Haha !
+ Alors que moi, votre roi bien-aimé, je sais.
+ Cinq multiplié par huit, cela fait cinq cent.
+#Olya
+Monsieur le Roi !
+#Roi
+Quoi ? Monsieur ?
+#Alio
+Olia !
+#Olya
+Excusez-moi, Votre Majesté.
+ Vous vous êtes trompé.
+#  Maître de Cérémonies
+Sa Majesté s'est tr... Oups !
+#Roi
+Qui s'est trompé ?
+ Vous entendez ? Vous entendez ? 
+ Et moi j'ordonne qu'on te coupe la tête.
+Tu viens juste de dire qu'il suffit d'ajouter deux zéros...
+#Olya
+On ajoute des zéros quand on multiplie par 10, 100, 1000...
+#Roi
+Ah oui ? Hum.
+Il sait bien compter. J'ai besoin de gens comme lui.
+ Je vais donner l'ordre qu'on le nomme Mathématicien Royal.
+Comment t'appelles-tu ?
+#Olya
+Olya.
+# Roi
+ - Quoi ?
+Kolya, votre Majesté. Excusez-le,
+ les mathématiques l'ont fatigué et il commence à divaguer.
+Et toi, comment t'appelles-tu, page ?
+Moi, on m'appelle... Yalok, votre Majesté.
+Yalok ? Et tu es aussi mathématicien ?
+Oui, votre majesté. Kolya est plus fort que moi...
+ mais nous sommes frères, et ensemble
+ nous résolvons souvent des problèmes difficiles.
+Je te nomme, Kolya, premier mathématicien du royaume,
+ et toi, Yalok, son assistant.
+Maître de Cérémonies, laissez nous seuls.
+Maître de Cérémonies !				
+
+#  Maître de Cérémonies
+Trois, votre Majesté.
+# Король
+Allez-vous en !
+Approchez, mes mathématiciens.
+ Il s'avère que personne ne sait
+ combien de miroirs courbes il y a dans mon royaume.
+Chaque roi doit faire quelque chose pour glorifier et immortaliser son nom.
+ La postérité se souviendra de Teuqorrep le Septième
+ comme du premier roi dans l'histoire à avoir
+ dénombré tous les miroirs du royaume.
+
+# Король
+Êtes-vous prêts à participer à cette grande tâche ?
+
+# Оля
+Je dois dire, Votre Majesté...
+# Яло (interrompant Оля)
+ - Permettez-moi, Votre Majesté,
+ avant de donner une réponse, de consulter mon frère.
+
+# Король
+Bien. Consultez-vous. Et pendant ce temps,
+ je vais vérifier votre solution, page.
+ 
+# Яло (éloignant Оля sur le côté)
+Que voulais-tu dire au roi ?
+# Оля
+Que je trouve son offre stupide.
+ Il ferait mieux de réfléchir à la manière
+ d'alléger la vie des miroitiers.
+# Яло
+Si tu lui dis ça,
+ il ordonnera de nous faire enchaîner.
+
+# Оля
+Mais c'est vraiment une occupation idiote, Яло.
+ Je ne peux pas être malhonnête.
+
+# Яло
+Tu as déjà été malhonnête pour moins que cela.
+ Je me souviens qu'une fois tu lisais une histoire,
+ et quand grand-mère s'est approchée, tu l'as recouverte
+ avec de la géographie et tu as fait semblant d'apprendre une leçon.
+
+# Оля (rougissant)
+J'ai mal agi. J'ai honte de m'en souvenir...
+ C'est vrai que c'est différent maintenant...
+ La tante Aksal nous a parlé de ruse militaire...
+
+# Король
+Eh bien ? Que voulez-vous ?
+# Оля
+Nous acceptons la proposition de votre Majesté
+ sous une condition.
+
+# Король
+Quoi ? Oserez-vous poser des conditions
+ à moi, le roi ?
+
+# Яло
+Une toute petite condition, Votre Majesté...
+Cela ne vous coûtera rien.
+
+# Король
+Eh bien, si ça ne me coûte rien...
+ Je vous écoute.
+
+
+# Olya
+Dans la Tour de la Mort est incarcéré un miroitier nommé Ima.
+ Il doit être exécuté demain matin.
+ Nous demandons à votre Majesté de gracier Ima.
+
+# Roi (se lève brusquement et se met à arpenter la salle) :
+Tu mets to nez dans des affaires qui ne te regardent pas, jeune homme.
+ Je déteste tous ces miroitiers ! Je les tolère seulement
+ parce que quelqu'un doit faire les miroirs. 
+ Je ne peux pas gracier les criminels selon ta fantaisie.
+
+# Olya :
+Quel est le crime d'Ima, votre Majesté :
+ il est honnête et sincère.
+
+# Roi :
+Comment oses-tu défendre un sale miroitier ?
+ Je n'aime pas l'éducation que tu as reçue.
+ Comment s'appelle la ville où tu as été élevé ?
+
+# Olya :
+Cette ville s’appelle…
+ Oh, c’est une ville merveilleuse, votre Majesté !
+
+# Roi (revient à la vie) :
+Ah, il me vient une idée magnifique !
+ Je vais déclarer la guerre à ta ville.
+ J’adore la guerre. Pourquoi ris-tu ?
+
+# Ecapar :
+Je me suis souvenu d'une fable, votre Majesté.
+
+# Roi (soupçonneusement) :
+Quelle fable ? Quel rapport avec une fable ?
+
+# Olya :
+Dans cette fable, votre Majesté, on raconte l'histoire
+ d'un éléphant et d'un petit chien.
+Un jour, un éléphant marchait dans la rue, et soudain,
+ un cabot s’est jetée sur lui.
+
+# Roi :
+En voilà un cabot courageus !
+ Alors ! Alors ! Alors, que se passe-t-il ?
+
+# Olya :
+Mais l'éléphant a continué son chemin,
+ sans faire attention à ses jappements.
+
+# Roi :
+Quel chien stupide ! Il aurait dû mordre l’éléphant.
+
+# Olya :
+Mais alors, l'éléphant l'aurait simplement écrasé, votre Majesté.
+
+# Roi :
+Je ne comprends pas pourquoi tu me racontes
+ des histoires d'éléphants et de chiens, alors que je parle de guerre !
+ La guerre apporte gloire et butins.
+
+# Olya :
+La guerre apporte chagrin et ruine.
+ Tout le monde, à part les méchants, veut vivre dans la paix.
+
+# Roi :
+Qu'est ce que tu racontes, je n'y comprends rien !
+
+# Ima :
+Votre Majesté, vous vous êtes laissé distraire d’une occupation importante,
+ le comptage des miroirs. Vous avez oublié notre condition !
+ Nous attendons une réponse.
+
+# Roi :
+ Tout à fait ! Tout à fait !
+ Ne me dérange pas. Je vais réfléchir.
+
+# Olya :
+Votre Majesté…
+
+# Roi :
+Je réfléchis…
+
+# Ima :
+Votre Majesté !
+
+# Roi :
+Je réfléchis…
+ Je ne peux pas accepter ta condition, jeune homme.
+
+# Ima :
+Oh !
+
+# Olya :
+Alors, peut-être accepteriez-vous de reporter l’exécution
+ au moins de quelques jours.
+
+# Roi :
+Hm… De quelques jours…
+ Cela ne le sauvera pas pour autant.
+ Il mourra de soif et de faim…
+Si je reporte l’exécution, vous accepterez d'être les mathématiciens de ma cour ?
+
+# Ima :
+Oui.
+
+# Roi :
+Bien ! Qu'il en soit comme vous le souhaitez.
+ Maître des Cérémonies ! Maître des Cérémonies !
+
+# Maître des Cérémonies :
+ Je ne dors pas, votre Majesté.
+
+# Roi :
+L’exécution du miroitier Gurd est reportée de trois jours !
+
+# Maître des Cérémonies :
+ L’exécution du miroitier Gurd est reportée de trois jours !
+
+L’exécution du miroitier Gurd est reportée de trois jours !
+L’exécution du miroitier Gurd est reportée de trois jours ! 
+
+# Roi :
+Alors, commencez le comptage des miroirs.
+ Vous pouvez prendre l'un de mes équipages pour vos déplacements dans le royaume.
+
+
+Le Ministre Ecapar !
+# Nuşrok :
+Votre Majesté !
+
+# Roi :
+Que se passe-t-il ? Qui ose me déranger ?
+
+# Nuşrok :
+Une profonde inquiétude pour les destinées du royaume
+ m’a fait revenir vers vous, votre Majesté…
+
+# Roi :
+Que s'est-il passé, Ecapar ? Que s'est-il passé ?
+ Parlez vite.
+
+# Nuşrok :
+Dans notre vieux et bon royaume,
+ les ordres sacrés par le temps commencent à changer…
+
+# Roi :
+Qui ose perturber l'ordre ?
+ Je vais lui montrer ! Qui ? Qui ?
+
+# Nuşrok :
+Vous-même, votre Majesté.
+
+# Roi :
+Moi ?
+# Nuşrok :
+Pourquoi l’exécution du miroitier Gurd a-t-elle été reportée ?
+# Olya (effrayée, Ima) :
+Gurd est mort !
+# Roi (fermant les yeux d'une main, esquivant le regard d'Ecapar. Hésitant.)
+C'est ainsi… telle est ma volonté… ministre…
+# Ecapar.
+ Votre volonté ?  Votre Majesté !
+ Je dois vous dire… mais auparavant, que les pages sortent d’ici.
+# Roi (aux eunuques).
+Oui, oui. Sortez d’ici.
+
+# Olya (hochait la tête à Ima sur la clé).
+Alyo ! La clé…
+
+# Ima.
+Adieu, votre Majesté.
+
+# Olya (à Alyo).
+Vite, filons à la Tour de la Mort…
+
+# Ecapar (fixant le roi droit dans les yeux).
+Je crois, votre Majesté, que vous oubliez trop vite
+ l'histoire de votre famille…
+# Roi (reculant).
+ Ne me regardez pas comme cela.
+
+# Ecapar.
+Votre père est resté sur le trône à peine deux ans.
+ Vous vous souvenez ?
+
+# Roi (reculant).
+Oui, oui, oui…
+
+# Ecapar.
+Un jour, lors d'une promenade en montagne,
+ son carrosse a basculé dans un précipice.
+ C'est arrivé parce qu'il ne prenait pas suffisamment en compte
+ la volonté de ses ministres.
+
+# Roi (bégayant).
+At-attendez… De quoi s'agit-il ?… Que… que dois-je faire ?
+
+# Ecapar.
+Avant tout, évitez de prononcer en ma présence les mots :
+ « Telle est ma volonté ! »
+Nous, les grandes fortunes du royaume, vous avons donné la couronne.
+ Vous devez exécuter non votre volonté, mais la nôtre !
+Les citoyens ont commencé à briser les miroirs déformants…
+ Et les miroitiers ont commencé à…
+# Roi.
+Quoi ?
+# Ecapar.
+Voilà !
+ Un miroir droit ! Le peuple voit la vérité !
+# Ecapar.
+Seule l’intimidation peut arrêter la canaille.
+ Et c'est le moment que vous choisissez pour reporter l’exécution de Ima.
+
+# Roi.
+Ima ? Qu'on l'exécute !
+
+# Ecapar.
+Immédiatement !
+
+# Roi.
+Immédiatement ! Prenez la clé des chaînes qui le retiennent.
+ Elle est là, là. 
+ Au-dessus des armoiries.
+# Ecapar.
+Elle n'est pas là.
+# Roi (s'approchant).
+Attendez, attendez... Elle était là.
+Maître de Cérémonies !
+# Ecapar.
+Maître de Cérémonies !
+# Roi.
+Où est la clé qui était accrochée ici ?
+
+# Maître de Cérémonies.
+Elle doit être à sa place, votre Majesté !
+# Roi.
+Elle n'y est pas.
+# Maître de Cérémonies (s'approchant du trône, l'examinant).
+Je ne comprends même pas…
+
+# Ecapar (brusquement).
+Qui est entré dans la salle du trône ?
+
+# Maître de Cérémonies (s'abaissant sous le regard d'Ecapar).
+Personne… personne, à part votre Majesté, vous, monsieur le ministre,
+ et moi…
+
+# Roi.
+ Et les pages, bien sûr.
+
+# Ecapar.
+Les pages ? Tout est clair !
+ Ce sont eux qui ont pris la clé des chaînes !
+# Maître de Cérémonies.
+ Que dites-vous !
+# Ecapar.
+Vite, à la Tour de la Mort,
+ tant qu'ils n'ont pas eu le temps de libérer Ima !
+# Roi (au Maître de Cérémonies).
+ La calèche !
+# Ecapar.
+ - Vite !
+# Maître de Cérémonies (fort, effrayé).
+La calèche de sa Majesté !
+
+# Roi.
+Oh, je vais me venger de ces sales petits morveux !
+ J'ordonne de les exécuter avec le miroitier Ima !
+
+# Ecapar.
+Exécutez-les immédiatement !
+
+# Roi.
+Exécution !
+
+
+
+#ЗАНАВЕС
+
+#ДЕЙСТВИЕ ТРЕТЬЕ
+
+#S КАРТИНА ПЯТАЯ
+
+
+# Стражник
+En voila une météo ! Une sale nuit ! 
+Qui monte les escaliers ? Hé, qui va là ?
+ Au non du Roi, toute entrée est interdite.
+
+# Голос Яло
+Nous sommes les pages du Roi.
+ - Qui ?
+# Голос Оли
+ - Les pages du Roi.
+
+En mission par un temps pareil, la nuit.
+ Quelle misère.
+
+Je vous en prie, messires les pages du Roi.
+
+# Оля (d'une voix impérative)
+La lanterne !
+
+# Стражник
+Voilà, messire les pages du Roi. Je vous accompagne ?
+
+# Оля
+Descendez plutôt.
+
+# Стражник
+A vos ordres, messire les pages du Roi.
+
+# Яло
+Où est Ima ?
+# Оля
+Allons, Яло.
+
+# Яло
+J'ai peur, Оля.
+# Оля
+En avant, Яло. En avant.
+# Яло
+J'ai peur du noir.
+# Оля
+Grand-mère disait qu’il fallait apprendre à combattre la peur.
+ Voilà les escaliers. Ima est probablement là-haut...
+
+# Яло
+Qui... qu'est-ce que c'était, Oliechka ?
+# Оля
+C’est probablement une chouette, Яло.
+# Яло
+Oh, j'ai tellement peur.
+# Оля
+Moi aussi j'ai peur. Mais nous devons sauver Ima !
+
+# Яло
+Il ne respire pas, Оля.
+
+# Оля
+Et ses mains sont froides.
+# Яло
+Arrivons-nous trop tard ?
+
+# Оля
+Soulève sa tête, Яло... Voilà... Ima, mon ami, ouvre les yeux.
+
+# Гурд (faiblement)
+Vous êtes venus... pour m'exécuter...?
+
+# Оля
+Nous sommes tes amis, Ima !
+
+# Гурд
+Des amis ? Vous êtes des ateliers ?
+
+# Оля
+Les ateliers de miroirs sont encerclés par les troupes.
+ Personne ne peut en sortir.
+
+# Гурд
+Mais qui êtes-vous ? Oh ! Je me souviens de vous !
+ Vous êtes les filles courageuses ! 
+ Mais pourquoi ces costumes ?
+# Оля
+Nous allons tout te raconter...
+# Гурд
+Je pensais que vous veniez de la part de Ecapar...
+Oh, comme je les déteste tous !
+Je ferai moi aussi des miroirs plats, si je reste en vie...
+
+# Оля
+Et tu vas rester en vie... Nous allons te libérer...
+ Яло, donne la clé !
+# Яло
+Tout de suite.
+# Оля (à Ima)
+Quel château immense. Nous sommes si heureuses d'être arrivées à temps,
+ et que tu soies encore en vie.
+
+Eh bien, donne la clé, donne la clé vite !
+# Яло
+Euh... ce n'est pas toi qui as la clé ?
+# Оля
+Qu'est-ce que tu racontes ! Tu l'as mise dans ta poche !
+
+Quoi ? Яло ? Quoi ? Яло ! Que se passe-t-il ?
+# Яло
+Je... j'ai perdu la clé...
+
+# Оля
+Perdue ? Où ? Quand ?
+# Яло
+Je ne sais pas...
+# Оля
+Qu'as-tu fait ! Tu as perdu la clé !
+# Яло
+Je ne sais pas vraiment comment ça s’est passé.
+Je la tenais tout le temps dans ma main.
+# Оля
+Comment peux-tu être si distraite...
+# Яло
+Je ne suis rien d’autre que ton reflet.
+ Ce n'est pas ma faute si je suis distraite.
+ Tu as toi-même perdu les clés de ton appartement.
+# Оля
+Je n'ai jamais imaginé que cela pourrait provoquer un malheur.
+# Яло
+Mais que faire maintenant ?
+# Оля.
+Attends ! Si Eparac n'a pas la clé, il ne peut pas non plus ouvrir ce verrou.
+
+# Яло.
+Il n'y a qu'une autre clé chez Duaparc... Tu te souviens, il l'a montrée ?
+# Оля.
+Allons-y...
+# Гурд.
+Vous partez ?
+# Оля.
+Nous reviendrons te chercher.
+# Яло.
+Nous allons te sauver.
+# Оля.
+Au revoir, Гурд !
+# Яло.
+Au revoir ! Attends-nous, Гурд !
+# Гурд.
+Je vous attends.
+# Оля.
+Nous reviendrons, promis.
+# Яло.
+Vite, chez Duaparc.
+ Оля... mais il ne nous laissera pas entrer.
+# Оля.
+On trouvera quelque chose. Plus vite, plus vite !
+# Стражник.
+Vous êtes sortis comme des gens effrayés !
+On dirait qu’ils n'ont pas trop aimé cette tour. Que se passe-t-il !
+Avant, le roi et les ministres venaient, maintenant on commence à voir même des pages.
+
+# TODO 
+Eh qui va là ?  
+Au nom du Roi, défense de ... 
+ Tais-toi, imbécile !
+
+# Нушрок.
+Plus vite, plus vite.
+# Король.
+Pas si vite, je ne peux pas te suivre.
+# Нушрок.
+Plus vite, vieille carne !
+
+# Король.
+Qu'as-tu dit ?
+
+# Нушрок.
+J'ai dit que tu étais une vieille carne.
+Si tu n'as pas entendu, je peux répéter.
+
+# Король.
+Non, non, pas besoin. J’ai entendu !
+
+# Нушрок.
+Hé ! Garde ! Est-ce qu’il est venu quelqu'un ici ?
+
+# Стражник.
+Bien sûr, votre excellence, seulement les pages du Roi...
+
+# Нушрок.
+Les pages ?
+ Je te l'avais dit ! 
+Où est le jeune miroitier ? 
+# Гурд.
+Epacar !
+
+# Нушрок. (triomphant)
+Ah ! Tu es là !  Ils n'ont pas réussi à te libérer.
+ Donc, ils n'ont pas la clé ?
+
+# Король.
+Nous l'exécuterons demain matin.
+
+# Нушрок.
+Nous n'avons pas la clé non plus.
+ Et il est impossible de casser ces chaînes.
+ Seul Duaparc possède une telle clé.
+
+# Король.
+Pardon… Et dois-je aller chez Duaparc avec vous ?
+
+# Нушрок.
+Je vais chez Duaparc  seul, votre Majesté.
+
+# Король.
+Et moi ?
+
+# Нушрок.
+Vous, qu'est-ce que ça peut me faire ?
+Le plus important est que l’exécution de ce garçon ait lieu demain,
+ afin d'intimider tous les citoyens.
+ C'est de ça que je vais m'occuper.
+
+# Король.
+Mais j'aimerais assister à l'exécution.
+ J'aime regarder comment ils tombent de la tour.
+ Mais il n'y aura pas d'exécution demain si vous partez maintenant chez Duaparc ?
+ Son château est très loin.
+
+# Нушрок.
+Je serai chez Duaparc demain matin.
+ Je prendrai sa clé et je reviendrai ici demain soir. 
+Et alors ce garçon sera exécuté, quoi qu'il en soit !
+ Oui, oui ! Exécuté !
+
+# Король.
+Et avec ces maudits pages ! Tu dois les attraper, Нушрок !
+
+# Нушрок.
+Ils ne m'échapperont pas ! 
+# Гурд.
+Non, vous ne m'exécuterez pas...
+ Mes amis me sauveront.
+
+
+#SCÈNE SIX**
+# Bar
+On dirait que Madame arrive.
+ Et la fontaine n'est pas encore réparée.
+ J'ai traîné à la cuisine royale avec cette histoire de faisans.
+# Belle Dame (Dame Enchanteuse)
+Bar ! Du courrier de la ville ?
+
+# Bartholomew (Bar)
+Non, Madame.
+
+# Belle Dame (Dame Enchanteuse)
+Et mon père ?
+
+# Bartholomew (Bar)
+Le ministre Ecapar n’est pas encore arrivé.
+
+# Belle Dame (Dame Enchanteuse) (à part)
+C'est intéressant, tout ce qui se passe en ville…
+ Que devient cette rébellion des miroitiers au sujet du jeune Ima
+ dans les ateliers de mon père ? 
+Que fais-tu là sous mes yeux ? Tu souris ?
+
+# Bartholomew (Bar)
+Non, Madame !
+
+# Belle Dame (Dame Enchanteuse)
+Vous êtes tous de mèche avec les miroitiers !
+ Vaurien ! Pourquoi n'y a-t-il pas de nouvelles de la ville ? Va-t'en !
+Attends ! Regarde… Qui est-ce qui arrive ? Un courrier ?
+
+# Bartholomew (Bar)
+A vos ordres, Madame.
+ C’est une calèche royale !
+
+# Belle Dame (Dame Enchanteuse)
+Elle vient vers nous ?
+
+# Bartholomew (Bar)
+Non, il semble qu'elle passe, Madame…
+
+# Belle Dame (Dame Enchanteuse)
+Curieux, où est donc le roi ?
+ Ah, ce n'est pas le roi ! Il y a des enfants dans la calèche !
+Ah, ce sont les pages du Roi… Comment ont-ils pu arriver ici ?
+Est-ce qu’il est arrivé quelque chose au palais ?
+ Bar, cours, arrête la calèche…
+
+# Bartholomew (Bar)
+A vos ordres, Madame. 
+
+# Прекрасная дама (Belle Dame)
+Écoutez, les enfants !
+Les enfants ! Arrêtez-vous !
+
+#Voix d’Olia:
+Pourriez-vous me dire si c'est là
+ le château du ministre Duaparc ?
+
+Non, non. Mes chers enfants !
+ Je vais vous dire comment aller chez Duaparc.
+Mais arrêtez-vous une minute et racontez-moi ce qu’il se passe
+ au palais, en ville ?
+Bar, fais mener les chevaux par le pont !
+ Attention, ne tombez pas dans la rivière.
+ Par ici, par ici, mes chers enfants.
+
+# Оля (Entrant avec Yalo)
+ Mais nous n’avons pas le temps.
+
+# Прекрасная дама (Belle Dame)
+Tu dis « pas le temps », petit entêté, mais je vois bien
+ comment ton ami te pousse sur le côté.
+ Il a sûrement faim. C'est vrai, n'est-ce pas ?
+Je m'en suis bien douté !
+Et quel délicieux petit-déjeuner je vais vous préparer :
+ des raisins, des ananas, de la glace. 
+Et du chocolat... Tout le chocolat que vous voulez !…
+# Яло (Yalo)
+Du chocolat, Olia !
+# Оля (Olia)
+Nous devons nous dépêcher, Yalo.
+# Яло (Yalo) (En suppliant)
+Olia…
+# Прекрасная дама (Belle Dame)
+Ce ne sera qu'une minute !
+ Je vais faire en sorte qu’on vous apporte le petit-déjeuner. 
+(Elle s'en va.)
+# Оля (Olia) (À voix basse)
+On n'aurait pas dû s'arrêter.
+ Nous devons nous dépêcher d'aller voir Duaparc…
+ Et nous ne connaissons pas cette femme.
+
+# Яло (Yalo)
+Mais c’est la Belle Dame, la gentille et la bonne dame
+ que nous avons vue dans la cuisine royale depuis la chambre de la tante Aksal.
+ Et puis j’ai vraiment faim… Et du chocolat…
+# Оля (Olia)
+Gourmand ! Tu n'as pas pu te retenir ?
+# Яло (Yalo)
+Et toi, tu t’es retenue quand il y avait du chocolat dans le buffet ?…
+# Оля (Olia)
+Oh, Yalo, comment mes défauts nous empêchent de progresser maintenant !
+# Яло (Yalo) (En faisant la paix)
+Olia, nous allons continuer tout de suite… 
+# Оля (Olia)
+Qu'est-ce que tu fais ?
+# Яло (Yalo)
+Il fait chaud.
+# Olya
+Et la ceinture est lâche... elle flotte...
+
+# Yalo TODO
+Oh, ça va !
+
+# Olya
+Encore cette expression ?
+
+# Yalo
+Bon, bon.
+
+# Olya
+Et fais attention à ne pas bavarder.
+
+# Yalo
+Ce n'est pas moi qui bavarde, c'est toi !
+
+# Olya
+Moi ?
+
+# Yalo
+Je me souviens, une amie t'a raconté un secret,
+ et tu as tout répété à tout le monde.
+
+# Olya
+Oui, ce n’était pas bien !
+
+# Yalo
+Tu as progressé beaucoup trop vite.
+
+# Olya
+C'est toi qui m'aides à progresser !
+ J'ai honte quand je te regarde et que je me vois de l'extérieur.
+
+# Belle Dame
+Voilà, tout est en ordre... Quels visages fatigués vous avez !
+
+# Yalo
+Nous n'avons pas dormi de la nuit.
+
+# Belle Dame
+Quoi de neuf en ville ? Ont-ils exécuté le miroiteur Ima ?
+
+# Olya
+Nous... nous ne savons pas.
+
+# Belle Dame
+Où allez-vous ?
+
+# Yalo
+Chez le ministre Duaparc.
+
+# Belle Dame
+Si vous allez chez Duaparc, vous avez d'autant plus besoin de vous reposer.
+ Le chemin par le col est dangereux,
+ et sans cocher vous pouvez vous renverser et quitter la route.
+ Au fait, pourquoi n'avez-vous pas de cocher ?
+
+# Yalo
+Sa Majesté nous a permis de faire un tour dans sa calèche.
+Nous sommes sortis de la ville seuls, sans cocher,
+ et nous n’avons pas pu rentrer, parce que…
+
+# Belle Dame
+Donc, quelque chose s'est passé ?
+
+# Yalo
+Oui, madame. Il y a eu une fusillade en ville. On raconte que les miroitiers ont 
+refusé de faire des miroirs déformants et que les soldats royaux ont encerclé les 
+ateliers.
+
+# Belle Dame
+Tout cela est très, très désagréable.
+Et pourquoi allez-vous chez monseigneur Duaparc ?
+# Olya (perplexe)
+Duaparc ?
+# Belle Dame
+Oui, oui…
+# Yalo (perplexe)
+Il… nous…
+Quelle affaire peuvent avoir les pages avec le ministre ?
+# Olya
+Voyez-vous…
+# Yalo
+Voyez-vous.
+*C'est… c'est notre grand-père.
+
+# Délicieuse dame (à part).
+Votre grand-père ?
+ Tout ceci est très étrange.
+# Olya (chuchotant).
+Qu'est-ce que tu racontes, Alyo ?
+# Alyo (chuchotant).
+Il faut bien dire quelque chose…
+# Olya (chuchotant).
+Je n'aime pas qu'elle nous interroge autant.
+# Alyo (chuchotant).
+N'exagère pas, elle est très sympathique…
+
+# Duaparc.
+Duaparc est donc votre grand-père ?
+# Alyo.
+Et quand nous avons eu peur, nous avons décidé d’aller le voir.
+
+# Duaparc.
+Quel cachottier, ce Duaparc !
+Il ne m’a jamais dit qu’il avait de si charmants petits-enfants.
+Bon, mes chers enfants, vous allez prendre votre petit-déjeuner.
+Bar, pourquoi n'y a-t-il pas de fleurs dans le vase ?
+# Bar.
+Je ne savais pas, madame…
+# Duaparc.
+Quoi ? Tu dois deviner mes pensées, fainéant. 
+# Bar.
+Madame !
+# Olya (à Duaparc).
+Comment… pouvez-vous…
+# Alyo.
+Tais-toi... Tais-toi...
+
+# Duaparc.
+Quoi ? J’ai frappé un esclave ?
+ Mais il ne mérite pas un meilleur traitement.
+Mes chers enfants, vous êtes fatigués, vos nerfs sont à vif.
+Ces petits-enfants de Duaparc sont très suspects.
+ Il faut les retenir et aller chercher Duaparc.
+Asseyez-vous, je reviens tout de suite.
+
+# Olya.
+On y va, Alyo !
+Vous avez très mal ?
+# Bar (soupçonneusement).
+Vous vous souciez de moi, noble page royal ?
+ N'avez-vous vous-mêmes jamais battu vos serviteurs ?
+# Olya.
+Que nenni, que nenni ! Nous n'avons jamais eu de serviteurs !
+# Bar.
+Comment ça, les pages du Roi n'ont pas eu de serviteurs ?
+# Alyo (pousse Olya).
+Nous n’avons jamais frappé personne.
+# Bar.
+Je n’ai jamais rencontré de nobles aussi bienveillants.
+# Olya.
+Nous pensions que votre dame était si gentille, si douce…
+ Comment s'appelle-t-elle ?
+# Bar.
+Elle s'appelle Madame Erepiv.
+# Olya.
+Erepiv ?
+ Cela signifie… ?
+# Alyo.
+Une vipère !
+# Olya.
+Voilà quelle est cette ‘Délicieuse dame’ !
+# Bar.
+Hé, les garçons ! Ne jugez jamais les gens sur leur première impression !
+Les mauvaises gens se font parfois passer pour très bonnes !
+# Olya.
+Partons d'ici, Alyo !
+# Alyo.
+Allons-y !
+
+# Olya.
+Qui est-ce ?
+# Bar.
+Probablement le propriétaire lui-même.
+# Olya.
+Le propriétaire ? Mais n'est-ce pas le château de dame Erepiv ?
+
+# Bar.
+Non, c'est le château de son père, le ministre Ecapar.
+# Olya et Yalo (ensemble).
+Ecapar ?
+# Olya.
+Nous sommes dans le château d'Ecapar ?
+ Tu vois, tu vois, tout est de ta faute !
+ Tu as perdu la clé, tu as voulu du chocolat...
+
+# Yalo.
+Je ne savais pas...
+
+# Olya.
+Lorsqu'on effectue une mission aussi importante,
+ il ne faut pas s'arrêter.
+
+# Bar (se tenant sur le mur).
+Oui ! C'est bien ça ! La calèche du propriétaire.
+ Elle passe le portail.
+
+# Olya.
+Monsieur Bar, aide-nous !
+# Bar.
+Vous ne voulez pas rencontrer le ministre Ecapar ?
+# Yalo.
+Non ! Non !
+# Olya.
+Il ne doit pas nous voir.
+# Yalo.
+Il nous tuerait !
+# Bar.
+Eh ! Finalement, je commence à comprendre quelque chose.
+ Vous n'êtes pas des amis de mon maître.
+Allez, vous deux, cachez-vous derrière les pierres ;
+ quand je pourrai, je vous ferai sortir par la barrière.
+
+# Ecapar.
+Je suis pressé. Où est ma fille ?
+# Bar.
+Elle est chez elle.
+# Ecapar.
+Appelle-la.
+# (La fille)
+Mon enfant...
+#Charmante dame.
+Cher père, j'étais si inquiète.
+Que se passe-t-il en ville ?
+ Avez-vous réussi à maîtriser les miroitiers ?
+ N'a-t-on pas encore exécuté ce garçon, Ima ?
+# Ecapar.
+Nous entrons dans une période difficile, ma fille.
+ Je suis venu te raconter tout ça.
+Les miroitiers refusent de faire des miroirs déformants.
+ De plus, ils ont commencé à faire des miroirs droits.
+# (La fille)
+Quelle horreur ! Et où vous rendez-vous maintenant, père ?
+# Ecapar.
+Chez Duaparc.
+Chez Duaparc?
+
+C'est un intrigant et mon rival, mais pour l'heure
+ il est question de notre salut…
+Nous déciderons avec lui comment calmer les bas-fonds.
+
+# (La fille)
+J'ai envoyé chercher Duaparc. Ses petits-enfants sont chez moi.
+ Bar, où sont-ils ?
+# Ecapar.
+Les petits-enfants de qui ?
+# (La fille)
+De Duaparc.
+# Ecapar.
+Quelle absurdité ! Il n'a jamais eu de petits-enfants.
+ Qu'est-ce que c'est ?
+# (La fille)
+C'est la cape de l'un de ces garçons.
+# Ecapar.
+C'est la cape d'un page ! Où sont ces petits-enfants ?
+# (La fille)
+Ils étaient juste ici.
+Où sont ces garçons ?
+# Bar.
+Je ne sais pas.
+# Ecapar (à la fille)
+Hier soir, deux pages ont fui le palais royal,
+ dérobant la clé des chaînes de la Tour de la Mort.
+# Bar.
+Ils ont probablement déjà disparu, votre excellence !
+# (La fille)
+Tu veux les aider à disparaître, misérable ! 
+# Ecapar.
+Ils n'auraient pas pu passer sans que je ne les voie…
+ Ils sont quelque part ici…
+A qui est ce ceinturon derrière les rochers ?
+ Voilà !
+# Olya.
+Cours !
+# Ecapar (à Bar)
+Saisis ce garçon ! Vite !
+# (Yalo)
+Ah, morveux ! Tu es attrapé !
+ Ta propre cape m'a aidé à te capturer !
+
+# Yalo.
+Aïe, ne m'écrasez pas la main comme ça !
+ Ça fait mal ! Aïe !
+# (La fille)
+Faites-le parler.
+# Ecapar.
+Dis, gamin, pourquoi alliez-vous voir le ministre Duaparc ?
+ Dis ?
+# Yalo.
+Aïe, ça fait mal !
+# (La fille)
+Ça fera encore plus mal si tu ne parles pas.
+# Yalo.
+Aïe, ne me serrez pas la main comme ça !
+# Ecapar.
+Pourquoi alliez-vous voir Duaparc ?
+# Ecapar.
+Dis ?
+# Yalo (doucement).
+Olya ne dirait rien…
+ Et je ne vous dirai rien.
+# Ecapar.
+Tu parleras !
+
+# Bar.
+Votre excellence, le ministre Duaparc est annoncé.
+# Ecapar.
+C'est parfait !
+# (La fille)
+Et le second garçon ?
+# Ecapar.
+Il a disparu, madame Erepiv.
+ Il a probablement été emporté par la rivière en sautant du mur
+ et s'est noyé.
+# Ecapar (à Yalo).
+Alors tu vas tout me raconter !
+# Bar.
+Votre excellence, le ministre Duaparc vous attend.
+# (La fille)
+Dommage. (À Yalo.) Mais nous n'en avons pas fini avec toi, petit.
+# Ecapar (à sa fille).
+Allons, ma fille.
+ Enfermez-le au cachot et surveillez-le.
+# Bar.
+Ne pleure pas, ne pleure pas, mon garçon...
+ On va trouver quelque chose.
+Mais d'abord partons d'ici, monsieur Ecapar va revenir
+ et il sera mauvais s'il nous y trouve.
+
+# Olya (doucement).
+Yalo ! Yalo ! Où est Yalo ? Cet rapace va-t-il le torturer ?
+
+# Bar.
+Merci, Monsieur Bar, de m'avoir caché...
+Monsieur Bar, aidez-moi à sauver mon frère...
+ Lui et moi nous devons libérer le miroitier Ima.
+
+# Bar.
+Vous êtes des garçons courageux. Je vais vous aider.
+ Votre carrosse est là, derrière le mur.
+ Je vais essayer de faire sortir discrètement votre frère.
+Chut… Cachez-vous ! 
+ Ils arrivent !
+
+# (La fille) à Duaparc.
+Je vous en prie, je vous en prie, cher monsieur Duaparc.
+
+# Duaparc à Ecapar.
+J'ai accouru vers vous, cher Ecapar.
+ Les rizières sont agitées. J’ai besoin de votre aide.
+# Ecapar.
+Et moi, de la vôtre, cher ministre.
+ Où est votre clé des chaînes ?
+
+# Duaparc (sortant la clé).
+Comme toujours, avec moi.
+# Ecapar.
+Donnez-la moi.
+# Duaparc.
+Et où est la clé royale ?
+# Ecapar.
+Elle a disparu des appartements royaux !
+
+# Duaparc
+Disparuu ?
+# Ecapar.
+Oui, disparue !… Donnez-moi votre clé.
+ Nous devons exécuter le magicien Ima.
+ Cela nous aidera à effrayer les masses.
+C’est nécessaire pour votre salut et le mien !
+# Duaparc.
+La clé royale a disparu ?
+ Par conséquent, je suis le seul détenteur de ce joyau,
+ de cette clé qui maintient dans la peur tout le royaume !
+# Ecapar (tirant la clé vers lui).
+Donnez la clé !
+
+# Duaparc (tentant de tirer la clé des mains d'Ecapar).
+Non, je ne la donnerai pas si facilement !
+ C’est moi maintenant qui détiens tout le pouvoir du royaume…
+
+# Ecapar.
+Donnez la clé, gros crapaud !
+
+# Duaparc.
+Maudit rapace, tu n'obtiendras pas cette clé !
+
+# Ecapar.
+Si, tu vas me la donner !
+
+# (La belle dame, voyant Olya).
+Bar ! Bar ! Attrape-la !
+# (La belle dame).
+A ! (Elle vacille.)
+# Bar.
+Voilà pour toi, madame la Vipère !
+# Ecapar.
+Qu'est-ce que c'est que ça ? Ma fille !
+
+# Olya (sur le mur).
+Yalo, tu es là ? Monsieur Bar, par ici, vite, vite…
+# Duaparc.
+Qui est cet effronté ?
+# Ecapar.
+Ton petit-fils !
+# Duaparc (abasourdi).
+Quel petit-fils ?
+ Je n'ai jamais eu de petits-fils !
+# Ecapar (à Duaparc, en montrant sa fille).
+Aidez-la. Je vais les rattraper !
+# Olya.
+Tu ne nous rattraperas pas, maudit rapace !
+
+#Scene 7 КАРТИНА СЕДЬМАЯ
+#Gardien
+Oh, comme ça m'ennuie de rester ici.
+ Seul, avec les chouettes et les chauves-souris. 
+Silence, maudit volatile !
+
+On dirait que Ecapar est de retour.
+Qui va là! Au nom du Roi !
+
+C'est à nouveau vous, messires les pages du Roi ?
+
+Descendez près de l'entrée, et ne laissez entrer personne dans la tour. 
+
+#Gardien
+Mais... je ne sais pas quoi faire.
+ L'autre fois, son Excellence Ecapar a semblé mécontent
+ que je vous aie laissé entrer...
+
+#Yalo
+Nous venons de la part d'Ecapar !
+ Comment osez-vous ? Voici la clé des chaînes d’Ima !
+
+#Gardien
+Ah, vous avez la clé ? Alors c'est une autre affaire.
+ Vous pouvez passer. C'est bien cette clé...
+Vous êtes donc venus exécuter Ima ?
+
+#Olya
+Allez-vous-en !
+
+#Olya
+Nous voilà, Ima !
+#Yalo
+Bonjour, Ima !
+#Ima
+Je savais que vous reviendriez.
+ Je vous attendais tellement.
+
+#Olya
+Tu es libre, Ima !
+#Ima (Avec soulagement)
+Je suis libre !
+Comment vous remercier ?
+
+#Ialo
+Attends, Ima ! Ce n'est pas encore fini.
+ Il faut à présent trouver comment sortir d'ici.
+ Le guardien ne laissera pas sortir trois personnes.
+#Ima
+Que faire?
+J'ai déjà pensé à tout. 
+ Mets ma cape, Ima.
+Mais, et toi ?
+Ne t'inquiète pas pour moi,
+ le principal est de te faire sortir de cette maudite tour.
+ Vite ! Je sais ce que je fais !
+
+Olya ! Mais ensuite, que vas-tu faire ?
+Tu vas mener Ima au carosse... Il fait sombre.
+ Le garde le prendra pour moi et vous laissera passer.
+# Yalo.
+Mais toi ? Toi ?
+
+# Olya.
+Le garde ne saura pas que je suis là...
+ Je me faufilerai furtivement...
+ Il ne me rattrapera pas ! J'ai toujours été la plus rapide de ma classe..
+
+# Yalo.
+Mais, Olya...
+
+# Olya.
+Plus vite, Yalo ! Ima, es-tu prêt ? Allez !
+ Nous nous retrouverons bientôt, mes amis !
+
+
+Pourvu qu'ils réussissent !
+ Pourvu qu'ils réussissent !
+
+Par ici, par ici, messire les pages du Roi.
+Mais qui va là ? Au nom du roi !...
+Ah, c'est vous, votre excellence !
+
+# Ecapar (apercevant Yalo et Ima).
+Je le savais ! Ils sont déjà ici ! J'arrive à temps.
+ Ne laissez pas ces pages quitter la tour.
+ Vous répondrez de leur vie.
+
+# Garde.
+A vos ordres, votre excellence.
+
+# Ecapar (apercevant Olya).
+Et qui est cette fille ? Toi ? Comment es-tu arrivée ici ?
+
+
+A présent tu vas mourir !
+ Sous mon regard, tu vas te jeter toi-même dans le vide !
+C’est toi qui as libéré le miroitier ?
+ Tu vas voler maintenant vers les rochers pointus !
+Eh bien ?
+ Pourquoi ne baisses-tu pas tes yeux, gamine ?
+
+# Olya.
+Non, je ne baisserai pas les yeux devant toi, maudit rapace !
+ Je n’ai pas peur de toi !
+Je sais que le mensonge ne tuera jamais la vérité !
+ Et la vérité est de mon côté. C’est toi qui baisses les yeux !
+ Tu as peur de la vérité !
+
+# Ecapar (reculant).
+Qui es-tu ? Je n'ai jamais vu de tels yeux...
+ Et pourquoi ce nœud rouge me fait-il peur ?
+D’où viens-tu, gamine ?  Oh, que ces yeux sont clairs !
+ Comme c’est effrayant... Ne me regarde pas, ne me regarde pas !
+J'étouffe !... Je manque d’air... Ne me regarde pas !
+# Un coup sourd de corps tombant.
+# Garde.
+Qu’est-ce qui s’est passé ?
+# Ima (regardant par-dessus le parapet).
+Ecapar est tombé.
+# Garde (stupéfait).
+Que dis-tu ? Que racontes-tu ?
+# Bar (joyeusement).
+Le rapace est fracassé !
+
+# Yalo.
+Olya, Ima, sortez d’ici, vite !
+# Olya (se précipitant vers ses amis).
+Plus vite, plus vite !...
+# Ils s'enfuient.
+
+#SCÈNE HUIT
+
+Rien ne peut nous arrêter,
+Notre but est clair.
+"En avant, en avant !" – c'est l'ordre de
+Notre bien-aimée patrie.
+
+
+#Olya.#
+Bon, mes amis ! Il est temps pour nous de nous dire au revoir !
+
+#Aksal.#
+Au revoir, mes petits faisans !
+ Mon petit faisan chéri...
+
+#Gurd.# Olya !
+Tu es une fille courageuse !
+
+#Bar.#
+Cette fille vient d'un pays merveilleux, Ima,
+où les cœurs des gens sont nobles et vaillants.
+
+#Gurd.#
+Ne nous oublie pas, Olya !
+
+#Aksal.#
+Oui, oui, n'oubliez pas vos amis, mes chéris.
+
+#Yalo.#
+Tu entends, Olya ?
+
+#Olya.#
+Je ne vous oublierai jamais, chers amis ! Et vous, ne m'oubliez pas.
+ Je retourne dans mon pays...
+ Rien au monde n'est plus beau que son pays natal !
+Vous aussi, vous vivrez aussi heureux un jour,
+ j'ai tellement envie que ce soit le cas !
+Au revoir, mes amis !
+
+#Bar et Gurd (ensemble).#
+Au revoir, au revoir, les filles...
+
+#Olya.#
+Au revoir, chère Yalo.
+ Nous nous verrons encore souvent au miroir...
+ Dommage que nous ne puissions pas nous parler.
+
+#Yalo.#
+Au revoir, chère Olya. Tu ne regrettes pas ton séjour dans un conte de fées ?
+
+#Olya.#
+Oh non ! Pas du tout ! Car j'ai tellement vu, et tellement compris.
+J'étais incapable d'imaginer auparavant que de petits défauts
+ puissent devenir si graves dans les moments difficiles...
+
+#Yalo.#
+Tu sais, Olya, maintenant, il me sera beaucoup plus agréable
+de te refléter. Au revoir, Olya !
+
+#Olya.#
+Au revoir, Yalo !
+
+
+#Grand-mère.#
+Encore à te tourner devant ton miroir !
+ Tu ne t'en es toujours pas remise !
+
+#Olya.#
+Grand-maman ! Ma chérie ! Mon trésor ! Bonjour !
+Je suis tellement heureuse.
+
+#Grand-mère.#
+Qu'est-ce que c'est ? Qu'est-ce que c'est ?
+ Mon Dieu ! Arrête de plaisanter, Olya ! 
+Voici une nouvelle clé – du serrurier.
+Fais attention de ne pas la perdre !
+
+#Olya.#
+Comme tu es essoufflée, pauvre chérie...
+ Pourquoi n'est-ce pas moi qui suis allée chercher la clé ?
+
+#Grand-mère.#
+Oui, tu avais peur.
+ L'escalier est sombre.
+
+Qu'est-ce qui t'arrive ? On dirait que tu ne m'as pas vu depuis un an,
+ alors qu’on s’est séparés il y a seulement une minute…
+
+#Olya.#
+Rien… Grand-maman, ma chérie… Je suis tellement gênée…
+ Oh, quel désordre il y a sur ma table… 
+
+#Grand-mère.#
+Qu'est-ce qui t’arrive ? Qu'est-ce qui t'a mis dans cet état ?
+
+#Olya.#
+Je vais te raconter tout, tout…
+#Grand-mère.#
+Mais qu’est-ce qui s’est passé ?
+#Olya.#
+Juste... grand-mère...
+#Grand-mère.#
+Eh bien, quoi ? Quoi ?
+#Olya.#
+Je me suis juste regardée de côté…
+
+
+
+#КЗАНАВЕС

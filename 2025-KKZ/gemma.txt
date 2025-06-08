@@ -1,0 +1,16 @@
+J'ai besoin de traduire en français des dialogues qui proviennent d'une pièce de théatre russe contemporaine.
+Il faut de plus que la traduction soit formatée comme suit: les noms des personnages (ainsi que les possibles didascalies) seront précédés d'un "#" et suivis d'un passage à la ligne, comme dans les exemples suivants (dans lesquels les personnages sont Grand-mère et Olya):
+#Grand-mère 
+Dis-moi la vérité.
+# Olya (essayant de changer de sujet, montre la peinture) :
+Ne trouves-tu pas que ce tableau est accroché de travers ?
+
+Il faudra aussi renommer le personnage Нушрок en Ecapar, renommer le personnage Гурд en Ima, renommer le personnage "Церемониймейстер" en "Maître de Cérémonies", et renommer le personnage Абаж en Duaparc. 
+
+Voici à présent les dialogues à traduire du russe en français:
+
+Et voici encore des dialogues à traduire du russe en français:
+
+Ecapar
+Duaparc
+Teuqorrep le Septième

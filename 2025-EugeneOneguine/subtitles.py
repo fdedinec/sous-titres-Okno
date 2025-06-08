@@ -10,7 +10,7 @@ import codecs
 
 pygame.init()
 # You may need to adjust the following values
-font_size=36; # or 24
+font_size=32; # or 24
 
 # This defines the window size. I choose it larger than the display screen,
 # then I move the window so that all the window decorations are out of the screen
